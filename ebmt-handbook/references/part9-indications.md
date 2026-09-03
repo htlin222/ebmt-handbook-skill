@@ -93,9 +93,9 @@
 
 | IPSS-R 評分 | 風險 | 建議 |
 |-----------|-----|------|
-| Very low / Low（<3.5）| 低 | 觀察，HCT 非第一選擇 |
-| Intermediate（3.5-4.5）| 中 | 個別化評估 |
-| High / Very high（>4.5）| 高 | **Allo-HCT 建議** |
+| Very low（≤1.5）/ Low（>1.5–3）| 低 | 觀察，HCT 非第一選擇 |
+| Intermediate（>3–4.5）| 中 | 個別化評估（IPSS-M 可再分層）|
+| High（>4.5–6）/ Very high（>6）| 高 | **Allo-HCT 建議** |
 
 **移植前治療**（Ch.74.3）：
 - HMA（Azacitidine/Decitabine）：降低疾病負擔，但不必須達 CR
@@ -249,7 +249,7 @@
 **Auto-HCT 適應症**（Ch.81.1）：
 - Transplant-eligible 患者（通常 <70歲，良好體能）
 - 三藥誘導（VRD / KRD）4-6 個療程後
-- 維持：Lenalidomide（FORTE/MAIA 試驗支持）
+- 維持：Lenalidomide（CALGB 100104、IFM 2005-02、Myeloma XI meta-analysis 支持；MAIA 為不適合移植族群試驗）
 
 **Tandem Auto-HCT**（Ch.81.6）：
 - 高風險細胞遺傳學（del17p、t(4;14)）考慮
@@ -277,7 +277,7 @@
 
 **高選擇性移植**（Ch.82.7）：
 - 澱粉樣變性 NRM 高（8–10%），嚴格篩選是關鍵
-- 預處理：Mel-140（心腎功能正常）或 Mel-100（功能受損）
+- 預處理：Mel-200（體能良好）或 Mel-140（risk-adapted：年齡、腎功能、心臟受累）
 
 **移植後維持**（Ch.82.8）：
 - 血液學未達 CR → 化療鞏固（Daratumumab-based）
@@ -349,10 +349,11 @@
 - 第一次復發：Salvage（R-ICE/R-DHAP）→ 反應 → Auto-HCT
 
 **CAR-T 替代**（Ch.86.8）：
-- Axicabtagene ciloleucel（Axi-cel, KymRiah）
-- Tisagenlecleucel
+- Axicabtagene ciloleucel（Axi-cel, Yescarta）
+- Tisagenlecleucel（Kymriah）
+- Lisocabtagene maraleucel（Liso-cel, Breyanzi）
 - 2+ 線治療後復發：ZUMA-1、JULIET 試驗
-- ZUMA-7 試驗：CAR-T 優於 Auto-HCT 作為第二線（≥2線化療難治）
+- ZUMA-7（Axi-cel）、TRANSFORM（Liso-cel）：原發難治或 12 個月內復發者，第二線 CAR-T 優於 salvage + Auto-HCT；BELINDA（Tisa-cel）為陰性結果
 
 **Allo-HCT**（Ch.86.9）：
 - Auto-HCT 後復發；CAR-T 後橋接
@@ -453,7 +454,7 @@
 
 **HSCT for MS（MIST 試驗）**（Ch.91）：
 - Auto-HSCT vs. 疾病調節治療（DMTs）
-- 無疾病進展 5年：79% vs. 9%（有利 HSCT）
+- 5 年疾病進展率：9.7%（HSCT）vs. 75.3%（DMT）（Burt et al., JAMA 2019）
 - 預處理：BEAM 或 Cy-ATG（非骨髓清除）
 
 **HSCT for SSc（ASTIS/SCOT 試驗）**（Ch.91）：

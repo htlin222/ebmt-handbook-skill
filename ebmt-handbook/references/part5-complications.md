@@ -51,7 +51,9 @@
 
 **革蘭氏陰性菌**（Ch.36.4）：
 - Pseudomonas：Pip/Tazo 或 Cefepime；耐藥時考慮 Colistin
-- KPC / ESBL：Meropenem；XDR 時 Ceftazidime-avibactam 或 Meropenem-vaborbactam
+- ESBL：Carbapenem（Meropenem）
+- KPC（carbapenemase）：Ceftazidime-avibactam 或 Meropenem-vaborbactam（carbapenem 無效）
+- Metallo-β-lactamase（NDM/VIM）：Aztreonam + Ceftazidime-avibactam 或 Cefiderocol
 - Bacteremia：血培養陽性 → 14天療程
 
 📖 來自 EBMT Handbook 第8版 第 36 章
@@ -97,7 +99,7 @@
 | CMV R+/D- 高風險 | Letermovir 預防至 D+100 |
 | CMV reactivation（無症狀）| Ganciclovir 5mg/kg q12h x14天，或 Foscarnet |
 | CMV disease | Ganciclovir + CMV-IVIG 考慮 |
-| Refractory CMV | Maribavir（2022年核准）|
+| Refractory CMV | Maribavir（FDA 2021 / EMA 2022 核准）|
 
 **CMV D-/R+ 最高風險**：接受者有 CMV 抗體但捐贈者無
 
@@ -223,7 +225,7 @@
 - 4-7天評估反應：CR/PR → 緩慢減量；SD/PD → 第二線
 
 **類固醇難治 aGVHD 第二線**：
-- Ruxolitinib（JAK1/2 inhibitor）—2021年 FDA 核准，目前優先選擇
+- Ruxolitinib（JAK1/2 inhibitor）—2019年 FDA 核准用於類固醇難治 aGVHD（REACH1；2021 年核准為 cGVHD/REACH3），目前優先選擇
 - Infliximab（腸道 GVHD）
 - ECP（體外光照血）→ 見 Ch.66
 - Mycophenolate、Sirolimus

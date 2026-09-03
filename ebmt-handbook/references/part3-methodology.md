@@ -10,9 +10,10 @@
 
 **重要評分工具**：
 - **HCT-CI（Sorror Score）**：預測 NRM
-  - Score 0：低風險（NRM ~15%）
-  - Score 1-2：中風險（NRM ~26%）
-  - Score ≥3：高風險（NRM ~41%）
+  - Score 0：低風險（2年 NRM ~14%）
+  - Score 1-2：中風險（2年 NRM ~21%）
+  - Score ≥3：高風險（2年 NRM ~41%）
+  - （Sorror 2005 原始資料；已修正）
 - **EBMT Risk Score**：預測整體存活
 - **Performance Status（KPS / ECOG）**
 
@@ -137,7 +138,7 @@ MMUD（9/10 MUD）
 - Auto-HCT：≥2×10⁶ CD34+/kg（最低），≥5×10⁶ 更佳
 - Allo-HCT：≥4×10⁶ CD34+/kg 受者
 
-**Poor mobilizer 定義**（Ch.16.6）：採集前 CD34 <10/μL 或 D1 採集 <2×10⁶/kg
+**Poor mobilizer 定義**（Ch.16.6，GITMO 標準）：動員後 peak 外周血 CD34+ <20/μL，或 ≤3 次 apheresis 累積 <2×10⁶/kg
 
 📖 來自 EBMT Handbook 第8版 第 16 章
 
