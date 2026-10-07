@@ -17,6 +17,8 @@ Each item below is bracketed `[verify: …]` on the slide and listed in that sli
 | 11 | Organ complications | IPS steroid line | Ch. 52 prints "Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible" with the drug missing (presumably etanercept); check the printed chapter |
 | 18 | Myeloma and lymphoma | Myeloma CAR-T labels | Current EMA/FDA/TFDA labels for ide-cel and cilta-cel by number of prior lines; Ch. 81 says "> 3 previous lines" but also reports KarMMa-3 and CARTITUDE-4 in earlier lines |
 | 18 | Myeloma and lymphoma (backup) | BEAM melphalan unit | Ch. 86 and 89 print melphalan "140 mg/kg/day"; almost certainly mg/m² |
+| 12 | Survivorship | Pneumococcal conjugate vaccine | Ch. 29 names only PCV13 (and PCV10/7); check whether PCV15/PCV20 is used in the Taiwan post-HCT schedule |
+| 12 | Survivorship | Waist circumference cut-off | Ch. 55 says it is population-specific and gives no number; check the Taiwan cut-off |
 | 13 | Relapse (backup) | Gilteritinib / midostaurin maintenance | Table 58.1 says gilteritinib "No benefit" and midostaurin "May be beneficial"; the Ch. 58 text says gilteritinib is still under investigation and midostaurin (Maziarz 2018) showed no survival benefit. Main slide follows the text |
 | 17 | Marrow failure (backup) | Voxelotor, crizanlizumab status | Table 80.1 lists both as approved; crizanlizumab's phase III failed in 2023 per the book; check current status |
 | 17 | Marrow failure (backup) | CRISPR-Cas9 BCL11A editing, gene addition for TDT | Ch. 80 gives trial data only; check approval and Taiwan availability |
@@ -35,5 +37,6 @@ Each item below is bracketed `[verify: …]` on the slide and listed in that sli
 | 10 | SOS/VOD bilirubin printed as "> 1.5 mg/L (> 26 μmol/L)"; the deck uses 26 μmol/L only. Adult incidence 5–15% (text) vs 5–10% (Table 49.4); both on a backup slide |
 | 8 | Ch. 36 prints "short (7–10 days) vs. long (< 10 days)", an obvious typo; not quoted |
 | 11 | DOACs: Ch. 40 Table 40.1 says not recommended, §40.2.3 allows case by case; slide shows both. HC diagnostic threshold ambiguous in Ch. 51; slide says "macroscopic haematuria" |
+| 12 | Ch. 46 calls 6 mL/kg every 14 days the "standard chelation program"; context shows it is phlebotomy and the slide says so. Table 47.1 skin SCC "3.4 at 20 years" has no unit; shown as printed |
 | 15 | Reference 5 (Döhner 2022) is copied from Ch. 70 as "Blood 2022;129(4):424–47", which looks wrong; check before sharing the reference list |
 | 18 | KarMMa-3 / CARTITUDE-4 matching to Table 81.3 rows and DETERMINATION OS arm order are the speaker's inference (noted in reminders) |
