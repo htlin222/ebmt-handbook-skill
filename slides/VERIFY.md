@@ -8,12 +8,21 @@ Each item below is bracketed `[verify: …]` on the slide and listed in that sli
 | 6 | Acute GVHD | Vedolizumab prophylaxis | Ch. 43 calls the evidence a "prospective phase III trial", but cites Chen 2019 and Fløisand 2021, which are earlier-phase studies |
 | 7 | Chronic GVHD and ECP | NIH global severity, number of organs | Ch. 44's table prints "> 3" organs for both moderate and severe; check the NIH 2014 consensus table (Jagasia 2015) |
 | 7 | Chronic GVHD and ECP | Randomised ECP trial attribution | Ch. 66 attributes the 95-patient randomised phase II trial to Greinix 1998; the matching reference is Flowers 2008 (Blood 2008;112:2667–74) |
+| 11 | Organ complications | IPS steroid line | Ch. 52 prints "Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible" with the drug missing (presumably etanercept); check the printed chapter |
+| 18 | Myeloma and lymphoma | Myeloma CAR-T labels | Current EMA/FDA/TFDA labels for ide-cel and cilta-cel by number of prior lines; Ch. 81 says "> 3 previous lines" but also reports KarMMa-3 and CARTITUDE-4 in earlier lines |
+| 18 | Myeloma and lymphoma (backup) | BEAM melphalan unit | Ch. 86 and 89 print melphalan "140 mg/kg/day"; almost certainly mg/m² |
 | 16 | MDS/MPN | MTSS age point value | Table 77.1 lists "Age ≥ 57 years" without points; check Gagelmann 2019 |
 
 ## Inconsistencies inside the book (handled on the slides, no action needed)
 
 | Week | Note |
 |---|---|
+| 1 | Probability of an 8/8 unrelated donor: Ch. 9 gives 30–90%, Ch. 12 gives 16–75%; the slide uses the Ch. 9 figure |
+| 2 | Scott 2017: Ch. 13 text says MAC improved leukaemia-free survival with an OS trend, Table 13.1 says OS; slide follows the text. HCT-CI severe lung/liver thresholds are garbled in Table 11.5, so no number is shown |
+| 3 | Beijing protocol backup cells (CY 60 mg/kg × 2; CSA/MMF start) are read off Fig. 65.1, not the text. CD34+ megadose number is garbled in Ch. 65 and left off |
 | 4 | Autologous CD34+ minimum: Ch. 41 gives > 1 × 10⁶/kg, Ch. 16 and 20 give 2 × 10⁶/kg; the deck presents 2 × 10⁶/kg and notes the discrepancy |
 | 10 | SOS/VOD bilirubin printed as "> 1.5 mg/L (> 26 μmol/L)"; the deck uses 26 μmol/L only. Adult incidence 5–15% (text) vs 5–10% (Table 49.4); both on a backup slide |
 | 8 | Ch. 36 prints "short (7–10 days) vs. long (< 10 days)", an obvious typo; not quoted |
+| 11 | DOACs: Ch. 40 Table 40.1 says not recommended, §40.2.3 allows case by case; slide shows both. HC diagnostic threshold ambiguous in Ch. 51; slide says "macroscopic haematuria" |
+| 15 | Reference 5 (Döhner 2022) is copied from Ch. 70 as "Blood 2022;129(4):424–47", which looks wrong; check before sharing the reference list |
+| 18 | KarMMa-3 / CARTITUDE-4 matching to Table 81.3 rows and DETERMINATION OS arm order are the speaker's inference (noted in reminders) |

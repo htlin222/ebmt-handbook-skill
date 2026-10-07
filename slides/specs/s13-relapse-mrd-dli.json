@@ -46,7 +46,7 @@
     {
       "type": "outline",
       "eyebrow": "Relapse · Outline",
-      "title": "Four parts, from detecting relapse to preventing it",
+      "title": "From detecting relapse to preventing it",
       "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57 · Kröger N, et al. Ch. 58 · Falkenburg JHF, et al. Ch. 59",
       "rows": [
         [
@@ -239,7 +239,7 @@
         3.6,
         3.4
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "caption": "Morphology sees 1:20; MRD reaches 1:10³–1:10⁶. ELN 2022: CR, CRi and CRh can each be MRD-negative.",
       "notes": {
         "min": 2.0,
@@ -328,7 +328,7 @@
       ],
       "fontSize": 20,
       "captionY": 5.2,
-      "caption": "Speaker's summary: MAC helped only MRD-positive patients. MRD is prognostic after MAC and non-MAC, in CR1 and CR2.",
+      "caption": "Speaker's summary: MAC helped only MRD-positive patients; MRD is prognostic in CR1 and CR2",
       "notes": {
         "min": 1.5,
         "script": [
@@ -383,7 +383,7 @@
         {
           "label": "No, but high risk",
           "box": "Prophylactic",
-          "out": "From day +90–100, off IS, GVHD-free ~1 month"
+          "out": "Day +90–100; off IS; no GVHD for ~1 month"
         },
         {
           "label": "MRD+ or falling chimerism",
@@ -393,7 +393,7 @@
         {
           "label": "Overt relapse",
           "box": "Treatment",
-          "out": "Chemotherapy plus DLI about 1 × 10⁷/kg"
+          "out": "Chemotherapy, then DLI 1 × 10⁷/kg"
         }
       ],
       "invert": 1,
@@ -425,7 +425,7 @@
         ],
         [
           "Midostaurin (Maziarz 2018)",
-          "Phase II; randomized trial",
+          "Phase II; then RCT",
           "12-month relapse 9.2%;\nno survival benefit"
         ],
         [
@@ -446,16 +446,16 @@
         [
           "Sorafenib at relapse",
           "Retrospective",
-          "Long CRs; with DLI better than DLI alone"
+          "Durable CR; +DLI beats DLI alone"
         ]
       ],
       "colW": [
-        4.2,
-        3.0,
-        4.6
+        4.6,
+        2.8,
+        4.4
       ],
-      "fontSize": 16,
-      "caption": "Sorafenib induces IL-15 in FLT3-ITD cells and boosts GVL (Mathew 2018). Quizartinib, gilteritinib, crenolanib: in trials.",
+      "fontSize": 17,
+      "caption": "Sorafenib induces IL-15 and boosts GVL (Mathew 2018). Quizartinib, gilteritinib, crenolanib: in trials.",
       "notes": {
         "min": 1.5,
         "script": [
@@ -514,7 +514,7 @@
         4.2,
         3.8
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "caption": "TKIs also modulate immunity: better T-cell cytolysis, less PD-1, fewer MDSCs",
       "notes": {
         "min": 1.5,
@@ -574,7 +574,7 @@
         3.4,
         4.6
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "caption": "HMAs upregulate HLA and tumour antigens for donor T cells; acute GVHD is uncommon",
       "notes": {
         "min": 1.5,
@@ -612,7 +612,7 @@
           "GVHD 30%; 1 fatal"
         ],
         [
-          "PD-1 blockade (Haverkos 2017)",
+          "PD-1 (Haverkos 2017)",
           "Lymphoma after allo, n = 31",
           "77%",
           "aGVHD 54%; 8 GVHD deaths"
@@ -644,11 +644,11 @@
       ],
       "colW": [
         3.6,
-        3.2,
-        2.0,
-        3.6
+        3.4,
+        1.8,
+        4.0
       ],
-      "fontSize": 15,
+      "fontSize": 16,
       "notes": {
         "min": 1.5,
         "script": [
@@ -690,7 +690,7 @@
       "cite": "Falkenburg JHF, et al. EBMT Handbook 8th ed. 2024; Ch. 59",
       "head": [
         "Indication, timing",
-        "Matched related",
+        "Related (‘MRD’)",
         "MUD",
         "MMUD / haplo",
         "Number"
@@ -740,7 +740,7 @@
         1.2
       ],
       "fontSize": 18,
-      "caption": "CD3+ cells/kg; level C. Interval ≥ 4–6 weeks. Escalate 0.5–1 log; relapse 1 log to max 1 × 10⁸/kg. (‘MRD’ in Table 59.1 = matched related donor.)",
+      "caption": "CD3+ cells/kg; level C. Interval ≥ 4–6 weeks; escalate 0.5–1 log (relapse: 1 log, max 1 × 10⁸/kg)",
       "notes": {
         "min": 2.0,
         "script": [
@@ -750,7 +750,8 @@
           "增加劑量的規則在下方。兩次 DLI 至少間隔 4 到 6 週，prophylactic 每次增加 0.5 到 1 個 log，relapse 每次增加 1 個 log，上限 1 × 10⁸/kg。一旦出現 GVHD，就不再給下一次；在 MRD monitoring 的時代，也不再把 GVHD 當作重複 DLI 的終點。",
           "原表把 matched related donor 縮寫成 MRD，和 measurable residual disease 同一個縮寫，讀表時不要看錯。"
         ]
-      }
+      },
+      "captionY": 5.25
     },
     {
       "type": "table",
@@ -799,7 +800,7 @@
         3.6,
         8.2
       ],
-      "fontSize": 16,
+      "fontSize": 18,
       "notes": {
         "min": 2.0,
         "script": [
@@ -895,7 +896,7 @@
       ],
       "answer": "B",
       "answerTitle": "Answer B: pre-emptive DLI for an unrelated donor at 6 months",
-      "explanation": "Rising MRD without morphological relapse is the pre-emptive setting. Table 59.1 gives 1 × 10⁶/kg for an unrelated donor at 6 months (1 × 10⁵/kg at 3 months). 1 × 10⁷/kg with chemotherapy is for overt relapse; 1 × 10⁸/kg is the ceiling after escalation. Repeat after ≥ 4–6 weeks if MRD persists and there is no GVHD.",
+      "explanation": "Rising MRD without morphological relapse is the pre-emptive setting. Table 59.1 gives 1 × 10⁶/kg for an unrelated donor at 6 months. Overt relapse needs chemotherapy plus 1 × 10⁷/kg; the ceiling after escalation is 1 × 10⁸/kg. Repeat after ≥ 4–6 weeks if MRD persists without GVHD.",
       "notes": {
         "min": 0.75,
         "script": [
@@ -967,7 +968,7 @@
           "Panobinostat",
           "AML/MDS",
           "Maintenance",
-          "1-y RFS 66% with DLI; 2-y RFS 74% alone"
+          "RFS 66% at 1 y with DLI;\n74% at 2 y alone"
         ],
         [
           "Venetoclax; ivosidenib/enasidenib",
@@ -1018,7 +1019,7 @@
         [
           "Bortezomib",
           "Myeloma",
-          "Beat thalidomide, mainly in renal\nfailure or high-risk cytogenetics"
+          "Beat thalidomide in renal failure\nand high-risk cytogenetics"
         ],
         [
           "Brentuximab vedotin (AETHERA)",

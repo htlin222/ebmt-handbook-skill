@@ -5,11 +5,10 @@
   "title": "GVHD prophylaxis and graft manipulation",
   "subtitle": "Week 5 · Ch. 26 (core) · Ch. 19 (support)",
   "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26 · Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
-  "refsPerSlide": 6,
   "coverNotes": {
     "min": 0.5,
     "script": [
-      "各位早安，第五週談 GVHD prophylaxis，核心是 EBMT Handbook 第 26 章，再補第 19 章的 graft manipulation。重點放在各個 regimen 的劑量、ATG、PTCy 和 T-cell depletion，最後做三題 board-style 題目。"
+      "各位早安，第五週的主題是 GVHD prophylaxis 和 graft manipulation，核心是 EBMT Handbook 第 26 章，再補充第 19 章的 T-cell depletion。接下來把各個 regimen 的劑量、藥物濃度、ATG、PTCy 和 graft engineering 依序講完，最後做三題 board-style 題目。這兩章合起來，就是移植前一定要先決定的預防策略。"
     ]
   },
   "references": [
@@ -85,11 +84,11 @@
       "type": "numbers",
       "section": "Why prophylaxis and CNI backbones",
       "eyebrow": "Prophylaxis · Burden",
-      "title": "Acute GVHD still affects a third to a half of allo-HCT recipients",
+      "title": "Acute GVHD still develops in up to half of transplant recipients",
       "items": [
         {
           "num": "30–50%",
-          "label": "Develop acute GVHD after allo-HCT"
+          "label": "Develop acute GVHD after allogeneic HCT"
         },
         {
           "num": "~10%",
@@ -106,7 +105,7 @@
         "min": 1.0,
         "script": [
           "先看預防為什麼重要。接受 allo-HCT 的病人，大約 30 到 50% 會發生 acute GVHD，其中約 10% 是 grade III 到 IV 的重度。即使用了現行的 prophylaxis，grade II 到 IV 仍然有 20 到 30%，這是 EBMT registry 的數字。",
-          "治療的主力是高劑量 steroid，可是 30 到 50% 的病人會 steroid-resistant 或 dependent，steroid resistance 的一年存活只有 30 到 40%。Chronic GVHD 最主要的 risk factor 又是之前得過 acute GVHD，所以第 26 章把篇幅放在預防 acute GVHD，預防 chronic 也從這裡開始。",
+          "治療的主力是高劑量 steroid，可是 30 到 50% 的病人會 steroid-resistant 或 dependent，steroid resistance 的一年存活只有 30 到 40%。Chronic GVHD 最主要的 risk factor 又是之前得過 acute GVHD，所以第 26 章把篇幅放在預防 acute GVHD。",
           "這三個數字提醒我們，prophylaxis 的目標不是把 GVHD 完全歸零，而是把重度 GVHD 壓到最低，同時不讓感染和復發增加。後面每一個 trial 都可以用這個角度看，GVHD 少了多少，代價又是什麼。"
         ]
       }
@@ -149,7 +148,6 @@
       ],
       "fontSize": 18,
       "caption": "Table 26.1. CSA/MTX beat CSA alone in randomized phase 3 trials (Storb 1986).",
-      "captionY": 5.0,
       "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
       "notes": {
         "min": 2.0,
@@ -166,7 +164,7 @@
     {
       "type": "chain",
       "eyebrow": "Prophylaxis · CNI mechanism",
-      "title": "Calcineurin inhibitors block NFAT and blunt IL-2-driven activation",
+      "title": "Calcineurin inhibitors block NFAT and cut IL-2 transcription",
       "steps": [
         "CSA or tacrolimus",
         "NFAT activation prevented",
@@ -174,7 +172,7 @@
         "Fewer effector T cells, but fewer Tregs too"
       ],
       "invert": 3,
-      "caption": "IL-2-dependent Tregs fall with effector T cells. Sirolimus and PTCy are described in Ch. 26 as relatively Treg-sparing.",
+      "caption": "Tregs need IL-2 too; Ch. 26 calls sirolimus and PTCy relatively Treg-sparing.",
       "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
       "notes": {
         "min": 1.0,
@@ -378,7 +376,7 @@
         [
           "Tocilizumab\n(Kennedy 2021)",
           "IL-6 receptor",
-          "Phase 2: II–IV < 15%; phase 3: NS,\nno long-term survival gain"
+          "Phase 2: II–IV < 15%; phase 3: NS,\nno long-term OS gain"
         ],
         [
           "Vorinostat\n(Choi 2014, 2017)",
@@ -430,13 +428,13 @@
           "URD/MSD, MAC/RIC",
           "T 4.5 mg/kg",
           "IS withdrawal at 12 months",
-          "Higher with ATG (long term)"
+          "Higher with ATG\n(long-term)"
         ],
         [
           "Finke",
           "URD, MAC",
           "G 60 mg/kg",
-          "aGVHD 3–4 and/or death < day 100",
+          "aGVHD 3–4 and/or death by day 100",
           "Not different"
         ],
         [
@@ -469,11 +467,11 @@
         ]
       ],
       "colW": [
-        1.7,
-        2.9,
-        2.0,
-        3.9,
-        3.2
+        1.5,
+        2.7,
+        1.9,
+        4.5,
+        3.1
       ],
       "fontSize": 15,
       "caption": "Table 26.2: cGVHD lower in all six; NRM and relapse not different. [verify: T = Thymoglobulin, G = ATLG]",
@@ -510,7 +508,7 @@
         {
           "label": "Weight + ALC nomogram",
           "box": "PARACHUTE phase 2\n(Admiraal 2022)",
-          "out": "CD4 > 50/μL twice by day 100:\nNRM 5-fold lower"
+          "out": "CD4 > 50/μL ×2 by day 100:\nNRM 5-fold lower"
         }
       ],
       "invert": 2,
@@ -615,7 +613,7 @@
         4.8
       ],
       "fontSize": 18,
-      "caption": "CY depletes proliferating alloreactive T cells and spares Tregs. Toxicity: haemorrhagic cystitis, cardiac injury and CHF.",
+      "caption": "Spares Tregs. Toxicity: haemorrhagic cystitis; cardiac injury leading to CHF.",
       "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
       "notes": {
         "min": 1.5,
@@ -736,7 +734,7 @@
         "Bilinear severe cytopenia and/or transfusions",
         "Full donor chimerism",
         "CD34-selected boost from the original donor",
-        "Response ~80%; de novo GVHD 6–22%"
+        "Response ~80%;\nde novo GVHD\n6–22%"
       ],
       "invert": 2,
       "caption": "Ex vivo TCD of the boost is recommended, even with mismatched donors; lymphocyte recovery also improves.",
@@ -746,7 +744,8 @@
         "script": [
           "主線最後一張是 poor graft function。定義是至少兩系的嚴重血球低下，或需要輸血，而且發生在 full donor chimerism 的情況下。",
           "治療選項之一是從原本的 donor 再給一次 stem cell boost。為了降低 GVHD，建議先做 ex vivo TCD，經驗最多的是 CD34-selected boost。反應率約 80%，de novo GVHD 只有 6 到 22%，即使是 mismatched donor 也一樣，淋巴球亞群的恢復也會改善。",
-          "因為 chimerism 已經是 full donor，所以用原 donor 的 CD34 cell 補強。必要時也可以再加回 donor T cell，幫助 engraftment 和免疫重建。"
+          "因為 chimerism 已經是 full donor，所以用原 donor 的 CD34 cell 補強。必要時也可以再加回 donor T cell，幫助 engraftment 和免疫重建。",
+          "在病房，遇到 engraftment 之後血球又掉下來的病人，先查 chimerism，再決定是 boost 還是其他處置。"
         ]
       }
     },
@@ -791,15 +790,15 @@
       "title": "Question 2: choose the classical PTCy schedule",
       "stem": "A 50-year-old man with AML in CR1 has no matched donor. He will receive a PBSC graft from his haploidentical son, and the team chooses the classical Baltimore post-transplant cyclophosphamide (PTCy) platform. Which schedule matches it?",
       "options": [
-        "Cy 50 mg/kg on days +3 and +4; CNI and MMF from day +5",
         "Cy on days +3 and +5; CsA from day −1; MMF from day +1",
         "Cy 50 mg/kg on days +3 and +4 alone, with no further IS",
+        "Cy 50 mg/kg on days +3 and +4; CNI and MMF from day +5",
         "Cy 50 mg/kg on day 0; CsA and MTX from day +1",
         "Cy on days −3 and −2; MTX on days +1, +3, +6 and +11"
       ],
-      "answer": "A",
-      "answerTitle": "Answer A: Cy 50 mg/kg on days +3 and +4, then CNI/MMF",
-      "explanation": "Baltimore PTCy: Cy 50 mg/kg on days +3 and +4, then CNI/MMF from day +5. B is the alternative +3/+5 scheme with early CsA (Ruggeri 2020): lower grade II–IV aGVHD, same cGVHD. PTCy alone after MAC (BMT CTN 1301) gave more aGVHD. Watch for haemorrhagic cystitis and cardiac injury.",
+      "answer": "C",
+      "answerTitle": "Answer C: Cy 50 mg/kg on days +3 and +4, then CNI/MMF",
+      "explanation": "Baltimore PTCy: Cy 50 mg/kg on days +3 and +4, then CNI/MMF from day +5. A is the alternative +3/+5 scheme with early CsA (Ruggeri 2020): lower grade II–IV aGVHD, same cGVHD. PTCy alone after MAC (BMT CTN 1301) gave more aGVHD. Watch for haemorrhagic cystitis and cardiac injury.",
       "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
       "notes": {
         "min": 0.75,
@@ -813,8 +812,8 @@
       "answerNotes": {
         "min": 1.0,
         "script": [
-          "正確是 A。Cyclophosphamide 50 mg/kg 在 day +3 和 +4，day +5 開始 CNI 和 MMF。",
-          "B 是最容易混淆的選項，它是另一種方案，day +3 和 +5 給 PTCy，CsA 提早到 day −1，MMF 從 day +1 開始。這個方案確實存在，EBMT 的比較顯示 grade II 到 IV aGVHD 較低，但它不是經典的 Baltimore。C 單用 PTCy，在 BMT CTN 1301 是 acute GVHD 比較多。D 和 E 把時間點和 MTX 混了進來。",
+          "正確是 C。Cyclophosphamide 50 mg/kg 在 day +3 和 +4，day +5 開始 CNI 和 MMF。",
+          "A 是最容易混淆的選項，它是另一種方案，day +3 和 +5 給 PTCy，CsA 提早到 day −1，MMF 從 day +1 開始。這個方案確實存在，EBMT 的比較顯示 grade II 到 IV aGVHD 較低，但它不是經典的 Baltimore。B 單用 PTCy，在 BMT CTN 1301 是 acute GVHD 比較多。D 和 E 把時間點和 MTX 混了進來。",
           "答完這題，也順便複習 PTCy 的兩個毒性，hemorrhagic cystitis 和心臟傷害。",
           "記日期的方法是，cyclophosphamide 連續兩天，第三和第四天，隔天第五天才開始 CNI 和 MMF，三個數字剛好連在一起。"
         ]
@@ -826,14 +825,14 @@
       "title": "Question 3: describe the TcRαβ/CD19-depleted graft",
       "stem": "A 6-year-old boy with relapsed ALL has no matched donor. He will receive a haploidentical graft depleted ex vivo of TCRαβ+ T cells and CD19+ B cells. Which statement about this graft is correct?",
       "options": [
-        "It retains γδ T cells and NK cells",
         "It lacks NK cells, so NK recovery lags behind CD34 selection",
         "Its depletion efficacy is lower than that of CD3 depletion",
         "CD19 depletion raises the risk of EBV-associated PTLD",
+        "It retains γδ T cells and NK cells",
         "Residual TCRαβ+ cells up to 50 × 10⁶/kg are acceptable"
       ],
-      "answer": "A",
-      "answerTitle": "Answer A: TcRαβ depletion keeps γδ T cells and NK cells",
+      "answer": "D",
+      "answerTitle": "Answer D: TcRαβ depletion keeps γδ T cells and NK cells",
       "explanation": "TcRαβ depletion removes αβ T cells but keeps γδ T and NK cells; early CD3+ and CD56+ expansion is faster than after CD34 selection. Efficacy is 4.7 log vs 4.0 log for CD3 depletion. Residual TCRαβ+ cells stay < 50 × 10³/kg, even in small children. CD19 depletion prevents EBV PTLD.",
       "cite": "Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
       "notes": {
@@ -842,14 +841,15 @@
           "最後一題回到 graft manipulation。6 歲男孩，relapsed ALL，沒有 matched donor，要接受 haploidentical graft，體外去除 TCRαβ 陽性 T cell 和 CD19 陽性 B cell。問關於這個 graft 哪一個敘述正確。",
           "選項涉及保留哪些細胞、depletion 效率、PTLD 風險和 residual T cell 的門檻。",
           "這題的數字都來自第 19 章，注意單位，也注意每一種 depletion 拿掉什麼、留下什麼。臨床上這種 graft 多用在兒童的 haplo。",
+          "先想 TcRαβ 和 CD3 depletion 差在哪裡，答案就出來了。",
           "[Pause for answers.]"
         ]
       },
       "answerNotes": {
         "min": 1.0,
         "script": [
-          "答案是 A。TcRαβ depletion 只拿掉 αβ T cell，γδ T cell 和 NK cell 都留在 graft 裡。",
-          "B 是主要陷阱，方向剛好相反。和 CD34-selected graft 比，TcRαβ-depleted graft 移植後早期 CD3 和 CD56 細胞擴增更快，推測就是因為一起輸入的 γδ T cell 和 NK cell。C 也反了，TcRαβ 是 4.7 log，CD3 depletion 是 4.0 log。D 錯在 CD19 depletion 是用來預防 EBV PTLD。E 的單位差了一千倍，門檻是每公斤 50 × 10³，不是 10⁶。",
+          "答案是 D。TcRαβ depletion 只拿掉 αβ T cell，γδ T cell 和 NK cell 都留在 graft 裡。",
+          "A 是主要陷阱，方向剛好相反。和 CD34-selected graft 比，TcRαβ-depleted graft 移植後早期 CD3 和 CD56 細胞擴增更快，推測就是因為一起輸入的 γδ T cell 和 NK cell。B 也反了，TcRαβ 是 4.7 log，CD3 depletion 是 4.0 log。C 錯在 CD19 depletion 是用來預防 EBV PTLD。E 的單位差了一千倍，門檻是每公斤 50 × 10³，不是 10⁶。",
           "整理成一句話，TcRαβ/CD19 depletion 拿掉 αβ T cell 和 B cell，留下 γδ T cell 和 NK cell，效率最高，也是目前最常用的方法。"
         ]
       }

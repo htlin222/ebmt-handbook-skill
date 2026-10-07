@@ -102,7 +102,7 @@
         ],
         [
           "Adverse",
-          "t(6;9); KMT2A-r; BCR::ABL1; inv(3); −5, −7, 17p; complex; TP53",
+          "t(6;9); KMT2A-r; BCR::ABL1; inv(3); −5/−7/17p; complex; TP53",
           "Allo-HCT; non-allo only if TRM very high",
           "Allo-HCT as soon as in CR"
         ]
@@ -146,7 +146,7 @@
         ],
         [
           "CEBPA",
-          "Only in-frame bZIP mutations are favorable, mono- or bi-allelic"
+          "Only in-frame bZIP mutations favorable, mono- or bi-allelic"
         ],
         [
           "NPM1",
@@ -179,6 +179,9 @@
           "FLT3-ITD 的 allelic ratio 不再列入分類。CEBPA 只有 bZIP 區的 in-frame mutation 算 favorable，不管是單或雙 allele。NPM1 如果同時有 adverse 的 cytogenetics，就不再算 favorable。t(3q26.2;v) 和 t(8;16) 新增到 adverse。Hyperdiploid 不算 complex karyotype。TP53 要 variant allele fraction 大於等於 10% 才算 adverse。",
           "實務上，送 NGS panel 時要包含這些 MDS-related 基因，否則會把病人低估成 intermediate，錯過 CR1 移植的時機。",
           "考試常見的陷阱在 FLT3-ITD 和 TP53。舊版 FLT3-ITD 要看 allelic ratio，2022 版拿掉了，NPM1 合併 FLT3-ITD 現在直接歸 intermediate。TP53 加了 10% 的 VAF 門檻，低於這個值不算 adverse。CEBPA 以前要求 biallelic，現在只看是不是 bZIP in-frame。這些改變讓 adverse 組變大，需要在 CR1 討論移植的病人也跟著變多。"
+        ],
+        "reminders": [
+          "Reference 5 (Dohner 2022) is copied verbatim from the Ch. 70 reference list, which gives Blood 2022;129(4):424–47; that volume and page range look wrong for the ELN 2022 paper. Check before circulating the reference list."
         ]
       }
     },
@@ -254,7 +257,7 @@
       "rows": [
         [
           "Definition (Ferguson 2016)",
-          "No CR after 2 intensive courses, ≥ 1 with intermediate-dose Ara-C"
+          "No CR after 2 intensive courses, ≥ 1 with ID cytarabine"
         ],
         [
           "Frequency; chemo-only outcome",
@@ -282,7 +285,7 @@
         ],
         [
           "ASAP trial (Stelljes 2022; Ch. 71)",
-          "Immediate sequential conditioning: LFS similar to induction first"
+          "Sequential conditioning + immediate HCT: LFS like induction"
         ]
       ],
       "colW": [
@@ -525,7 +528,7 @@
         [
           "Inotuzumab ozogamicin",
           "CR 80% (randomized trial)",
-          "VOD risk: > 2 courses, liver disease, double alkylators"
+          "VOD risk: > 2 courses,\nliver disease, double alkylators"
         ],
         [
           "Blinatumomab",
@@ -550,11 +553,11 @@
       ],
       "colW": [
         3.2,
-        3.7,
-        4.9
+        4.1,
+        4.5
       ],
       "fontSize": 16,
-      "caption": "After inotuzumab, schedule allo-HCT within 6–8 weeks of starting salvage. 5–10% are refractory; 30–50% relapse after CR.",
+      "caption": "After inotuzumab: allo-HCT within 6–8 weeks of starting salvage. Refractory 5–10%; relapse after CR 30–50%.",
       "notes": {
         "min": 2.0,
         "script": [
@@ -566,7 +569,7 @@
           "CAR-T 之後要不要移植還有爭議，但書上的立場是值得考慮。Bortezomib 為基礎的方案和 daratumumab 也開始用在沒有其他選擇的 advanced ALL，anti-CD7、anti-CD5 的 CAR-T 在 T-ALL 的早期結果不錯。等一下第三題就是 inotuzumab 之後怎麼安排移植的情境。"
         ]
       },
-      "captionY": 5.55
+      "captionY": 5.6
     },
     {
       "type": "table",

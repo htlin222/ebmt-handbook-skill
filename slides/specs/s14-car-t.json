@@ -8,7 +8,7 @@
   "coverNotes": {
     "min": 0.5,
     "script": [
-      "各位早安，第十四週講 CAR-T 和 engineered T cells，主軸是 EBMT Handbook 第 60 章，再加上第 61 章的 immune resistance，以及 ALL、myeloma、large B-cell lymphoma 三章裡的 CAR-T 段落。最後一樣是三題 board-style 題目。CAR-T 已經從最後一線的 salvage，走到 lymphoma 和 myeloma 的較前線治療，CRS 和 neurotoxicity 的處理也變成病房日常，所以這一章的考點逐年增加。"
+      "各位早安，第十四週講 CAR-T 和 engineered T cells，主軸是 EBMT Handbook 第 60 章，再加上第 61 章的 immune resistance，以及 ALL、myeloma、large B-cell lymphoma 三章裡的 CAR-T 段落。最後一樣是三題 board-style 題目。CAR-T 已經從最後一線的 salvage，走到 lymphoma 和 myeloma 的較前線治療，CRS 和 neurotoxicity 的處理也成了病房日常，考點逐年增加。"
     ]
   },
   "refsPerSlide": 7,
@@ -65,7 +65,7 @@
         "script": [
           "今天分四段。第一段從 DLI 出發，看 Table 60.1 列的各種 T cell manipulation，重點放在 suicide gene，也就是 HSV-TK 和 iCasp9，大約三分鐘。",
           "第二段是 CAR-T 本身，包括 CAR 的結構、最早的 CD19 trial、製程，以及 ALL、large B-cell lymphoma、myeloma 三個疾病各自的 indication。這段最長，因為考題多半落在適應症和 trial 數字。",
-          "第三段是毒性，CRS 和 neurotoxicity 的機轉、tocilizumab 為什麼有效，以及書上並列的三套 CRS grading。最後一段看 CD19 escape、移植後的 HLA loss、TCR 和 CAR 的差別，再做三題練習。每一題都對應前面某一張投影片，答錯的話可以直接回頭找出處。第 60 章本身篇幅不長，CRS 的處理細節也不多，書上沒寫到的地方我會在投影片上標 verify。"
+          "第三段是毒性，CRS 和 neurotoxicity 的機轉、tocilizumab 為什麼有效，以及書上並列的三套 CRS grading。最後一段看 CD19 escape、移植後的 HLA loss、TCR 和 CAR 的差別，再做三題練習。每一題都對應前面某一張投影片。第 60 章篇幅不長，CRS 的細節也不多，書上沒寫到的地方我會標 verify，報告前確認。"
         ]
       }
     },
@@ -276,9 +276,9 @@
         "min": 1.0,
         "script": [
           "從 2017 年開始，FDA 和 EMA 核准了六個 CAR-T 產品。四個打 CD19，用在 B-cell lymphoma 和 ALL；兩個打 BCMA，用在 multiple myeloma。全部都是用 γ-retrovirus 或 lentivirus 做 gene transfer。",
-          "流程是先在移植中心做 leukapheresis，把病人的 T cell 送到中央工廠做 CAR gene transfer 和 expansion，冷凍之後再運回來輸注。價格和這條物流鏈是 CAR-T 最常被討論的問題，病人在等待製程的這段時間仍可能惡化。我把 gene transfer 那一步反白，因為它決定產品品質，而且目前只能在中央工廠完成。",
+          "流程是先在移植中心做 leukapheresis，把病人的 T cell 送到中央工廠做 CAR gene transfer 和 expansion，冷凍之後再運回來輸注。價格和這條物流鏈是 CAR-T 最常被討論的問題。gene transfer 那一步反白，因為它決定產品品質，也只能在中央工廠完成。",
           "現在有可攜式、GMP-certified 的機器可以在醫院端 point-of-care 製造，希望降低成本和等待時間，這也是後面 myeloma 那張 academic product 的背景。",
-          "考試偶爾會問為什麼 CAR-T 需要幾週等待期，答案就在這條物流鏈，每一步都要時間，病人在空窗期可能惡化，常需要 bridging therapy。"
+          "考試常問為什麼 CAR-T 需要幾週等待，答案就在這條物流鏈，病人在空窗期可能惡化，常需要 bridging therapy。"
         ]
       }
     },

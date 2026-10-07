@@ -87,7 +87,7 @@
         ],
         [
           "Chains",
-          "Polymorphic α-chain + monomorphic β2m",
+          "Polymorphic α-chain + β2m",
           "α- and β-chain, about 30 kDa each"
         ],
         [
@@ -214,7 +214,7 @@
       "title": "Donor availability ranges from 25% for siblings to over 90% for haplo",
       "head": [
         "Donor type",
-        "Chance of finding one",
+        "Availability",
         "Match standard"
       ],
       "rows": [

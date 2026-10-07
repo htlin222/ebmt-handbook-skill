@@ -246,9 +246,9 @@
         ]
       ],
       "colW": [
-        2.6,
-        5.4,
-        3.6
+        2.3,
+        6.1,
+        3.3
       ],
       "fontSize": 15,
       "notes": {
@@ -312,7 +312,7 @@
       ],
       "fontSize": 18,
       "caption": "Interval not scored in CR1. AML, 5-year OS: 68% at 0 points, 18% at 6–7; TRM 14% vs 41% (Gratwohl 2009)",
-      "captionY": 4.75,
+      "captionY": 5.25,
       "notes": {
         "min": 2.0,
         "script": [
@@ -437,7 +437,7 @@
       "rows": [
         [
           "MAC",
-          "Irreversible in most; often > 21 days",
+          "Irreversible in most;\noften > 21 days",
           "Required",
           "Fit, low comorbidity;\ntypically ≤ 55 years"
         ],
@@ -456,7 +456,7 @@
         [
           "NMA",
           "Minimal; mixed chimerism\nat first",
-          "Theoretically not needed",
+          "Theoretically\nnot needed",
           "Elderly or medically infirm"
         ]
       ],
@@ -468,7 +468,7 @@
       ],
       "fontSize": 17,
       "caption": "Order of intensity: MAC > RTC > RIC > NMA (Bacigalupo 2009). The EBMT TCI score predicts NRM better (Spyridonidis 2020)",
-      "captionY": 5.2,
+      "captionY": 5.75,
       "notes": {
         "min": 1.5,
         "script": [
@@ -605,7 +605,7 @@
     {
       "type": "chain",
       "eyebrow": "Conditioning · Busulfan",
-      "title": "Busulfan moved from oral dosing to IV drug with fludarabine",
+      "title": "Busulfan moved from oral dosing to IV, then paired with fludarabine",
       "steps": [
         "Oral BU/CY: erratic absorption",
         "High AUC → SOS; low → relapse",
@@ -708,7 +708,7 @@
     {
       "type": "tree",
       "eyebrow": "Conditioning · Alternative donors",
-      "title": "Haplo-HCT runs on two non-T-cell-depleted platforms",
+      "title": "Haplo uses PTCY or ATG platforms; cord blood uses TBI or TBF",
       "root": "Haploidentical or cord blood donor",
       "branches": [
         {
@@ -1139,12 +1139,12 @@
       ],
       "colW": [
         2.6,
-        5,
-        4
+        4.6,
+        4.4
       ],
       "fontSize": 17,
       "caption": "Thiotepa-, BCNU- and etoposide-containing regimens suit lymphoma with CNS involvement",
-      "captionY": 4.9,
+      "captionY": 5.4,
       "cite": "Shimoni A, et al. EBMT Handbook 8th ed. 2024; Ch. 13",
       "notes": {
         "script": [

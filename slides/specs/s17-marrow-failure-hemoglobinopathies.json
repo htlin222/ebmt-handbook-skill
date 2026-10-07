@@ -143,11 +143,11 @@
         {
           "label": "MSD and age < 40",
           "box": "BM HCT: CY + ATG; CSA + MTX",
-          "out": "Engraftment 95%, OS 90% at 2 years"
+          "out": "Engraftment 95%;\n2-year OS 90%"
         },
         {
           "label": "10/10 MUD, age < 20",
-          "box": "Upfront MUD HCT within 2–3 months",
+          "box": "Upfront MUD HCT\nwithin 2–3 months",
           "out": "Many centres now offer it first line"
         },
         {
@@ -211,7 +211,6 @@
         4.1
       ],
       "fontSize": 16,
-      "caption": "FCC = fludarabine, cyclophosphamide, alemtuzumab (Campath)",
       "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
       "notes": {
         "min": 1.5,
@@ -428,37 +427,37 @@
         [
           "Dyskeratosis congenita",
           "Telomerase-shelterin",
-          "Progressive BMF, no major organ damage",
+          "Progressive BMF without\norgan damage",
           "FLU-based RIC",
-          "OS 57% at 5 y, 23% at 10 y"
+          "5-y OS 57%;\n10-y OS 23%"
         ],
         [
           "Severe congenital neutropenia",
           "ELANE (60%)",
           "G-CSF poor or non-response; MDS/AML",
           "MAC",
-          "5-y OS 82%, TRM 17%"
+          "5-y OS 82%;\nTRM 17%"
         ],
         [
           "Shwachman-Diamond",
           "SBDS",
-          "Rising cytopenias; before leukaemia",
+          "Rising cytopenias;\nbefore leukaemia",
           "RIC (heart)",
-          "5-y OS 63.3%, TRM 19.8%"
+          "5-y OS 63.3%;\nTRM 19.8%"
         ],
         [
           "Diamond-Blackfan",
           "Ribosomal genes",
-          "Steroid failure or ≥ 0.3 mg/kg/d; best < 10 y",
+          "Steroid failure or ≥ 0.3 mg/kg/d;\nbest before 10 y",
           "FLU + BU or TREO",
-          "cGFS 90% < 10 y, 78% 10–18 y"
+          "cGFS 90% (< 10 y);\n78% (10–18 y)"
         ],
         [
           "CAMT",
           "MPL",
           "TD thrombocytopenia, pancytopenia, clone",
-          "MAC: FLU + TREO or BU",
-          "6-y OS 85.6%, TRM 8%"
+          "MAC: FLU +\nTREO or BU",
+          "6-y OS 85.6%;\nTRM 8%"
         ]
       ],
       "colW": [
@@ -602,7 +601,7 @@
           "EFS 73–96%, OS 91–100%"
         ],
         [
-          "Why FTT",
+          "Why FTT (FLU,\ntreosulfan, thiotepa)",
           "Less endothelial toxicity,\nless blood–brain barrier passage",
           "Fertility more often preserved"
         ],
@@ -633,7 +632,6 @@
         3.4
       ],
       "fontSize": 16,
-      "caption": "FTT = fludarabine, treosulfan, thiotepa",
       "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
       "notes": {
         "min": 1.5,
@@ -659,19 +657,19 @@
         [
           "Inadequate iron chelation",
           "Absent",
-          "1 or 2 of the 3\nrisk factors present",
+          "1 or 2 present",
           "Present"
         ],
         [
           "Hepatomegaly > 2 cm",
           "Absent",
-          "",
+          "1 or 2 present",
           "Present"
         ],
         [
           "Portal fibrosis",
           "Absent",
-          "",
+          "1 or 2 present",
           "Present"
         ]
       ],
@@ -682,7 +680,7 @@
         2.2
       ],
       "fontSize": 20,
-      "captionY": 3.95,
+      "captionY": 4.5,
       "caption": "Validated in children with a matched family donor, not in adults. Very high risk: class 3 with liver > 5 cm and age > 7 years (Mathews 2007). Best age: < 14 years (EBMT), ≤ 7 years (CIBMTR).",
       "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Table 80.3)",
       "notes": {
@@ -762,18 +760,18 @@
       "branches": [
         {
           "label": "Full donor myeloid",
-          "box": "Split chimerism: myeloid all donor",
-          "out": "Watch and wait; full donor not needed"
+          "box": "Split chimerism:\nmyeloid all donor",
+          "out": "Watch and wait;\nfull donor not needed"
         },
         {
           "label": "T-cell driven",
           "box": "Donor fraction falling",
-          "out": "Keep or add MMF to raise donor share"
+          "out": "Keep or add MMF\nto raise donor share"
         },
         {
           "label": "MMF not enough",
           "box": "Donor lymphocyte infusion",
-          "out": "Risk of GVHD; efficacy can be limited"
+          "out": "GVHD risk;\nefficacy can be limited"
         }
       ],
       "invert": "root",
@@ -951,7 +949,7 @@
         {
           "head": "Lentiviral addition",
           "body": "Modified β- or γ-globin gene. In TDT, first better in non-β⁰/β⁰; now high long-term transfusion freedom",
-          "extra": "2021 pause: 3 leukaemias in SCD"
+          "extra": "Paused 2021: 3 leukaemias"
         },
         {
           "head": "BCL11A silencing",
@@ -1012,14 +1010,14 @@
         3.8
       ],
       "fontSize": 16,
-      "captionY": 4.4,
       "caption": "Pegcetacoplan: non-inferior for reticulocyte change, not for LDH",
       "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
       "notes": {
         "script": [
           "Anti-C5 治療下仍有 extravascular hemolysis，所以發展出 C3、factor D、factor B 抑制劑。Pegcetacoplan 在 phase III 血紅素比 eculizumab 多升 3.84 g/dL，iptacopan 是口服藥，phase 2 十位中有八位血紅素恢復正常。"
         ]
-      }
+      },
+      "captionY": 4.95
     },
     {
       "type": "table",

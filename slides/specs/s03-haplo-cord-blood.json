@@ -194,7 +194,7 @@
         "CD3/CD19 depletion",
         "TCRαβ/CD19 depletion",
         "Treg, then Tcon co-infusion",
-        "CD45RA+ (naïve T) depletion"
+        "CD45RA+ naïve T depletion"
       ],
       "invert": 2,
       "caption": "Perugia, late 1990s (Aversa 1998): CD34-enriched graft with T cells < 1 × 10⁴/kg. Later methods keep NK, γδ T or memory T cells in the graft.",
@@ -326,7 +326,8 @@
           "第三種把兩者合併。Baltimore 用在 severe aplastic anemia，conditioning 前 day −9 到 −7 先給 ATG，再配 PTCy、CNI、MMF，希望完全避免 GVHD；巴黎 Saint-Antoine 則把 ATG 2.5 mg/kg 加進 acute leukemia 的 MAC haplo。考試常問各平台的 prophylaxis 組合。",
           "三個平台的差別，可以用 T cell 在哪裡、什麼時候被處理來記。北京平台在移植前用 ATG 在體內清 T cell，再用四種藥壓住；Baltimore 讓 T cell 先被活化，再用 PTCy 選擇性殺掉；合併平台兩種都用，免疫抑制最強，書上說目前主要在非惡性疾病測試，例如 aplastic anemia。北京的長期追蹤顯示 ATG 平台的結果可以和 HLA-matched 移植相當，這也是 Wang 2013 的結論。"
         ]
-      }
+      },
+      "captionY": 5.0
     },
     {
       "type": "figure",
@@ -527,22 +528,22 @@
         {
           "label": "EBMT ALWP",
           "box": "Younger donor age, kinship",
-          "out": "Major determinant (Canaani 2018)"
+          "out": "Major determinant\n(Canaani 2018)"
         },
         {
           "label": "Beijing, ATG",
           "box": "Younger donor; NIMA mismatch",
-          "out": "Confirmed relevant (Wang 2014)"
+          "out": "Confirmed\n(Wang 2014)"
         },
         {
           "label": "Single report",
           "box": "NK alloreactivity + HLA-DP",
-          "out": "Suggested (Solomon 2018)"
+          "out": "Suggested only\n(Solomon 2018)"
         },
         {
           "label": "HLA disparity",
           "box": "More mismatched loci",
-          "out": "No solid data to choose by it"
+          "out": "No solid data\nto choose by it"
         }
       ],
       "invert": 0,
@@ -657,8 +658,8 @@
         3.8
       ],
       "fontSize": 16,
-      "caption": "Infused TNC 1–2 × 10⁷/kg with low CD34+: marrow and chimerism on days +20–28; no engraftment → second HCT",
-      "captionY": 5.6,
+      "caption": "If infused TNC is 1–2 × 10⁷/kg: chimerism on days +20–28; no engraftment → second HCT",
+      "captionY": 5.2,
       "notes": {
         "min": 2.0,
         "script": [
@@ -910,9 +911,9 @@
         ]
       ],
       "colW": [
-        2.8,
-        3.6,
-        5.4
+        2.5,
+        3.3,
+        6
       ],
       "fontSize": 17,
       "notes": {

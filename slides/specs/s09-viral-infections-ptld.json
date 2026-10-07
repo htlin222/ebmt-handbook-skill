@@ -8,7 +8,7 @@
   "coverNotes": {
     "min": 0.5,
     "script": [
-      "各位早安，第九週的主題是移植後的病毒感染和 PTLD，對應 EBMT Handbook 第 38 和 45 章；第 39 章其他少見但致命的感染，只挑考點。CMV 是這幾章考最多的，所以放在最前面、講最久，最後一樣用三題 board-style 題目收尾。"
+      "各位早安，第九週的主題是移植後的病毒感染和 PTLD，對應 EBMT Handbook 第 38 和 45 章；第 39 章其他少見但致命的感染，只挑考點。CMV 是這幾章考最多的，所以放在最前面、講最久；PTLD 則是 EBV 這條線的延伸，最後一樣用三題 board-style 題目收尾。三章的共同主軸，是免疫抑制越深，風險越高。"
     ]
   },
   "references": [
@@ -50,8 +50,8 @@
       "notes": {
         "min": 1.0,
         "script": [
-          "今天的內容分四段。CMV 放最前面，從 serology、letermovir prophylaxis、preemptive therapy，一路講到 resistant 或 refractory 時的 maribavir，大約六分鐘。",
-          "接著是其他病毒，包括 HSV 和 VZV 的 acyclovir 劑量、HHV-6 腦炎、社區呼吸道病毒、COVID-19，以及 adenovirus 的 cidofovir。這段劑量多，表格會比較密，重點我會挑出來講。",
+          "今天的內容分四段。CMV 放最前面，從 serology、letermovir prophylaxis、preemptive therapy，一路講到 resistant 或 refractory 時的 maribavir，大約六分鐘。這段的每個數字都可能變成選項。",
+          "接著是其他病毒，包括 HSV 和 VZV 的 acyclovir 劑量、HHV-6 腦炎、社區呼吸道病毒、COVID-19，以及 adenovirus 的 cidofovir。這段劑量多，表格會比較密，重點我會挑出來講。這些病毒的共通點是靠 qPCR 或 multiplex PCR 診斷。",
           "PTLD 那段講誰的風險高、probable 和 proven 怎麼分，以及 rituximab 為主的治療和反應率。最後用一張表帶過第 39 章的 toxoplasma、TB、NTM、Listeria 和 Nocardia，再做三題。時間上病毒佔了一半以上，這也大致反映考題的比重。"
         ]
       }
@@ -64,8 +64,8 @@
       "steps": [
         "Serology: patient and donor",
         "CMV− donor for CMV− patient",
-        "Letermovir 3 months if CMV+",
-        "Weekly qPCR ≥ 3 months",
+        "Letermovir 3 months if CMV+",
+        "Weekly qPCR ≥ 3 months",
         "Preemptive therapy on DNAemia"
       ],
       "invert": 2,
@@ -74,7 +74,7 @@
         "min": 1.0,
         "script": [
           "CMV 的處理從移植前就開始。所有 allo-HCT 病人和 donor 都要先驗 CMV antibody。病人是 CMV 陰性時，盡量挑 CMV 陰性的 donor，血品也用 CMV-safe 的，目的是不要把病毒帶進來。",
-          "CMV 陽性病人移植後給 letermovir 三個月。所有 allo-HCT 病人至少前三個月每週驗 qPCR；有 GVHD 或曾經 replication 的人要追更久，letermovir 停藥後也要繼續追。Auto-HCT 不需要例行監測，因為有症狀的感染少很多。",
+          "CMV 陽性病人移植後給 letermovir 三個月。所有 allo-HCT 病人至少前三個月每週驗 qPCR；有 GVHD 或曾經 replication 的人要追更久，letermovir 停藥後也要繼續追。Auto-HCT 不需要例行監測，因為有症狀的感染少很多。監測用 qPCR。",
           "還有一個考點，MAC 移植時，CMV 陽性病人接受 CMV 陰性 donor，NRM 比較高、OS 比較差，所以 CMV 陽性病人選 donor 時，serostatus 也要放進考量。"
         ]
       }
@@ -126,8 +126,8 @@
         "min": 1.5,
         "script": [
           "這張是預防。過去 CMV 陽性本身就和 allo-HCT 後較差的 OS 有關，CMV replication 也和 NRM 增加、OS 下降有關，有效的 antiviral prophylaxis 出現之後，這個局面才改變。",
-          "Letermovir 的證據來自 Marty 2017，移植後給三個月，降低 clinically significant CMV infection，定義是需要 preemptive therapy 或發生 CMV disease。書上特別寫到，CMV 陽性病人的 all-cause mortality 也下降，這點常拿來和 ganciclovir 比較。",
-          "高風險病人可以延長 letermovir。停藥之後再活化很常見，停了藥監測不能停，第一題就會考這個情境。Ganciclovir prophylaxis 可以降低 CMV disease，但毒性明顯，所以現在很少這樣用。Prophylactic immunoglobulin 的資料互相矛盾，不建議。",
+          "Letermovir 的證據來自 Marty 2017，移植後給三個月，降低 clinically significant CMV infection，定義是需要 preemptive therapy 或發生 CMV disease。書上特別寫到，CMV 陽性病人的 all-cause mortality 也下降，這點常拿來和 ganciclovir 比較。所以 letermovir 的好處不只是少打幾次 ganciclovir，而是直接反映在存活上。",
+          "高風險病人可以延長 letermovir。停藥之後再活化很常見，停了藥監測不能停，第一題就會考這個情境。Ganciclovir prophylaxis 可以降低 CMV disease，但毒性明顯，所以現在很少這樣用。Prophylactic immunoglobulin 的資料互相矛盾，不建議。Ganciclovir 和 letermovir 的差別，就在療效相近時誰的毒性低。",
           "劑量那一列書上沒有寫，括號裡的數字要對照仿單確認。Key points 另外提醒，letermovir 還沒有核准用在兒童，兒科病人仍然要靠監測加 preemptive therapy。"
         ],
         "reminders": [
@@ -184,7 +184,7 @@
           "CMV 在移植病人幾乎什麼器官都能侵犯，也可以只有發燒、倦怠或骨髓抑制。Allo-HCT 最重要的兩個 entity 是 pneumonia 和 gastroenteritis，而且 allo 比 auto 更容易出現症狀，這也是 auto 不需要例行監測的原因之一。",
           "診斷 CMV disease 的原則是症狀加上受侵犯的組織裡找到 CMV，方法有 histopathology、immunohistochemistry 和 DNA hybridization。目前最常用的檢驗是 qPCR，主要用於監測和啟動 preemptive therapy。CMV-specific T-cell 的檢測最近才出現，例行使用的價值還要再評估。",
           "Pneumonia 看 BAL，CMV DNA 很高時支持診斷，BAL 測不到則幾乎可以排除。Retinitis 是例外，眼底表現夠典型，vitreous 驗到 CMV 有幫助。Encephalitis 由 CSF PCR 支持。其他器官的 qPCR 角色還需要研究。",
-          "病房最常見的情況是血中 CMV 陽性又拉肚子，要區分 CMV GI disease 和 GVHD，就得靠內視鏡切片，不能只看血中的數字。"
+          "病房最常見的情況是血中 CMV 陽性又拉肚子，要區分 CMV GI disease 和 GVHD，就得靠內視鏡切片，不能只看血中的數字。血中數字很高但組織沒有 CMV，診斷就仍然只是 infection。"
         ]
       }
     },
@@ -197,12 +197,12 @@
         {
           "label": "DNAemia, no disease",
           "box": "Preemptive GCV, VGCV or foscarnet",
-          "out": "≥ 2 weeks; choose by side effects"
+          "out": "≥ 2 weeks;\nchoose by side effects"
         },
         {
           "label": "End-organ disease",
           "box": "Ganciclovir or foscarnet",
-          "out": "Longer (6–8 weeks); Ig only in pneumonia"
+          "out": "Longer (6–8 weeks);\n± Ig for pneumonia"
         },
         {
           "label": "Resistant/refractory",
@@ -211,8 +211,8 @@
         },
         {
           "label": "Other drugs failed",
-          "box": "Cidofovir; CMV-specific T cells",
-          "out": "T cells weak on steroids ≥ 2 mg/kg"
+          "box": "Cidofovir or\nCMV-specific T cells",
+          "out": "T cells weak on steroids ≥ 2 mg/kg"
         }
       ],
       "invert": 0,
@@ -220,7 +220,7 @@
         "min": 2.0,
         "script": [
           "治療分四個情境。血中測到 CMV 但沒有器官侵犯時，給 preemptive therapy。Ganciclovir、valganciclovir、foscarnet 三種預防 CMV disease 的效果相近，所以依副作用風險和實際考量挑選，例如能不能口服、需不需要住院打針。療程通常至少兩週，有時要更久。重複再活化不少見，三種藥都可以再用。",
-          "開始 preemptive therapy 的 viral load，書上明白說無法給統一的 cutoff，因為取決於病人因素、檢體是 plasma 還是 whole blood，以及檢驗方法本身的表現。各家醫院的數字不同，看別院的報告時要特別注意。",
+          "開始 preemptive therapy 的 viral load，書上明白說無法給統一的 cutoff，因為取決於病人因素、檢體是 plasma 還是 whole blood，以及檢驗方法本身的表現。各家醫院的數字不同，看別院的報告時要特別注意。追蹤同一位病人時，最好固定用同一種檢體和同一家實驗室。",
           "CMV disease 主要用 ganciclovir 或 foscarnet，療程比 preemptive 長，個別決定，書上寫 6 到 8 週。CMV pneumonia 常合併 high-dose Ig，但支持的資料有限；其他 CMV disease 加 Ig 則完全沒有資料。",
           "Resistant 或 refractory 時，maribavir 在 Avery 2022 的隨機試驗中比其他選擇更有效，毒性也較少。其他藥都失敗時才用 cidofovir。CMV-specific T cells 在非對照研究裡用於 resistant 或 refractory 個案，來源可以是原 donor 或 third-party，但病人如果正在用 2 mg/kg 以上的 steroid，效果可能很差。",
           "這張最常考兩件事，preemptive 三種藥效果相等，以及 maribavir 的位置是在 refractory，不是第一線。"
@@ -239,14 +239,14 @@
       ],
       "rows": [
         [
-          "HSV prophylaxis, seropositive allo-HCT",
-          "Acyclovir 3×200 to 2×800 mg/d, or valaciclovir 2×500 mg/d",
-          "≥ 4 weeks (longer if VZV+)"
+          "HSV prophylaxis, HSV+ allo-HCT",
+          "Acyclovir 3×200 to 2×800 mg/d,\nor valaciclovir 2×500 mg/d",
+          "≥ 4 weeks;\nlonger if VZV+"
         ],
         [
-          "VZV prophylaxis, seropositive",
+          "VZV prophylaxis, VZV+",
           "Acyclovir 2×800 mg or valaciclovir 2×500 mg",
-          "≥ 12 months or end of IS"
+          "≥ 12 months or end of IS"
         ],
         [
           "VZV exposure, seronegative",
@@ -254,18 +254,18 @@
           "To day 21 after exposure"
         ],
         [
-          "Severe mucocutaneous or visceral HSV",
+          "Severe mucocutaneous/visceral HSV",
           "IV acyclovir 5 mg/kg (250 mg/m²) q8h",
           "7–10 days"
         ],
         [
           "HSV pneumonia or encephalitis",
           "IV acyclovir 10 mg/kg (500 mg/m²) q8h",
-          "≥ 14–21 days"
+          "≥ 14–21 days"
         ],
         [
-          "Varicella, disseminated or visceral VZV",
-          "IV acyclovir 3 × 500 mg/m²/day",
+          "Varicella; disseminated/visceral VZV",
+          "IV acyclovir 3 × 500 mg/m²/day",
           "—"
         ],
         [
@@ -275,8 +275,8 @@
         ]
       ],
       "colW": [
-        4.0,
-        5.2,
+        4.3,
+        4.9,
         2.6
       ],
       "fontSize": 16,
@@ -353,7 +353,7 @@
       "rows": [
         [
           "Lower-tract disease (LTD)",
-          "10–30% of CARV; mortality < 5%, > 30% if profound IS"
+          "10–30% of CARV; mortality < 5%, > 30% if profound IS"
         ],
         [
           "Risk factors for LTD and death",
@@ -369,7 +369,7 @@
         ],
         [
           "Influenza",
-          "Vaccine at 6 months; early oseltamivir, often > 5 days"
+          "Vaccine at 6 months; early oseltamivir, often > 5 days"
         ],
         [
           "RSV",
@@ -422,7 +422,7 @@
         ],
         [
           "Vaccination",
-          "mRNA × 3 from 3–6 months, booster 3–4 months later"
+          "mRNA × 3 from 3–6 months, booster 3–4 months later"
         ],
         [
           "Positive before HCT or CAR-T",
@@ -437,7 +437,7 @@
       "notes": {
         "min": 1.5,
         "script": [
-          "COVID-19 在 HCT 病人的死亡率曾經是 12 到 25%，疫苗和 Omicron 出現之後明顯下降。診斷的標準是鼻咽檢體 RT-PCR，快篩可以替代但敏感度較低；抗體效價不能用來診斷。治療依病程分期，早期抑制病毒複製，後期壓制發炎反應。",
+          "COVID-19 在 HCT 病人的死亡率曾經是 12 到 25%，疫苗和 Omicron 出現之後明顯下降。診斷的標準是鼻咽檢體 RT-PCR，快篩可以替代但敏感度較低；抗體效價不能用來診斷。治療依病程分期，早期抑制病毒複製，後期壓制發炎反應。下呼吸道檢體只在要排除其他病因或合併感染時才需要。",
           "表上是 ECIL 9 的建議。高風險病人暴露前或暴露後，用 anti-spike monoclonal antibody，前提是對當時流行的變異株有效。輕到中度、不需要氧氣時，早期給 nirmatrelvir/ritonavir、remdesivir 或 molnupiravir。需要氧氣或重症時給 dexamethasone 和 remdesivir，惡化時再加 anti-IL-6、JAK inhibitor 或 anakinra。",
           "疫苗用 mRNA，移植後三到六個月開始打三劑，三到四個月後追加一劑。SARS-CoV-2 陽性的病人，HCT 或 CAR-T 要延到臨床和病毒學都轉陰；沒有症狀但持續 shedding 的人，個案評估。住院的 COVID 病人最好離開移植病房，住單人房，醫護人員戴 FFP2 等防護，以免院內群聚。"
         ]
@@ -458,7 +458,7 @@
         ],
         [
           "Monitoring",
-          "Weekly blood qPCR if ≥ 1 risk factor, until CD3 > 300/mm³"
+          "Weekly blood qPCR if ≥ 1 risk factor, until CD3 > 300/mm³"
         ],
         [
           "Prevention",
@@ -466,11 +466,11 @@
         ],
         [
           "Preemptive (rising load + risk)",
-          "Cidofovir 3–5 mg/kg weekly × 2–3, then every other week"
+          "Cidofovir 3–5 mg/kg weekly × 2–3, then every other week"
         ],
         [
           "Probable or proven disease",
-          "Cidofovir 5 mg/kg weekly ≥ 3 doses, then q2w + probenecid"
+          "Cidofovir 5 mg/kg weekly ≥ 3 doses, then q2w + probenecid"
         ],
         [
           "Non-responders",
@@ -515,7 +515,7 @@
         ],
         [
           "High",
-          "MFD + ≥ 1 risk factor: TCD,\nEBV mismatch, splenectomy",
+          "MFD + ≥ 1 risk factor: TCD,\nEBV mismatch, splenectomy",
           "—"
         ],
         [
@@ -545,7 +545,7 @@
       "notes": {
         "min": 1.5,
         "script": [
-          "PTLD 在 HCT 幾乎都是 EBV 驅動，一般人口 EBV 盛行率大約 82 到 84%，而且移植後的 PTLD 通常來自 donor。風險和 T-cell depletion 或 impairment 的程度成正比，這是最主要的危險因子，donor 和 conditioning 的種類只是次要。",
+          "PTLD 在 HCT 幾乎都是 EBV 驅動，一般人口 EBV 盛行率大約 82 到 84%，而且移植後的 PTLD 通常來自 donor。風險和 T-cell depletion 或 impairment 的程度成正比，這是最主要的危險因子，donor 和 conditioning 的種類只是次要。任何不分青紅皂白把 T cell 從 graft 拿掉的 GVHD 預防策略，都會增加 PTLD。",
           "ECIL-6 分三組。High risk 是 MUD、MMUD、包括 cord blood 在內的 alternative donor，以及帶有至少一個危險因子的 matched family donor，這些危險因子是 T-cell depletion、donor 和 recipient 的 EBV 血清不合，以及脾臟切除。Standard risk 是沒有危險因子的 MFD 和 haplo 加 PTCy。Low risk 是 auto-HCT。",
           "右欄是發生率，全部 allo 是 3.22%，MFD 1.16%，mismatched family 2.86%，MMUD 最高到 11.24%。EBV-DNA-emia 的中位發生率約 29%，haplo 加 PTCy 最低，沒有 PTCy 的 haplo 和 unrelated donor 最高。中位發生時間 2 到 4 個月，90% 在六個月內，五年以後才出現的比較像真正的 lymphoma。"
         ]
@@ -570,7 +570,7 @@
         ],
         [
           "EBV-DNA monitoring",
-          "Start ≤ 4 weeks after HCT; weekly; ≥ 4 months if high risk"
+          "Start ≤ 4 weeks after HCT; weekly; ≥ 4 months if high risk"
         ],
         [
           "Threshold",
@@ -596,7 +596,7 @@
         "script": [
           "EBV disease 分 probable 和 proven。Proven 要有器官的症狀或徵候，加上組織檢體 EBER in situ hybridization 陽性；EBV 蛋白的免疫染色特異性好，但敏感度較低。Probable 不需要切片，條件是明顯淋巴結腫大、肝脾腫大或其他器官表現，加上高的 EBV-DNA-emia，而且找不到其他原因。",
           "有危險因子的病人，在血球恢復後、最晚移植後四週開始驗 EBV DNA，陰性時每週一次，高風險至少追四個月；T-cell 恢復差、嚴重 GVHD、haplo、TCD、用過 ATG 或 alemtuzumab，以及早期就再活化的人要追更久。EBV 的 doubling time 可以短到 56 小時，數字上升就要驗得更密。書上強調沒有統一的 cutoff，各中心自訂，而且要看上升速度和病人的免疫功能。",
-          "影像用 FDG-PET-CT，大部分 PTLD 是 FDG-avid；CNS 或 non-avid 則用 MRI。ECIL-6 依 Lugano 分期，stage I 到 II 是 limited，III 到 IV 是 advanced。"
+          "影像用 FDG-PET-CT，大部分 PTLD 是 FDG-avid；CNS 或 non-avid 則用 MRI。ECIL-6 依 Lugano 分期，stage I 到 II 是 limited，III 到 IV 是 advanced。Key points 也強調，確診要靠切片這類侵入性檢查，EBV DNA 和影像只是輔助。"
         ]
       }
     },
@@ -629,7 +629,7 @@
         "script": [
           "EBV 沒有有效的抗病毒藥，這是整張圖的前提，也是考題最愛放的錯誤選項。Prophylaxis 是給沒有 DNA-emia 的血清陽性病人，用 rituximab 或 EBV-CTL，實務上很少用。Prophylactic rituximab 雖然降低 EBV-DNA-emia，但和 preemptive 相比，PTLD 發生率、TRM 和 OS 都沒有差別。Prophylactic EBV-CTL 效果很好，問題是大多數中心拿不到。",
           "Preemptive therapy 針對有明顯 EBV-DNA-emia、還沒有症狀的高風險病人，主力是 rituximab 每週一次，用到 DNA-emia 轉陰，通常一到兩劑就夠，能的話合併 reduction of immunosuppression。RIS 的禁忌是嚴重、控制不住的 GVHD。目標是 PCR 轉陰或降到起始閾值以下，而且不復發。",
-          "已經確立的 PTLD 要盡快治療，因為腫瘤長得快，EBV 也可能很快造成多器官衰竭。第一線是 rituximab 375 mg/m² 每週一次，加上 RIS，有的話用 donor 或 third-party EBV-CTL。PTLD 在診斷時就要當作全身性疾病看待。"
+          "已經確立的 PTLD 要盡快治療，因為腫瘤長得快，EBV 也可能很快造成多器官衰竭。第一線是 rituximab 375 mg/m² 每週一次，加上 RIS，有的話用 donor 或 third-party EBV-CTL。PTLD 在診斷時就要當作全身性疾病看待。另外，PTCy 或 sirolimus 做 GVHD 預防時，EBV-DNA-emia 和 PTLD 的風險都低。"
         ]
       }
     },
@@ -692,7 +692,7 @@
         "script": [
           "這張是 Table 45.4 的反應率。Rituximab 在 preemptive 情境大約 90%，治療 established PTLD 是 65%，加上 RIS 升到 78%。EBV-CTL 最好，preemptive 94 到 100%，治療 71 到 75%。單用 RIS 是 68% 和 61%。",
           "下面三列是合併其他治療時的數字，DLI 58%，化療 26%，cidofovir 34%。Rituximab 失敗後的 second line 是 cellular therapy，包括非特異的 DLI 或 EBV-CTL，以及 chemotherapy 加減 rituximab。用 EBV 陽性 donor 的 unselected DLI，是為了恢復廣泛的 T-cell 反應。2022 年 EMA 核准 tabelecleucel，是 off-the-shelf 的 third-party EBV-specific T cells。",
-          "早期反應的指標是 rituximab 第一週 EBV DNA 下降至少 1 log。Rituximab 預後較好的因素包括 30 歲以下、非惡性的原發疾病、沒有 grade II 以上 aGVHD，以及診斷時有做 RIS。IVIG、interferon 和抗病毒藥都不應該用來治療 PTLD，這句常被做成錯誤選項。"
+          "早期反應的指標是 rituximab 第一週 EBV DNA 下降至少 1 log。Rituximab 預後較好的因素包括 30 歲以下、非惡性的原發疾病、沒有 grade II 以上 aGVHD，以及診斷時有做 RIS。IVIG、interferon 和抗病毒藥都不應該用來治療 PTLD，這句常被做成錯誤選項。確認反應時，FDG-avid 的病灶看 PET 是否陰轉，non-avid 或 CNS 病灶則看 CT 或 MRI。"
         ]
       }
     },
@@ -710,47 +710,47 @@
       "rows": [
         [
           "Toxoplasma",
-          "Sero+ allo-HCT; 95% within 6 months; aGVHD",
-          "qPCR in blood, CSF or BAL; CNS > lung, heart",
-          "Pyrimethamine + sulfadiazine or clindamycin"
+          "Sero+ allo-HCT; 95% within\n6 months; aGVHD",
+          "qPCR in blood, CSF or BAL;\nCNS > lung, heart",
+          "Pyrimethamine +\nsulfadiazine or clindamycin"
         ],
         [
           "Tuberculosis",
-          "Allo 2–10× general population; endemic area",
-          "IGRA unreliable; PCR, then culture",
-          "Call ID; regimen by local resistance"
+          "Allo 2–10× general population;\nendemic areas",
+          "IGRA unreliable;\nPCR, then culture",
+          "Call ID; regimen by\nlocal resistance"
         ],
         [
           "NTM",
-          "CVC 40%, skin 30%, lung 20%; MAC in cGVHD",
+          "CVC 40%, skin 30%, lung 20%;\nMAC in severe cGVHD",
           "Isolate from affected organ",
-          "Remove CVC; macrolide + quinolone"
+          "Remove CVC;\nmacrolide + quinolone"
         ],
         [
           "Listeria",
           "Severe cellular IS + food",
-          "Bacteraemia; CNS in 40–60%",
-          "Ampicillin + aminoglycoside, 3 wk (CNS 6)"
+          "Bacteraemia;\nCNS in 40–60%",
+          "Ampicillin + aminoglycoside;\n3 wk (CNS 6 wk)"
         ],
         [
           "Nocardia",
           "Late; steroid-dependent cGVHD",
-          "Cavitating nodules 90%; CNS ~1/3",
-          "High-dose TMP/SMX ≥ 6 months"
+          "Cavitating nodules 90%;\nCNS in ~1/3",
+          "High-dose TMP/SMX\n≥ 6 months"
         ]
       ],
       "colW": [
-        2.1,
-        3.4,
-        3.2,
-        3.1
+        1.7,
+        3.5,
+        3.3,
+        3.3
       ],
       "fontSize": 15,
       "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
       "notes": {
         "min": 2.0,
         "script": [
-          "第 39 章講少見但會致命的感染，共通點是嚴重的細胞免疫抑制，尤其是長期用 steroid 的 GVHD。",
+          "第 39 章講少見但會致命的感染，共通點是嚴重的細胞免疫抑制，尤其是長期用 steroid 的 GVHD。Key points 的意思是，雖然少見，但只有先想到，才能早期診斷、把治療對準病原。",
           "Toxoplasma 主要是血清陽性 allo 病人的再活化，95% 在六個月內，aGVHD 和它的治療是主要危險因子。最常侵犯 CNS，肺和心肌也常見。診斷靠血、CSF 或 BAL 的 PCR，治療是 pyrimethamine 加 sulfadiazine 或 clindamycin，適當治療下最多六成病人改善。",
           "TB 的風險跟所在地區的盛行率成正比，allo 大約是一般人的 2 到 10 倍。書上的表也收了台灣的資料，allo 約為一般人的 7 到 13 倍。肺外以腦膜炎最常見。QuantiFERON 在移植病人因為 T-cell 缺陷而不可靠，診斷靠 PCR 和培養，一個 colony 就算確診，不會是 colonization。治療要立刻找感染科，依當地抗藥情形選藥；以前已經適當治療過的 TB 不需要預防。",
           "NTM 以 CVC 感染最多，導管應該拔除，等感染科意見時先給 macrolide 加 quinolone。Listeria 幾乎都是 sepsis，40 到 60% 有 CNS 侵犯，用高劑量 ampicillin 加 aminoglycoside 三週，CNS 六週。Nocardia 是晚期感染，九成有肺部結節，約三分之一一開始就有 CNS 侵犯，basal meningitis 造成的 SIADH 也常見，治療用高劑量 TMP/SMX 至少六個月。"
@@ -765,27 +765,27 @@
       "stem": "A 48-year-old CMV-seropositive woman had a matched unrelated donor allo-HCT for AML and took letermovir until day 100. On day 128, weekly plasma CMV qPCR has risen on two consecutive samples. She is asymptomatic, with normal counts and renal function and no GVHD. What is the most appropriate next step?",
       "options": [
         "Stop CMV monitoring, since prophylaxis has been completed",
-        "Preemptive valganciclovir, ganciclovir or foscarnet for ≥ 2 weeks",
+        "Preemptive valganciclovir, ganciclovir or foscarnet for ≥ 2 weeks",
         "Maribavir as first-line preemptive therapy",
         "High-dose immunoglobulin alone",
         "Withhold treatment until a biopsy proves CMV disease"
       ],
       "answer": "B",
-      "answerTitle": "Answer B: treat DNAemia preemptively, at least 2 weeks",
-      "explanation": "Reactivation is common after letermovir stops, so monitoring must continue. Ganciclovir, valganciclovir and foscarnet are similarly effective as preemptive therapy; choose by side effects and practicality, usually for ≥ 2 weeks. Maribavir is for resistant or refractory infection. Ig is not supported; preemptive therapy is given before disease.",
+      "answerTitle": "Answer B: start preemptive therapy now",
+      "explanation": "Reactivation is common after letermovir stops, so monitoring must continue. Ganciclovir, valganciclovir and foscarnet are similarly effective as preemptive therapy; choose by side effects and practicality, usually for ≥ 2 weeks. Maribavir is for resistant or refractory infection. Ig is not supported; preemptive therapy is given before disease.",
       "notes": {
         "min": 0.75,
         "script": [
           "第一題是 CMV。48 歲女性，CMV 陽性，因為 AML 接受 matched unrelated donor 的 allo-HCT，letermovir 吃到 day 100。Day 128，每週驗的 plasma CMV qPCR 連續兩次上升。她沒有任何症狀，血球和腎功能都正常，也沒有 GVHD。問下一步最適當的處置。",
-          "選項有停止監測、三種傳統藥之一做 preemptive、maribavir、單用 high-dose Ig，以及等切片證實再治療。先想清楚她現在是 infection 還是 disease。",
+          "選項有停止監測、三種傳統藥之一做 preemptive、maribavir、單用 high-dose Ig，以及等切片證實再治療。先想清楚她現在是 infection 還是 disease。題目沒有給 viral load 的數字，這是刻意的。",
           "[Pause for answers.]"
         ]
       },
       "answerNotes": {
         "min": 1.0,
         "script": [
-          "正確是 B。Letermovir 停藥後再活化很常見，所以 A 錯，監測必須繼續。她現在是沒有器官侵犯的 DNA-emia，屬於 preemptive therapy 的情境，ganciclovir、valganciclovir、foscarnet 效果相近，依副作用和方便性選，通常至少兩週。她血球和腎功能都正常，三種藥都可以用。",
-          "最容易被選的是 C。Maribavir 的隨機試驗證據在 resistant 或 refractory CMV，不是第一線 preemptive。D 的 Ig 書上沒有資料支持，prophylactic Ig 也不建議。E 把 preemptive 的概念弄反了，它本來就是要在 disease 出現之前治療。"
+          "正確是 B。Letermovir 停藥後再活化很常見，所以 A 錯，監測必須繼續。她現在是沒有器官侵犯的 DNA-emia，屬於 preemptive therapy 的情境，ganciclovir、valganciclovir、foscarnet 效果相近，依副作用和方便性選，通常至少兩週。她血球和腎功能都正常，三種藥都可以用。如果反覆再活化，三種藥也都可以再用。",
+          "最容易被選的是 C。Maribavir 的隨機試驗證據在 resistant 或 refractory CMV，不是第一線 preemptive。D 的 Ig 書上沒有資料支持，prophylactic Ig 也不建議。E 把 preemptive 的概念弄反了，它本來就是要在 disease 出現之前治療。這題的關鍵字是 asymptomatic 和兩次上升，兩個加起來就是 preemptive 的定義。"
         ]
       }
     },
@@ -793,7 +793,7 @@
       "type": "mcq",
       "eyebrow": "Board-style question 2 of 3",
       "title": "Question 2: first-line therapy for EBV-PTLD",
-      "stem": "A 34-year-old man is 75 days after a 9/10 HLA-mismatched unrelated donor allo-HCT with ATG. He has fever and cervical lymphadenopathy; blood EBV DNA has risen sharply over 2 weeks. A node biopsy shows a monomorphic B-cell lesion positive for EBER-ISH. He has stage 1 skin GVHD on tacrolimus. What is the best first-line therapy?",
+      "stem": "A 34-year-old man is 75 days after a 9/10 HLA-mismatched unrelated donor allo-HCT with ATG. He has fever and cervical lymphadenopathy; blood EBV DNA has risen sharply over 2 weeks. A node biopsy shows a monomorphic B-cell lesion positive for EBER-ISH. He has stage 1 skin GVHD on tacrolimus. Best first-line therapy?",
       "options": [
         "IV ganciclovir until EBV DNA is negative",
         "Rituximab 375 mg/m² weekly with reduction of immunosuppression",
@@ -809,7 +809,7 @@
         "min": 0.75,
         "script": [
           "第二題換 PTLD。34 歲男性，9/10 mismatched unrelated donor，conditioning 用了 ATG，現在移植後 day 75。發燒、頸部淋巴結腫大，血中 EBV DNA 兩週內快速上升。淋巴結切片是 monomorphic B-cell 病灶，EBER-ISH 陽性。他目前只有 stage 1 的皮膚 GVHD，用 tacrolimus 控制。問最適當的第一線治療。",
-          "先判斷這是 probable 還是 proven，再想第一線包含哪兩個元素。",
+          "先判斷這是 probable 還是 proven，再想第一線包含哪兩個元素。題幹裡 MMUD 加 ATG，屬於 ECIL-6 的 high risk。也留意他的 GVHD 程度。",
           "[Pause for answers.]"
         ]
       },
@@ -817,7 +817,7 @@
         "min": 1.0,
         "script": [
           "正確是 B。症狀加上組織 EBER-ISH 陽性，就是 proven EBV-PTLD，要盡快治療。第一線是 rituximab 375 mg/m² 每週一次，加上 RIS；RIS 的禁忌是嚴重而且控制不住的 GVHD，這位只有 stage 1 皮膚，可以減。治療 PTLD 時 rituximab 單用 65%，加 RIS 78%。",
-          "常被選的是 D。化療加減 rituximab 是 rituximab 失敗後的 second line，合併其他治療的反應率也只有 26%。A 和 C 都是書上明說不該用的，EBV 沒有有效的抗病毒藥。E 也不對，proven PTLD 可能很快惡化成多器官衰竭，不能觀察。"
+          "常被選的是 D。化療加減 rituximab 是 rituximab 失敗後的 second line，合併其他治療的反應率也只有 26%。A 和 C 都是書上明說不該用的，EBV 沒有有效的抗病毒藥。E 也不對，proven PTLD 可能很快惡化成多器官衰竭，不能觀察。如果這位病人有 EBV-CTL 可用，也是第一線的選項之一，但不會出現在大多數醫院的選擇裡。"
         ]
       }
     },
@@ -825,7 +825,7 @@
       "type": "mcq",
       "eyebrow": "Board-style question 3 of 3",
       "title": "Question 3: cavitating nodules in chronic GVHD",
-      "stem": "A 57-year-old man is 14 months after allo-HCT and takes prednisolone for steroid-dependent chronic GVHD, with TMP/SMX twice weekly. He has fever and cough; CT shows two cavitating lung nodules. BAL shows branching, acid-fast, gram-positive rods. He is neurologically normal. Besides high-dose TMP/SMX, what is mandatory now?",
+      "stem": "A 57-year-old man is 14 months after allo-HCT and takes prednisolone for steroid-dependent chronic GVHD, with TMP/SMX twice weekly. He has fever and cough; CT shows two cavitating lung nodules. BAL shows branching, acid-fast, gram-positive rods. He is neurologically normal. Besides high-dose TMP/SMX, what is mandatory?",
       "options": [
         "Brain CT or MRI, even without neurological symptoms",
         "Repeat BAL in 2 weeks, as airway colonization is likely",
@@ -841,14 +841,14 @@
         "min": 0.75,
         "script": [
           "最後一題來自第 39 章。57 歲男性，移植後 14 個月，因為 steroid-dependent chronic GVHD 持續吃 prednisolone，TMP/SMX 一週只吃兩天。現在發燒咳嗽，CT 有兩顆空洞化的肺結節，BAL 看到分枝狀、acid-fast 的 gram-positive 桿菌。神經學檢查正常。除了高劑量 TMP/SMX，現在一定要做什麼。",
-          "選項包括腦部影像、兩週後重做 BAL、加 voriconazole、四合一抗結核藥，以及總共三週的療程。",
+          "選項包括腦部影像、兩週後重做 BAL、加 voriconazole、四合一抗結核藥，以及總共三週的療程。注意題目問的是除了治療之外，一定要做的事。",
           "[Pause for answers.]"
         ]
       },
       "answerNotes": {
         "min": 1.0,
         "script": [
-          "正確是 A。分枝狀、acid-fast 的 gram-positive 桿菌，加上晚期、steroid-dependent 的 cGVHD，就是 Nocardia。大約三分之一的病人一開始就有 CNS 侵犯，而且可以沒有症狀，所以肺部 nocardiosis 一律要照腦部 CT 或 MRI。",
+          "正確是 A。分枝狀、acid-fast 的 gram-positive 桿菌，加上晚期、steroid-dependent 的 cGVHD，就是 Nocardia。大約三分之一的病人一開始就有 CNS 侵犯，而且可以沒有症狀，所以肺部 nocardiosis 一律要照腦部 CT 或 MRI。如果是 single-strength 每週五到七天的預防，分離出的菌株通常對 TMP/SMX 敏感，高劑量治療反應也好。",
           "B 錯在 Nocardia 和結核菌一樣不會 colonize 呼吸道，培養到就是感染。C 的 mould 是最主要的鑑別診斷，但菌的型態已經給答案了。E 的三週是 Listeria 的療程，Nocardia 至少要六個月。題幹裡一週兩天的 TMP/SMX 也是線索，2 到 3 天的排程預防不了 Nocardia。"
         ]
       }
@@ -877,7 +877,7 @@
         [
           "Zika, West Nile",
           "Transmissible by blood and progenitor cells",
-          "Defer donor ≥ 28 days"
+          "Defer donor ≥ 28 days"
         ],
         [
           "HTLV-1",
@@ -917,7 +917,7 @@
         ],
         [
           "Early response",
-          "≥ 1 log fall in EBV DNA in the first week of rituximab"
+          "≥ 1 log fall in EBV DNA in the first week of rituximab"
         ],
         [
           "Complete remission",
@@ -925,11 +925,11 @@
         ],
         [
           "Partial response",
-          "≥ 50% decrease of initial changes, including EBV DNA"
+          "≥ 50% decrease of initial changes, including EBV DNA"
         ],
         [
           "Good prognosis with rituximab",
-          "Age < 30, nonmalignant disease, no aGVHD ≥ II, RIS"
+          "Age < 30, nonmalignant disease, no aGVHD ≥ II, RIS"
         ]
       ],
       "colW": [
@@ -968,7 +968,7 @@
         ],
         [
           "Breakthrough risk",
-          "TMP/SMX taken < 3 days/week"
+          "TMP/SMX taken < 3 days/week"
         ],
         [
           "Alternatives",

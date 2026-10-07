@@ -175,7 +175,7 @@
         ],
         [
           "Platelets 25–50 × 10⁹/L",
-          "Reduced-dose LMWH in some centres; or transfuse\nto 50 × 10⁹/L for a large symptomatic clot"
+          "Reduced-dose LMWH (some centres); big clot: transfuse to 50"
         ],
         [
           "Maintenance",
@@ -187,7 +187,7 @@
         ],
         [
           "Catheter-related thrombosis",
-          "Anticoagulate; remove line only if\nnonfunctional, not needed or infected"
+          "Keep line unless nonfunctional, unneeded or infected"
         ],
         [
           "Duration, CRT",
@@ -202,7 +202,7 @@
         3.6,
         8.2
       ],
-      "fontSize": 15,
+      "fontSize": 16,
       "notes": {
         "min": 2.0,
         "script": [
@@ -220,7 +220,7 @@
       "type": "table",
       "section": "Haemorrhagic cystitis and kidney",
       "eyebrow": "HC · Early versus late",
-      "title": "Early HC is chemical; late HC is driven by BK polyomavirus",
+      "title": "Early HC is chemical, late HC is viral",
       "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
       "head": [
         "",
@@ -273,7 +273,8 @@
           "晚發型從 engraftment 前後，也就是兩到四週，一直延伸到第二、三個月，發生率 7 到 25%。主因是 BK polyomavirus，腺病毒少見，再加上 donor 的 alloreactivity 攻擊膀胱黏膜。Fluoroquinolone 在試管裡能抑制 BK，但臨床上沒有降低 HC，還有細菌抗藥性和兒童肌腱關節傷害的問題，所以不建議拿來預防。",
           "底下是血尿分級，一級顯微、二級肉眼、三級有血塊、四級是血塊造成阻塞和腎衰竭。考題最常用發生時間來區分兩型，看到 day 28 就應該想到晚發型。"
         ]
-      }
+      },
+      "captionY": 4.8
     },
     {
       "type": "chain",
@@ -283,7 +284,7 @@
       "steps": [
         "Macroscopic haematuria",
         "Dysuria, frequency or lower abdominal pain",
-        "BKPyV viruria > 10⁷ copies/mL (viraemia > 10³ in two-thirds)",
+        "Viruria > 10⁷ copies/mL (viraemia > 10³ in ⅔)",
         "Other causes excluded; US or CT for clots"
       ],
       "invert": 2,
@@ -361,7 +362,7 @@
     {
       "type": "table",
       "eyebrow": "Kidney · AKI",
-      "title": "AKI affects 27–66% of allo-HCT recipients by day 100",
+      "title": "AKI hits 27–66% of allo-HCT recipients",
       "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
       "head": [
         "Category",
@@ -391,7 +392,7 @@
         5.4
       ],
       "fontSize": 20,
-      "captionY": 4.6,
+      "captionY": 4.75,
       "caption": "Lower after auto-HCT. AKI raises later CKD, non-relapse and overall mortality.",
       "notes": {
         "min": 1.0,
@@ -407,7 +408,7 @@
       "type": "table",
       "section": "Noninfectious lung complications",
       "eyebrow": "Lung · Idiopathic pneumonia syndrome",
-      "title": "IPS is widespread alveolar injury with infection excluded",
+      "title": "IPS is widespread alveolar injury in the absence of infection",
       "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
       "head": [
         "Item",
@@ -465,7 +466,7 @@
     {
       "type": "table",
       "eyebrow": "Lung · Diffuse alveolar haemorrhage",
-      "title": "DAH is diagnosed by progressively bloodier BAL returns",
+      "title": "DAH is diagnosed when serial BAL aliquots turn progressively bloodier",
       "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52 · Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
       "head": [
         "Feature",
@@ -543,7 +544,7 @@
         ],
         [
           "CT",
-          "Air trapping, mosaic, bronchial\nchanges; no parenchymal opacity",
+          "Air trapping, mosaic, bronchial\nchanges; no opacities",
           "Alveolar and/or interstitial\nopacities"
         ],
         [
@@ -592,7 +593,7 @@
         },
         {
           "label": "Combination",
-          "box": "FAM: fluticasone, azithromycin, montelukast",
+          "box": "FAM (fluticasone, azithro, montelukast)",
           "out": "FEV1 stabilised, single arm (Williams 2016)"
         },
         {
@@ -760,7 +761,7 @@
       "type": "mcq",
       "section": "Board questions",
       "eyebrow": "Board-style question 1 of 3",
-      "title": "Question 1: haematuria four weeks after haplo-HCT",
+      "title": "Question 1: haematuria on day 28",
       "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
       "stem": "A 35-year-old man is 28 days after haploidentical PBSC HCT with post-transplant cyclophosphamide and mesna. Neutrophils engrafted on day 18. He now has macroscopic haematuria with clots, dysuria and suprapubic pain. Urine BKPyV DNA is 10⁹ copies/mL and plasma BKPyV DNA 10⁴ copies/mL. Which statement is correct?",
       "options": [
@@ -771,7 +772,7 @@
         "Weekly BK monitoring should guide pre-emptive therapy"
       ],
       "answer": "B",
-      "answerTitle": "Answer B: late-onset HC around engraftment is BK-driven",
+      "answerTitle": "Answer B: BK virus drives late-onset HC",
       "explanation": "Onset at engraftment, cystitis symptoms and viruria > 10⁷ copies/mL define BKPyV-HC. Treat with hyperhydration and forced diuresis, with IV (plus probenecid) or intravesical cidofovir. Early HC occurs within 48 h of conditioning. Fluoroquinolones, bladder irrigation and routine BK monitoring are not recommended.",
       "notes": {
         "min": 0.75,
@@ -794,9 +795,9 @@
     {
       "type": "mcq",
       "eyebrow": "Board-style question 2 of 3",
-      "title": "Question 2: breathlessness 14 months after allo-HCT",
+      "title": "Question 2: breathlessness at 14 months",
       "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
-      "stem": "A 48-year-old woman with oral and skin chronic GVHD has progressive dyspnoea 14 months after allo-HCT. FEV1/VC is 0.62, FEV1 58% of predicted (25% below baseline), RV 140% of predicted, with no bronchodilator response. CT shows mosaic attenuation and air trapping without parenchymal opacities. BAL is negative. Which statement is correct?",
+      "stem": "A 48-year-old woman with oral and skin chronic GVHD has progressive dyspnoea 14 months after allo-HCT. FEV1/VC 0.62, FEV1 58% of predicted (25% below baseline), RV 140%, no bronchodilator response. CT: mosaic attenuation and air trapping, no parenchymal opacity. BAL is negative. Which statement is correct?",
       "options": [
         "A lung biopsy is required to confirm the diagnosis",
         "Systemic steroids are highly effective for this condition",
@@ -830,7 +831,7 @@
       "eyebrow": "Board-style question 3 of 3",
       "title": "Question 3: seizure and blindness on day 20",
       "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
-      "stem": "A 55-year-old man is 20 days after busulfan-cyclophosphamide MAC and matched unrelated HCT on cyclosporine and methotrexate. Voriconazole was started on day 14 for probable aspergillosis. He develops headache, cortical blindness and a generalized seizure. BP is 182/104 mmHg and creatinine has doubled. MRI shows bilateral subcortical parieto-occipital T2 hyperintensity. Best next step?",
+      "stem": "A 55-year-old man on cyclosporine and methotrexate is 20 days after busulfan-cyclophosphamide MAC and MUD HCT; voriconazole began on day 14. He develops headache, cortical blindness and a seizure. BP is 182/104 mmHg; creatinine has doubled. MRI: bilateral subcortical parieto-occipital T2 hyperintensity. Best next step?",
       "options": [
         "Stop cyclosporine, control blood pressure and treat seizures",
         "Start foscarnet for presumed HHV-6 encephalitis",
@@ -863,7 +864,7 @@
       "type": "table",
       "backup": true,
       "eyebrow": "Haemostasis · VTE risk scores",
-      "title": "Two scores estimate VTE risk after allogeneic HCT",
+      "title": "Two scores estimate VTE risk after allo-HCT",
       "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
       "head": [
         "",
@@ -943,7 +944,7 @@
         ],
         [
           "Post-renal",
-          "BKPyV or adenovirus cystitis, retroperitoneal fibrosis, nodes"
+          "BK or adenovirus cystitis, retroperitoneal fibrosis, nodes"
         ]
       ],
       "colW": [
@@ -961,7 +962,7 @@
       "type": "table",
       "backup": true,
       "eyebrow": "Haemostasis · CAR-T",
-      "title": "VTE and bleeding are also common after CAR-T therapy",
+      "title": "CAR-T also carries VTE and bleeding risk",
       "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
       "head": [
         "Study",
@@ -1008,7 +1009,7 @@
       "type": "chain",
       "backup": true,
       "eyebrow": "Lung · Work-up",
-      "title": "Early bronchoscopy anchors the pulmonary work-up",
+      "title": "Early bronchoscopy anchors the lung work-up",
       "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
       "steps": [
         "SpO₂ (hall walk if late onset)",
@@ -1018,7 +1019,7 @@
         "Biopsy in selected cases"
       ],
       "invert": 3,
-      "caption": "BAL gives a diagnosis in up to 78%; a pathogen in ~50% of suspected IPS; FOB complications < 5%. Fluid overload, the most frequent cause, affects up to 60%.",
+      "caption": "BAL gives a diagnosis in up to 78%; a pathogen in ~50% of suspected IPS; FOB complications < 5%. Fluid-overload oedema, the most frequent lung complication, is not in the ATS classification.",
       "notes": {
         "script": [
           "肺部問題的檢查順序是血氧、CT、感染檢查，然後盡早做支氣管鏡，五天內做的陽性率較高。BAL 可以在 78% 的病例找到原因，併發症少於 5%。最常見的其實是 fluid overload，所以利尿也是第一步。"

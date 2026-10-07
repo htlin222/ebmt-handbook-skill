@@ -294,7 +294,7 @@
       "eyebrow": "Myeloma · Cellular therapy",
       "title": "BCMA CAR-T, not allo-HCT, is the cellular option in myeloma",
       "head": [
-        "Product, setting",
+        "Product (trial), n",
         "Median prior lines",
         "ORR",
         "Median PFS",
@@ -309,10 +309,10 @@
           "5% / 3%"
         ],
         [
-          "Ide-cel vs SOC (KarMMa-3), n = 386",
+          "Ide-cel (KarMMa-3), n = 386",
           "3",
           "71%",
-          "13 vs 4 mo",
+          "13 vs 4 mo (SOC)",
           "4% / 3%"
         ],
         [
@@ -323,10 +323,10 @@
           "4% / 9%"
         ],
         [
-          "Cilta-cel vs SOC (CARTITUDE-4), n = 419",
+          "Cilta-cel (CARTITUDE-4), n = 419",
           "2",
           "85%",
-          "Not reached vs 12 mo",
+          "NR vs 12 mo (SOC)",
           "1% / 3%"
         ],
         [
@@ -338,11 +338,11 @@
         ]
       ],
       "colW": [
-        4.5,
+        4.1,
         1.7,
         1.0,
-        2.5,
-        2.7
+        3.0,
+        2.6
       ],
       "fontSize": 16,
       "caption": "Labelled after > 3 lines incl. IMiD, PI, anti-CD38 [verify: current label]. Allo-HCT: trials only.",
@@ -668,7 +668,7 @@
           "Auto 這一側還有兩組數據。CUP trial 是唯一的 randomized study，140 位 relapsed FL，兩年 PFS 化療組 26%，移植組 55 到 58%，OS 也較好。長期追蹤的十年 PFS 31 到 50%，代表一部分病人可能治癒。Purging 沒有好處，EBMT-LYM-1 則顯示移植後 rituximab maintenance 可以延長 PFS。"
         ]
       },
-      "captionY": 5.1
+      "captionY": 5.2
     },
     {
       "type": "tree",
