@@ -1,0 +1,135 @@
+# Chapter 8. Biological Properties of Cells Other Than HSCs
+
+> **Source:** Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E (eds). *The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies*, 8th ed. Springer, Cham; 2024. pp. 67–71. https://doi.org/10.1007/978-3-031-44080-9_8  
+> **Authors:** Bondanza, Attilio; Koehl, Ulrike; Hoffmann, Andrea; Toubert, Antoine  
+>   - Bondanza, Attilio: University Vita-Salute San Raffaele and Ospedale San Raffaele Scientific Institute  
+>   - Koehl, Ulrike: University Hospital and Fraunhofer IZI; Hannover Medical School  
+>   - Hoffmann, Andrea: Hannover Medical School  
+>   - Toubert, Antoine: University Paris Diderot and Hôpital Saint Louis  
+> **License:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Text reproduced verbatim from the open-access HTML edition; formatting converted to Markdown.
+
+## Abstract
+
+The array of cellular players involved in the biology of hematopoietic cell transplantation (HCT) clearly extends beyond hematopoietic stem cells (HSCs) themselves and, in the case of transplantation from allogeneic sources, importantly includes cells of the innate and adaptive immune systems. Historically, the discovery of the human leukocyte antigen (HLA) system and the functional characterization of the different immune cell types had a transformational impact on our current understanding of the pathobiological “sequelae” of allo-HCT (rejection, graft-versus-host disease (GVHD), graft-versus-leukemia (GVL) effect). This body of knowledge coupled to the most recent “exploitation” of biotechnology has allowed us to design strategies for in vivo stimulation or adoptive transfer of specific immune cell types with the potential to dramatically improve transplantation outcome.
+
+## 8.1 Introduction
+
+The array of cellular players involved in the biology of hematopoietic cell transplantation (HCT) clearly extends beyond hematopoietic stem cells (HSCs) themselves and, in the case of transplantation from allogeneic sources, importantly includes cells of the innate and adaptive immune systems. Historically, the discovery of the human leukocyte antigen (HLA) system and the functional characterization of the different immune cell types had a transformational impact on our current understanding of the pathobiological “sequelae” of allo-HCT (rejection, graft-versus-host disease (GVHD), graft-versus-leukemia (GVL) effect). This body of knowledge coupled to the most recent “exploitation” of biotechnology has allowed us to design strategies for in vivo stimulation or adoptive transfer of specific immune cell types with the potential to dramatically improve transplantation outcome.
+
+In this chapter, we will review the biological properties of cells other than HSCs, which have so far been therapeutically investigated in human allo-HCT. Since, apart from vaccination, antigen-presenting cells and myeloid cells at large have seldom been therapeutically investigated in human allo-HCT, they will not be discussed here. Conversely, we will briefly touch on mesenchymal stromal cells (MSCs), which, although not classifiable as immune cells “stricto sensu,” have been widely employed in allo-HCT.
+
+## 8.2 Conventional or Alpha Beta T Cells
+
+The majority of mature T cells is characterized by the expression of the αβ T-cell receptor (TCR), which endows major histocompatibility class (MHC)-restricted recognition of peptides derived from non-self-proteins. The mutually exclusive co-expression of CD8 or CD4 further conveys specificity toward MHC class I/MHC class II/peptide complexes, respectively. CD8⁺ T cells recognize intracellular peptides, mainly derived from viruses or mutated genes, mediating the cytotoxicity of infected or transformed cells, and thence the name cytotoxic T lymphocytes (CTLs). Conversely, CD4⁺ T cells recognize extracellular pathogen-derived peptides, providing antigen-specific “help” to bystander immune cells, such as B cells in antibody production and phagocytes in the killing of engulfed pathogens. Alloreactivity occurs because of αβ TCR-mediated recognition of mismatched HLAs or of non-HLA polymorphic peptides presented in the context of matched HLAs, e.g., those derived from H-Y (male-specific histocompatibility antigen). The latter are known as minor histocompatibility antigens (mHags) and play a major role in GVHD and the GVL effect after HLA-matched transplantation.
+
+The adoptive transfer of CTLs specific toward important opportunistic viruses in allo-HCT (cytomegalovirus (CMV), Epstein–Barr virus (EBV), adenovirus (ADV)) has been one of the first manipulated cellular immunotherapies to be tested in humans (Bollard and Heslop 2016) and in some European Union (EU) countries is now available as an off-the-shelf therapy from HLA-matched donors. Conversely, it has been proposed that naïve T cells, i.e., cells that have never encountered their cognate antigen, may be more alloreactive than memory T cells, i.e., antigen-experienced cells that have persisted even after clearing the infection. This concept is at the basis of protocols for the depletion of naïve T cells from the graft as a way to prevent GVHD while retaining a strong GVL effect (Bleakley et al. 2015). Promising are also attempts at translating this approach against hematological tumor antigens for treating overt leukemia relapse after allo-HCT (Chapuis et al. 2013). On a different page, given the overall complexity of immune responses, it is not surprising that during evolution, some immune cell types have evolved with the specific task of immune regulation. T regulatory cells (Tregs) are thymus-derived cells characterized by constitutive expression of the transcription factor FoxP3. Tregs are potent suppressors of alloreactivity and are now being investigated for GVHD management after their ex vivo expansion (Brunstein et al. 2016).
+
+## 8.3 Unconventional T Cells
+
+Unconventional T cells are subsets of T cells, which often reside at mucosal sites and sense a wide range of non-polymorphic ligands, especially of bacterial origin. They include (but are not limited to) TCRγδ T cells, invariant natural killer T cells (iNKT) cells, and mucosal-associated invariant T (MAIT) cells. They have a limited TCR repertoire diversity and get activated quickly, bridging innate to adaptive immunity.
+
+1.  1\.
+
+    High γδ T cells after HCT are associated with a favorable outcome (Arruda et al. 2019). In TCRαβ/CD19-cell depleted haplo-HCT, γδ T cells are a dominant subset, accounting in part for a GVL effect (Airoldi et al. 2015). A subset of γδ T cells (Vγ2Vδ9) is activated by phosphoantigens and can be safely expanded in vivo by the bisphosphonate zoledronate (Merli et al. 2020). In addition, while the Vγ9Vγ2 subset usually predominates, patients reactivating CMV showed an expansion of the Vγ1 subset (Ravens et al. 2017).
+
+2.  2\.
+
+    Type I invariant NKT is a distinct population of semi-invariant αβ T cells that recognize lipids presented in the context of broadly distributed CD1d. An early iNKT reconstitution has been linked to a reduced GVHD incidence (Rubio et al. 2012; Chaidos et al. 2012). A GVL potential has been reported in pediatric leukemia patients given haplo-HCT (de Lalla et al. 2011).
+
+3.  3\.
+
+    MAIT cells (CD3⁺CD4⁻CD161^(high)) are abundant in mucosal tissues, display a repertoire of limited diversity, and recognize bacterial metabolites. Their reconstitution positively correlated with the diversity of the gut microbiota. Several studies have reported an association between low circulating MAIT cell counts and GVHD (Bhattacharyya et al. 2018; Ben Youssef et al. 2018).
+
+## 8.4 NK Cells
+
+Natural killer (NK) cells belong to the innate immune system and provide immediate reactivity against virally infected tumor targets. NK cytotoxicity is controlled by a balance between several germ line-encoded inhibitory and activating receptors, such as killer immunoglobulin-like receptors (KIRs) and natural cytotoxicity receptors (Vivier et al. 2011). The importance of NK cells in allo-HCT has surfaced after the demonstration of their pivotal role in preventing leukemia relapse and decreasing GVHD risk after grafting from HLA-haploidentical donors (Ruggeri et al. 2002). Since then, there has been a growing interest in using both autologous and allogeneic NK cells in patients with leukemia or other high-risk hematological tumors also in the non-transplant setting (Koehl et al. 2016). These trials have uniformly shown the safety and potential efficacy of infused NK cells. Nevertheless, they have also documented the emergence of powerful immune escape mechanisms, raising the question on how to improve NK cell-based therapies (Koehl et al. 2018). Various trials are under way in order to investigate ways to achieve better NK cell cytotoxicity and overcome the immunosuppressive tumor microenvironment, including:
+
+1.  1\.
+
+    Combination of novel checkpoint inhibitors with activated NK cells
+
+2.  2\.
+
+    Bi- or tri-specific antibodies for directly binding NK cells to cancer cells
+
+3.  3\.
+
+    Chimeric antigen receptor (CAR)-modified NK cells for direct targeting of cancer cells
+
+The latter strategy is particularly interesting since CAR-modified NK cells are expected to retain their natural antitumor reactivity, thus exerting potentially synergistic effects. The first clinical CAR-modified NK cell studies targeting CD19 and NKG2D ligands have been initiated (ClinGov Nos NCT03056339, NCT01974479, NCT00995137, NCT03415100) with promising initial results (Liu et al. 2020) and will likely be instrumental in demonstrating proof of concept.
+
+## 8.5 Mesenchymal Stromal Cells
+
+Mesenchymal stromal cells (MSCs) are multipotent cells. In the musculoskeletal system, MSCs are responsible for generating bone cells, cartilage cells, and other cell types. Since many of these cells are derived from the embryonic mesenchyme, the name “mesenchymal stromal cells” was coined. Additional investigations revealed complex modes of action beyond the formation of individual cell types: secretory, anti-inflammatory, hematopoietic stem cell niche-supporting and immunomodulatory properties of MSCs and their ability to migrate to sites of damage and inflammation (Wilson et al. 2019). Based on these activities, graft-versus-host and autoimmune diseases, neurological conditions, cancers, or other diseases are addressed by MSC-based therapies. Many organ systems are targeted, and the potential clinical use of MSCs seems enormous. Therefore, subsequent to hematopoietic stem cells, MSCs are the second-most frequently used cell source for cell therapeutic applications. Notwithstanding their widespread use, MSCs are currently the stem cell population with the least defined identity and properties (Hoffmann et al. 2017). Despite the many promising reports, a multitude of clinical trials with MSCs have failed and there is a rising perception that MSCs might present “doubtful drugs” (Sipp et al. 2018).
+
+In the majority of studies, mononuclear cells, including the rare MSCs, are isolated from bone marrow by a density gradient or from solid tissues by enzymatic digestion and explant cultures. A small fraction of the isolated cells is able to adhere to cell culture polystyrene: a retrospective and nonspecific isolation resulting in heterogeneous cell populations. The adherent cells are expanded in two-dimensional static cultures and characterized by their morphology, proliferation (interpreted as self-renewal), a pattern of cell surface antigens, and the forced differentiation in vitro into mesenchymal cell types (taken as evidence for multipotent differentiation). These features do not withstand rigorous assessments of stem cell features.
+
+Contrasting with this, pioneering studies have prospectively isolated stromal cells from the bone or bone marrow based on the specific presence (positive selection) or absence (negative selection) of selected cell surface antigens and clearly demonstrated their central stem cell features of self-renewal and differentiation in vivo (Tikhonova et al. 2019; Leimkühler et al. 2021; Crisan et al. 2008; Sacchetti et al. 2007; Chan et al. 2018)*,* without preceding cell culture. From their data, the notion emerges that different populations of stem cells may exist in different compartments of the bone, bone marrow, or—if at all—in other tissues. For example, these studies point at cell surface antigens that have not yet been considered as “typical” MSC surface molecules, like CD146, PDPN, and CD164. Based on such improved cell isolation strategies, single-cell RNA sequencing revealed different subpopulations of MSCs (Tikhonova et al. 2019; Leimkühler et al. 2021; Ruoss et al. 2021; Xie et al. 2022). A critical reappraisal of these different cell populations, harmonization of the methods for their isolation and expansion, including novel strategies to mimic the in vivo stem cell niche by three-dimensional dynamic and hypoxic in vitro culture systems, and a clear description of the anticipated mode of action, including the development of validated potency assays, is therefore necessary for harnessing the full therapeutic potential of MSCs in the future (Lavrentieva et al. 2020).
+
+### Key Points
+
+- HCT rather than a solo play is an orchestral concert, where different cellular players contribute to the overall final result of the symphony.
+
+- Besides obviously HSCs, the key contributors are cells of the innate and adaptive immune systems. Both have evolved for the key task of self/non-self-discrimination, with each however focusing on the recognition of different classes of molecules, from proteins to glycolipids.
+
+- The tremendous knowledge in immunobiology acquired in the last few decades has enabled the utilization of the properties of these cells or the amelioration of the outcome of HCT.
+
+## References
+
+- Airoldi I, Bertaina A, Prigione I, et al. γδ T-cell reconstitution after HLA-haploidentical hematopoietic transplantation depleted of TCR-αβ+/CD19+ lymphocytes. Blood. 2015;125:2349–58.
+
+- Arruda LCM, Gaballa A, Uhlin M. Impact of gammadelta T cells on clinical outcome of hematopoietic stem cell transplantation: systematic review and meta-analysis. Blood Adv. 2019;3:3436–48.
+
+- Ben Youssef G, Tourret M, Salou M, et al. Ontogeny of human mucosal-associated invariant T cells and related T cell subsets. J Exp Med. 2018;215:459–79.
+
+- Bhattacharyya A, Hanafi LA, Sheih A, et al. Graft-derived reconstitution of mucosal-associated invariant T cells after allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2018;24:242–51.
+
+- Bleakley M, Heimfeld S, Loeb KR, et al. Outcomes of acute leukemia patients transplanted with naive T cell-depleted stem cell grafts. J Clin Invest. 2015;125:2677–89.
+
+- Bollard CM, Heslop HE. T cells for viral infections after allogeneic hematopoietic stem cell transplant. Blood. 2016;127:3331–40.
+
+- Brunstein CG, Miller JS, McKenna DH, et al. Umbilical cord blood-derived T regulatory cells to prevent GVHD: kinetics, toxicity profile, and clinical effect. Blood. 2016;127:1044–51.
+
+- Chaidos A, Patterson S, Szydlo R, et al. Graft invariant natural killer T-cell dose predicts risk of acute graft-versus-host disease in allogeneic hematopoietic stem cell transplantation. Blood. 2012;119:5030–6.
+
+- Chan CKF, Gulati GS, Sinha R, et al. Identification of the human skeletal stem cell. Cell. 2018;175:43–56.e21.
+
+- Chapuis AG, Ragnarsson GB, Nguyen HN, et al. Transferred WT1-reactive CD8+ T cells can mediate antileukemic activity and persist in post-transplant patients. Sci Transl Med. 2013;5:174ra27.
+
+- Crisan M, Yap S, Casteilla L, et al. A perivascular origin for mesenchymal stem cells in multiple human organs. Cell Stem Cell. 2008;3:301–13.
+
+- de Lalla C, Rinaldi A, Montagna D, et al. Invariant NKT cell reconstitution in pediatric leukemia patients given HLA-haploidentical stem cell transplantation defines distinct CD4+ and CD4- subset dynamics and correlates with remission state. J Immunol. 2011;186:4490–9.
+
+- Hoffmann A, Floerkemeier T, Melzer C, Hass R. Comparison of in vitro-cultivation of human mesenchymal stroma/stem cells derived from bone marrow and umbilical cord. J Tissue Eng Regen Med. 2017;11:2565–81.
+
+- Koehl U, Kalberer C, Spanholtz J, et al. Advances in clinical NK cell studies: donor selection, manufacturing and quality control. Onco Targets Ther. 2016;5:e1115178.
+
+- Koehl U, Toubert A, Pittari G. Editorial: tailoring NK cell receptor-ligand interactions: an art in evolution. Front Immunol. 2018;9:351.
+
+- Lavrentieva A, Hoffmann A, Lee-Thedieck C. Limited potential or unfavorable manipulations? Strategies toward efficient mesenchymal stem/stromal cell applications. Front Cell Dev Biol. 2020;8:316.
+
+- Leimkühler NB, Gleitz HFE, Ronghui L, et al. Heterogeneous bone-marrow stromal progenitors drive myelofibrosis via a druggable alarmin axis. Cell Stem Cell. 2021;28:637–652.e8.
+
+- Liu E, Marin D, Banerjee P, et al. Use of CAR-transduced natural killer cells in CD19-positive lymphoid tumors. N Engl J Med. 2020;382(6):545–53.
+
+- Merli P, Algeri M, Galaverna F, et al. Immune modulation properties of Zoledronic acid on TcRgammadelta T-lymphocytes after TcRalphabeta/CD19-depleted Haploidentical stem cell transplantation: an analysis on 46 pediatric patients affected by acute leukemia. Front Immunol. 2020;11:699.
+
+- Ravens S, Schultze-Florey C, Raha S, et al. Human gammadelta T cells are quickly reconstituted after stem-cell transplantation and show adaptive clonal expansion in response to viral infection. Nat Immunol. 2017;18:393–401.
+
+- Rubio M-T, Moreira-Teixeira L, Bachy E, et al. Early posttransplantation donor-derived invariant natural killer T-cell recovery predicts the occurrence of acute graft-versus-host disease and overall survival. Blood. 2012;120:2144–54.
+
+- Ruggeri L, Capanni M, Urbani E, et al. Effectiveness of donor natural killer cell alloreactivity in mismatched hematopoietic transplants. Science. 2002;295:2097–100.
+
+- Ruoss S, Walker JT, Nasamran CA, et al. Strategies to identify mesenchymal stromal cells in minimally manipulated human bone marrow aspirate concentrate lack consensus. Am J Sports Med. 2021;49:1313–22.
+
+- Sacchetti B, Funari A, Michienzi S, et al. Self-renewing Osteoprogenitors in bone marrow sinusoids can organize a hematopoietic microenvironment. Cell. 2007;131:324–36.
+
+- Sipp D, Robey PG, Turner L, et al. Clear up this stem-cell mess. Nature. 2018;561:455–7.
+
+- Tikhonova AN, Dolgalev I, Hu H, et al. The bone marrow microenvironment at single-cell resolution. Nature. 2019;569:222–8.
+
+- Vivier E, Raulet DH, Moretta A, et al. Innate or adaptive immunity? The example of natural killer cells. Science. 2011;331:44–9.
+
+- Wilson A, Hodgson-Garms M, Frith JE, et al. Multiplicity of mesenchymal stromal cells: finding the right route to therapy. Front Immunol. 2019;10:1112.
+
+- Xie Z, Yu W, Ye G, et al. Single-cell RNA sequencing analysis of human bone-marrow-derived mesenchymal stem cells and functional subpopulation identification. Exp Mol Med. 2022;54:483–92.

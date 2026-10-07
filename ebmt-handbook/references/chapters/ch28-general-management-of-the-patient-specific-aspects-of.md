@@ -1,0 +1,364 @@
+# Chapter 28. General Management of the Patient: Specific Aspects of Infectious Disease Supportive Care in Children
+
+> **Source:** Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E (eds). *The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies*, 8th ed. Springer, Cham; 2024. pp. 237–248. https://doi.org/10.1007/978-3-031-44080-9_28  
+> **Authors:** Castagnola, Elio; Groll, Andreas H.  
+>   - Castagnola, Elio: IRCCS Istituto Giannina Gaslini, Children’s Hospital  
+>   - Groll, Andreas H.: University Children’s Hospital Münster  
+> **License:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Text reproduced verbatim from the open-access HTML edition; formatting converted to Markdown.
+
+## Abstract
+
+Many of the conditions requiring allogeneic HCT and related complications are similar in adults and children and are covered in other chapters of this handbook. However, there are a few exceptions where approaches to management can be different.
+
+Many of the conditions requiring allogeneic HCT and related complications are similar in adults and children and are covered in other chapters of this handbook. However, there are a few exceptions where approaches to management can be different. Infections are frequent causes of posttransplant morbidity and generally life-threatening if not appropriately controlled. Most of the available data on their epidemiology and treatment are derived from studies in adults, and not all aspects can be directly transferred to children.
+
+In the following paragraphs, we will analyze specific aspects of the management of bacterial and fungal infections and address selected issues on viral infections in children.
+
+## 28.1 Management of Bacterial Infections
+
+*Antibacterial prophylaxis* for febrile neutropenia has been frequently administered to children undergoing allogeneic HCT but has never been specifically analyzed in an appropriately designed randomized clinical trial, and its effectiveness has been questioned in a real-life experience (Ricci et al. 2020). In the context of pediatric-specific safety issues associated with the fluoroquinolones and increasing concerns about the selection of antibiotic-resistant bacteria, the 2020 guidelines of the European Conference on Infections in Leukemia (ECIL) for the use of antibiotics in pediatric patients with cancer or post-HCT made a strong recommendation against the routine use of antibacterial prophylaxis of febrile neutropenia during the pre-engraftment period in children (Lehrnbecher et al. 2021). This recommendation is based on carefully analyzed data from randomized trials and meta-analyses, European Medicines Agency recommendations, and information from long-term observational studies on resistance. Indeed, in a multicenter, multinational retrospective analysis of 1291 bloodstream infections reported in 1031 patients, occurrence of bloodstream infection due to antibiotic resistant pathogens was significantly associated with previous exposure to antibiotics for prophylaxis and treatment (Castagnola et al. 2021). Of note, the recommendation against its routine use does not exclude prophylaxis in individual patients after careful risk–benefit analysis, depending on the clinical situation (Lehrnbecher et al. 2021).
+
+Independently of age, administration of *empirical antibacterial therapy* is a standard in granulocytopenic children with new onset of fever or any signs or symptoms of a new infection. Important considerations regarding the initial choice of antibacterial agents include the clinical status of the patient, previous infections, colonization of the patient with resistant bacteria, and the local epidemiology of resistant bacteria at the referring or the transplanting center. In the standard situation of a clinically stable patient at low risk of resistant infections, monotherapy with an antipseudomonal non-carbapenem β-lactam plus β-lactamase inhibitor combination or a fourth-generation cephalosporin is strongly recommended as initial therapy by the ECIL guidelines (Lehrnbecher et al. 2021). For clinically unstable patients, an anti-pseudomonal carbapenem with or without a second anti-Gram-negative agent, with or without a glycopeptide, is recommended with similar strength, even when there appears to be a low risk of resistant infections; for patients who are colonized or were previously infected with resistant Gram-negative bacteria, or in centers with a high rate of resistant pathogens, empirical treatment should be adjusted on the basis of the results of resistance testing (Lehrnbecher et al. 2021).
+
+Apart from the initiation and choice of antibacterial therapy, the current ECIL guidelines also provide considerations for de-escalation of antibacterial therapy (Lehrnbecher et al. 2021), but most of these considerations do not apply to the pre-engraftment granulocytopenic phase that last approximately 20 days on average in a standard pediatric transplant setting (Linke et al. 2020) and are associated with mucositis and other complications in many patients. Thus, in most instances, empirical antibacterial therapy is administered until recovery from neutropenia and defervescence, and adequate treatment of an infection, if documented.
+
+Empirical antibacterial therapy should also be considered post engraftment particularly in the presence of a central venous line and/or GVHD because of the significant risk of Intensive Care Unit admission and consequent mortality in the presence of bacteremia (Castagnola et al. 2014b, 2021).
+
+An important issue that has become more relevant in recent times is the use of *pharmacokinetic and pharmacodynamic* information to optimize the administration of antibacterial agents to improve outcome in severe infections and reduce the risk of resistant strain selection. For example, it has been demonstrated that the intermittent dosing of piperacillin–tazobactam at 100 mg/kg (of piperacillin) every 8 h over 5 min frequently does not result in optimal exposure in critically ill or febrile granulocytopenic children. Differently, the use of a loading dose followed by continuous infusion or at least a prolonged infusion over 3 h administered every 6 h may be used to maintain the therapeutic target concentration of 4 times the minimum inhibitory concentration of the infecting organisms during continuous administration, or at pre-infusion time (trough) in case of intermittent schedule (De Cock et al. 2017; Saffioti et al. 2019; Thorsted et al. 2019). Similar observations and considerations have been made for optimal dosing of vancomycin (Shimamoto et al. 2021), just to name two of the most essential agents in pediatric transplantation. In addition to optimizing the pharmacokinetics and pharmacodynamics, dosing of antibacterial agents in critically ill children and those with febrile granulocytopenia or GvHD, the possible presence of one or more of the following situations must also be considered: augmented renal clearance (creatinine clearance \>130–160 mL/min/1.73 m²) that may lead to diminished plasma and tissue concentrations; hypalbuminemia that may increase the amount of free drug of highly protein-bound agents, increasing their elimination particularly in the presence of augmented renal clearance; and acute kidney injury that is sometimes observed at the onset of severe infections and may cause drug accumulation and toxicity, but frequently resolves within 48 h. This observation provides a strong rationale for administration of full dosages of antibiotics with a high therapeutic index and renal elimination, such as the β-lactams, for the first 48 h to prevent suboptimal concentrations in the first hours of treatment of a severe infection with optional dose adaptation if renal impairment persists beyond the first 2 days (Castagnola et al. 2022). Recommendations for use and dosing of antibacterial agents in pediatric allogeneic HCT recipients are summarized in Table 28.1.
+
+**Table 28.1 Prophylaxis and therapy of invasive bacterial infections in children undergoing allogeneic HCT**
+
+<table>
+<tbody>
+<tr>
+<td><p><em>Antibacterial prophylaxis for febrile neutropenia</em></p></td>
+</tr>
+<tr>
+<td><p>Routine antibacterial prophylaxis of febrile neutropenia during the pre-engraftment period of HCT is not recommended</p></td>
+</tr>
+<tr>
+<td><p><em>Empirical therapy for febrile neutropenia, or fever after engraftment, especially in the presence of GvHD</em></p></td>
+</tr>
+<tr>
+<td><p>The choice of antibacterial agents to be administered for empirical therapy should be based on the clinical status of the patient, previous infection or colonization of the patient with resistant bacteria, and the local epidemiology of resistant bacteria at the referring or the transplanting center. For initial therapy in a clinically stable patient at low risk of resistant infections, monotherapy with an antipseudomonal noncarbapenem β-lactam plus β-lactamase inhibitor or a fourth generation cephalosporin is recommended</p></td>
+</tr>
+<tr>
+<td><p><em>Antibacterial agents recommended for initial empirical therapy</em></p></td>
+</tr>
+<tr>
+<td><p>Piperacillin–tazobactam 100 mg/kg (max 4000 mg) of piperacillin q6h intravenously, preferentially over 3 h. The daily dose can also be administered as continuous infusion, fractionated every 6 h because of drug stability. In this case, a loading dose (100 mg/kg max 4000 mg of piperacillin in 1 h) should be administered</p></td>
+</tr>
+<tr>
+<td><p>Cefepime 50 mg/kg (max 2000 mg) q8h intravenously over 2 h</p></td>
+</tr>
+<tr>
+<td><p><em>Antibacterial combinations recommended for clinically unstable patients</em></p></td>
+</tr>
+<tr>
+<td><p>Meropenem 20 mg/kg (max. 2000 mg) q8h intravenously, preferentially over 3 h. The daily dose can also be administered as continuous infusion, fractionated every 6 h because of drug stability. In this case, a loading dose (20 mg/kg max. 2000 mg of meropenem in 1 h) should be administered. Higher doses could be needed in patients colonized by Gram-negatives with reduced susceptibility to carbapenems</p>
+<p>+/− glycopeptide (vancomycin 20 mg q8h or teicoplanin 10 mg q24h (max. 800 mg; day 1 10 mg q12h) plus therapeutic drug monitoring)</p>
+<p>+/− second Gram-negative agent (amikacin 20 mg/kg (max 1500 mg) in 30–60’ q24h, ciprofloxacin 20 mg/kg (max. 750 g) q12h</p></td>
+</tr>
+<tr>
+<td><p><em>Antibacterial combinations recommended for patients colonized/previously infected with resistant bacteria, or in centers with a high rate of resistant bacteria</em></p></td>
+</tr>
+<tr>
+<td><p>Adjustment of empirical treatment on the basis of the results of resistance testing of these bacteria</p></td>
+</tr>
+<tr>
+<td><p><em>Treatment of documented infections</em></p></td>
+</tr>
+<tr>
+<td><p>Treat under consideration of localization and results of susceptibility testing. For treatment of infections by multiresistant bacteria, consultation of an infectious diseases specialist is recommended</p></td>
+</tr>
+</tbody>
+</table>
+
+*Clostridioides difficile* may become a cause of severe, and sometimes recurrent, diarrheal disease, especially in allogeneic HCT recipients (Haeusler et al. 2022). However, children below the age of 2 years may harbor this pathogen in their intestinal tract without developing disease (Lees et al. 2016; Enoch et al. 2011), and other intestinal pathogens, including but not limited to enteric viruses, may be the cause of diarrhea and gastroenteritis in the posttransplant situation (Castagnola et al. 2016). Preferred options for treatment of *Clostridioides difficile* infection include oral vancomycin and oral fidaxomicin; intravenous metronidazole is an option for patients who are unable to take oral medication, and the monoclonal antibody bezlotoxumab is reserved for patients with recurrent infection but is not yet approved in patients below 18 years of age. Of note, no solid data exist for fecal transplantation in immuno-compromised children (Diorio et al. 2018).
+
+## 28.2 Management of Invasive Fungal Diseases
+
+Invasive fungal diseases (IFDs) are an important cause of posttransplant morbidity in pediatric allogeneic HCT and are associated with high mortality and significantly decreased overall survival probability (Cesaro et al. 2017; Castagnola et al. 2018; Linke et al. 2020). Apart from the pivotal impact of prolonged granulocytopenia, the use of glucocorticosteroids in therapeutic dosages, and limited to candidemia the use of central venous catheters, increasing age have been additional risk factors for the development of IFD (Fisher et al. 2018). However, multivariable analyses showed that age is no longer significant in the presence of severe acute or chronic extensive GvHD or in cases of primary graft failure or rejection (Castagnola et al. 2014a).
+
+Based on natural incidence rates that are estimated to be well above 10%, both the initial (Groll et al. 2014) and the updated 2020 ECIL recommendations for the diagnosis, prevention, and treatment of invasive fungal diseases in pediatric patients with cancer or post-HCT (Groll et al. 2021) strongly recommend primary antifungal prophylaxis pre- and post-engraftment until discontinuation of immunosuppression and immune recovery, and in situations of augmented immunosuppressive treatment in the context of acute or extensive chronic GvHD. Based on large randomized clinical trials performed in adults and regulatory approval in pediatric patients, antifungal prophylaxis in the transplant setting is largely azole-based with echinocandins and polyenes as secondary options (Groll et al. 2021). While the local epidemiology is an important additional consideration for selecting an institutional prophylaxis strategy, mold-active prophylaxis is strongly recommended by ECIL and other international consortia in the context of acute and chronic GvHD because of the predominance of invasive mold infections in these settings (Groll et al. 2021; Lehrnbecher et al. 2020).
+
+According to the ECIL guideline, *empirical antifungal therapy* may be initiated during the pre-engraftment phase in pediatric patients with granulocytopenia after 96 h of fever of unclear cause that is unresponsive to broad-spectrum antibacterial agents. Primarily recommended agents for empirical therapy include liposomal amphotericin B or caspofungin with discontinuation of antifungal prophylaxis (Groll et al. 2021). The alternative is a *pre-emptive, diagnostic-driven approach* that requires rapid availability of pulmonary CT imaging and of galactomannan-assay results, and, ideally, the ability to perform diagnostic bronchoscopies in the case of pulmonary findings (Santolaya et al. 2018; Lehrnbecher and Groll 2019; Groll et al. 2021). If all studies including blood cultures are negative for the presence of an IFD, mold-active antifungal prophylaxis may be continued and the patient further monitored. Conversely, if the diagnosis of a probable or proven IFD is made, this IFD is treated according to the respective treatment recommendations (Groll et al. 2021).
+
+*Diagnosis of IFDs* is based on isolation of fungal pathogens from cultures of sterile sites or tissue invasion demonstrated by histology or by the presence of fungal biomarkers in blood or cerebrospinal fluid or bronchoalveolar lavage, associated with suggestive imaging in children with a compatible clinical picture (Donnelly et al. 2020). Since the lung is the most important site of invasive mold infections, a chest CT is strongly recommended in granulocytopenic patients with fever for ≥96 h and in those with clinical findings suggestive of pneumonia. As non-typical findings are frequent in pediatric pulmonary mold infection, detection of any pulmonary infiltrates may be indicative of an IFD and should prompt a diagnostic work-up and initiation of mold-active antifungal therapy. Furthermore, appropriate cranial imaging should be considered after diagnosis of a probable or proven pulmonary mold infection because central nervous system involvement may occur in up to 30% and will require specific treatment considerations (i.e., use of voriconazole) (Groll et al. 2021; Pana et al. 2023).
+
+Detection of galactomannan antigen in serum is widely used for the diagnosis of IFD and has similar diagnostic performance in children and adults (Lehrnbecher et al. 2016; Ferreras-Antolin et al. 2022). While an option in high-risk situations in children not on mold-active prophylaxis, prospective monitoring in serum is discouraged by the current ECIL guidelines if anti-mold prophylaxis is administered because of poor sensitivity in this setting (Lehrnbecher et al. 2016; Groll et al. 2021). In contrast, assessment of galactomannan in serum is strongly recommended for diagnostic use in prolonged febrile neutropenia and in those with abnormalities on chest CT, and the galactomannan assay may also be a useful diagnostic adjunct in bronchoalveolar lavage and cerebrospinal fluid (Groll et al. 2021). Of note, no adequate data exist for beta-d-Glucan and polymerase chain reaction-based monitoring in serum (Lehrnbecher et al. 2016; Groll et al. 2021). However, the use of PCR and other molecular methods on bronchoalveolar lavage fluid, diagnostic aspirates, or tissue specimen is strongly recommended whenever such specimens are obtained (Groll et al. 2021).
+
+The options for *treatment of probable or proven IFDs* in pediatric patients are similar to those in adults: for invasive candidiasis, echinocandin-based fungicidal regimens are preferred, and for invasive aspergillosis, azole-based regimens with liposomal amphotericin B being an alternative option due to its better tolerance (Fisher et al. 2021; Groll et al. 2021). In case of mucormycosis, rare molds, rare yeasts, cryptococcal meningitis and infections by dimorphic fungi, transplant physicians are referred to existing international European Confederation of Medical Mycology guidelines that include pediatric-specific considerations (Hoenigl et al. 2021).
+
+There are some notable caveats for the use of antifungal drugs. *Voriconazole* frequently needs to be administered at higher dosages in subjects below 5 years of age to achieve and maintain effective plasma concentrations (Soler-Palacın et al. 2012; Neely et al. 2015; Castagnola and Mesini 2018). Inflammation, steroid administration, or obesity can further modify its concentrations (Castagnola and Mesini 2018; Natale et al. 2017) and so do genetic factors (Teusink et al. 2016). Finally, severe cutaneous adverse events can also be observed in children when voriconazole is administered for prolonged periods in conjunction with immunosuppression and sun exposure (Goyal et al. 2015; Bernhard et al. 2012).
+
+*Posaconazole* was first approved in adults in 2006 in the form of oral suspension. This formulation had variable absorption resulting in sub-therapeutic concentrations in a large proportion of patients (Jancel et al. 2017), especially those with intestinal acute GvHD (Heinz et al. 2016). Administration with a fatty meal and/or other “bundle” measures or using doses based on body surface area were recommended to overcome this limitation (Castagnola and Mesini 2018). Nevertheless, the pediatric development of the oral solution was discontinued after a formal dose-ranging study failed to demonstrate a consistent dose-exposure relationship (Arrieta et al. 2019). Following introduction of an intravenous solution and gastro-resistant tablets in adults, a novel pediatric gastro-resistant/delayed-release powder for oral suspension has been developed and is now approved together with the intravenous solution in pediatric patients 2 years and older for prophylaxis of IFD (Groll et al. 2020; European Medicines Agency 2022). For children not tolerating a suspension, various approaches exist and may be used for appropriate dosing of the gastro-resistant tablet (Castagnola and Mesini 2018; Mesini et al. 2018; Tragiannidis et al. 2019).
+
+*Isavuconazole*, administered as the water-soluble prodrug isavuconazonium sulfate, is an intravenous and oral triazole approved in 2015 for first-line treatment of invasive aspergillosis and treatment of mucormycosis (Groll et al. 2022a). After identification of an adequate pediatric pharmacokinetic profile (Arrieta et al. 2021), approval of the compound for patients \>2 years of age is to be expected shortly (Groll et al. 2022a).
+
+All mold-active antifungal triazoles interfere with the cytochrome P450 system which may lead to many relevant drug interactions that must be considered during their use, particularly during immunosuppression (Groll et al. 2017). Inter- and intraindividual variability of exposure is a problem that is predominantly inherent to the use of voriconazole. The current ECIL guidelines strongly recommend therapeutic drug monitoring for use of itraconazole and voriconazole, and with lesser emphasis, for posaconazole and isavuconazole, both for prophylactic and therapeutic use (Lewis et al. 2015; Groll et al. 2021). Recommendations for use and dosing of antifungal agents in pediatric allogeneic HCT recipients are summarized in Table 28.2.
+
+**Table 28.2 Agents used for prophylaxis and therapy of invasive fungal diseases in children undergoing allogeneic HCT**
+
+<table>
+<thead>
+<tr>
+<th><p>Antifungal agent</p></th>
+<th><p>Summary of EMA approved indications<sup>a</sup></p></th>
+<th><p>Pediatric dosage range</p></th>
+<th><p>Specific comments</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Amphotericin B deoxycholate</p></td>
+<td><p>Treatment of IFDs</p></td>
+<td><p>0.7–1.5 mg/kg/day IV in single daily dose</p></td>
+<td><p>PK similar to adults; clinical usefulness limited by infusion-related reactions and nephrotoxicity</p></td>
+</tr>
+<tr>
+<td><p>Amphotericin B lipid complex</p></td>
+<td><p>2nd line treatment of invasive <em>Candida</em> or <em>Aspergillus</em> infections</p></td>
+<td><p>5 mg/kg/day IV in single daily dose</p></td>
+<td><p>PK similar to adults; similar rate/extent of infusion-related reactions, but less nephrotoxicity relative to amphotericin B deoxycholate</p></td>
+</tr>
+<tr>
+<td><p>Liposomal amphotericin B</p></td>
+<td><p>Treatment of IFDs and empirical therapy in granulocytopenic patients</p></td>
+<td><p>1–&gt;5 mg/kg/day IV in single dose</p></td>
+<td><p>PK similar to adults; infusion-related reactions and nephrotoxicity less frequent relative to amphotericin B deoxycholate or lipid complex</p>
+<p>Dosages used for prophylaxis (non-approved indication): 1 mg/kg IV in one single dose or 2.5 mg/kg IV twice weekly</p></td>
+</tr>
+<tr>
+<td><p>Flucytosine</p></td>
+<td><p>Treatment of invasive candidiasis and cryptococcosis in combination with amphotericin B</p></td>
+<td><p>100–150 mg/kg/day IV in 3–4 divided doses + TDM</p></td>
+<td><p>No published PK and safety data for pediatric patients; robust phase III efficacy data for cryptococcal meningoencephalitis</p></td>
+</tr>
+<tr>
+<td><p>Fluconazole</p></td>
+<td><p>Treatment and prevention of superficial and invasive <em>Candida</em> infections; treatment of cryptococcosis and coccidioidomycosis</p></td>
+<td><p>6–12 mg/kg/day IV/PO in single daily dose</p></td>
+<td><p>Maximum dose of 12 mg/kg strongly recommended for invasive infections, favorable safety profile, but potential for drug–drug interactions</p>
+<p>Prophylaxis: no activity against molds</p></td>
+</tr>
+<tr>
+<td><p>Itraconazole</p></td>
+<td><p>Treatment of superficial <em>Candida</em> infections; second line treatment of invasive candidiasis, aspergillosis and cryptococcosis; prophylaxis in granulocytopenic patients</p></td>
+<td><p>5 mg/kg/day PO of the suspension in two divided doses + TDM</p></td>
+<td><p>Limited pediatric PK data, but generally similar to adults. Similar problems with oral bioavailability. High potential for relevant drug–drug interactions. Not licensed in the EU in pediatric patients, no PK data for children &lt;2 years</p></td>
+</tr>
+<tr>
+<td><p>Isavuconazole</p></td>
+<td><p>Treatment of invasive. Aspergillosis and treatment of mucormycosis in patients for whom amphotericin B is inappropriate</p></td>
+<td><p>10 mg/kg IV/PO once daily with a maximum. Dose of 372 mg isavuconazolium sulfate (day 1 and 2: three times daily)</p></td>
+<td><p>Not licensed in the EU in pediatric patients; pediatric investigation plan for ≥2 years of age completed, regulatory approval expected</p></td>
+</tr>
+<tr>
+<td><p>Posaconazole</p></td>
+<td><p>1st line treatment of invasive aspergillosis second line treatment of fusariosis, chromoblastomycosis, and coccidioidomycosis; treatment of oropharyngeal candidiasis; antifungal prophylaxis in AML/MDS and allogeneic HCT patients</p></td>
+<td><p><em>Intravenous solution:</em> 6 mg/kg once daily (max. 300 mg; day 1:6 mg/kg twice daily)</p>
+<p><em>Delayed release tablets:</em> Patients &gt;40 kg 300 mg/day in one single dose (day 1: 300 mg BID)</p>
+<p><em>Powder for delayed release oral suspension:</em> ≤40 kg: weight-based once daily dosing (day 1: twice daily). For details, see SPC</p>
+<p><em>Oral suspension:</em> not approved</p></td>
+<td><p>Approved for antifungal prophylaxis in pediatric patients ≥2 years of age, not yet for primary treatment of invasive aspergillosis. Potential for relevant drug–drug interactions. TDM suggested</p></td>
+</tr>
+<tr>
+<td><p>Voriconazole</p></td>
+<td><p>Treatment of invasive aspergillosis, fusariosis, scedosporiosis; treatment of candidemia in non-granulocytopenic patients; antifungal prophylaxis in allogeneic HCT patients</p></td>
+<td><p>2–&lt;12 years/12–14 years and &lt;50 kg: 8 mg/kg BID (day 1:9 mg/kg BID) IV and 9 mg/kg BID PO;</p>
+<p>≥15 years and 12–14 years and ≥50 kg: 4 mg/kg BID (day 1: 6 mg/kg BID) IV; 200 mg BID PO</p>
+<p>+TDM (all)</p></td>
+<td><p>Optimal dose uncertain, age-dependent; high intra- and inter-individual PK variability requires TDM. Relevant potential for drug-induced adverse events, and relevant drug–drug interactions. Not licensed in subjects &lt;2 years of age</p></td>
+</tr>
+<tr>
+<td><p>Anidulafungin</p></td>
+<td><p>Treatment of invasive candidiasis</p></td>
+<td><p>1.5 mg/kg/day (day 1: 3 mg/kg) IV in one single dose</p></td>
+<td><p>PK similar to adults; favorable safety profile, virtually no interactions; approved by the EMA for pediatric patients ≥1 month</p></td>
+</tr>
+<tr>
+<td><p>Caspofungin</p></td>
+<td><p>Treatment of invasive candidiasis, invasive aspergillosis (second line), and for empirical antifungal therapy in granulocytopenic patients</p></td>
+<td><p>≥3 months–17 years: 50 (d1:70) mg/m<sup>2</sup>/day IV in one single dose;</p>
+<p>Max. dose 70 mg/day;</p>
+<p>≥18 years: 50 mg/day IV (d1: 70 mg)</p>
+<p>Infants &lt;3 months and neonates: 25 mg/m<sup>2</sup>/day IV</p></td>
+<td><p>Robust pediatric PK data sets/models; favorable safety profile, virtually no interactions; approved for pediatric patients of all age groups</p>
+<p>Dosage used for prophylaxis (non-approved indication): 50 (d1:70) mg/m<sup>2</sup>/day IV in one single dose</p>
+<p>Data from an adequate randomized trial suggest prophylactic activity of echinocandins against <em>Candida</em> and <em>Aspergillus</em></p></td>
+</tr>
+<tr>
+<td><p>Micafungin</p></td>
+<td><p>Treatment of esophageal and invasive candidiasis, prophylaxis of invasive <em>Candida</em> infections in granulocytopenic patients</p></td>
+<td><p>1–4 mg/kg/day IV</p>
+<p>(≥50 kg: 50–200 mg) in one single dose</p>
+<p>Neonatal dose: 10 mg/kg/day IV</p></td>
+<td><p>Robust pediatric PK dataset/models; favorable safety profile, virtually no interactions; approved for pediatric patients of all age groups</p>
+<p>Approved dosage for prophylaxis: 1 mg/kg IV once daily (max. 50 mg); non-approved dosage for prophylaxis: 2.5 mg IV twice weekly</p>
+<p>Data from an adequate randomized trial suggest prophylactic activity of echinocandins against Candida and Aspergillus</p></td>
+</tr>
+</tbody>
+</table>
+
+1.  Table adapted from reference Groll et al. (2021)
+2.  *IV* intravenously, *PO* orally, *DAMB* amphotericin B deoxycholate, *TDM* therapeutic drug monitoring, *PK* pharmacokinetics
+3.  <sup>a</sup>Summarized tabulation; for specific wording, please refer to the respective summary of product characteristics (SPCs)
+
+*Pneumocystis jirovecii* pneumonia is a severe, life-threatening fungal infection in allogeneic-HCT recipients. Primary prophylaxis is highly recommended in children undergoing allogeneic-HCT from the time of engraftment onward until immune reconstitution and in general for up to 1 year posttransplant. Prophylaxis is highly effective, and in case of documented failure, especially in adolescents, patient compliance needs to be questioned (Maertens et al. 2016; Castagnola and Mesini 2018), as well as intestinal absorption.
+
+## 28.3 Management of Viral Infection and Disease
+
+No principal differences are notable between children and adults regarding the clinical presentation, diagnosis, prevention, and management of systemic viral infections. Apart from Epstein–Barr virus (EBV) and adenovirus infections, cytomegalovirus (CMV) infection is frequent post pediatric allogeneic HCT and associated with considerable morbidity and potential to progress to fatal end-organ disease. Letermovir is a new antiviral agent with a novel mechanism of action and has become standard prophylaxis in seropositive adult HCT recipients (Jakharia et al. 2021). Pediatric development of the compound is in advanced stages (Groll et al. 2022b) and will hopefully lead to approval in the future (Körholz et al. 2023). Control of EBV, adenovirus, and CMV may become challenging, and the option of treatment with virus-specific T-cells may be explored early in foreseeable complicated patient courses (Zajac-Spychala et al. 2022).
+
+Primary systemic and respiratory viral infections may be seen more frequently in pediatrics, and in this setting, household contacts and healthcare workers may represent important sources, with possible in-hospital spreading. In the last years, the SARS-CoV-2 pandemics provided an important challenge worldwide and in particular to immunocompromised patients. Notable and different from observations in adults, the incidence of COVID-19, the disease caused by the virus, was lower in immunocompromised children than in adults even if severe cases and deaths were also observed in pediatrics (Haeusler et al. 2021; Mukkada et al. 2021). This provides a stringent rationale to vaccinate these patients, their household contacts, and health care workers (Cesaro et al. 2022).
+
+## 28.4 Nonpharmacological Prevention
+
+Application of bundle procedures for screening of colonization by resistant bacteria and isolation of positive patients (Castagnola et al. 2019) together with correct hand hygiene, appropriate isolation procedures, correct vascular access handling, and the use of HEPA filters can all be of great utility in the prevention of difficult to treat infections post allogeneic HCT (Castagnola et al. 2019; Ifversen et al. 2021). Interestingly, multivariable analyses of data collected in the aforementioned survey on bloodstream infections (Castagnola et al. 2021) did not identify colonization by resistant Gram-negatives as a cause of mortality or ICU admission; indeed, these two outcomes were associated with methicillin-resistant *S. aureus* colonization. This observation is important considering the effectiveness of decolonization procedures against this pathogen (Fueller et al. 2022).
+
+Vaccines also represent an important tool for the prevention of viral and certain bacterial (e.g., *S. pneumoniae*) infections in the posttransplant setting, and re-immunization with inactivated vaccines may be started as early as 6 months post-transplant, while vaccines with live attenuated viruses must be administered later and in the absence of severe immunosuppression (Cordonnier et al. 2019; Sticchi et al. 2019; Zajac-Spychala et al. 2022).
+
+### Key Points
+
+### In children undergoing allogeneic HCT
+
+- Effectiveness of antibacterial prophylaxis of febrile neutropenia in the pre-engraftment period has not been specifically studied in randomized clinical trials, and there is the risk of selecting resistance, so this practice is not recommended.
+
+- Empirical antibacterial therapy of febrile neutropenia with an antipseudomonal non-carbapenem β-lactam plus β-lactamase inhibitor combination or a fourth-generation cephalosporin is recommended in a clinically stable patient at low risk of resistant infections, while in clinically unstable patients, an anti-pseudomonal carbapenem with or without a second anti-Gram-negative agent, with or without a glycopeptide, is recommended, even when there appears to be a low risk of resistant infections. However, more in general, the choice should be based on epidemiological data from the referring or the transplanting center.
+
+- A similar approach could be used in non-neutropenic patients with GvHD, based on the high frequency of bacteremia observed in this patients population.
+
+- Pharmacokinetic/pharmacodynamics data should be used to optimize effectiveness and reducing the risk of resistance selection.
+
+- Primary mold-active antifungal prophylaxis should be administered both in the pre- and in the post-engraftment phases. Triazoles represent the first choice, but liposomal amphotericin B could represent a good alternative.
+
+- Diagnosis of invasive fungal disease can be a challenge and requires a multimodal approach with combined use of clinical, radiological (CT scan), and biomarkers (galactomannan, polymerase chain reaction) and sometimes aggressive diagnostic procedures (bronchoalveolar lavage, biopsies).
+
+- Empirical antifungal therapy (i.e., administration of antifungals in the presence of persistent febrile neutropenia in the absence of an etiological diagnosis) is a possible option when a diagnostic driven approach (biomarkers and imaging) is not available, with similar results in terms of efficiency. Therapeutic options are like those recommended for adults, even if pediatric registration of the newest drugs is not always promptly available.
+
+- Management of viral infections, vaccination schedules, and infection prevention procedures is similar to those recommended in adults, even if pediatric registration of the newest drugs is not always promptly available.
+
+## References
+
+- Arrieta AC, Sung L, Bradley JS, et al. A non-randomized trial to assess the safety, tolerability, and pharmacokinetics of posaconazole oral suspension in immunocompromised children with neutropenia. PLoS One. 2019;14:e0212837.
+
+- Arrieta AC, Neely M, Day C, et al. Safety, tolerability and population pharmacokinetics of intravenous and oral isavuconazolium sulfate in pediatric patients. Antimicrob Agents Chemother. 2021;65:e00290–21.
+
+- Bernhard S, Kernland Lang K, Ammann RA, et al. Voriconazole-induced phototoxicity in children. Pediatr Infect Dis J. 2012;31:769–71.
+
+- Castagnola E, Mesini A. Antifungal prophylaxis in children receiving antineoplastic chemotherapy. Curr Fungal Infect Rep. 2018;12:78–85.
+
+- Castagnola E, Bagnasco F, Amoroso L, et al. Role of management strategies in reducing mortality from invasive fungal disease in children with cancer or receiving hemopoietic stem cell transplant: a single center 30-year experience. Pediatr Infect Dis J. 2014a;33:233–7.
+
+- Castagnola E, Bagnasco F, Bandettini R, et al. Role of acute graft-versus-host disease in the risk of bacteremia and invasive fungal disease after allogeneic hemopoietic stem cell transplantation in children. Results from a single-center observational study. Biol Blood Marrow Transplant. 2014b;20:1068–73.
+
+- Castagnola E, Ruberto E, Guarino A. Gastrointestinal and liver infections in children undergoing antineoplastic chemotherapy in the years 2000. World J Gastroenterol. 2016;22:5853–66.
+
+- Castagnola E, Bagnasco F, Menoni S, et al. Risk factors associated with development and mortality by invasive fungal diseases in pediatric allogeneic stem cell transplantation. A pediatric subgroup analysis of data from a prospective study of the Gruppo Italiano Trapianto di Midollo Osseo (GITMO). Bone Marrow Transplant. 2018;53:1193.
+
+- Castagnola E, Tatarelli P, Mesini A, et al. Epidemiology of carbapenemase-producing Enterobacteriaceae in a pediatric hospital in a country with high endemicity. J Infect Public Health. 2019;12:270–4.
+
+- Castagnola E, Bagnasco F, Mesini A, et al. Antibiotic resistant bloodstream infections in pediatric patients receiving chemotherapy or hematopoietic stem cell transplant: factors associated with development of resistance, intensive care admission and mortality. Antibiotics (Basel). 2021;10:266.
+
+- Castagnola E, Ricci E, Mariani M. Infections due to antibiotic-resistant Gram-negative bacteria in pediatrics. Possible management strategies. Pediatr Infect Dis J. 2022;41:e283–5.
+
+- Cesaro S, Tridello G, Castagnola E, et al. Retrospective study on the incidence and outcome of proven and probable invasive fungal infections in high-risk pediatric onco-hematological patients. Eur J Haematol. 2017;99:240–8.
+
+- Cesaro S, Ljungman P, Mikulska M, et al. Recommendations for the management of COVID-19 in patients with haematological malingancies or hematopoietic cell transplantation, from the 2021 European Conference on Infections in Leukemia (ECIL-9). Leukemia. 2022;36:1467–80.
+
+- Cordonnier C, Einarsdottir S, Cesaro S, et al. Vaccination of haemopoietic stem cell transplant recipients: guidelines of the 2017 European Conference on Infections in Leukaemia (ECIL 7). Lancet Infect Dis. 2019;19:e200–12.
+
+- De Cock PAJG, van Dijkman SC, de Jaeger A, et al. Dose optimization of piperacillin/tazobactam in critically ill children. J Antimicrob Chemother. 2017;72:2002–11.
+
+- Diorio C, Robinson PD, Ammann RA, et al. Guideline for the management of *Clostridium difficile* infection in children and adolescents with cancer and pediatric hematopoietic stem-cell transplantation recipients. J Clin Oncol. 2018;36:3162–71.
+
+- Donnelly JP, Chen SC, Kauffman CA, et al. Revision and update of the consensus definitions of invasive fungal disease from the European Organization for Research and Treatment of Cancer and the Mycoses Study Group Education and Research Consortium. Clin Infect Dis. 2020;71:1367–76.
+
+- Enoch DA, Butler MJ, Pai S, et al. *Clostridium difficile* in children: colonisation and disease. J Infect. 2011;63:105–13.
+
+- European Medicines Agency. Noxafil summary of product characteristics. 2022. https://www.ema.europa.eu/en/documents/product-information/noxafil-epar-product-information_en.pdf. Accessed 22 Feb 2022.
+
+- Ferreras-Antolin L, Borman A, Diederichs A, et al. Serum beta-d-glucan in the diagnosis of invasive fungal disease in neonates, children and adolescents: a critical analysis of current data. J Fungi (Basel). 2022;8(12):1262.
+
+- Fisher BT, Robinson PD, Lehrnbecher T, et al. Risk factors for invasive fungal disease in pediatric cancer and hematopoietic stem cell transplantation: a systematic review. J Pediatr Infect Dis Soc. 2018;7:191–8.
+
+- Fisher BT, Zaoutis TE, Xiao R, et al. Comparative effectiveness of echinocandins vs triazoles or amphotericin B formulations as initial directed therapy for invasive candidiasis in children and adolescents. J Pediatr Infect Dis Soc. 2021;10(11):994–1003.
+
+- Fueller MA, Kampmeier S, Wuebbolding AM, et al. Prospective surveillance of colonization and disease by methicillin-resistant Staphylococcus aureus (MRSA) at an European pediatric cancer center. Support Care Cancer. 2022;30:7231–9.
+
+- Goyal RK. Voriconazole-associated phototoxic dermatoses and skin cancer. Expert Rev Anti Infect Ther. 2015;13(12):1537–46.
+
+- Groll AH, Castagnola E, Cesaro S, et al. Fourth European Conference on Infections in Leukaemia (ECIL-4): guidelines for diagnosis, prevention, and treatment of invasive fungal diseases in paediatric patients with cancer or allogeneic haemopoietic stem-cell transplantation. Lancet Oncol. 2014;15:e327–40.
+
+- Groll AH, Townsend R, Desai A, et al. Drug–drug interactions between triazole antifungal agents used to treat invasive aspergillosis and immunosuppressants metabolized by cytochrome P450 3A4. Transpl Infect Dis. 2017;19(5):e12751. https://doi.org/10.1111/tid.12751.
+
+- Groll AH, Abdel-Azim H, Lehrnbecher T, et al. Pharmacokinetics and safety of posaconazole intravenous solution and powder for oral suspension in children with neutropenia: an open-label, sequential dose-escalation trial. Int J Antimicrob Agents. 2020;56:106084.
+
+- Groll AH, Pana D, Lanternier F, et al. 8th European Conference on Infections in Leukaemia: 2020 guidelines for the diagnosis, prevention, and treatment of invasive fungal diseases in paediatric patients with cancer or post-haematopoietic cell transplantation. Lancet Oncol. 2021;22:e254–69.
+
+- Groll AH, Roilides E, Walsh TJ. New developments in pediatric antifungal pharmacology. Pediatr Infect Dis J. 2022a;41:e530–3.
+
+- Groll AH, Schulte JH, Antmen AB, et al. Preliminary dosing for adolescent hematopoietic stem-cell transplant (HSCT) recipients based on pharmacokinetic (PK), safety, and efficacy data of letermovir (LET) for cytomegalovirus (CMV) prophylaxis. OFID. 2022b;9(Suppl 2):S341–2.
+
+- Haeusler GM, Ammann RA, Carlesse F, et al. SARS-CoV-2 in children with cancer or after haematopoietic stem cell transplant: an analysis of 131 patients. Eur J Cancer. 2021;159:78–86.
+
+- Haeusler GM, Lehrnbecher T, Agyeman PKA, et al. *Clostridioides difficile* infection in paediatric patients with cancer and haematopoietic stem cell transplant recipients. Eur J Cancer. 2022;171:1–9.
+
+- Heinz WJ, Cabanillas Stanchi KM, Klinker H, et al. Posaconazole plasma concentration in pediatric patients receiving antifungal prophylaxis after allogeneic hematopoietic stem cell transplantation. Med Mycol. 2016;54:128–37.
+
+- Hoenigl M, Salmanton-García J, Walsh TJ, et al. Global guideline for the diagnosis and management of rare mould infections: an initiative of the European Confederation of Medical Mycology in cooperation with the International Society for Human and Animal Mycology and the American Society for Microbiology. Lancet Infect Dis. 2021;21:e246–57.
+
+- Ifversen M, Meisel R, Sedlacek P, et al. Supportive care during pediatric hematopoietic stem cell transplantation: prevention of infections. A report from workshops on supportive Care of the Paediatric Diseases Working Party (PDWP) of the European Society for Blood and Marrow Transplantation (EBMT). Front Pediatr. 2021;9:705179.
+
+- Jakharia N, Howard D, Riedel DJ. CMV infection in hematopoietic stem cell transplantation: prevention and treatment strategies. Curr Treat Options Infect Dis. 2021;13:123–40.
+
+- Jancel T, Shaw PA, Hallahan CW, et al. Therapeutic drug monitoring of posaconazole oral suspension in paediatric patients younger than 13 years of age: a retrospective analysis and literature review. J Clin Pharm Ther. 2017;42:75–9.
+
+- Körholz KF, Füller MA, Hennies M, et al. Letermovir for prophylaxis and pre-emptive therapy of cytomegalovirus infection in paediatric allogeneic haematopoietic cell transplant patients. Paediatr Drugs. 2023;25:225–32.
+
+- Lees EA, Miyajima F, Pirmohamed M, et al. The role of *Clostridium difficile* in the paediatric and neonatal gut—a narrative review. Eur J Clin Microbiol Infect Dis. 2016;35:1047–57.
+
+- Lehrnbecher T, Groll AH. Pre-emptive versus empirical antifungal therapy in immunocompromised children. Lancet Child Adolesc Health. 2019;3:518–20.
+
+- Lehrnbecher T, Robinson PD, Fisher BT, et al. Galactomannan, beta-d-glucan, and polymerase chain reaction-based assays for the diagnosis of invasive fungal disease in pediatric cancer and hematopoietic stem cell transplantation: a systematic review and meta-analysis. Clin Infect Dis. 2016;63:1340–8.
+
+- Lehrnbecher T, Fisher BT, Phillips B, et al. Clinical practice guideline for systemic antifungal prophylaxis in pediatric patients with cancer and hematopoietic stem-cell transplantation recipients. J Clin Oncol. 2020;38:3205–16.
+
+- Lehrnbecher T, Averbuch D, Castagnola E, et al. 8th European Conference on Infections in Leukaemia: 2020 guidelines for the use of antibiotics in paediatric patients with cancer or post-haematopoietic cell transplantation. Lancet Oncol. 2021;22:e270–80.
+
+- Lewis R, Brüggemann R, Padoin C. Triazole antifungal therapeutic drug monitoring. In: Abstract Sixth European Conference on Infections in Leukemia Meeting (ECIL-6). 2015. https://www.ebmt.org/Contents/Resources/Library/ECIL/Documents/2015%20ECIL6/ECIL6-Triazole-TDM-07-12-2015-Lewis-R-et-al.pdf.
+
+- Linke C, Ehlert K, Ahlmann M, et al. Epidemiology, utilisation of healthcare resources and outcome of invasive fungal diseases following paediatric allogeneic haematopoietic stem cell transplantation. Mycoses. 2020;63:172–80.
+
+- Maertens J, Cesaro S, Maschmeyer G, et al. ECIL guidelines for preventing *Pneumocystis jirovecii* pneumonia in patients with haematological malignancies and stem cell transplant recipients. J Antimicrob Chemother. 2016;71:2397–404.
+
+- Mesini A, Faraci M, Giardino S, et al. Alternate-day dosing of posaconazole tablets in children leads to efficient plasma levels. Eur J Haematol. 2018;101:127–8.
+
+- Mukkada S, Bhakta N, Chantada GL, et al. Global characteristics and outcomes of SARS-CoV-2 infection in children and adolescents with cancer (GRCCC): a cohort study. Lancet Oncol. 2021;22:1416–26.
+
+- Natale S, Bradley J, Huy Nguyen W, et al. Pediatric obesity: pharmacokinetic alterations and effects on anti-microbial dosing. Pharmacotherapy. 2017;37:361–78.
+
+- Neely M, Margol A, Fu X, et al. Achieving target voriconazole concentrations more accurately in children and adolescents. Antimicrob Agents Chemother. 2015;59:3090–7.
+
+- Pana ZD, Groll AH, Lehrnbecher T. An update on the diagnosis and treatment of invasive mold disease of the central nervous system in children. Pediatr Infect Dis J. 2023;42(4):e119–21.
+
+- Ricci E, Mesini A, Bandettini R, et al. Antibacterial prophylaxis of febrile neutropenia is not effective in the pre-engraftment period in pediatric allogeneic hematopoietic stem cell transplantation. Transpl Infect Dis. 2020;22:e13340.
+
+- Saffioti C, Mesini A, Barco S, et al. Piperacillin–tazobactam concentration target attainment in children with cancer. Pediatr Blood Cancer. 2019;66:e27882.
+
+- Santolaya ME, Alvarez AM, et al. Efficacy of pre-emptive versus empirical antifungal therapy in children with cancer and high-risk febrile neutropenia: a randomized clinical trial. J Antimicrob Chemother. 2018;73:2860–6.
+
+- Shimamoto Y, Verstegen RHJ, Mizuno T, et al. Population pharmacokinetics of vancomycin in paediatric patients with febrile neutropenia and augmented renal clearance: development of new dosing recommendations. J Antimicrob Chemother. 2021;76:2932–40.
+
+- Soler-Palacın P, Frick MA, Martın-Nalda A, et al. Voriconazole drug monitoring in the management of invasive fungal infection in immunocompromised children: a prospective study. J Antimicrob Chemother. 2012;67:700–6.
+
+- Sticchi L, Gabutti G, Castagnola E. Possible pitfalls of the 2017 ECIL guidelines. Lancet Infect Dis. 2019;19:575.
+
+- Teusink A, Vinks A, Zhang K, et al. Genotype-directed dosing leads to optimized voriconazole levels in pediatric patients receiving hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2016;22(3):482–6.
+
+- Thorsted A, Kristoffersson AN, Maarbjerg SF, et al. Population pharmacokinetics of piperacillin in febrile children receiving cancer chemotherapy: the impact of body weight and target on an optimal dosing regimen. J Antimicrob Chemother. 2019;74:2984–93.
+
+- Tragiannidis A, Herbrüggen H, Ahlmann M, et al. Plasma exposures following posaconazole delayed-release tablets in immunocompromised children and adolescents. J Antimicrob Chemother. 2019;74:3573–8.
+
+- Zajac-Spychala O, Kampmeier S, Lehrnbecher T, et al. Infectious complications in paediatric haematopoetic cell transplantation for acute lymphoblastic leukemia: current status. Front Pediatr. 2022;10(9):782530.

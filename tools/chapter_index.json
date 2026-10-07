@@ -1,0 +1,1297 @@
+[
+ {
+  "n": 1,
+  "title": "HCT: Historical Perspective",
+  "file": "chapters/ch01-hct-historical-perspective.md",
+  "authors": [
+   "Granot, Noa",
+   "Storb, Rainer"
+  ],
+  "pages": "3–9",
+  "tables": 0,
+  "figures": 1,
+  "words": 3388
+ },
+ {
+  "n": 2,
+  "title": "The EBMT: History, Present, and Future",
+  "file": "chapters/ch02-the-ebmt-history-present-and-future.md",
+  "authors": [
+   "Sureda, Anna",
+   "Kröger, Nicolaus",
+   "Apperley, Jane",
+   "Gratwohl, Alois"
+  ],
+  "pages": "11–19",
+  "tables": 2,
+  "figures": 1,
+  "words": 4858
+ },
+ {
+  "n": 3,
+  "title": "Registries: A Bridge Between Donor and Recipient",
+  "file": "chapters/ch03-registries-a-bridge-between-donor-and-recipient.md",
+  "authors": [
+   "Evseeva, Irina",
+   "Foeken, Lydia",
+   "Villa, Juliana"
+  ],
+  "pages": "21–30",
+  "tables": 0,
+  "figures": 5,
+  "words": 3340
+ },
+ {
+  "n": 4,
+  "title": "The HCT Unit",
+  "file": "chapters/ch04-the-hct-unit.md",
+  "authors": [
+   "Rasheed, Walid",
+   "Niederwieser, Dietger W.",
+   "Aljurf, Mahmoud"
+  ],
+  "pages": "31–39",
+  "tables": 1,
+  "figures": 0,
+  "words": 4441
+ },
+ {
+  "n": 5,
+  "title": "JACIE Accreditation of HCT Programs",
+  "file": "chapters/ch05-jacie-accreditation-of-hct-programs.md",
+  "authors": [
+   "Saccardi, Riccardo",
+   "Rintala, Tuula",
+   "McGrath, Eoin",
+   "Snowden, John A."
+  ],
+  "pages": "41–47",
+  "tables": 0,
+  "figures": 5,
+  "words": 2353
+ },
+ {
+  "n": 6,
+  "title": "Statistical Methods in HCT and Cellular Therapies",
+  "file": "chapters/ch06-statistical-methods-in-hct-and-cellular-therapies.md",
+  "authors": [
+   "Iacobelli, Simona",
+   "de Wreede, Liesbeth C."
+  ],
+  "pages": "49–54",
+  "tables": 0,
+  "figures": 2,
+  "words": 2836
+ },
+ {
+  "n": 7,
+  "title": "Biological Properties of Hematopoietic Stem Cells: Scientific Basis for Hematopoietic Cell Transplantation",
+  "file": "chapters/ch07-biological-properties-of-hematopoietic-stem-cells-scientific-basis.md",
+  "authors": [
+   "Aiuti, Alessandro",
+   "Scala, Serena",
+   "Chabannon, Christian"
+  ],
+  "pages": "57–66",
+  "tables": 0,
+  "figures": 3,
+  "words": 4556
+ },
+ {
+  "n": 8,
+  "title": "Biological Properties of Cells Other Than HSCs",
+  "file": "chapters/ch08-biological-properties-of-cells-other-than-hscs.md",
+  "authors": [
+   "Bondanza, Attilio",
+   "Koehl, Ulrike",
+   "Hoffmann, Andrea",
+   "Toubert, Antoine"
+  ],
+  "pages": "67–71",
+  "tables": 0,
+  "figures": 0,
+  "words": 2616
+ },
+ {
+  "n": 9,
+  "title": "Histocompatibility",
+  "file": "chapters/ch09-histocompatibility.md",
+  "authors": [
+   "Spierings, Eric",
+   "Madrigal, Alejandro",
+   "Fleischhauer, Katharina"
+  ],
+  "pages": "73–84",
+  "tables": 3,
+  "figures": 0,
+  "words": 7174
+ },
+ {
+  "n": 10,
+  "title": "Clinical and Biological Concepts for Mastering Immune Reconstitution After Hematopoietic Cell Transplantation: Toward Practical Guidelines and Greater Harmonization",
+  "file": "chapters/ch10-clinical-and-biological-concepts-for-mastering-immune-reconstitution.md",
+  "authors": [
+   "Kuball, Jürgen",
+   "Greco, Raffaella",
+   "Nierkens, Stefan",
+   "Boelens, Jaap Jan"
+  ],
+  "pages": "85–96",
+  "tables": 3,
+  "figures": 0,
+  "words": 6703
+ },
+ {
+  "n": 11,
+  "title": "Evaluation and Counseling of Candidates",
+  "file": "chapters/ch11-evaluation-and-counseling-of-candidates.md",
+  "authors": [
+   "Barba, Pere",
+   "Rambaldi, Alessandro"
+  ],
+  "pages": "99–110",
+  "tables": 8,
+  "figures": 0,
+  "words": 6869
+ },
+ {
+  "n": 12,
+  "title": "Donor Selection for Adults and Pediatrics",
+  "file": "chapters/ch12-donor-selection-for-adults-and-pediatrics.md",
+  "authors": [
+   "Ayuk, Francis",
+   "Balduzzi, Adriana",
+   "Worel, Nina"
+  ],
+  "pages": "111–123",
+  "tables": 1,
+  "figures": 1,
+  "words": 8117
+ },
+ {
+  "n": 13,
+  "title": "Conditioning",
+  "file": "chapters/ch13-conditioning.md",
+  "authors": [
+   "Shimoni, Avichai",
+   "Radici, Vera",
+   "Nagler, Arnon"
+  ],
+  "pages": "125–134",
+  "tables": 1,
+  "figures": 0,
+  "words": 5568
+ },
+ {
+  "n": 14,
+  "title": "Selection of Stem Cell Source",
+  "file": "chapters/ch14-selection-of-stem-cell-source.md",
+  "authors": [
+   "Horgan, Claire",
+   "Valcárcel, David"
+  ],
+  "pages": "135–141",
+  "tables": 2,
+  "figures": 0,
+  "words": 3468
+ },
+ {
+  "n": 15,
+  "title": "Bone Marrow Harvesting for HCT",
+  "file": "chapters/ch15-bone-marrow-harvesting-for-hct.md",
+  "authors": [
+   "Gorin, Norbert Claude",
+   "Carreras, Enric",
+   "Fernández-Sojo, Jesús",
+   "Villa, Juliana"
+  ],
+  "pages": "143–149",
+  "tables": 2,
+  "figures": 1,
+  "words": 2815
+ },
+ {
+  "n": 16,
+  "title": "Mobilization and Collection of HSC",
+  "file": "chapters/ch16-mobilization-and-collection-of-hsc.md",
+  "authors": [
+   "Worel, Nina",
+   "Bilgin, Yavuz M.",
+   "Wuchter, Patrick"
+  ],
+  "pages": "151–157",
+  "tables": 3,
+  "figures": 0,
+  "words": 3969
+ },
+ {
+  "n": 17,
+  "title": "Mobilization and Collection of HSCs in Children",
+  "file": "chapters/ch17-mobilization-and-collection-of-hscs-in-children.md",
+  "authors": [
+   "Witt, Volker",
+   "Pichler, Herbert",
+   "Ahrens, Norbert"
+  ],
+  "pages": "159–164",
+  "tables": 0,
+  "figures": 0,
+  "words": 3111
+ },
+ {
+  "n": 18,
+  "title": "Procurement and Management of Cord Blood Unit for Allogeneic Transplantation",
+  "file": "chapters/ch18-procurement-and-management-of-cord-blood-unit-for.md",
+  "authors": [
+   "Querol, Sergio",
+   "Rocha, Vanderson",
+   "Ruggeri, Annalisa"
+  ],
+  "pages": "165–170",
+  "tables": 3,
+  "figures": 0,
+  "words": 3014
+ },
+ {
+  "n": 19,
+  "title": "Graft Manipulation",
+  "file": "chapters/ch19-graft-manipulation.md",
+  "authors": [
+   "Lang, Peter",
+   "Schumm, Michael",
+   "Pierini, Antonio",
+   "Handgretinger, Rupert"
+  ],
+  "pages": "171–177",
+  "tables": 0,
+  "figures": 0,
+  "words": 4146
+ },
+ {
+  "n": 20,
+  "title": "Processing, Cryopreserving, and Controlling the Quality of HSC",
+  "file": "chapters/ch20-processing-cryopreserving-and-controlling-the-quality-of-hsc.md",
+  "authors": [
+   "Wuchter, Patrick"
+  ],
+  "pages": "179–182",
+  "tables": 0,
+  "figures": 0,
+  "words": 2286
+ },
+ {
+  "n": 21,
+  "title": "Documentation of Engraftment and Chimerism After HCT",
+  "file": "chapters/ch21-documentation-of-engraftment-and-chimerism-after-hct.md",
+  "authors": [
+   "Bader, Peter",
+   "Kreyenberg, Hermann",
+   "Bacigalupo, Andrea"
+  ],
+  "pages": "183–188",
+  "tables": 0,
+  "figures": 0,
+  "words": 2849
+ },
+ {
+  "n": 22,
+  "title": "Short- and Long-Term Controls After HCT",
+  "file": "chapters/ch22-short-and-long-term-controls-after-hct.md",
+  "authors": [
+   "Suárez-Lledó, Maria",
+   "Rovira, Montserrat"
+  ],
+  "pages": "189–193",
+  "tables": 3,
+  "figures": 0,
+  "words": 2279
+ },
+ {
+  "n": 23,
+  "title": "Vascular Access",
+  "file": "chapters/ch23-vascular-access.md",
+  "authors": [
+   "Cesaro, Simone",
+   "Caddeo, Giulia"
+  ],
+  "pages": "197–201",
+  "tables": 2,
+  "figures": 0,
+  "words": 2554
+ },
+ {
+  "n": 24,
+  "title": "Transfusion Support",
+  "file": "chapters/ch24-transfusion-support.md",
+  "authors": [
+   "Schrezenmeier, Hubert",
+   "Körper, Sixten",
+   "Höchsmann, Britta",
+   "Weinstock, Christof"
+  ],
+  "pages": "203–210",
+  "tables": 1,
+  "figures": 1,
+  "words": 3924
+ },
+ {
+  "n": 25,
+  "title": "Nutritional Support",
+  "file": "chapters/ch25-nutritional-support.md",
+  "authors": [
+   "Baumgartner, Annic",
+   "Schuetz, Philipp"
+  ],
+  "pages": "211–217",
+  "tables": 2,
+  "figures": 1,
+  "words": 2436
+ },
+ {
+  "n": 26,
+  "title": "GVHD Prophylaxis",
+  "file": "chapters/ch26-gvhd-prophylaxis.md",
+  "authors": [
+   "Boelens, Jaap Jan",
+   "Bonifazi, Francesca",
+   "Gjærde, Lars Klingen",
+   "Michonneau, David",
+   "Ruggeri, Annalisa",
+   "Saavedra, Laura",
+   "Socié, Gérard"
+  ],
+  "pages": "219–227",
+  "tables": 2,
+  "figures": 0,
+  "words": 4926
+ },
+ {
+  "n": 27,
+  "title": "Infection Control and Isolation Procedures",
+  "file": "chapters/ch27-infection-control-and-isolation-procedures.md",
+  "authors": [
+   "Mikulska, Malgorzata"
+  ],
+  "pages": "229–235",
+  "tables": 2,
+  "figures": 0,
+  "words": 3443
+ },
+ {
+  "n": 28,
+  "title": "General Management of the Patient: Specific Aspects of Infectious Disease Supportive Care in Children",
+  "file": "chapters/ch28-general-management-of-the-patient-specific-aspects-of.md",
+  "authors": [
+   "Castagnola, Elio",
+   "Groll, Andreas H."
+  ],
+  "pages": "237–248",
+  "tables": 2,
+  "figures": 0,
+  "words": 6411
+ },
+ {
+  "n": 29,
+  "title": "Vaccinations",
+  "file": "chapters/ch29-vaccinations.md",
+  "authors": [
+   "de la Cámara, Rafael",
+   "Meisel, Roland"
+  ],
+  "pages": "249–264",
+  "tables": 3,
+  "figures": 1,
+  "words": 7959
+ },
+ {
+  "n": 30,
+  "title": "Psychological Morbidity and Care",
+  "file": "chapters/ch30-psychological-morbidity-and-care.md",
+  "authors": [
+   "Polomeni, Alice",
+   "Scherwath, Angela"
+  ],
+  "pages": "265–271",
+  "tables": 0,
+  "figures": 0,
+  "words": 3664
+ },
+ {
+  "n": 31,
+  "title": "Clinically Relevant Drug Interactions in HCT",
+  "file": "chapters/ch31-clinically-relevant-drug-interactions-in-hct.md",
+  "authors": [
+   "Bauters, Tiene",
+   "Dadkhah, Adrin"
+  ],
+  "pages": "273–280",
+  "tables": 3,
+  "figures": 0,
+  "words": 3020
+ },
+ {
+  "n": 32,
+  "title": "The Roles of the HCT Nurse",
+  "file": "chapters/ch32-the-roles-of-the-hct-nurse.md",
+  "authors": [
+   "Kenyon, Michelle",
+   "Murray, John"
+  ],
+  "pages": "281–288",
+  "tables": 0,
+  "figures": 0,
+  "words": 3927
+ },
+ {
+  "n": 33,
+  "title": "Ethical Issues in HCT",
+  "file": "chapters/ch33-ethical-issues-in-hct.md",
+  "authors": [
+   "El-Ghariani, Khaled",
+   "Dalle, Jean-Hugues"
+  ],
+  "pages": "289–293",
+  "tables": 0,
+  "figures": 0,
+  "words": 2428
+ },
+ {
+  "n": 34,
+  "title": "Quality of Life Assessment After HCT for Pediatric and Adults",
+  "file": "chapters/ch34-quality-of-life-assessment-after-hct-for-pediatric.md",
+  "authors": [
+   "Barata, Anna",
+   "Jim, Heather"
+  ],
+  "pages": "295–300",
+  "tables": 2,
+  "figures": 0,
+  "words": 2688
+ },
+ {
+  "n": 35,
+  "title": "Neutropenic Fever",
+  "file": "chapters/ch35-neutropenic-fever.md",
+  "authors": [
+   "Mikulska, Malgorzata"
+  ],
+  "pages": "303–309",
+  "tables": 2,
+  "figures": 0,
+  "words": 3217
+ },
+ {
+  "n": 36,
+  "title": "Bacterial Infections",
+  "file": "chapters/ch36-bacterial-infections.md",
+  "authors": [
+   "Averbuch, Dina"
+  ],
+  "pages": "311–319",
+  "tables": 0,
+  "figures": 0,
+  "words": 4528
+ },
+ {
+  "n": 37,
+  "title": "Invasive Fungal Diseases",
+  "file": "chapters/ch37-invasive-fungal-diseases.md",
+  "authors": [
+   "Maertens, Johan A."
+  ],
+  "pages": "321–329",
+  "tables": 2,
+  "figures": 0,
+  "words": 4455
+ },
+ {
+  "n": 38,
+  "title": "Viral Infections",
+  "file": "chapters/ch38-viral-infections.md",
+  "authors": [
+   "Ljungman, Per",
+   "Piñana, Jose Luis",
+   "Cesaro, Simone",
+   "de la Cámara, Rafael"
+  ],
+  "pages": "331–343",
+  "tables": 1,
+  "figures": 0,
+  "words": 6265
+ },
+ {
+  "n": 39,
+  "title": "Other Life-Threatening Infections",
+  "file": "chapters/ch39-other-life-threatening-infections.md",
+  "authors": [
+   "Martino, Rodrigo"
+  ],
+  "pages": "345–354",
+  "tables": 3,
+  "figures": 1,
+  "words": 4661
+ },
+ {
+  "n": 40,
+  "title": "Bleeding and Thrombotic Complications",
+  "file": "chapters/ch40-bleeding-and-thrombotic-complications.md",
+  "authors": [
+   "Shah, Rahul",
+   "Savani, Bipin N.",
+   "Chaturvedi, Shruti"
+  ],
+  "pages": "355–363",
+  "tables": 1,
+  "figures": 0,
+  "words": 4722
+ },
+ {
+  "n": 41,
+  "title": "Graft Failure",
+  "file": "chapters/ch41-graft-failure.md",
+  "authors": [
+   "Valcárcel, David",
+   "Sánchez-Ortega, Isabel",
+   "Sureda, Anna"
+  ],
+  "pages": "365–372",
+  "tables": 6,
+  "figures": 1,
+  "words": 3616
+ },
+ {
+  "n": 42,
+  "title": "Early Complications of Endothelial Origin",
+  "file": "chapters/ch42-early-complications-of-endothelial-origin.md",
+  "authors": [
+   "Carreras, Enric",
+   "Diaz-Ricart, M.",
+   "Jodele, S.",
+   "Penack, O.",
+   "Vasu, S."
+  ],
+  "pages": "373–383",
+  "tables": 8,
+  "figures": 2,
+  "words": 5253
+ },
+ {
+  "n": 43,
+  "title": "Acute Graft-Versus-Host Disease",
+  "file": "chapters/ch43-acute-graft-versus-host-disease.md",
+  "authors": [
+   "Holler, Ernst",
+   "Greinix, Hildegard",
+   "Zeiser, Robert"
+  ],
+  "pages": "385–393",
+  "tables": 4,
+  "figures": 0,
+  "words": 5535
+ },
+ {
+  "n": 44,
+  "title": "Chronic Graft-Versus-Host Disease",
+  "file": "chapters/ch44-chronic-graft-versus-host-disease.md",
+  "authors": [
+   "Wolff, Daniel",
+   "Peric, Zinaida",
+   "Lawitschka, Anita"
+  ],
+  "pages": "395–410",
+  "tables": 3,
+  "figures": 0,
+  "words": 4414
+ },
+ {
+  "n": 45,
+  "title": "Posttransplant Lymphoproliferative Syndromes",
+  "file": "chapters/ch45-posttransplant-lymphoproliferative-syndromes.md",
+  "authors": [
+   "Styczynski, Jan",
+   "Giebel, Sebastian"
+  ],
+  "pages": "411–417",
+  "tables": 4,
+  "figures": 0,
+  "words": 3236
+ },
+ {
+  "n": 46,
+  "title": "Iron Overload",
+  "file": "chapters/ch46-iron-overload.md",
+  "authors": [
+   "Angelucci, Emanuele",
+   "Raiola, Anna Maria"
+  ],
+  "pages": "419–423",
+  "tables": 3,
+  "figures": 0,
+  "words": 2431
+ },
+ {
+  "n": 47,
+  "title": "Secondary Neoplasia (Other Than PTLPS)",
+  "file": "chapters/ch47-secondary-neoplasia-other-than-ptlps.md",
+  "authors": [
+   "Tichelli, André",
+   "Rovó, Alicia"
+  ],
+  "pages": "425–432",
+  "tables": 5,
+  "figures": 0,
+  "words": 3571
+ },
+ {
+  "n": 48,
+  "title": "Ocular and Oral Complications",
+  "file": "chapters/ch48-ocular-and-oral-complications.md",
+  "authors": [
+   "Steven, Philipp",
+   "Mays, Jacqueline W.",
+   "Hashmi, Shahrukh K."
+  ],
+  "pages": "435–440",
+  "tables": 2,
+  "figures": 0,
+  "words": 2893
+ },
+ {
+  "n": 49,
+  "title": "Hepatic Complications",
+  "file": "chapters/ch49-hepatic-complications.md",
+  "authors": [
+   "Carreras, Enric",
+   "Ruutu, Tapani",
+   "Mohty, Mohamad",
+   "Corbacioglu, Selim",
+   "de la Cámara, Rafael"
+  ],
+  "pages": "441–458",
+  "tables": 10,
+  "figures": 0,
+  "words": 10050
+ },
+ {
+  "n": 50,
+  "title": "Gastrointestinal Complications",
+  "file": "chapters/ch50-gastrointestinal-complications.md",
+  "authors": [
+   "Basak, Grzegorz W."
+  ],
+  "pages": "459–464",
+  "tables": 10,
+  "figures": 0,
+  "words": 2006
+ },
+ {
+  "n": 51,
+  "title": "Haemorrhagic Cystitis and Renal Dysfunction",
+  "file": "chapters/ch51-haemorrhagic-cystitis-and-renal-dysfunction.md",
+  "authors": [
+   "Cesaro, Simone"
+  ],
+  "pages": "465–469",
+  "tables": 1,
+  "figures": 0,
+  "words": 2367
+ },
+ {
+  "n": 52,
+  "title": "Noninfectious Pulmonary Complications",
+  "file": "chapters/ch52-noninfectious-pulmonary-complications.md",
+  "authors": [
+   "Bergeron, Anne",
+   "Cooke, Kenneth R."
+  ],
+  "pages": "471–480",
+  "tables": 9,
+  "figures": 0,
+  "words": 5399
+ },
+ {
+  "n": 53,
+  "title": "Neurological Complications",
+  "file": "chapters/ch53-neurological-complications.md",
+  "authors": [
+   "Duléry, Rémy",
+   "Schmidt-Hieber, Martin",
+   "Sharrack, Basil"
+  ],
+  "pages": "481–487",
+  "tables": 2,
+  "figures": 0,
+  "words": 2922
+ },
+ {
+  "n": 54,
+  "title": "Skin, Hair, and Musculoskeletal Complications",
+  "file": "chapters/ch54-skin-hair-and-musculoskeletal-complications.md",
+  "authors": [
+   "Ayuk, Francis",
+   "Savani, Bipin N."
+  ],
+  "pages": "489–493",
+  "tables": 0,
+  "figures": 0,
+  "words": 2493
+ },
+ {
+  "n": 55,
+  "title": "Cardiovascular Diseases and Metabolic Syndrome",
+  "file": "chapters/ch55-cardiovascular-diseases-and-metabolic-syndrome.md",
+  "authors": [
+   "Galvan, Elisa Roldan",
+   "Snowden, John A.",
+   "Greenfield, Diana M."
+  ],
+  "pages": "495–500",
+  "tables": 2,
+  "figures": 0,
+  "words": 2638
+ },
+ {
+  "n": 56,
+  "title": "Endocrine Disorders, Fertility, and Sexual Health",
+  "file": "chapters/ch56-endocrine-disorders-fertility-and-sexual-health.md",
+  "authors": [
+   "Salooja, Nina",
+   "Rovó, Alicia",
+   "Dalle, Jean-Hugues"
+  ],
+  "pages": "501–509",
+  "tables": 0,
+  "figures": 0,
+  "words": 4813
+ },
+ {
+  "n": 57,
+  "title": "Monitoring Measurable Residual Disease in ALL and AML",
+  "file": "chapters/ch57-monitoring-measurable-residual-disease-in-all-and-aml.md",
+  "authors": [
+   "Bader, Peter",
+   "Kreyenberg, Hermann",
+   "Ossenkoppele, Gert"
+  ],
+  "pages": "513–521",
+  "tables": 0,
+  "figures": 0,
+  "words": 4762
+ },
+ {
+  "n": 58,
+  "title": "Prevention and Treatment of Relapse by Drugs",
+  "file": "chapters/ch58-prevention-and-treatment-of-relapse-by-drugs.md",
+  "authors": [
+   "Kröger, Nicolaus",
+   "Gagelmann, Nico"
+  ],
+  "pages": "523–529",
+  "tables": 1,
+  "figures": 0,
+  "words": 3891
+ },
+ {
+  "n": 59,
+  "title": "Delayed Transfer of Immune Cells or the Art of Donor Lymphocyte Infusion (DLI) 2.0",
+  "file": "chapters/ch59-delayed-transfer-of-immune-cells-or-the-art.md",
+  "authors": [
+   "Falkenburg, J. H. Frederik",
+   "Schmid, Christoph",
+   "Kolb, Hans Joachim",
+   "Kuball, Jürgen"
+  ],
+  "pages": "531–539",
+  "tables": 1,
+  "figures": 0,
+  "words": 5713
+ },
+ {
+  "n": 60,
+  "title": "Cellular Therapy with Engineered T Cells, Efficacy, and Side Effects: Gene Editing/Gene Therapy",
+  "file": "chapters/ch60-cellular-therapy-with-engineered-t-cells-efficacy-and.md",
+  "authors": [
+   "Bonini, Chiara",
+   "Cavazzana, Marina",
+   "Ciceri, Fabio",
+   "Fehse, Boris",
+   "Hudecek, Michael"
+  ],
+  "pages": "541–549",
+  "tables": 3,
+  "figures": 0,
+  "words": 4985
+ },
+ {
+  "n": 61,
+  "title": "Mechanisms of Immune Resistance",
+  "file": "chapters/ch61-mechanisms-of-immune-resistance.md",
+  "authors": [
+   "Vago, Luca",
+   "Dazzi, Francesco"
+  ],
+  "pages": "551–554",
+  "tables": 0,
+  "figures": 0,
+  "words": 1784
+ },
+ {
+  "n": 62,
+  "title": "Regulatory Aspects of ATMP Versus Minimally Manipulated Immune Cells",
+  "file": "chapters/ch62-regulatory-aspects-of-atmp-versus-minimally-manipulated-immune.md",
+  "authors": [
+   "Chabannon, Christian",
+   "Dolstra, Harry"
+  ],
+  "pages": "555–562",
+  "tables": 0,
+  "figures": 0,
+  "words": 5009
+ },
+ {
+  "n": 63,
+  "title": "At-Home HCT",
+  "file": "chapters/ch63-at-home-hct.md",
+  "authors": [
+   "Fernández-Avilés, Francesc"
+  ],
+  "pages": "565–569",
+  "tables": 3,
+  "figures": 0,
+  "words": 2008
+ },
+ {
+  "n": 64,
+  "title": "Role of Umbilical Cord Blood Transplantation",
+  "file": "chapters/ch64-role-of-umbilical-cord-blood-transplantation.md",
+  "authors": [
+   "Sanz, Jaime",
+   "Rocha, Vanderson"
+  ],
+  "pages": "571–576",
+  "tables": 6,
+  "figures": 0,
+  "words": 2954
+ },
+ {
+  "n": 65,
+  "title": "Haploidentical HCT",
+  "file": "chapters/ch65-haploidentical-hct.md",
+  "authors": [
+   "Bacigalupo, Andrea",
+   "Lankester, Arjan",
+   "Ciceri, Fabio",
+   "Bertaina, Alice"
+  ],
+  "pages": "577–585",
+  "tables": 0,
+  "figures": 3,
+  "words": 3830
+ },
+ {
+  "n": 66,
+  "title": "Photopheresis in Adults and Pediatrics",
+  "file": "chapters/ch66-photopheresis-in-adults-and-pediatrics.md",
+  "authors": [
+   "Greinix, Hildegard"
+  ],
+  "pages": "587–593",
+  "tables": 2,
+  "figures": 0,
+  "words": 3992
+ },
+ {
+  "n": 67,
+  "title": "Overweight and Obese Patients",
+  "file": "chapters/ch67-overweight-and-obese-patients.md",
+  "authors": [
+   "Langebrake, Claudia"
+  ],
+  "pages": "595–600",
+  "tables": 1,
+  "figures": 0,
+  "words": 2974
+ },
+ {
+  "n": 68,
+  "title": "HCT in Elderly Patients",
+  "file": "chapters/ch68-hct-in-elderly-patients.md",
+  "authors": [
+   "Duarte, Rafael F.",
+   "Sánchez-Ortega, Isabel"
+  ],
+  "pages": "601–606",
+  "tables": 1,
+  "figures": 0,
+  "words": 3371
+ },
+ {
+  "n": 69,
+  "title": "Feasibility and Experiences of HCT in Resource-Constrained Settings",
+  "file": "chapters/ch69-feasibility-and-experiences-of-hct-in-resource-constrained.md",
+  "authors": [
+   "Srivastava, Alok",
+   "Duarte, Fernando Barroso",
+   "Faulkner, Lawrence"
+  ],
+  "pages": "607–614",
+  "tables": 2,
+  "figures": 1,
+  "words": 3600
+ },
+ {
+  "n": 70,
+  "title": "AML in Adults",
+  "file": "chapters/ch70-aml-in-adults.md",
+  "authors": [
+   "Versluis, Jurjen",
+   "Cornelissen, Jan J.",
+   "Craddock, Charles",
+   "Sanz, Miguel Á.",
+   "Nagler, Arnon"
+  ],
+  "pages": "617–631",
+  "tables": 6,
+  "figures": 0,
+  "words": 7796
+ },
+ {
+  "n": 71,
+  "title": "Acute Myeloid Leukaemia in Children",
+  "file": "chapters/ch71-acute-myeloid-leukaemia-in-children.md",
+  "authors": [
+   "Gibson, Brenda E. S.",
+   "Sauer, Martin G.",
+   "Ramanathan, Subramaniam",
+   "Amrolia, Persis J."
+  ],
+  "pages": "633–648",
+  "tables": 2,
+  "figures": 0,
+  "words": 8909
+ },
+ {
+  "n": 72,
+  "title": "Acute Lymphoblastic Leukemia in Adults",
+  "file": "chapters/ch72-acute-lymphoblastic-leukemia-in-adults.md",
+  "authors": [
+   "Stelljes, Matthias",
+   "Marks, David I.",
+   "Giebel, Sebastian"
+  ],
+  "pages": "649–657",
+  "tables": 2,
+  "figures": 3,
+  "words": 3480
+ },
+ {
+  "n": 73,
+  "title": "Acute Lymphoblastic Leukaemia in Children and Adolescents",
+  "file": "chapters/ch73-acute-lymphoblastic-leukaemia-in-children-and-adolescents.md",
+  "authors": [
+   "Peters, Christina",
+   "Locatelli, Franco",
+   "Bader, Peter"
+  ],
+  "pages": "659–667",
+  "tables": 4,
+  "figures": 1,
+  "words": 4811
+ },
+ {
+  "n": 74,
+  "title": "Myelodysplastic Neoplasms/Syndromes (MDS)",
+  "file": "chapters/ch74-myelodysplastic-neoplasms-syndromes-mds.md",
+  "authors": [
+   "Robin, Marie",
+   "Gurnari, Carmelo"
+  ],
+  "pages": "669–677",
+  "tables": 1,
+  "figures": 2,
+  "words": 3873
+ },
+ {
+  "n": 75,
+  "title": "Allogeneic Hematopoietic Cell Transplantation in Pediatric MDS Including Refractory Cytopenia of Childhood and in Juvenile Myelomonocytic Leukemia",
+  "file": "chapters/ch75-allogeneic-hematopoietic-cell-transplantation-in-pediatric-mds-including.md",
+  "authors": [
+   "Niemeyer, Charlotte M.",
+   "Strahm, Brigitte"
+  ],
+  "pages": "679–683",
+  "tables": 1,
+  "figures": 0,
+  "words": 2194
+ },
+ {
+  "n": 76,
+  "title": "Myelodysplastic/Myeloproliferative Neoplasms",
+  "file": "chapters/ch76-myelodysplastic-myeloproliferative-neoplasms.md",
+  "authors": [
+   "Onida, Francesco",
+   "Chalandon, Yves"
+  ],
+  "pages": "685–694",
+  "tables": 3,
+  "figures": 0,
+  "words": 4877
+ },
+ {
+  "n": 77,
+  "title": "Myeloproliferative Neoplasms",
+  "file": "chapters/ch77-myeloproliferative-neoplasms.md",
+  "authors": [
+   "Kröger, Nicolaus",
+   "McLornan, Donal P.",
+   "Chalandon, Yves"
+  ],
+  "pages": "695–705",
+  "tables": 2,
+  "figures": 2,
+  "words": 6210
+ },
+ {
+  "n": 78,
+  "title": "Acquired Bone Marrow Failure: Severe Aplastic Anemia and Paroxysmal Nocturnal Hemoglobinuria",
+  "file": "chapters/ch78-acquired-bone-marrow-failure-severe-aplastic-anemia-and.md",
+  "authors": [
+   "de Latour, Régis Peffault",
+   "Risitano, Antonio",
+   "Kulasekararaj, Austin",
+   "Dufour, Carlo"
+  ],
+  "pages": "707–715",
+  "tables": 0,
+  "figures": 1,
+  "words": 4872
+ },
+ {
+  "n": 79,
+  "title": "Fanconi Anemia and Other Hereditary Bone Marrow Failure Syndromes",
+  "file": "chapters/ch79-fanconi-anemia-and-other-hereditary-bone-marrow-failure.md",
+  "authors": [
+   "Diaz-de-Heredia, Cristina",
+   "Bierings, Marc",
+   "Dalle, Jean-Hugues",
+   "Fioredda, Francesca",
+   "Strahm, Brigitte"
+  ],
+  "pages": "717–724",
+  "tables": 1,
+  "figures": 1,
+  "words": 3690
+ },
+ {
+  "n": 80,
+  "title": "Hemoglobinopathies (Sickle Cell Disease and Thalassemia)",
+  "file": "chapters/ch80-hemoglobinopathies-sickle-cell-disease-and-thalassemia.md",
+  "authors": [
+   "Cappelli, Barbara",
+   "Gluckman, Eliane",
+   "Corbacioglu, Selim",
+   "de la Fuente, Josu",
+   "Abboud, Miguel R."
+  ],
+  "pages": "725–739",
+  "tables": 3,
+  "figures": 5,
+  "words": 7784
+ },
+ {
+  "n": 81,
+  "title": "Multiple Myeloma",
+  "file": "chapters/ch81-multiple-myeloma.md",
+  "authors": [
+   "Mohty, Mohamad",
+   "Bruno, Benedetto",
+   "Gagelmann, Nico",
+   "Mateos, Maria-Victoria"
+  ],
+  "pages": "741–749",
+  "tables": 3,
+  "figures": 0,
+  "words": 4522
+ },
+ {
+  "n": 82,
+  "title": "Systemic Light Chain Amyloidosis",
+  "file": "chapters/ch82-systemic-light-chain-amyloidosis.md",
+  "authors": [
+   "Minnema, Monique",
+   "Schönland, Stefan"
+  ],
+  "pages": "751–755",
+  "tables": 2,
+  "figures": 1,
+  "words": 2323
+ },
+ {
+  "n": 83,
+  "title": "Poems Syndrome and Disease Produced by Other Monoclonal IGs",
+  "file": "chapters/ch83-poems-syndrome-and-disease-produced-by-other-monoclonal.md",
+  "authors": [
+   "Cook, Gordon",
+   "Rovira, Montserrat"
+  ],
+  "pages": "757–761",
+  "tables": 5,
+  "figures": 0,
+  "words": 1905
+ },
+ {
+  "n": 84,
+  "title": "Indolent Lymphoma",
+  "file": "chapters/ch84-indolent-lymphoma.md",
+  "authors": [
+   "Serroukh, Yasmina",
+   "Montoto, Silvia"
+  ],
+  "pages": "763–769",
+  "tables": 3,
+  "figures": 0,
+  "words": 3529
+ },
+ {
+  "n": 85,
+  "title": "Chronic Lymphocytic Leukemia",
+  "file": "chapters/ch85-chronic-lymphocytic-leukemia.md",
+  "authors": [
+   "Schetelig, Johannes",
+   "Dreger, Peter"
+  ],
+  "pages": "771–775",
+  "tables": 1,
+  "figures": 0,
+  "words": 2175
+ },
+ {
+  "n": 86,
+  "title": "Large B-Cell Lymphoma",
+  "file": "chapters/ch86-large-b-cell-lymphoma.md",
+  "authors": [
+   "Bento, Leyre",
+   "Glass, Bertram",
+   "Schmitz, Norbert"
+  ],
+  "pages": "777–785",
+  "tables": 5,
+  "figures": 1,
+  "words": 4400
+ },
+ {
+  "n": 87,
+  "title": "Mantle Cell Lymphoma",
+  "file": "chapters/ch87-mantle-cell-lymphoma.md",
+  "authors": [
+   "Baermann, Ben-Niklas",
+   "Dietrich, Sascha"
+  ],
+  "pages": "787–790",
+  "tables": 0,
+  "figures": 0,
+  "words": 2151
+ },
+ {
+  "n": 88,
+  "title": "Other B- and T-Aggressive Lymphomas and Lymphomas Associated with HIV",
+  "file": "chapters/ch88-other-b-and-t-aggressive-lymphomas-and-lymphomas.md",
+  "authors": [
+   "Hübel, Kai",
+   "Montoto, Silvia",
+   "Güven, Mustafa",
+   "Duarte, Rafael F."
+  ],
+  "pages": "791–797",
+  "tables": 4,
+  "figures": 0,
+  "words": 3544
+ },
+ {
+  "n": 89,
+  "title": "Classical Hodgkin’s Lymphoma",
+  "file": "chapters/ch89-classical-hodgkin-s-lymphoma.md",
+  "authors": [
+   "Martínez, Carmen",
+   "Bazarbachi, Ali",
+   "Sureda, Anna"
+  ],
+  "pages": "799–808",
+  "tables": 8,
+  "figures": 3,
+  "words": 4051
+ },
+ {
+  "n": 90,
+  "title": "Inborn Errors of Immunity",
+  "file": "chapters/ch90-inborn-errors-of-immunity.md",
+  "authors": [
+   "Albert, Michael H.",
+   "Lankester, Arjan",
+   "Gennery, Andrew",
+   "Neven, Bénédicte"
+  ],
+  "pages": "809–817",
+  "tables": 3,
+  "figures": 0,
+  "words": 4636
+ },
+ {
+  "n": 91,
+  "title": "Inborn Errors of Metabolism and Osteopetrosis",
+  "file": "chapters/ch91-inborn-errors-of-metabolism-and-osteopetrosis.md",
+  "authors": [
+   "Wynn, Robert",
+   "Schulz, Ansgar"
+  ],
+  "pages": "819–824",
+  "tables": 4,
+  "figures": 0,
+  "words": 2508
+ },
+ {
+  "n": 92,
+  "title": "Autoimmune Disease",
+  "file": "chapters/ch92-autoimmune-disease.md",
+  "authors": [
+   "Alexander, Tobias",
+   "Sharrack, Basil",
+   "Rovira, Montserrat",
+   "Saccardi, Riccardo",
+   "Farge, Dominique",
+   "Snowden, John A.",
+   "Greco, Raffaella"
+  ],
+  "pages": "825–836",
+  "tables": 2,
+  "figures": 0,
+  "words": 6474
+ },
+ {
+  "n": 93,
+  "title": "CART Cells and Other Cell Therapies (ie MSC, Tregs) in Autoimmune Diseases",
+  "file": "chapters/ch93-cart-cells-and-other-cell-therapies-ie-msc.md",
+  "authors": [
+   "Greco, Raffaella",
+   "Farge, Dominique"
+  ],
+  "pages": "837–848",
+  "tables": 1,
+  "figures": 2,
+  "words": 5490
+ },
+ {
+  "n": 94,
+  "title": "Solid Tumours",
+  "file": "chapters/ch94-solid-tumours.md",
+  "authors": [
+   "Ladenstein, Ruth",
+   "Pedrazzoli, Paolo",
+   "Rosti, Giovanni"
+  ],
+  "pages": "849–862",
+  "tables": 1,
+  "figures": 2,
+  "words": 7519
+ }
+]

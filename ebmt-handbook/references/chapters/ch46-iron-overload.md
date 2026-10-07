@@ -1,0 +1,176 @@
+# Chapter 46. Iron Overload
+
+> **Source:** Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E (eds). *The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies*, 8th ed. Springer, Cham; 2024. pp. 419–423. https://doi.org/10.1007/978-3-031-44080-9_46  
+> **Authors:** Angelucci, Emanuele; Raiola, Anna Maria  
+>   - Angelucci, Emanuele: IRCCS Ospedale Policlinico San Martino  
+>   - Raiola, Anna Maria: IRCCS Ospedale Policlinico San Martino  
+> **License:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Text reproduced verbatim from the open-access HTML edition; formatting converted to Markdown.
+
+## Abstract
+
+Iron overload/toxicity is an unavoidable consequence in several diseases characterized by anemia and red blood cell transfusion requirement. Iron toxicity can impact on transplant outcome by increasing oxidative stress. Impact of iron toxicity is different in the different stages of HCT.
+
+## 46.1 Introduction
+
+Iron overload/toxicity is an unavoidable consequence in several diseases characterized by anemia and red blood cell transfusion requirement.
+
+It is now clear that iron-related damage is due not only to iron level “per se” but to the presence in the serum of non-transferrin forms of iron (non-transferrin-bound iron \[NTBI\]). A component of NTBI, called labile plasma iron (LPI), is a potent redox-active agent capable of permeating into cells in an uncontrolled way, thus inducing cellular iron overload and impacts the delicate equilibrium of labile cellular iron (LCI). The breakage of LCI balance catalyzes the formation of reactive oxygen species (ROS), which leads to cytotoxic cell injury (DNA damage, lipid peroxidation, protein modification, and mitochondrial damage). Of course iron overload is a source of NTBI/LPI production.
+
+Other factors significantly impact on iron toxicity: the quantity of the abovementioned toxic iron-related species, individual’s antioxidant genetics, environmental factors, and, most importantly, duration of exposure (Coates 2014).
+
+Several cellular pathways are sensitive to the detrimental action of ROS in a non-dose-dependent manner. Different human tissues have a different capacity to respond to iron-mediated toxicity, indicating that the toxicity thresholds are disease-specific and patient-dependent (Pilo et al. 2022).
+
+Notably, NTBI and LPI appear in the serum only when transferrin saturation exceeds 70% (de Swart et al. 2016) and are cheatable forms of iron.
+
+NTBI and LPI measurement is today available in selected laboratories for research purposes only. Transferrin saturation is at the moment a valid surrogate indicating, when exceeding 70%, the presence of NTBI /LPI in patient serum. Table 46.1 reports today available methods to evaluate iron toxicity and iron load.
+
+**Table 46.1 Currently available methods to evaluate risk of iron toxicity and quantify iron overload**
+
+| Method                                                     | Advantages                                                                               | Limitations                                                                                                                                          |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Transferrin saturation                                     | Only available test that indirectly reflects toxic NTBI/LPI pool                         | No quantitative correlation to iron pool                                                                                                             |
+|                                                            | \>70% definitely indicate NTBI/LPI presence in the serum                                 |                                                                                                                                                      |
+|                                                            | Inexpensive and easy to use for repeated assessment                                      | Limited reliability for poly-transfused patients                                                                                                     |
+| Serum ferritin                                             | Inexpensive and easy to use for repeated assessment                                      | Indirect estimate of iron burden                                                                                                                     |
+|                                                            | Possible to identify trends                                                              | Nonlinear response to iron load at high levels                                                                                                       |
+|                                                            | Correlates with total body iron stores and clinical outcome                              | No decrease does not exclude chelation response                                                                                                      |
+|                                                            | Only method available for several centers                                                | Strongly influenced by not iron condition (inflammation, infections liver disease)                                                                   |
+| Non-transferrin-bound iron (NTBI)/labile plasma iron (LPI) | Correspond to potentially toxic form of circulating iron                                 | Not a routine test. Unvalidated. Possible only in specialized research laboratory                                                                    |
+|                                                            | Normalizing NTBI/LPI is a really important goal to prevent iron toxicity                 | Highly labile. Highly rebound after a chelator is cleared                                                                                            |
+|                                                            |                                                                                          | Complexity of interpreting in several circumstances like ineffective erythropoiesis, phase of transfusion cycle, and different rates of transfusions |
+| Liver biopsy                                               | Direct quantification of iron overload. Still gold standard for liver iron concentration | Invasive, risk of complications (very low in expert centers)                                                                                         |
+|                                                            | Evaluation of liver histology                                                            | Poorly accepted by patients                                                                                                                          |
+|                                                            | Still the only method in the absence of 1.5 Tesla MRI scanner                            | Risk of inadequate sample size (adequate ≥1 mg dry weight)                                                                                           |
+|                                                            | Inexpensive                                                                              | Not useable for repeated follow-up                                                                                                                   |
+| Magnetic resonance imaging—MRI (current standard of care)  | Noninvasive and safe                                                                     | Indirect liver iron concentration measurement                                                                                                        |
+|                                                            | Reciprocal of T2/T2\* linearly related to liver iron concentration                       | Require calibration to convert measured T2/T2\* into iron concentration                                                                              |
+|                                                            | Validated and standardized. Readable precision                                           | Calibration is organ specific                                                                                                                        |
+|                                                            | Widely used worldwide                                                                    | Patients with ferromagnetic insert cannot undergo test                                                                                               |
+|                                                            | Inter- and intra-scanner reproducibility                                                 | Trained expert personnel required for data acquisition and interpretation                                                                            |
+|                                                            | Possible multiorgan evaluation                                                           | Expensive and not always available                                                                                                                   |
+
+The mechanisms that impact on the outcome of the transplant, and clinical implications, are different in the different temporal phases of HCT—before, during, and after (Angelucci and Pilo 2016)—and will be here discussed separately:
+
+- *Before transplant*: any time before the starting of the conditioning regimen.
+
+- *During transplant*: from the start of conditioning regimen up to a sustained engraftment is achieved.
+
+- *After transplant*: after sustained engraftment has been achieved.
+
+## 46.2 Iron Overload Before HCT (Before the Start of Conditioning)
+
+In thalassemia it has been very well demonstrated that HCT outcome is significantly impacted by a story of irregular chelation, presence of liver fibrosis, and hepatomegaly (Angelucci 2010a). Now we can recognize that all the three risk factors are related not only to the accumulated iron “per se” but to the intensity and duration of tissue exposition to the abovementioned iron toxic-related species (Angelucci et al. 2017).
+
+Iron-mediated toxicity causes tissue damage that accumulates over the years and adds to the transplant-related toxicity, thus resulting in a cumulative additive effect. In this situation organs and tissues are less resistant to transplant-related morbidity. For example, in thalassemia there is no difference in the incidence of graft versus host (GvHD) in the different risk classes, but there is a dramatic difference in survival of grade III–IV GvHD in higher risk patients (Gaziev et al. 1997). In a GITMO study (MDS and acute leukemias) transfusional burden impacted in patients who had received a myeloablative conditioning and not in those who had received a reduced intensity conditioning (Alessandrino et al. 2010).
+
+Therefore, any effort should be made to prevent tissue/organ damage by regularly suppressing NTBI/LPI in the years before transplant. This target can be achieved with early, regular, and consistent iron chelation. Thus, in any patient receiving transfusion therapy who may have an HCT in the future, the decision of starting chelation is critical and should be undertaken as soon as possible. Moreover, iron chelation must be taken regularly in the long term. Table 46.2 shows the iron chelators available on the market today. The indications depend on the registration which is different in different countries. Because of reported cases of agranulocytosis, deferiprone is usually not used in hemopoietic stem cell disorders.
+
+**Table 46.2 Available iron chelators. Indications and dosages depend on the registration and formulation which are different in different countries**
+
+| Chelators    | Pharmacologic characteristics                   | Administration route | Plasma half-life and daily schedule                            | Main adverse event                                                                                                          |
+|--------------|-------------------------------------------------|----------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Deferoxamine | Hexadentate iron chelator. Molecular weight 560 | Parenteral           | 30 min. Require continued intravenous or subcutaneous infusion | Infusion site reaction, allergic reaction, bone abnormalities, growth failure, auditory, ophthalmologic, Yersinia infection |
+| Deferasirox  | Tridentate iron chelator molecular weight 373   | Oral                 | 8–16 h. Once/day, twice/day schedule under investigation       | Renal toxicity, increase liver enzymes, skin rash, gastrointestinal disturbances                                            |
+| Deferiprone  | Bidentate iron chelator molecular weight 139    | Oral                 | 3 h. Three times/day                                           | Gastrointestinal disturbances, increased liver enzymes, neutropenia, agranulocytosis                                        |
+
+Limited data are available on the rationale for intensive pre-HCT chelation therapy unless sufficient time is available to correct iron overload and warrant tissue lesion repair likely only in young patients.
+
+## 46.3 Iron Overload During HCT (from the Start of Conditioning up to Sustained Engraftment)
+
+During conditioning regimen, a huge amount of NTBI and LPI enter the circulation due to massive erythroid marrow lysis (Dürken et al. 1997). Moreover, until the erythroid recovery begins, no iron can be released by serum transferrin to the erythroid system. Once erythroid recovery initiates, transferrin iron is greedily captured by the recovering erythroid system and unbound transferrin—a natural iron chelator—able to receive iron from the reticular endothelial system appears in the serum. NTBI and LPI disappear from the circulation by this natural mechanism in 3–4 weeks unless iron overload is present (Duca et al. 2018).
+
+Transplant animal studies demonstrated that iron toxicity could impair the hematopoietic niche by damaging hematopoietic stem cells’ self-renewal potential, proliferation, and differentiation and the marrow microenvironment (Pilo and Angelucci 2018). These data suggest that iron can impact the HSC engraftment, the hemopoietic recovery, and possibly transplant outcome.
+
+Inclusion of chelation therapy during the transplant phase to suppress NTBI/LPI should be considered an experimental treatment; however, in case of slow, delayed, or incomplete marrow recovery and high transferrin saturation, iron chelation can be considered.
+
+## 46.4 Iron Overload After HCT (After Sustained Engraftment Has Been Achieved)
+
+After successful transplantation, patients are usually free from transfusion support but affected by the already acquired iron overload that cannot be eliminated without active intervention. In this condition the already acquired iron overload continues to disrupt the delicate LCI equilibrium and promotes ROS generation. It has been prospectively demonstrated in transplanted thalassemia patients that elevated transferrin saturation persists indefinitely without treatment (Angelucci et al. 1998) and liver disease progresses even in the absence of other comorbidities (Angelucci et al. 2002). Of course, the deleterious effect can be worsened by the presence of comorbidities even with a low level of iron accumulation (Angelucci et al. 2002).
+
+Therefore, even because of the results of epidemiologic studies in thalassemia (Coates et al. 2016), in rare transfusion-dependent anemias (Puliyel et al. 2015), and in the normal population (Ellervik et al. 2011) in the posttransplant setting, the target iron level should be a normal iron level. Normal transferrin saturation excluding the presence of toxic iron-reactive species should be the target level of posttransplant iron removal (Table 46.1).
+
+Because of the acquired effective erythropoiesis, phlebotomy (Angelucci et al. 1997a; Inati et al. 2017) can be an alternative to chelation. The standard chelation program consists of blood sampling of 6 mL/kg every 14 days (Angelucci et al. 1997a). Table 46.3 reports the pros and cons for selecting phlebotomy or iron chelation for post-HCT iron removal.
+
+**Table 46.3 Factors to be considered in selecting the appropriate post-HCT iron removal strategy**
+
+<table>
+<thead>
+<tr>
+<th> </th>
+<th><p>Phlebotomy</p></th>
+<th><p>Chelation</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Pros</p></td>
+<td><p>– Efficient</p>
+<p>– Safe</p>
+<p>– Inexpensive</p>
+<p>– Permits complete iron removal and normalizes iron body content</p></td>
+<td><p>– Efficient</p>
+<p>– Safe</p>
+<p>– Immediate effect on NTBI/LPI</p>
+<p>– Hospital access not required</p>
+<p>– Cheap</p></td>
+</tr>
+<tr>
+<td><p>Cons</p></td>
+<td><p>– Requires sustained engraftment (not usable in the early post-HCT period)</p>
+<p>– Immediate effect on NTBI/LPI still remains to be verified</p>
+<p>– Hospital access required</p></td>
+<td><p>– Warning of renal toxicity in the case of concomitant use of CSA</p>
+<p>– Possible increase in toxicity for low level of iron burden</p></td>
+</tr>
+</tbody>
+</table>
+
+### Key Points
+
+- Iron toxicity depends on several factors in addition to iron overload. The most important is the duration of exposition to free iron species: NTBI and LPI inducing oxidative stress and tissue damage.
+
+- Prevention of tissue damage by regularly and consistently suppressing tissue reactive iron species in the years before HCT is the key factor to improve transplant outcome.
+
+- Iron toxicity can impair the bone marrow microenvironment, the quantity and quality of bone marrow mesenchymal stem cells, the ratio of immature HSC, and the clonogenic capacity of hemopoietic stem and progenitor cells, thus likely impacting hemopoietic recovery and possibly transplant outcome.
+
+- After successful HCT, one should aim to achieve normal iron levels (i.e., normal transferrin saturation).
+
+## References
+
+- Angelucci E. Hematopoietic stem cell transplantation in thalassemia. Hematology Am Soc Hematol Educ Program. 2010a;2010:456–62.
+
+- Angelucci E. Hematopoietic stem cell transplantation in thalassemia. Hematology Am Soc Hematol Educ Program. 2010b;2010:456–62.
+
+- Angelucci E, Pilo F. Management of iron overload before, during, and after hematopoietic stem cell transplantation for thalassemia major. Ann N Y Acad Sci. 2016;1368:115–21.
+
+- Angelucci E, Muretto P, Lucarelli G, et al. Phlebotomy to reduce iron overload in patients cured of thalassemia by bone marrow transplantation. Italian cooperative group for phlebotomy treatment of transplanted thalassemia patients. Blood. 1997a;90:994–8.
+
+- Angelucci E, Muretto P, Lucarelli G, et al. Treatment of iron overload in the “ex-thalassemic”. Report from the phlebotomy program. Ann N Y Acad Sci. 1998;850:288–93.
+
+- Angelucci E, Muretto P, Lucarelli G, et al. Phlebotomy to reduce iron overload in patients cured of thalassemia by bone marrow transplantation. Italian cooperative group for phlebotomy treatment of transplanted thalassemia patients. Blood. 1997b;90:994–8.
+
+- Angelucci E, Muretto P, Nicolucci A, et al. Effects of iron overload and hepatitis C virus positivity in determining progression of liver fibrosis in thalassemia following bone marrow transplantation. Blood. 2002;100:17–21.
+
+- Angelucci E, Pilo F, Coates TD. Transplantation in thalassemia: revisiting the Pesaro risk factors 25 years later. Am J Hematol. 2017;92:411–3.
+
+- Coates TD, Carson S, Wood JC, et al. Management of iron overload in hemoglobinopathies: what is the appropriate target iron level? Ann N Y Acad Sci. 2016;1368:95–106.
+
+- Coates TD. Physiology and pathophysiology of iron in hemoglobin-associated diseases. Free Radic Biol Med. 2014;72:23–40.
+
+- de Swart L, Hendriks JC, van der Vorm LN, Cabantchik ZI, Evans PJ, Hod EA, et al. Second international round robin for the quantification of serum non-transferrin-bound iron and labile plasma iron in patients with iron-overload disorders. Haematologica. 2016;101(1):38–45.
+
+- Duca L, Cappellini MD, Baronciani D, et al. Non-transferrin-bound iron and oxidative stress during allogeneic hemopoietic stem cell transplantation in patients with or without iron overload. Am J Hematol. 2018;93:E250–2.
+
+- Dürken M, Nielsen P, Knobel S, et al. Nontransferrin-bound iron in serum of patients receiving bone marrow transplants. Free Radic Biol Med. 1997;22:1159–63.
+
+- Ellervik C, Tybjærg-Hansen A, Nordestgaard BG. Total mortality by transferrin saturation levels: two general population studies and a metaanalysis. Clin Chem. 2011;57:459–66.
+
+- Gaziev D, Polchi P, Galimberti M, et al. Graft-versus-host disease after bone marrow transplantation for thalassemia: an analysis of incidence and risk factors. Transplantation. 1997;63:854–60.
+
+- Inati A, Kahale M, Sbeiti N, et al. One-year results from a prospective randomized trial comparing phlebotomy with deferasirox for the treatment of iron overload in pediatric patients with thalassemia major following curative stem cell transplantation. Pediatr Blood Cancer. 2017;64:188–96.
+
+- Pilo F, Angelucci E. A storm in the niche: iron, oxidative stress and haemopoiesis. Blood Rev. 2018;32:29–35.
+
+- Pilo F, Cilloni D, Della Porta MG, et al. Iron-mediated tissue damage in acquired ineffective erythropoiesis disease: it’s more a matter of burden or more of exposure to toxic iron form? Leuk Res. 2022;114:10679.
+
+- Puliyel M, Mainous AG, Berdoukas V, et al. Iron toxicity and its possible association with treatment of cancer: lessons from hemoglobinopathies and rare, transfusion-dependent anemias. Free Radic Biol Med. 2015;79:343–51.

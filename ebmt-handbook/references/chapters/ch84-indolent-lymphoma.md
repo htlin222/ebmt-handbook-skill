@@ -1,0 +1,214 @@
+# Chapter 84. Indolent Lymphoma
+
+> **Source:** Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E (eds). *The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies*, 8th ed. Springer, Cham; 2024. pp. 763–769. https://doi.org/10.1007/978-3-031-44080-9_84  
+> **Authors:** Serroukh, Yasmina; Montoto, Silvia  
+>   - Serroukh, Yasmina: Erasmus Medical Center Cancer Institute, University Medical Center Rotterdam  
+>   - Montoto, Silvia: St. Bartholomew’s Hospital, Barts Health NHS Trust  
+> **License:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Text reproduced verbatim from the open-access HTML edition; formatting converted to Markdown.
+
+## Abstract
+
+Indolent lymphomas (iNHL) form an heterogenous group accounings for 1/3 of all malignant lymphomas with Follicular lymphoma (FL) being the most common subtype. iNHL are characterized by repeated relapses. Among available treatment lines, autologous (auto) and allogeneic (allo) HCT are the only curative options for relapsed disease. Nevertheless, the roles of both forms of HCT are evolving and are currently being challenged as T-cell engaging therapies emerge. The indications for auto-HCT and allo-HCT in 2023 are reviewed in this chapter.
+
+## 84.1 Definition and Epidemiology
+
+Indolent lymphomas (iNHL) are mature small B-cell neoplasms that include but are not limited to follicular lymphoma (FL), marginal zone lymphoma (MZL) and lymphoplasmocytic lymphoma (LPL) as defined by the WHO and ICC classifications (Alaggio et al. 2022; Campo et al. 2022). This heterogenous group accounts for 1/3 of all malignant lymphoma with FL being the most common subtype (Al-Hamadani et al. 2015). iNHL are characterized by repeated relapses, with autologous (auto) and allogeneic (allo) HCT being the only curative options. The largest studies on HCT for iNHL included a majority of FL patients (Montoto et al. 2013), thus these strategies are detailed here specifically for FL unless otherwise specified and can be extrapolated for the other subtypes. The roles of both forms of HCT are evolving and have recently been challenged as T-cell engaging therapies emerge. The current indications for auto-HCT and allo-HCT are reviewed below.
+
+## 84.2 Diagnosis
+
+The diagnosis of iNHL relies on the pathological findings on a surgical/excisional biopsy. The staging and assessment of response rely on, ideally, positron emission tomography (PET) scan or computed tomography (CT) scan.
+
+## 84.3 Prognosis
+
+The most frequently used prognostic score is the FLIPI (Dreyling et al. 2021). Patients that relapse within 2 years of the first-line therapy (Casulo et al. 2015) and those with high-grade transformation at relapse (Sarkozy et al. 2016) have been shown to have poor survival, and these patients should be considered for a HCT procedure once adequate disease control has been obtained. Patients with a high FLIPI score at relapse and those with multiple relapses may also have a poor prognosis, and these patients may also be considered for transplant options. It is important, however, to carefully counsel the patients regarding both the transplant and non-transplant therapies that are currently available of which there are many (Dreyling et al. 2021; Kuruvilla 2016).
+
+## 84.4 First Line Treatment
+
+First-line therapy for patients with advanced stage iNHL in need of treatment is to administer chemoimmunotherapy followed by maintenance with the chosen monoclonal antibody (Rituximab or Obinutuzumab) (Dreyling et al. 2021). There is no place for auto or allo HCT in first-line therapy.
+
+## 84.5 Treatment at First Relapse and Beyond
+
+At relapse, standard of care options include chemo-immunotherapy, Rituximab in combination with lenalidomide and consolidation of the response with autologous or allogeneic HCT (Dreyling et al. 2021; Ghione et al. 2023). Inclusion in clinical studies should always be considered. Ongoing clinical trials will clarify the role of CAR-T cells (Jacobson et al. 2022; Fowler et al. 2022; Morschhauser et al. 2023) and bispecific antibodies (Budde et al. 2022) in the therapeutic algorithm of iNHL.
+
+## 84.6 Autologous HCT
+
+### 84.6.1 Indication
+
+Auto-HCT should be considered for iNHL patients with relapsed disease responding to second (or subsequent) line reinduction therapy.
+
+### 84.6.2 Recommendations
+
+There is a wide variety of different conditioning regimens that may be employed for auto-HCT in FL but a paucity of randomised trials comparing the efficacy and toxicity of the different regimens. The BEAM (BCNU, Etoposide, Ara-C, Melphalan) regimen has become one of the most widely used conditioning regimens for patients with lymphoma. A number of investigators have looked to improve upon BEAM by including Rituximab (R) and dexamethasone, or substituting BCNU with bendamustine which could be even effective but less toxic (Lachance et al. 2023; Visani et al. 2014).
+
+The EBMT-LYM-1 study prospectively examined the role of purging with R pre-HCT in R-naïve patients with relapsed FL (Pettengell et al. 2013). In this study, no benefit could be demonstrated for in vivo purging. The same study demonstrated that R maintenance post-HCT resulted in a prolonged PFS. However, it is unclear how to extrapolate these findings to R-exposed patients.
+
+- BEAM is amongst the most frequently used conditioning regimen but other regimens can be used.
+
+- There is no proven role for purging strategies.
+
+### 84.6.3 Expectable Results
+
+Auto-HCT achieves a 10-year PFS of approximately 50% and may be curative in a proportion of patients.
+
+The CUP trial is the only randomised study comparing consolidation with an auto-HCT (using purged or unpurged stem cells) with no further therapy in the relapse setting (Schouten et al. 2003) and included 140 patients with relapsed FL. The 2-year PFS for the chemotherapy alone arm was 26% compared with 58% and 55% for those receiving HCT with either purged or unpurged stem cells, respectively. In addition, there was an OS advantage in favour of the two transplant arms (Schouten et al. 2003). A number of other studies have also reported long-term follow-up of auto-HCT in relapsed FL and describe a 10-year PFS ranging between 31 and 50% (Kornacker et al. 2009; Montoto et al. 2007; Pettengell et al. 2021). Taken together, these results demonstrate that between 25 and 50% of patients experience prolonged PFS following an auto-HCT for relapsed FL, suggesting that this is a curative procedure for a proportion of patients.
+
+It is important to recognise both the acute and long-term toxicities associated with auto-HCT. Whilst early TRM may be relatively low in younger patients, there is evidence that for patients over the age of 60, the TRM may be in excess of 10% (Sánchez-Ortega et al. 2016). Given that the median age of patients with relapsing FL is 69 an auto-HCT might be associated with a significant TRM for some patients. An additional concern is the late risk of developing secondary malignancies including MDS/AML. In a prospective randomised study, patients undergoing an auto-HCT for FL had a significantly higher rate of both solid malignancies and MDS/AML compared to patients not receiving HCT (Gyan et al. 2009). Notably, the conditioning regimen used in this study was total body irradiation, which possibly increases the risk of secondary myeloid malignancies. (Baker et al. 2019) Evaluation of the BM for clonal hematopoiesis and cytogenetic abnormalities may enable the identification of patients at a greater risk of developing MDS/AML following an auto-HCT. For these patients, alternative relapse therapies may be more suitable.
+
+## 84.7 Allogeneic HCT
+
+In comparison with auto-HCT, allo-HCT offers the provision of a graft uncontaminated by lymphoma cells or exposed to mutagenic agents and the development of an allogeneic GVL effect. The curative potential of allo-HCT for indolent lymphoma is established (Peniket et al. 2003; van Besien et al. 2003).
+
+### 84.7.1 Indication
+
+Allo-HCT should only be considered in selected patients with relapsed disease.
+
+Numerous factors have to be taken into consideration when selecting patients for an allo-HCT procedure. Patient-related factors such as age, comorbidities, performance status, organ function, the HCT comorbidity index (HCT-CI) (Sorror et al. 2005) and patients’ personal views will determine if a patient is fit to undergo a transplant and what the likely TRM rate will be. Allo-HCT should only be considered in patients where the lymphoma is considered to considerably shorten survival. Relapses after three lines of treatment and especially after auto-HCT are reasonable indications for allo-HCT.
+
+### 84.7.2 Recommendations
+
+- Matched sibling, matched unrelated, haploidentical and cord blood stem cell sources may be considered.
+
+- Reduced intensity conditioning regimens are most appropriate for older patients with significant comorbidities. Young fit patients may be considered for more intensive regimens.
+
+- There is no preferred GVHD prophylaxis. T-cell depletion may be employed but should be combined with chimerism directed donor lymphocyte infusions.
+
+- There is no indication for maintenance therapy post allo-HCT for iNHL.
+
+It is unclear whether a reduced intensity conditioning (RIC) or a myeloablative conditioning (MAC) allo-HCT offers superior outcomes in FL. A retrospective registry study demonstrated that the two approaches to allo-HCT resulted in similar outcomes in the sibling donor setting (3-year OS for the MAC and RIC were 71% and 62% (*P* = 0.15), respectively) (Hari et al. 2008). However, the EBMT reported that in the unrelated donor setting, RIC allo-HCT was associated with a lower NRM and significantly longer PFS and OS when compared with MAC allo-HCT (Avivi et al. 2009). The median age at relapse of FL is 69, and therefore the majority of patients that may be considered for an allo-HCT will be considered too old for MAC regimens, and many authorities therefore recommend a RIC allo-HCT for FL.
+
+The outcomes of both matched sibling donor (MSD) and MUD allo-HCT in FL are broadly similar. A recent large retrospective study conducted by the EBMT and the CIBMTR demonstrated that the PFS and OS following MSD and MUD were similar (Sureda et al. 2018). For patients lacking a MSD or MUD, either a cord blood or haploidentical family donor may be considered. The feasibility of umbilical cord blood (Rodrigues et al. 2009; Brunstein et al. 2009) and haplo-HCT (with PT-CY) (Dietrich et al. 2016) in NHL (including FL) has been reported.
+
+T-cell depletion of the graft is a well-established method to reduce the incidence of GVHD post-transplant but runs the risk of eliminating allo-reactive T cells that will mediate the GVL effect and consequently result in a higher relapse rate. The risk of relapse may be offset by employing donor lymphocyte infusion (DLI), and with this approach, the 4 years PFS and relapse risk were 76% and 24%, respectively, and the incidence of GVHD was low (Thomson et al. 2010), suggesting that this approach may also be an option for allo-HCT in iNHL.
+
+### 84.7.3 Expectable Results
+
+Early studies employed MAC regimens and demonstrated that cure could be achieved in a significant proportion of patients. In retrospective studies comparing allo- with auto-HCT, MAC allo-HCT was associated with a lower relapse rate but a higher TRM and consequently a similar OS. In an attempt to reduce the toxicity of allo-HCT, RIC allo-HCT has been developed (Robinson et al. 2002). A number of groups have demonstrated the safety and efficacy of RIC allo-HCT and demonstrated that this type of transplant may be employed in older patients with significant comorbidities and in those patients who have undergone a prior auto-HCT.
+
+The largest series of patients undergoing a RIC allo-HCT after the failure of a auto-HCT was reported by the EBMT. The NRM at 2 years was significant (27%), but the 5-year PFS and OS were 48% and 51%, respectively (Robinson et al. 2016). The duration of response following the allo-HCT was also significantly longer than after the auto-HCT illustrating the potential of the allogeneic GVL effect in this disease. This data demonstrates that a RIC allo-HCT can act as an effective salvage strategy in this setting although the toxicity was significant. There is also a risk that patients may fail to respond to reinduction therapy, and therefore would not be eligible for an allo-HCT.
+
+## 84.8 The Place of Auto- and Allo-HCT in the Therapeutic Algorithm of iNHL
+
+- Only patients with (a) early relapse or (b) high-grade transformation after first-line therapy or (c) multiple relapses should be considered for HCT consolidation.
+
+- Auto-HCT may cure some patients and is associated with lower toxicity compared to allo-HCT.
+
+- RIC allo-HCT is a curative option for patients that relapse after an auto-HCT.
+
+- Most European authorities recommend auto-HCT as the first transplant of choice and reserve allo-HCT for patients relapsing after an auto-HCT. However, some EBMT centres propose allo-HCT as first transplant in selected cases of relapsed iNHL (Robinson et al. 2013).
+
+## 84.9 Latest (Selected) EBMT Results
+
+### 84.9.1 Follicular Lymphoma
+
+| Auto      | EBMT *n* = 726 (Robinson et al. 2013) | Allo      | EMBT/CIBMTR *n* = 1567 (Sureda et al. 2018) |
+|-----------|---------------------------------------|-----------|---------------------------------------------|
+| TRM (1 y) | 3%                                    | TRM (5 y) | 19%                                         |
+| REL (5 y) | 47%                                   | REL (5 y) | 29%                                         |
+| OS (5 y)  | 72%                                   | OS (5 y)  | 61%                                         |
+| PFS (5y)  | 48%                                   | PFS (5 y) | 52%                                         |
+
+### 84.9.2 Marginal Zone Lymphoma
+
+No specific reports on allogeneic HCT due to small numbers.
+
+| Auto                      | EBMT *n* = 199 (Avivi et al. 2018) |
+|---------------------------|------------------------------------|
+| TRM (5 y)                 | 9%                                 |
+| REL (5 y)                 | 38%                                |
+| OS (5 y)                  | 73%                                |
+| EFS (5 y)                 | 53%                                |
+| Second malignancies (5 y) | 6%                                 |
+
+### 84.9.3 Waldenstrom’s Macroglobulinemia
+
+No specific reports on allogeneic HCT due to small numbers.
+
+| Auto                      | EBMT *n* = 158 (Kyriakou et al. 2010) |
+|---------------------------|---------------------------------------|
+| TRM (1 y)                 | 3.8%                                  |
+| REL (5 y)                 | 52%                                   |
+| OS (5 y)                  | 69%                                   |
+| PFS (5 y)                 | 40%                                   |
+| Second malignancies (5 y) | 8.4%                                  |
+
+## 84.10 Conclusions
+
+Both auto- and allo-HCT have an established role in the treatment of relapsed iNHL, and both forms of transplant can deliver curative therapy to patients with otherwise poor prognosis disease. Patient selection for transplant therapy is critical, and a current understanding of the rapidly evolving field of alternative non-transplant lymphoma therapies is mandatory. The treatment paradigm for iNHL evolves rapidly as novel agents are incorporated into clinical practice, and the place of these agents relative to transplantation is likely to change soon.
+
+## References
+
+- Alaggio R, Amador C, Anagnostopoulos I, et al. The 5th edition of the World Health Organization classification of Haematolymphoid Tumours: lymphoid neoplasms. Leukemia. 2022;36(7):1720–48.
+
+- Al-Hamadani M, Habermann TM, Cerhan JR, et al. Non-Hodgkin lymphoma subtype distribution, geodemographic patterns, and survival in the US: a longitudinal analysis of the National Cancer Data Base from 1998 to 2011. Am J Hematol. 2015;90(9):790–5.
+
+- Avivi I, Montoto S, Canals C, et al. Matched unrelated donor stem cell transplant in 131 patients with follicular lymphoma: an analysis from the lymphoma working Party of the European Group for blood and marrow transplantation. Br J Haematol. 2009;147(5):719–28.
+
+- Avivi I, Arcaini L, Ferretti VV, et al. High-dose therapy and autologous stem cell transplantation in marginal zone lymphomas: a retrospective study by the EBMT lymphoma working party and FIL-GITMO. Br J Haematol. 2018;182(6):807–15.
+
+- Baker KS, Leisenring WM, et al. Total body irradiation dose and risk of subsequent neoplasms following allogeneic hematopoietic cell transplantation. Blood. 2019;133(26):2790–9.
+
+- Brunstein CG, Cantero S, et al. Promising progression-free survival for patients low and intermediate grade lymphoid malignancies after nonmyeloablative umbilical cord blood transplantation. Biol Blood Marrow Transplant. 2009;15(2):214–22.
+
+- Budde LE, Sehn LH, et al. Safety and efficacy of Mosunetuzumab, a bispecific antibody, in patients with relapsed or refractory follicular lymphoma: a single-arm, multicentre, phase 2 study. Lancet Oncol. 2022;23(8):1055–65.
+
+- Campo E, Jaffe ES, Cook JR, et al. The international consensus classification of mature lymphoid neoplasms: a report from the clinical advisory committee. Blood. 2022;140(11):1229–53.
+
+- Casulo C, Byrtek M, Keith L, et al. Early relapse of follicular lymphoma after rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone defines patients at high risk for death: an analysis from the national LymphoCare study. J Clin Oncol Off J Am Soc Clin Oncol. 2015;33(23):2516–22.
+
+- Dietrich S, Finel H, Martinez C, et al. Post-transplant cyclophosphamide-based Haplo-identical transplantation as alternative to matched sibling or unrelated donor transplantation for non-Hodgkin lymphoma: a registry study by the European Society for Blood and Marrow Transplantation. Leukemia. 2016;30(10):2086–9.
+
+- Dreyling M, Ghielmini M, Rule S, et al. Newly diagnosed and relapsed follicular lymphoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(3):298–308.
+
+- Fowler NH, Dickinson M, Dreyling M, et al. Tisagenlecleucel in adult relapsed or refractory follicular lymphoma: the phase 2 ELARA trial. Nat Med. 2022;28(2):325–32.
+
+- Ghione P, Lia Palomba M, Ghesquieres H, et al. Treatment patterns and outcomes in relapsed/refractory follicular lymphoma: results from the international SCHOLAR-5 study. Haematologica. 2023;108(3):822–32.
+
+- Gyan E, Foussard C, Bertrand P, et al. High-dose therapy followed by autologous purged stem cell transplantation and doxorubicin-based chemotherapy in patients with advanced follicular lymphoma: a randomized multicenter study by the GOELAMS with final results after a median follow-up of 9 years. Blood. 2009;113(5):995–1001.
+
+- Hari P, Carreras J, Zhang M-J, et al. Allogeneic transplants in follicular lymphoma: higher risk of disease progression after reduced intensity compared to myeloablative conditioning. Biol Blood Marrow Transplant. 2008;14(2):236–45.
+
+- Jacobson CA, Chavez JC, Sehgal AR, et al. Axicabtagene Ciloleucel in relapsed or refractory indolent non-Hodgkin lymphoma (ZUMA-5): a single-arm, multicentre, phase 2 trial. Lancet Oncol. 2022;23(1):91–103.
+
+- Kornacker M, Stumm J, Pott C, et al. Characteristics of relapse after autologous stem-cell transplantation for follicular lymphoma: a long-term follow-up. Ann Oncol. 2009;20(4):722–8.
+
+- Kuruvilla J. The role of autologous and allogeneic stem cell transplantation in the management of Indolent B-cell lymphoma. Blood. 2016;127(17):2093–100.
+
+- Kyriakou C, Canals C, Sibon D, et al. High-dose therapy and autologous stem-cell transplantation in Waldenström macroglobulinemia: the lymphoma working Party of the European Group for blood and marrow transplantation. J Clin Oncol. 2010;28(13):2227–32.
+
+- Lachance S, Bourguignon A, Boisjoly J-A, et al. Impact of implementing a Bendamustine-based conditioning regimen on outcomes of autologous stem cell transplantation in lymphoma while novel cellular therapies emerge. Transplant Cell Ther. 2023;29(1):34.e1–7.
+
+- Montoto S, Canals C, Rohatiner AZS, et al. Long-term follow-up of high-dose treatment with autologous Haematopoietic progenitor cell support in 693 patients with follicular lymphoma: an EBMT registry study. Leukemia. 2007;21(11):2324–31.
+
+- Montoto S, Corradini P, Dreyling M, et al. Indications for hematopoietic stem cell transplantation in patients with follicular lymphoma: a consensus project of the EBMT-lymphoma working party. Haematologica. 2013;98(7):1014–21.
+
+- Morschhauser F, Dahiya S, Palomba ML, et al. Transcend Fl: phase 2 study results of Lisocabtagene Maraleucel (Liso-Cel) in patients (pts) with relapsed/refractory (r/R) follicular lymphoma (Fl). Hematol Oncol. 2023;41(S2):877–80.
+
+- Peniket AJ, Ruiz de Elvira MC, Taghipour G, et al. An EBMT registry matched study of allogeneic stem cell transplants for lymphoma: allogeneic transplantation is associated with a lower relapse rate but a higher procedure-related mortality rate than autologous transplantation. Bone Marrow Transplant. 2003;31(8):667–78.
+
+- Pettengell R, Schmitz N, Gisselbrecht C, et al. Rituximab purging and/or maintenance in patients undergoing autologous transplantation for relapsed follicular lymphoma: a prospective randomized trial from the lymphoma working Party of the European Group for blood and marrow transplantation. J Clin Oncol. 2013;31(13):1624–30.
+
+- Pettengell R, Uddin R, Boumendil A, et al. Durable benefit of rituximab maintenance post-autograft in patients with relapsed follicular lymphoma: 12-year follow-up of the EBMT lymphoma working party Lym1 trial. Bone Marrow Transplant. 2021;56(6):1413–21.
+
+- Robinson SP, Goldstone AH, Mackinnon S, et al. Chemoresistant or aggressive lymphoma predicts for a poor outcome following reduced-intensity allogeneic progenitor cell transplantation: an analysis from the lymphoma working Party of the European Group for blood and bone marrow transplantation. Blood. 2002;100(13):4310–6.
+
+- Robinson SP, Canals C, Luang JJ, et al. The outcome of reduced intensity allogeneic stem cell transplantation and autologous stem cell transplantation when performed as a first transplant strategy in relapsed follicular lymphoma: an analysis from the lymphoma working party of the EBMT. Bone Marrow Transplant. 2013;48(11):1409–14.
+
+- Robinson SP, Boumendil A, Finel H, et al. Reduced intensity allogeneic stem cell transplantation for follicular lymphoma relapsing after an autologous transplant achieves durable long-term disease control: an analysis from the lymphoma working party of the EBMT†. Ann Oncol. 2016;27(6):1088–94.
+
+- Rodrigues CA, Sanz G, Brunstein CG, et al. Analysis of risk factors for outcomes after unrelated cord blood transplantation in adults with lymphoid malignancies: a study by the Eurocord-Netcord and lymphoma working Party of the European Group for blood and marrow transplantation. J Clin Oncol. 2009;27(2):256–63.
+
+- Sánchez-Ortega I, Basak GW, Beohou E, et al. Autologous hematopoietic cell transplantation in elderly patients aged 65 and older: a retrospective analysis by the complications and quality of life working party of the EBMT. Blood. 2016;128(22):678.
+
+- Sarkozy C, Trneny M, Xerri L, et al. Risk factors and outcomes for patients with follicular lymphoma who had histologic transformation after response to first-line immunochemotherapy in the PRIMA trial. J Clin Oncol. 2016;34(22):2575–82.
+
+- Schouten HC, Qian W, Kvaloy S, et al. High-dose therapy improves progression-free survival and survival in relapsed follicular non-Hodgkin’s lymphoma: results from the randomized European CUP trial. J Clin Oncol. 2003;21(21):3918–27.
+
+- Sorror ML, Maris MB, Storb R, et al. Hematopoietic cell transplantation (HCT)-specific comorbidity index: a new tool for risk assessment before allogeneic HCT. Blood. 2005;106(8):2912–9.
+
+- Sureda A, Zhang M-J, Dreger P, et al. Allogeneic hematopoietic stem cell transplantation for relapsed follicular lymphoma: a combined analysis on behalf of the lymphoma working party of the EBMT and the lymphoma committee of the CIBMTR. Cancer. 2018;124(8):1733–42.
+
+- Thomson KJ, Morris EC, Milligan D, et al. T-cell-depleted reduced-intensity transplantation followed by donor leukocyte infusions to promote graft-versus-lymphoma activity results in excellent long-term survival in patients with multiply relapsed follicular lymphoma. J Clin Oncol. 2010;28(23):3695–700.
+
+- van Besien K, Loberiza FR, et al. Comparison of autologous and allogeneic hematopoietic stem cell transplantation for follicular lymphoma. Blood. 2003;102(10):3521–9.
+
+- Visani G, Stefani PM, Capria S, et al. Bendamustine, etoposide, cytarabine, melphalan, and autologous stem cell rescue produce a 72% 3-year PFS in resistant lymphoma. Blood. 2014;124(19):3029–31.

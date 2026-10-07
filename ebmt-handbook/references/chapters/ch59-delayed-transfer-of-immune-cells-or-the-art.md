@@ -1,0 +1,258 @@
+# Chapter 59. Delayed Transfer of Immune Cells or the Art of Donor Lymphocyte Infusion (DLI) 2.0
+
+> **Source:** Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E (eds). *The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies*, 8th ed. Springer, Cham; 2024. pp. 531–539. https://doi.org/10.1007/978-3-031-44080-9_59  
+> **Authors:** Falkenburg, J. H. Frederik; Schmid, Christoph; Kolb, Hans Joachim; Kuball, Jürgen  
+>   - Falkenburg, J. H. Frederik: Leiden University Medical Center  
+>   - Schmid, Christoph: Klinikum Augsburg, University of Munich  
+>   - Kolb, Hans Joachim: Klinikum München-Schwabing  
+>   - Kuball, Jürgen: Department of Hematology; UMC  
+> **License:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Text reproduced verbatim from the open-access HTML edition; formatting converted to Markdown.
+
+## Abstract
+
+In the context of an allogeneic hematopoietic cell transplantation (HCT), the interplay between host and donor immune cells is considered to be the primary mechanism responsible for graft-versus-leukemia (GVL) reactivity and also able to mediate graft-versus-host disease (GVHD) (Schmid et al. 2021). The tissue specificity of the immune response determines the balance between GVL and GVHD, as well as tropism of GVHD. The main population for success and failure of HCT and DLIs originates from αβT cells. Other subsets are also key modulators of efficacy. For example, NK cells most likely provide acute control of leukemia and of infections like CMV. However, NK cells become rapidly educated over time (Orr and Lanier 2010) and lose their antileukemia activity. Thus, donor transfer of NK cells is obsolete and needs additional, for example, genetic modification to engineer long-term efficacy (Laskowski et al. 2022; Liu et al. 2020). Other subsets, like γδT cells, appear to have a more prolonged antileukemia effect (Handgretinger and Schilbach 2018; Sebestyen et al. 2020) and are also helpful in controlling CMV reactivation (Scheper et al. 2013; de Witte et al. 2018). However, also, donor γδT cells can lose activity over time, and sustainable activity requires, outside the context of an HCT, most likely further modifications (Sebestyen et al. 2020; Li et al. 2023). NKT cells, like regulatory T cells, have been mainly reported to influence GVHD. While an increase in NKT cells in the graft associates with a reduced GVHD incidence (Malard et al. 2016), depletion of regulatory T cells in donor lymphocyte infusions (DLI) improves GVL effects, although it augments the risk of GVHD (Maury et al. 2010). Thus, lymphocyte infusions as part of the graft at the time of transplantation, or delayed as DLI, have multiple effector cells that need to be considered in terms of different alloreactive effects (for review see also (Schmid et al. 2021)).
+
+## 59.1 Biology of Donor Lymphocyte Infusion (DLI)
+
+### 59.1.1 Diversity of Lymphocyte Subsets Used for DLI
+
+In the context of an allogeneic hematopoietic cell transplantation (HCT), the interplay between host and donor immune cells is considered to be the primary mechanism responsible for graft-versus-leukemia (GVL) reactivity and also able to mediate graft-versus-host disease (GVHD) (Schmid et al. 2021). The tissue specificity of the immune response determines the balance between GVL and GVHD, as well as tropism of GVHD. The main population for success and failure of HCT and DLIs originates from αβT cells. Other subsets are also key modulators of efficacy. For example, NK cells most likely provide acute control of leukemia and of infections like CMV. However, NK cells become rapidly educated over time (Orr and Lanier 2010) and lose their antileukemia activity. Thus, donor transfer of NK cells is obsolete and needs additional, for example, genetic modification to engineer long-term efficacy (Laskowski et al. 2022; Liu et al. 2020). Other subsets, like γδT cells, appear to have a more prolonged antileukemia effect (Handgretinger and Schilbach 2018; Sebestyen et al. 2020) and are also helpful in controlling CMV reactivation (Scheper et al. 2013; de Witte et al. 2018). However, also, donor γδT cells can lose activity over time, and sustainable activity requires, outside the context of an HCT, most likely further modifications (Sebestyen et al. 2020; Li et al. 2023). NKT cells, like regulatory T cells, have been mainly reported to influence GVHD. While an increase in NKT cells in the graft associates with a reduced GVHD incidence (Malard et al. 2016), depletion of regulatory T cells in donor lymphocyte infusions (DLI) improves GVL effects, although it augments the risk of GVHD (Maury et al. 2010). Thus, lymphocyte infusions as part of the graft at the time of transplantation, or delayed as DLI, have multiple effector cells that need to be considered in terms of different alloreactive effects (for review see also (Schmid et al. 2021)).
+
+### 59.1.2 Naïve αβT Cell-Host Dendritic Cell (DC) Interaction as a Key Driver of Immune Responses
+
+Since in the context of HLA-matched transplantation most alloreactive αβT cells are present within the naïve repertoire of the donor, recipient-derived dendritic cells (DC) play an essential role in provoking the αβT-cell immune response (Stenger et al. 2012). DCs are key players in provoking appropriate T-cell activation, and because DCs are derived from the hematopoietic system, an immune response of donor origin targeting DC from the recipient will likely result in an immune response against recipient hematopoietic cells, including the malignant population, and therefore give rise to GVL. The level of cross-reactivity against antigens broadly expressed on non-hematopoietic cells will determine the likelihood and severity of GVHD. DCs are present in the lymphohematopoietic system but also with relatively high frequencies in the target tissues of GVHD. At the time of transplant, all DCs are of recipient origin. When activated by danger signals provoked by tissue damage and pathogens, DCs will present endogenous antigens, as well as cross-present antigens derived from the non-hematopoietic tissues and pathogens. Therefore, in T-cell-replete HCT, it is difficult to dissect the GVL and GVHD effects (Boelens et al. 2018; Admiraal et al. 2017). Consequently, many current transplantation techniques deplete immune cells from the graft and administer DLIs at later time points as standard part of the transplantation regimen. Several T-cell depletion strategies are being used including a complete immune depletion by selection of CD34-positive stem cells or the use of specific antibodies including antithymocyte immunoglobulins (ATG) or alemtuzumab (Pasquini et al. 2012). Since after transplantation the recipient DC is gradually replaced by the donor DC, the magnitude of the immune response by infused donor T cells will gradually decrease allowing early DLIs for the majority of patients (e.g., from 100 days after transplantation) and an improved segregation of GVL and GVHD effects. Partial depletion of alloreactive T cells through posttransplantation cyclophosphamide (PTCY) (Mielcarek et al. 2016) gives rise to a special situation. Since in this strategy an actively ongoing alloimmune response is abrogated, not only activated alloreactive donor T cells are being abrogated, but recipient DC may already have been attacked since these DCs are likely to have been involved in the initiation of this T-cell response. As a result, it is likely that many recipient DCs will be depleted at this phase. This DC depletion may allow earlier DLIs without causing severe GVHD, but vice versa may require higher doses to provoke an effective GVL reactivity. Similarly, following resolved GVHD which is associated with elimination of recipient DC, higher doses of DLI may also be required to induce an effective GVL response. In the case of haploidentical or partially mismatched transplantation, DLI may more readily provoke a profound immune response since in these cases the alloreactive T cells will also be present in the memory repertoire with a lower threshold of alloimmune activation not requiring professional recipient DC to be present, though little consensus in daily practice was reported (Santoro et al. 2023). Other more recent transplantation strategies consider the variety of immune cells. These novel strategies utilize either a selective depletion of αβT cell (Locatelli et al. 2017; de Witte et al. 2023; Nijssen et al. 2023) or naïve subsets (Bleakley et al. 2015) to abrogate GVHD while maintaining early immune surveillance directed against infections as well as leukemia. Such strategies might require lower dosages for DLIs as compared PTCY depletion (de Witte et al. 2021a), as DCs of patients are not harmed during or after conditioning.
+
+### 59.1.3 Diversity of Immune Repertoires and Potential Impact on Interventions
+
+After HCT, the αβ and γδTCR repertoire is reconstituted out of the graft of the donor, which contains in T-cell replete transplantations, between 5 × 10⁷ and 1 × 10⁹ T cells/kg (de Witte et al. 2021b). Of the T cells, the γδT cells are the first to reach normal numbers, followed by the CD8+ αβT cells and finally the CD4+ αβT cells which do not reach normal levels within the first year after HCT (de Koning et al. 2021). It is important to note that numerical reconstitution of the T cells does not mean that the diversity of the repertoire is already normalized, reflected by the clinical observations that patients are highly vulnerable to many infections for years after HCT. Repertoires for both αβ (van Heijst et al. 2013) and γδT cells (Ravens et al. 2017) are stable over time in healthy individuals. Factors that influence the T-cell repertoire reconstitution after HCT include the source of the graft, occurrence of infectious challenges such as CMV and EBV, GVHD, and cellular interventions such as DLI. The repertoire of αβT cells after HCT has been studied extensively in different HCT settings. Six months after HCT, the αβTCR repertoire is still very restricted when compared to that of healthy individuals. A cord blood graft leads to a greater diversity of the αβTCR repertoire at 6 and 12 months, compared to other graft sources (van Heijst et al. 2013). Even 2–5 years after HCT, the repertoire is still not as diverse as in healthy individuals (van Heijst et al. 2013; Kanakry et al. 2016). CMV reactivation shapes the repertoire in such way that a marked contraction of the diversity is observed (van Heijst et al. 2013; Kanakry et al. 2016; Suessmuth et al. 2015). GVHD has been associated with both an increased (van Heijst et al. 2013) and a decreased diversity (Yew et al. 2015).
+
+However, we favor the hypothesis that selective GVL reactivity is associated with lower diversity, lower magnitude, and relatively tissue-specific recognition of hematopoiesis by alloreactive αβT cells (van Bergen et al. 2017). Less is known about the diversity of the γδTCR repertoire after HCT. The repertoire of the γδT cells seems to be established quite early, at 30–60 days after HCT. CMV reactivation promotes a massive expansion of a few γδT cells (Ravens et al. 2017). However, whether CMV reactivation is needed for repertoire focusing in γδT cells is still under debate. Within this context, it is reasonable to argue that the administration of a DLI might in the future depend not only on the type of the disease or timing but also on the size of the αβ and γδT-cell repertoire observed at a given time point as well as the existing pool of antigen-presenting cells such as DC, which depends again on the type of transplantation regimen (de Witte et al. 2021b).
+
+## 59.2 Recommendations for Prophylactic and Preemptive DLI as well as DLI After Relapse
+
+### 59.2.1 General Considerations
+
+Currently, neither the diversity of the TCR repertoire nor the infusion of subsets of lymphocytes is used to guide or fine-tune the intervention DLI in daily practice. To prevent relapse of the underlying disease, timing and dosing of non-manipulated DLI after HCT can be used to relatively skew the immune response toward GVL reactivity, as tissue damage after transplantation is gradually repaired and the donors’ DCs steadily replace the recipients’ DCs within the first 6 months after HCT. Therefore, the magnitude and diversity of the interplay between host and donor immune subsets will progressively diminish. This is evidenced by the clinical observation that when the interval between HCT and the infusion of DLI increases, the total number of αβT cells that can be administered without induction of severe GVHD will increase from less than 10⁵/kg after 3 months to more than 10⁶/kg at 6 months (Table 59.1) (Yun and Waller 2013; van der Zouwen et al. 2023). Main prerequisite at the time of DLI is therefore also the absence of tissue damage and inflammatory circumstances, thus a lack of GVHD and uncontrolled infections.
+
+**Table 59.1 Timing and dosing of prophylactic and preemptive DLI. Level C evidence. A DLI can be repeated at on log higher 6–8 weeks after the first DLI, when, for example, MRD is still present and no GVHD is observed. GVHD as endpoint of repetitive DLIs for preemptive DLIs is in the era of MRD monitoring no longer recommended**
+
+<table style="width:100%;">
+<thead>
+<tr>
+<th> </th>
+<th><p>Timing of first dose</p></th>
+<th><p>MRD</p></th>
+<th><p>MUD</p></th>
+<th><p>MMUD/Haplo</p></th>
+<th><p>Number of DLI</p></th>
+<th><p>References</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><p>Prophylactic</p></td>
+<td><p>3 months</p>
+<p>(ex vivo TCD: any risk; no ex vivo TCD: high-risk disease)</p></td>
+<td><p>1 × 10e5/kg</p></td>
+<td><p>1 × 10e5/kg</p></td>
+<td><p>1 × 10e5/kg</p></td>
+<td rowspan="2"><p>1–3<sup>b</sup></p></td>
+<td><p>Schmid et al. (2012)</p></td>
+</tr>
+<tr>
+<td><p>6 months<sup>a</sup></p>
+<p>(high-risk disease)</p></td>
+<td><p>1 × 10e6/kg</p></td>
+<td><p>1 × 10e6/kg</p></td>
+<td><p>5 × 10e5/kg</p></td>
+<td><p>Tsirigotis et al. (2016)</p></td>
+</tr>
+<tr>
+<td rowspan="2"><p>Pre-emptive</p></td>
+<td><p>3 months</p></td>
+<td><p>1–5 × 10e5/kg</p></td>
+<td><p>1 × 10e5/kg</p></td>
+<td><p>1 × 10e5/kg</p></td>
+<td rowspan="2"><p>1–4<sup>c</sup></p></td>
+<td rowspan="2"><p>De Witte et al. (2021a, b)</p></td>
+</tr>
+<tr>
+<td><p>6 months<sup>a</sup></p></td>
+<td><p>1–3 × 10e6/kg</p></td>
+<td><p>1 × 10e6/kg</p></td>
+<td><p>5 × 10e5/kg</p></td>
+</tr>
+<tr>
+<td><p>Relapse</p></td>
+<td><p>After chemotherapy</p></td>
+<td><p>1 × 10e7/kg</p></td>
+<td><p>1 × 10e7/kg</p></td>
+<td><p>1 × 10e6/kg</p></td>
+<td><p>1–4<sup>d</sup></p></td>
+<td><p>Santoro et al. (2023)</p>
+<p>van der Zouwen et al. (2023)</p></td>
+</tr>
+</tbody>
+</table>
+
+1.  Interval between DLI: at least 4–6 weeks
+2.  <sup>a</sup>Starting at 4 months, higher doses in the range employed at 6 months can be discussed
+3.  <sup>b</sup>Second and third dose: increase each DLI dose 0.5–1 log
+4.  <sup>c</sup>Number of DLI: MRD/chimerism guided, consider continuation when MRDneg/full chimerism; in absence of MRD marker: GvHD guided
+5.  <sup>d</sup>Second to fourth dose: increase each DLI dose 1 log, to a maximum dose of 1 × 10e8/kg
+
+### 59.2.2 Timing, Dosing, and Frequency of DLI
+
+The following recommendations refer to the infusion of non-manipulated donor cells after no or in vivo T-cell-depleted transplantation from matched sibling or unrelated donors in patients with acute leukemia or MDS, which is the most frequently studied scenario. Further aspects, which may modify these recommendations, are discussed below. With respect to the indication of DLI for prevention of overt hematological relapse, two situations are distinguished. Furthermore, DLIs can be given within the context for overt relapses:
+
+1.  1\.
+
+    *A prophylactic DLI* is applied in patients with a high risk of relapse but at a stage when there is no evidence of the underlying disease. Usually, prophylactic DLI are given starting from day+90 or +100 after transplantation, provided that the patient is off immunosuppression and free of GVHD for about 1 month. CD3+ doses used for the first infusion depend on donor type and timing and vary between 1 × 10⁵/kg patient and 1 × 10⁶/kg (Table 59.1). In the absence of GvHD, most groups have given prophylactic DLIs as single-shot intervention, but also repetitive DLIs are reported (Table 59.1 (Tsirigotis et al. 2016; Jedlickova et al. 2016)). As with any maintenance therapy, the balance between relapse prevention and toxicity (i.e., GvHD) of prophylactic DLI needs to be acknowledged. Hence, treatment success after DLI has been defined as being alive without relapse and immunosuppression for GVHD by some investigators (Eefting et al. 2016). The optimal number of DLIs and timing between DLIs needed still needs to be defined and might depend on the initial transplantation regimen as discussed.
+
+2.  2\.
+
+    *DLIs are administered preemptively*, i.e., in case of persistent minimal residual disease (MRD) or when the first signs of relapse are observed, like MRD positivity or a decreasing donor chimerism. For persisting MRD, either the same initial cell dosages as for prophylactic DLI is used, followed by repetitive DLIs in 4–12 weeks’ intervals, using an escalated dose schedule and increasing the cell dosages by fivefold to tenfold at each infusion. Alternatively, fivefold to tenfold higher initial cell doses are used in the preemptive situation as compared to prophylaxis. A total of three to four DLIs may be administered, and subsequent infusions are mostly taken from the same apheresis as the first but are frozen in the previously planned dosages. Occurrence of GVHD after DLI will result in no further DLI administration. For reappearance of MRD or mixed chimerism, obviously timing of DLI depends on the occurrence of these circumstances.
+
+3.  3\.
+
+    *For overt relapses*, a combination of DLI with chemotherapy is mandatory (Schmid et al. 2012), and cell doses used in that situation are usually one order of magnitude higher than in the prophylactic or preemptive situation (1 × 10⁷/kg). In particular, in acute leukemia, DLI alone may not be the preferred strategy for treatment of relapse. Repetitive DLIs can be considered after overt relapses based, for example, on MRD positivity 6–8 weeks after DLI.
+
+### 59.2.3 Factors that May Influence Timing, Dosing, and Frequency of DLI
+
+Due to the great variabilities among different approaches and indications for DLI, a discussion of clinical outcome is beyond the scope of this summary. A comprehensive review has been performed recently (Schmid et al. 2021). Key factors with impact on clinical outcome are as follows:
+
+1.  1\.
+
+    *MRD*: Six weekly scheduled DLI with escalating doses until the first signs of GVHD as described above might no longer be necessary in the era of molecular disease monitoring, as increased numbers of DLI associate with an increased incidence of GVHD (Yan et al. 2017). An MRD-driven strategy with more time between DLIs (8–12 weeks) might still allow for control of the hematological malignancy while avoiding long-term side effects like acute or chronic GVHD (Schmid et al. 2022).
+
+2.  2\.
+
+    *Underlying disease*: The different underlying diseases might require different doses, considering their sensitivity to a DLI-mediated GVL effect. The relapse workshop of the National Cancer Institute has proposed an estimate of the sensitivity of different diseases to DLI (Alyea et al. 2010). Accordingly, sensitivity is regarded as high for CML, myelofibrosis, and low-grade NHL; as intermediate for AML, MDS, multiple myeloma, and Hodgkin’s disease, and as low for ALL and DLBCL.
+
+3.  3\.
+
+    *Donor origin*: Dosage of DLI can under certain circumstances relate to the origin of the donor (Table 59.1). There is no consensus as to whether the dose between an unrelated and a related donor needs to differ. Similarly, cell doses in the haploidentical setting are unclear. More importantly and not well understood, but of greater impact, is most likely the processing of the DLI product with higher potency of freshly infused DLI when compared to frozen DLIs or DLIs used from the mobilized stem cell product due to different viabilities and compositions (Lemieux et al. 2016). However, a most recent meta-analysis showed no difference between a conventional and G-CSF-mobilized DLIs in the risk of all-cause mortality, though causes of mortality differed (Kirkham et al. 2022).
+
+4.  4\.
+
+    *Mechanism of immune escape*: Beyond, the increasing understanding of mechanisms behind escape from the allogeneic immune surveillance in patients with increasing or fully developed post-transplant relapse might be relevant. Among others, the loss of mismatched HLA after haploidentical HCT (Vago et al. 2009) and the downregulation of the HLA machinery by other mechanisms in the HLA identical setting (Toffalori et al. 2019) are thought to influence both indication for and dosing of DLI.
+
+5.  5\.
+
+    Balance of host antigen-presenting cells and immune and graft-versus-host status:
+
+    As discussed in 59.1.3, different transplantation regimens can have different impact on the presence of host antigen-presenting cells, and additional immune repertoires present at the time point of DLI (de Witte et al. 2021b). Therefore, dosage and number of repetitions of DLI need to be placed within the context of a defined transplantation regimen. This includes type of T-cell depletion and conditioning (e.g., ATG or PTCY) as both can act on the presence of host dendritic cells and therefore impact efficacy and toxicity.
+
+6.  6\.
+
+    *Combination with other drugs*: DLIs are used in many diseases in combination with specific drugs targeting molecular aberrations of the underlying malignancy and/or acting via immune-modulating activities. However, the early administration of lenalidomide after transplantation has been associated with a high incidence of GVHD (Kneppers et al. 2011), indicating that doses of DLI can also critically depend on the co-administration of drugs. Combinations with interferon-α and GM-CSF have also been reported as successful intervention to enhance the GVL effect (Dickinson et al. 2017). Other drugs currently explored are 5-azacytidine, HDAC inhibitors (Bug et al. 2017), and Flt3-inhibiting TKI (Mathew et al. 2018), and dosage as well as timing of combined DLIs might be guided by the experience from prophylactic and preemptive DLIs but need to be carefully monitored.
+
+## 59.3 Conclusion
+
+Based on these considerations, it is challenging to provide specific guidelines for dosing and timing of DLIs. A lack of consensus on how to precisely administer DLIs might generate, if carefully monitored, a unique opportunity to gain new insights into how DLIs need to be given. Strict institutional guidelines and rigorous reporting on details of DLI like processing, timing, dosing, intervals, and combination with immune-modulating drugs are therefore needed, and the new cellular therapy registry of EBMT is designed to allow for analysis of daily practice and its impact on clinical outcome in years to come.
+
+### Key Points
+
+- Naïve αβT-cell-host dendritic cell (DC) interaction is a key driver of immune responses.
+
+- The balance of naïve αβT cell and DC differs between different transplantation techniques after HCT and thus impacts most likely the dose of DLI that can be given at a certain time point after transplantation.
+
+- Dosage of DLI depends also on timing after HCT as over time host DCs are replaced by donor DC.
+
+- The underlying disease can determine efficacy as well as toxicity of a certain dose of DLI.
+
+## References
+
+- Admiraal R, Nierkens S, de Witte MA, Petersen EJ, Fleurke GJ, Verrest L, Belitser SV, Bredius RGM, Raymakers RAP, Knibbe CAJ, Minnema MC, van Kesteren C, Kuball J, Boelens JJ. Association between anti-thymocyte globulin exposure and survival outcomes in adult unrelated haemopoietic cell transplantation: a multicentre, retrospective, pharmacodynamic cohort analysis. Lancet Haematol. 2017;4:e183–91.
+
+- Alyea EP, DeAngelo DJ, Moldrem J, Pagel JM, Przepiorka D, Sadelin M, Young JW, Giralt S, Bishop M, Riddell S. NCI first international workshop on the biology, prevention and treatment of relapse after allogeneic hematopoietic cell transplantation: report from the committee on prevention of relapse following allogeneic cell transplantation for hematologic malignancies. Biol Blood Marrow Transplant. 2010;16:1037–69.
+
+- Bleakley M, Heimfeld S, Loeb KR, Jones LA, Chaney C, Seropian S, Gooley TA, Sommermeyer F, Riddell SR, Shlomchik WD. Outcomes of acute leukemia patients transplanted with naive T cell-depleted stem cell grafts. J Clin Invest. 2015;125:2677–89.
+
+- Boelens JJ, Admiraal R, Kuball J, Nierkens S. Fine-tuning antithymocyte globulin dosing and harmonizing clinical trial design. J Clin Oncol. 2018;36:1175–6.
+
+- Bug G, Burchert A, Wagner EM, Kroger N, Berg T, Guller S, Metzelder SK, Wolf A, Hunecke S, Bader P, Schetelig J, Serve H, Ottmann OG. Phase I/II study of the deacetylase inhibitor panobinostat after allogeneic stem cell transplantation in patients with high-risk MDS or AML (PANOBEST trial). Leukemia. 2017;31:2523–5.
+
+- de Koning C, Prockop S, van Roessel I, Kernan N, Klein E, Langenhorst J, Szanto C, Belderbos M, Bierings M, Boulad F, Bresters D, Cancio M, Curran K, Kollen W, O’Reilly R, Scaradavou A, Spitzer B, Versluijs B, Huitema A, Lindemans C, Nierkens S, Boelens JJ. CD4+ T-cell reconstitution predicts survival outcomes after acute graft-versus-host-disease: a dual-center validation. Blood. 2021;137:848–55.
+
+- de Witte MA, Sarhan D, Davis Z, Felices M, Vallera DA, Hinderlie P, Curtsinger J, Cooley S, Wagner J, Kuball J, Miller JS. Early reconstitution of NK and gammadelta T cells and its implication for the design of post-transplant immunotherapy. Biol Blood Marrow Transplant. 2018;24:1152.
+
+- de Witte MA, Janssen A, Nijssen K, Karaiskaki F, Swanenberg L, van Rhenen A, Admiraal R, van der Wagen L, Minnema MC, Petersen E, Raymakers RAP, Westinga K, Straetemans T, Halkes CJM, Boelens JJ, Kuball J. Alphabeta T-cell graft depletion for allogeneic HSCT in adults with hematological malignancies. Blood Adv. 2021a;5:240–9.
+
+- de Witte M, Daenen LGM, van der Wagen L, van Rhenen A, Raymakers R, Westinga K, Kuball J. Allogeneic stem cell transplantation platforms with ex vivo and in vivo immune manipulations: count and adjust. Hemasphere. 2021b;5:e580.
+
+- de Witte MA, Mooyaart LE, Hoogeboom JD, Chabannon C, Malard F, Ruggeri A, Kuball J. Activity of ex vivo graft and DLI engineering within the last decade increases, a survey from the EBMT cellular therapy & immunobiology working party. Bone Marrow Transplant. 2023;58:719–22.
+
+- Dickinson AM, Norden J, Li S, Hromadnikova I, Schmid C, Schmetzer H, Jochem-Kolb H. Graft-versus-leukemia effect following hematopoietic stem cell transplantation for leukemia. Front Immunol. 2017;8:496.
+
+- Eefting M, de Wreede LC, Halkes CJ, von dem Borne PA, Kersting S, Marijt EW, Veelken H, Putter H, Schetelig J, Falkenburg JH. Multi-state analysis illustrates treatment success after stem cell transplantation for acute myeloid leukemia followed by donor lymphocyte infusion. Haematologica. 2016;101:506–14.
+
+- Handgretinger R, Schilbach K. The potential role of gammadelta T cells after allogeneic HCT for leukemia. Blood. 2018;131:1063.
+
+- Jedlickova Z, Schmid C, Koenecke C, Hertenstein B, Baurmann H, Schwerdtfeger R, Tischer J, Kolb HJ, Schleuning M. Long-term results of adjuvant donor lymphocyte transfusion in AML after allogeneic stem cell transplantation. Bone Marrow Transplant. 2016;51:663–7.
+
+- Kanakry CG, Coffey DG, Towlerton AM, Vulic A, Storer BE, Chou J, Yeung CC, Gocke CD, Robins HS, O’Donnell PV, Luznik L, Warren EH. Origin and evolution of the T cell repertoire after posttransplantation cyclophosphamide. JCI Insight. 2016;1:e86252.
+
+- Kirkham AM, Bailey AJM, Masurekar A, Shorr R, Bredeson C, Sabloff M, Allan DS. Can GCSF-stimulated donor lymphocyte infusions improve outcomes for relapsed disease following allogeneic hematopoietic cell transplantation? A systematic review and meta-analysis. Leuk Lymphoma. 2022;63:3276–87.
+
+- Kneppers E, van der Holt B, Kersten MJ, Zweegman S, Meijer E, Huls G, Cornelissen JJ, Janssen JJ, Huisman C, Cornelisse PB, Bruijnen CP, Emmelot M, Sonneveld P, Lokhorst HM, Mutis T, Minnema MC. Lenalidomide maintenance after nonmyeloablative allogeneic stem cell transplantation in multiple myeloma is not feasible: results of the HOVON 76 trial. Blood. 2011;118:2413–9.
+
+- Laskowski TJ, Biederstadt A, Rezvani K. Natural killer cells in antitumour adoptive cell immunotherapy. Nat Rev Cancer. 2022;22:557–75.
+
+- Lemieux J, Jobin C, Simard C, Neron S. A global look into human T cell subsets before and after cryopreservation using multiparametric flow cytometry and two-dimensional visualization analysis. J Immunol Methods. 2016;434:73–82.
+
+- Li C, Zhou F, Wang J, Chang Q, Du M, Luo W, Zhang Y, Xu J, Tang L, Jiang H, Liu L, Kou H, Lu C, Liao D, Wu J, Wei Q, Ke S, Deng J, Liu C, Mei H, Hu Y. Novel CD19-specific gamma/delta TCR-T cells in relapsed or refractory diffuse large B-cell lymphoma. J Hematol Oncol. 2023;16:5.
+
+- Liu E, Marin D, Banerjee P, Macapinlac HA, Thompson P, Basar R, Nassif Kerbauy L, Overman B, Thall P, Kaplan M, Nandivada V, Kaur I, Nunez Cortes A, Cao K, Daher M, Hosing C, Cohen EN, Kebriaei P, Mehta R, Neelapu S, Nieto Y, Wang M, Wierda W, Keating M, Champlin R, Shpall EJ, Rezvani K. Use of CAR-transduced natural killer cells in CD19-positive lymphoid tumors. N Engl J Med. 2020;382:545–53.
+
+- Locatelli F, Merli P, Pagliara D, Li Pira G, Falco M, Pende D, Rondelli R, Lucarelli B, Brescia LP, Masetti R, Milano GM, Bertaina V, Algeri M, Pinto RM, Strocchio L, Meazza R, Grapulin L, Handgretinger R, Moretta A, Bertaina A, Moretta L. Outcome of children with acute leukemia given HLA-haploidentical HSCT after alphabeta T-cell and B-cell depletion. Blood. 2017;130:677–85.
+
+- Malard F, Labopin M, Chevallier P, Guillaume T, Duquesne A, Rialland F, Derenne S, Peterlin P, Leaute AG, Brissot E, Gregoire M, Moreau P, Saas P, Gaugler B, Mohty M. Larger number of invariant natural killer T cells in PBSC allografts correlates with improved GVHD-free and progression-free survival. Blood. 2016;127:1828–35.
+
+- Mathew NR, Baumgartner F, Braun L, O’Sullivan D, Thomas S, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018;24:282–91.
+
+- Maury S, Lemoine FM, Hicheri Y, Rosenzwajg M, Badoual C, Cherai M, Beaumont JL, Azar N, Dhedin N, Sirvent A, Buzyn A, Rubio MT, Vigouroux S, Montagne O, Bories D, Roudot-Thoraval F, Vernant JP, Cordonnier C, Klatzmann D, Cohen JL. CD4+CD25+ regulatory T cell depletion improves the graft-versus-tumor effect of donor lymphocytes after allogeneic hematopoietic stem cell transplantation. Sci Transl Med. 2010;2:41ra52.
+
+- Mielcarek M, Furlong T, O’Donnell PV, Storer BE, McCune JS, Storb R, Carpenter PA, Flowers ME, Appelbaum FR, Martin PJ. Posttransplantation cyclophosphamide for prevention of graft-versus-host disease after HLA-matched mobilized blood cell transplantation. Blood. 2016;127:1502–8.
+
+- Nijssen K, Westinga K, Stuut A, Janssen A, van Rhenen A, van der Wagen L, Daenen LGM, Oostvogels R, de Witte MA, Kuball J. Graft engineering: how long can you wait, how low can you go, and pandemic readiness. Bone Marrow Transplant. 2023;58:820–2.
+
+- Orr MT, Lanier LL. Natural killer cell education and tolerance. Cell. 2010;142:847–56.
+
+- Pasquini MC, Devine S, Mendizabal A, Baden LR, Wingard JR, Lazarus HM, Appelbaum FR, Keever-Taylor CA, Horowitz MM, Carter S, O’Reilly RJ, Soiffer RJ. Comparative outcomes of donor graft CD34+ selection and immune suppressive therapy as graft-versus-host disease prophylaxis for patients with acute myeloid leukemia in complete remission undergoing HLA-matched sibling allogeneic hematopoietic cell transplantation. J Clin Oncol. 2012;30:3194–201.
+
+- Ravens S, Schultze-Florey C, Raha S, Sandrock I, Drenker M, Oberdorfer L, Reinhardt A, Ravens I, Beck M, Geffers R, von Kaisenberg C, Heuser M, Thol F, Ganser A, Forster R, Koenecke C, Prinz I. Human gammadelta T cells are quickly reconstituted after stem-cell transplantation and show adaptive clonal expansion in response to viral infection. Nat Immunol. 2017;18:393–401.
+
+- Santoro N, Mooyaart JE, Devillier R, Koc Y, Vydra J, Castagna L, Gulbas Z, Martin JD, Araujo MC, Kulagin A, Arat M, Arroyo CH, Martelli MP, Di Ianni M, Hoogenboom JD, de Wreede LC, Ruggeri A, Chabannon C. Donor lymphocyte infusions after haploidentical stem cell transplantation with PTCY: a study on behalf of the EBMT cellular therapy & immunobiology working party. Bone Marrow Transplant. 2023;58:54–60.
+
+- Scheper W, van Dorp S, Kersting S, Pietersma F, Lindemans C, Hol S, Heijhuurs S, Sebestyen Z, Grunder C, Marcu-Malina V, Marchant A, Donner C, Plachter B, Vermijlen D, van Baarle D, Kuball J. GammadeltaT cells elicited by CMV reactivation after allo-SCT cross-recognize CMV and leukemia. Leukemia. 2013;27:1328–38.
+
+- Schmid C, Labopin M, Nagler A, Niederwieser D, Castagna L, Tabrizi R, Stadler M, Kuball J, Cornelissen J, Vorlicek J, Socie G, Falda M, Vindelov L, Ljungman P, Jackson G, Kroger N, Rank A, Polge E, Rocha V, Mohty M, Acute Leukaemia Working Party of the European Group for Bone and Marrow Transplantation. Treatment, risk factors, and outcome of adults with relapsed AML after reduced intensity conditioning for allogeneic stem cell transplantation. Blood. 2012;119:1599–606.
+
+- Schmid C, Kuball J, Bug G. Defining the role of donor lymphocyte infusion in high-risk hematologic malignancies. J Clin Oncol. 2021;39:397–418.
+
+- Schmid C, Labopin M, Schaap N, Veelken H, Brecht A, Stadler M, Finke J, Baron F, Collin M, Bug G, Ljungman P, Blaise D, Tischer J, Bloor A, Kulagin A, Giebel S, Gorin NC, Esteve J, Ciceri F, Savani B, Nagler A, Mohty M. Long-term results and GvHD after prophylactic and preemptive donor lymphocyte infusion after allogeneic stem cell transplantation for acute leukemia. Bone Marrow Transplant. 2022;57:215–23.
+
+- Sebestyen Z, Prinz I, Dechanet-Merville J, Silva-Santos B, Kuball J. Translating gammadelta (gammadelta) T cells and their receptors into cancer cell therapies. Nat Rev Drug Discov. 2020;19:169–84.
+
+- Stenger EO, Turnquist HR, Mapara MY, Thomson AW. Dendritic cells and regulation of graft-versus-host disease and graft-versus-leukemia activity. Blood. 2012;119:5088–103.
+
+- Suessmuth Y, Mukherjee R, Watkins B, Koura DT, Finstermeier K, Desmarais C, Stempora L, Horan JT, Langston A, Qayed M, Khoury HJ, Grizzle A, Cheeseman JA, Conger JA, Robertson J, Garrett A, Kirk AD, Waller EK, Blazar BR, Mehta AK, Robins HS, Kean LS. CMV reactivation drives posttransplant T-cell reconstitution and results in defects in the underlying TCRbeta repertoire. Blood. 2015;125:3835–50.
+
+- Toffalori C, Zito L, Gambacorta V, Riba M, Oliveira G, Bucci G, Barcella M, Spinelli O, Greco R, Crucitti L, Cieri N, Noviello M, Manfredi F, Montaldo E, Ostuni R, Naldini MM, Gentner B, Waterhouse M, Zeiser R, Finke J, Hanoun M, Beelen DW, Gojo I, Luznik L, Onozawa M, Teshima T, Devillier R, Blaise D, Halkes CJM, Griffioen M, Carrabba MG, Bernardi M, Peccatori J, Barlassina C, Stupka E, Lazarevic D, Tonon G, Rambaldi A, Cittaro D, Bonini C, Fleischhauer K, Ciceri F, Vago L. Immune signature drives leukemia escape and relapse after hematopoietic cell transplantation. Nat Med. 2019;25:603–11.
+
+- Tsirigotis P, Byrne M, Schmid C, Baron F, Ciceri F, Esteve J, Gorin NC, Giebel S, Mohty M, Savani BN, Nagler A. Relapse of AML after hematopoietic stem cell transplantation: methods of monitoring and preventive strategies. A review from the ALWP of the EBMT. Bone Marrow Transplant. 2016;51:1431–8.
+
+- Vago L, Perna SK, Zanussi M, Mazzi B, Barlassina C, Stanghellini MT, Perrelli NF, Cosentino C, Torri F, Angius A, Forno B, Casucci M, Bernardi M, Peccatori J, Corti C, Bondanza A, Ferrari M, Rossini S, Roncarolo MG, Bordignon C, Bonini C, Ciceri F, Fleischhauer K. Loss of mismatched HLA in leukemia after stem-cell transplantation. N Engl J Med. 2009;361:478–88.
+
+- van Bergen CA, van Luxemburg-Heijs SA, de Wreede LC, Eefting M, von dem Borne PA, van Balen P, Heemskerk MH, Mulder A, Claas FH, Navarrete MA, Honders WM, Rutten CE, Veelken H, Jedema I, Halkes CJ, Griffioen M, Falkenburg JH. Selective graft-versus-leukemia depends on magnitude and diversity of the alloreactive T cell response. J Clin Invest. 2017;127:517–29.
+
+- van der Zouwen B, Koster EAS, von dem Borne PA, Oosten LEM, Roza-Scholten MWI, Snijders TJF, van Lammeren D, van Balen P, Marijt WAF, Veelken H, Falkenburg JHF, de Wreede LC, Halkes CJM. Feasibility, safety, and efficacy of early prophylactic donor lymphocyte infusion after T cell-depleted allogeneic stem cell transplantation in acute leukemia patients. Ann Hematol. 2023;102:1203–13.
+
+- van Heijst JW, Ceberio I, Lipuma LB, Samilo DW, Wasilewski GD, Gonzales AM, Nieves JL, van den Brink MR, Perales MA, Pamer EG. Quantitative assessment of T cell repertoire recovery after hematopoietic stem cell transplantation. Nat Med. 2013;19:372–7.
+
+- Yan CH, Liu QF, Wu DP, Zhang X, Xu LP, Zhang XH, Wang Y, Huang H, Bai H, Huang F, Ma X, Huang XJ. Prophylactic donor lymphocyte infusion (DLI) followed by minimal residual disease and graft-versus-host disease-guided multiple DLIs could improve outcomes after allogeneic hematopoietic stem cell transplantation in patients with refractory/relapsed acute leukemia. Biol Blood Marrow Transplant. 2017;23:1311–9.
+
+- Yew PY, Alachkar H, Yamaguchi R, Kiyotani K, Fang H, Yap KL, Liu HT, Wickrema A, Artz A, van Besien K, Imoto S, Miyano S, Bishop MR, Stock W, Nakamura Y. Quantitative characterization of T-cell repertoire in allogeneic hematopoietic stem cell transplant recipients. Bone Marrow Transplant. 2015;50:1227–34.
+
+- Yun HD, Waller EK. Finding the sweet spot for donor lymphocyte infusions. Biol Blood Marrow Transplant. 2013;19:507–8.

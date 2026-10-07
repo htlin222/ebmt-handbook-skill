@@ -1,0 +1,489 @@
+# Chapter 71. Acute Myeloid Leukaemia in Children
+
+> **Source:** Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E (eds). *The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies*, 8th ed. Springer, Cham; 2024. pp. 633–648. https://doi.org/10.1007/978-3-031-44080-9_71  
+> **Authors:** Gibson, Brenda E. S.; Sauer, Martin G.; Ramanathan, Subramaniam; Amrolia, Persis J.  
+>   - Gibson, Brenda E. S.: University of Glasgow  
+>   - Sauer, Martin G.: Medizinische Hochschule Hannover  
+>   - Ramanathan, Subramaniam: Great North Children’s Hospital  
+>   - Amrolia, Persis J.: Great Ormond St Children’s Hospital  
+> **License:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Text reproduced verbatim from the open-access HTML edition; formatting converted to Markdown.
+
+## Abstract
+
+The outcome for children with acute myeloid leukaemia (AML) continues to improve although not at the pace of acute lymphoblastic leukaemia (ALL). The current 3-year EFS and OS are 65–70% and 75–80%, respectively. The improved survival is attributed to better supportive care, refinement in risk stratification (particularly directing patients to allogeneic HCT in CR1), and improved salvage in relapsed/refractory AML (R/R AML). The enhanced understanding of the genomic landscape of paediatric AML has lead to the strategic use of novel treatments. The future of AML treatment lies in optimising the therapeutic potential of new treatments, including CAR T-cells, in combination with conventional chemotherapy and allogeneic HCT.
+
+## 71.1 Introduction
+
+Whilst the outcome of frontline AML (including PR) has improved, treatment of R/R AML remains a challenge. Despite the majority of children (\>90%) achieving CR, the relapse risk (RR) in CR1 remains high at 20–30%, albeit varying by risk group. Relapse remains the most common cause of death.
+
+HCT reduces the RR in CR1 in all risk groups when compared to chemotherapy as consolidation treatment. Historically, this reduction in RR has not always translated into an improvement in OS due to the treatment-related mortality (TRM). However in the current era of a relatively low TRM, the balance shifts in favour of HCT for children at high risk of relapse. When considering the benefits of transplantation in children, it is important to acknowledge the potential for associated late effects, particularly infertility. HCT offers children with R/R AML their only real chance of long-term survival, which may rely on augmenting the graft versus leukaemia (GVL) effect. Post-HCT strategies such as the employment of FLT3 inhibitors (sorafenib and midastaurin) for *FLT3/ITD*-mutated AML, donor lymphocyte infusion (DLI), adoptive T-cells, or NK-cell immunotherapy may reduce the risk of further relapse post-transplant. A number of CAR T-cells are in development and may offer hope for the future.
+
+## 71.2 Prognostic Factors and Indications
+
+### 71.2.1 First Complete Remission
+
+Consolidation therapy with allogeneic HCT in CR1 of paediatric AML has been shown consistently to reduce the RR through a GVL effect, which is stronger in AML than ALL. Recognising the importance of the GVL effect in preventing relapse has led to the adoption of techniques to augment the GVL effect such as the use of cord blood stem cells, omission of serotherapy and early withdrawal of immunosuppression.
+
+Improvements in HLA typing and expansion of the donor pool through the use of cord blood stem cells and haploidentical donors have made HCT an option for the majority of patients. All patients with AML should be tissue-typed at presentation in order to optimise the chance of early transplant should this be indicated.
+
+The criteria for transplanting patients has evolved from transplanting patients irrespective of the risk group, to transplanting all patients other than those with good-risk (GR) cytogenetics (about 70–80% of all patients), to the current practice of restricting transplant to those with poor-risk (PR) cytogenetics (about 30% of all patients), who are at the highest risk of relapse and most likely to benefit from HCT in CR1 in an era of low TRM.
+
+There is no international agreement on the definition of PR disease. Most groups define PR disease which may benefit from HCT in CR1 through a combination of PR cytogenetics/molecular abnormalities, which are currently considered to be the strongest indicator of outcome, and the persistence of MRD after chemotherapy course 1 or 2. There is evolving consensus on which cytogenetics/molecular aberration constitutes high-risk disease, although some national groups place more value on MRD.
+
+There is consensus that failure to achieve CR carries a poor outcome. There is no advantage for HCT in CR1 for patients with GR disease, that is, those with t(8;21)(q22;q22)/*RUNX1::RUNX1T1*, inv.(16)(p13;q22)/*CBFB::MYH11*, *NPM1* mutation or biallelic *CEBPA* bZIP in-frame insertion/deletion mutation. The benefit of HCT in CR1 for patients with intermediate-risk (IR) cytogenetics is less clear, and these may be the patients without PR cytogenetics but with a suboptimal early response to chemotherapy in whom MRD assessment can identify those at high risk of relapse who may benefit from transplant. There is no role for HCT in CR1 of acute promyelocytic leukaemia (APL) or Down syndrome myeloid leukaemia (ML-DS). HCT for patients with Fanconi anaemia and MDS/AML and those with JMML are discussed elsewhere.
+
+#### 71.2.1.1 Cytogenetics
+
+Cytogenetic/molecular abnormalities are strong prognostic indicators of outcome in AML and are used to risk-stratify treatment. There is consensus that patients with GR cytogenetics have favourable outcomes with chemotherapy alone and, with the exception of rare cases with a suboptimal response to induction therapy, should not proceed to transplant. The approach to patients with IR cytogenetics is largely based on response to chemotherapy as assessed by MRD. HCT is generally recommended for patients with PR risk cytogenetic/molecular abnormalities. There is increasing consensus on which cytogenetic/molecular abnormalities are PR and those most commonly considered indicative of being at high risk of relapse include:
+
+- inv.(3)(q21q26)/t(3;3)(q21;q26)/abn(3q26) (MECOM rearrangements),
+
+- −5/del(5q)
+
+- −7
+
+- t(6,9)(p23;q34)/*DEK::NUP214,*
+
+- t(9;22)(q34;q11)/*BCR::ABL1,*
+
+- 12p abnormalities
+
+- t(6,11)(q27;q23)/*KMT2A::MLLT4,*
+
+- t(4;11)(q21;q23)/*KMT2A::AFF1,*
+
+- t(10;11)(p11 ~ 14;q23)/*KMT2A::MLLT10* and other *KMT2A* partners located on 10p (e.g., *ABI1*),
+
+- All *NUP98* fusions, t(5;11)(q35;p15.5)/*NUP98::NSD1*, *NUP98::KDM5A.*
+
+- t(7;12)(q36;p13)/*MNX1::ETV6,*
+
+- inv.(16)(p13.3;q24.3)/*CBFA2T3::GLIS2,*
+
+- *FLT3*-ITD without *NPM1* mutation or *CEBPA* in-frame bZIP mutation or CBF-AML (NB: *CEBPA* double mutation with *FLT3*-ITD is intermediate risk).
+
+- Complex karyotype – no consensus.
+
+It is difficult to risk-stratify rare fusions, but *FUS::ERG* and *PICALM::MLLT10* have been reported in the literature as poor risk. Not all groups consider a complex karyotype (3 or more abnormalities) to be poor risk. The translocation t(11;19)(q23; p13.3)/*KMT2A::MLLT1* is variably classified as intermediate or high risk. *KMT2A (MLL)* rearrangements with the exception of t(4;11)(q21;q23)/*KMT2A::AFF1*, t(6;11)(q27;q23)/*KMT2A::MLLT4* and t(10;11p11-p14;q23)/*KMT2A::MLLT10*/*KMT2A::ABI1* are generally considered intermediate risk, but in rare incidences intermediate risk *KMT2A* abnormalities may co-occur with poor-risk features (e.g., *FLT3-ITD*, monosomy 7, 12p abnormalities, etc.), which may alter the risk. *FLT3-ITD* is considered as poor risk but often co-occurs with other poor-risk cytogenetic abnormalities, when the risk may be augmented. The absence of GR cytogenetic abnormalities and the allelic ratio (\>0.4) may influence the risk and approach to treatment. An increasing number of clinically relevant fusions are becoming recognised, a number of which are cytogenetically cryptic and require more comprehensive diagnostic assessment. Currently, PR cytogenetics comprise about 30–35% of all AML in children.
+
+AML is a heterogeneous disease, and not all PR cytogenetic groups will benefit to the same degree from HCT in CR1. The European Society for Blood and Marrow Transplantation (EBMT)/ Paediatric Diseases Working Party (PDWP) recently reported a review of children ≤18 years of age at HCT reported to the European Society for Blood and Marrow Transplantation (EBMT) registry, who received their first allogeneic HCT for AML in CR1 between 2005 and 2020 and who had an evaluable diagnostic karyotype. The aim was to establish whether PR cytogenetic abnormalities at diagnosis remain predictive of OS after HCT. Patients were subgrouped as (a) monosomy 7/del(7q) or monosomy 5/del(5q) (24%), (b) 11q23 abnormalities excluding t(9;11)(p12;q23)/*KMT2A::MLLT3* (37%), (c) complex or monosomal karyotype (24%), or (d) “other” (15%). A complex karyotype was defined as three or more structural abnormalities, and a monosomal karyotype as a monosomy with one or more structural abnormalities, excluding WHO-designated recurring translocations or inversions (2017 ELN recommendations). The “other” subgroup included t(6;9)(p23;q34)/*DEK::NUP214*, t(3;5)(q25;q34)/*NPM1::MLF1*,t(9;22)(q34;q11)/*BCR::ABL1*, t(8;16)(p11;p13)/*MYST3::CREBBP*, inv.(3)(q21q26) or t(3;3)(q21;q26)/*RPN1::MECOM*, t(16;21)(p11;q22)/*FUS::ERG*, abn(11)(p15) and del(12p)/abnormality of 12(p13). The review included 744 children (median age at HCT: 8.6 years \[0.3–18 years\]). Median follow-up after HCT was 4.4 years. Eighty-six per cent of 346 evaluable patients were MRD-negative pre-HCT and 97% of patients received myeloablative conditioning (MAC). The OS and leukaemia-free survival (LFS) for the entire cohort were 76% and 70%, respectively, at 2 years. In a multivariate model, 11q23 (hazard ratio (HR) = 0.59, *P* = 0.01) and “other” PR cytogenetic abnormalities (HR = 0.49, *P* \< 0.01) were associated with significantly better OS compared to monosomy 7/del(7q) or 5/del(5q) (HR1). The “other” PR cytogenetic abnormalities category was also associated with a lower risk of disease relapse after HCT (HR = 0.4, *P* = 0.01). Receipt of an unrelated donor was associated with a lower relapse incidence (RI) (HR = 0.58, *P* = 0.03).
+
+#### 71.2.1.2 Measurable Residual Disease Assessment (See Chap. 57)
+
+Whilst genetic risk is the most important prognostic factor in AML, MRD is an independent post-remission prognostic factor important for risk stratification and treatment decision (Schuurhuis et al. 2018). Detection can be done by multiparametric flow cytometry (MFC), reverse-transcription quantitative PCR (RT-qPCR), digital droplet PCR and next-generation sequencing (NGS), all of which have different sensitivities and specificities. The European Leukaemia Net (ELN)-MRD Working Party has produced guidelines for standardisation and harmonisation which includes recommendations for the use of MRD prognostically, selection of the methodology, appropriate time points for assessment, MRD thresholds and definition of response (Heuser et al. 2021).
+
+MFC is most commonly employed in paediatric AML either by measuring leukaemia aberrant immunophenotype (LAIP), a “different from normal” (DfN) phenotype or a combination of both methodologies. MRD positivity by MFC at early time points is strongly predictive of outcome. It is sensitive to a level of 0.1–0.01% and with an appropriate panel about 90% of children will have an informative LAIP by MFC.
+
+Currently, the commonest threshold level for MFC is 0.1%, and the time point for post-course is 1 or 2. However, the ability to define absolute risk remains limited with nearly a quarter of patients with flow MRD ≤ 0.1% post-course 1 relapsing and a similar proportion of patients with flow MRD \>0.1% remaining relapse-free (Sievers et al. 2003; Paietta 2018). More recently, a systematic review of the prognostic value of MRD in paediatric AML was reported. Thirteen studies were included and in all studies, MRD positivity during treatment was associated with worse clinical outcome. However, MRD negativity during treatment is associated with significantly better clinical outcome but does not exclude the possibility of relapse, whilst positivity early during treatment does not exclude cure (Segerink et al. 2021).
+
+Molecular MRD assessment by RT-qPCR generally has a sensitivity level of 0.1–0.001% and is applicable in approximately 80% of children who have a target for RT-qPCR such as a fusion gene or NPM1 mutation. Not only can molecular MRD be used to guide treatment but can also be used sequentially for the early detection and pre-emptive treatment of relapse. Further work is required to define molecular MRD thresholds at early time points that are predictive of relapse in the paediatric setting, bearing in mind that these may vary by molecular subtype. However, serially rising transcript levels (i.e., MRD relapse) are strongly predictive of haematological relapse, and some consider this an indication for pre-emptive therapy. Digital PCR and next-generation sequencing have some potential advantages for MRD monitoring over existing molecular techniques but currently remain in the research arena. Similarly, leukaemia stem cell monitoring may add prognostic information to current flow cytometry-based assays (Schuurhuis et al. 2018).
+
+Preliminary data from adult studies and AAML 03P1 (Loken et al. 2012) suggest a limited discriminatory value for flow MRD in patients with PR cytogenetics. Observation from COG AAML03P1 and AIEOP 2002/01 that patients considered MRD negative at the end of treatment, but with previously documented MRD post-course 1, remain at high risk of relapse and poor outcome, suggesting that intervention beyond clearance of MRD with chemotherapy alone is required for improved outcome (Buldini et al. 2017; Loken et al. 2012).
+
+In patients with GR cytogenetics, stable or falling transcript levels may be an indication for further chemotherapy rather than HCT. It is recognised that some patients with GR cytogenetics may have disease which is detectable molecularly after course 1, but patients may still obtain a durable CR with chemotherapy alone. Karlsson et al. reported a small study of 15 children treated on NOPHO-AML 2004 which compared results by RT-qPCR and MFC. Eight children had a *RUNX1::RUNX1T1*, one *CBFB::MYH11* and six *KMT2A::MLLT3*. Ten of 22 samples were discordant with a cutoff for positivity of ≥0.1%. The majority (9/10) were MRD-positive with RT-qPCR but MRD-negative with MFC. This was shown to be due to the presence of fusion transcripts in mature cells as well as in CD34-expressing cells. Measurement of RT-qPCR suggests slower response kinetics than indicated by MFC, and the authors suggest that the prognostic impact of early measurement with RT-qPCR remains to be determined (Karlsson et al. 2022).
+
+In the NOPHO–AML 2004 trial, MRD detected by MFC was performed on day 15 and before consolidation and was evaluable in 101 patients. Using a 0.1% MRD cutoff level, MRD-negative and MRD-postive patients at the start of consolidation therapy had a 5-year EFS of 57 ± 7% and 11 ± 7%, respectively (*P \< 0.001*) and an OS of 78 ± 6% and 28 ± 11% (*P \< 0.001*). Patients who were MRD-positive before consolidation had a cumulative incidence of relapse (CIR) of 82 ± 9.3% compared to 38.2 ± 6% in those who were MRD-negative at this time point. In multivariate analysis, only MRD correlated significantly with survival and MRD before consolidation therapy was the strongest independent prognostic factor for EFS and OS (Tierens et al. 2016).
+
+HCT has been shown to reduce the negative impact of a poor early treatment response. Thirty one of 267 (12%) children treated on NOPHO-AML 20024 were defined as poor responders (15% blasts morphologically after course 1 or 5% blasts after course 2). These patients had time-intensive chemotherapy followed by HCT in 25 of 31 with a donor. The 3-year probability of survival for these high-risk patients was 70%. Patients classified as intermediate risk (defined as 5–14.9% blasts after course 1) had a significantly inferior EFS compared to high-risk patients. Both groups had time-intensive chemotherapy, but only high-risk patients proceeded to HCT (Wareham et al. 2013; Abrahamsson et al. 2011).
+
+The St Jude’s group showed that flow MRD positivity \>0.1% after course 1 was associated with a 3-year EFS of 43% compared to 74% in those who were MRD-negative (Rubnitz et al. 2010). Likewise on the COG AAML03P1 protocol, of 188 patients who achieved morphological CR after course 1 or 2, 46 (24%) had detectable flow MRD \> 0.1%. Those with and without MRD \> 0.1% at the end of course 2 had a 3-year-RR of 67% and 30% and a relapse-free survival (RFS) of 29% and 65%, respectively (Loken et al. 2012).
+
+Compared to patients with PR cytogenetics, the benefit of HCT in CR1 for patients with IR cytogenetics is less clear.
+
+A recent I-BFMSG study evaluated the benefit of HCT in CR 1 in a heterogenous cohort of patients with *KMT2A-r* (rearranged) AML including high- and intermediate-risk rearrangements based on the fusion partner. Irrespective of risk group, MRD negativity post-course 2 was associated with superior EFS and a trend towards lower CIR. However, within the intermediate-risk group, the CIR was similar for MRD-negative and MRD-positive patients post-course 2. The authors recognised the limitations of a retrospective study in which the transplant rate was low (21%) by today’s standards, the limitations of MFC MRD in the era studied, and that the study was not powered to assess the effect of HCT in CR1 (van Weelderen et al. 2023).
+
+### 71.2.2 Relapsed Disease
+
+Patients with relapsed AML across all cytogenetic risk groups have a dismal prognosis with chemotherapy alone, and it is generally accepted that they should proceed to transplant in CR2. The first international I-BFM AML Relapsed Study reported the chance of achieving a second CR after relapse to be dependent on the length of CR1: CR1 \< 1 year versus CR \>1 year is 50% versus 75% with an overall CR rate of 60% and OS for CR1 \< 1 year 26% versus 45% CR1 \> 1 year, *p* \< 0.001 (Kaspers et al. 2013). Cytogenetics are strong prognostic indicators in relapse as in de novo disease with patients with CBF leukaemias fairing the best: CBF leukaemias versus others—OS 67% versus 31%, *p* \< 0.001. Other significant prognostic indicators were no HCT in CR1 and speed of response to reinduction.
+
+A retrospective analysis of two large international study groups (COG and BFM) has updated these outcomes. The OS at 5 years was 42% (BFM) and 35% (COG). Initial high-risk features and short time to relapse predicted poor outcomes. OS for all patients who received a HCT was 54% ± 4%. In the BFM cohort, 82% of patients proceeded to HCT which represented an increase compared to previous trials and an improvement in outcomes was observed (Rasche et al. 2021).
+
+The AML-SCT BFM 0227 trial showed similar outcomes. Patients transplanted in CR2 had a 4-year EFS of 46% with a RR of 27% (Sauer et al. 2020).
+
+Outcomes in multiply relapsed AML are poor. An AML-BFM study group reported a 5-year probability of OS of 31 ± 9% following HCT (*n =* 25) in patients transplanted after a second relapse. Twenty-one of 25 (88%) had a previous HCT. Early second relapse was associated with a dismal outcome and dependent on a favourable response to further treatment. Although survival at the second relapse is poor, it is possible (Rasche et al. 2021). Novel therapies may have a role in multiple relapsed AML to achieve remission prior to HCT.
+
+### 71.2.3 Refractory Disease
+
+Residual disease/MRD positivity pre-HCT increases the risk of relapse post-HCT, but the susceptibility of AML to GVL does not preclude transplant. MRD status just prior to HCT is an important prognostic indicator. A small study reported a 5-year OS of 80.4% for children with \<0.01% MRD (*n* = 27), 66.7% for those with 0.01–5% MRD (*n* = 9) and 58.3% for those with \>5% MRD (Leung et al. 2012). In a retrospective study from the UK of 44 paediatric patients transplanted for refractory AML, 68% achieved CR following HCT with a 5-year LFS of 43% and RR of 32% (O'Hare et al. 2017)). Outcomes in patients with primary refractory disease (*n =* 23) were equivalent to those with R/R AML (*n =* 21). Blast percentage ⩽ 30% in the bone marrow (BM) pre-HCT, myeloablative conditioning and acute GVHD were favourable prognostic features. Stratification according to age ≥ 10 years and \> 30% blasts in BM pre-HCT enabled prognostication, i.e., patients with neither or one of these risk factors had a LFS of 53% whereas those with both factors had a LFS of 10%. It should be noted, however, that these data were in patients who proceeded to HCT and there is thus significant selection bias. Recent data suggest particularly impressive outcomes with unrelated cord blood transplant in patients with refractory disease with a 61% EFS in patients with primary refractory disease (*n =* 29) and 45% in those with R/R disease (*n =* 23) (Horgan et al. 2023). Overall these data suggest that a significant subset of patients with refractory disease are curable by HCT.
+
+## 71.3 Conditioning Regimens
+
+No advantage has been shown for total body irradiation (TBI) in AML, and chemotherapy-only regimens should be used to limit the burden of morbidity associated with endocrine dysfunction. Adult data from the CIBMTR demonstrated improved NRM, OS and DFS in patients with AML transplanted using IV BU with therapeutic drug monitoring (TDM) compared with TBI (Copelan et al. 2013). Myeloablative conditioning (MAC) regimens are most commonly used, but a number of reduced toxicity conditioning (RTC) regimens are being tested. There is no proven “best” chemotherapy conditioning regimen, though MAC regimens with BU and CY with TDM of BU levels are currently the standard of care.
+
+However, the AUC to be targeted has been systemically evaluated for the combination of BU with CY only. When BU was combined with agents other than CY, relationships between BU exposure and clinical outcomes have been shown to be altered (McCune et al. 2000). For example, the use of BU TDM varied considerably with BU/FLU (Parmar et al. 2013; Ayala et al. 2015), Bu/clofarabine (Andersson et al. 2011; Kebriaei et al. 2012) and BU/CY/etoposide (Zhang et al. 2012; Chen et al. 2015). A retrospective EBMT study of Bu, Cy and Melphalan (Mel) (enhanced MAC) in paediatric AML in CR1 suggested improved RR and LFS compared with Bu-Cy, but the majority of patients receiving Bu-Cy on this study did not undergo TDM (Lucchini et al. 2017). The prospectively conducted and centrally monitored BFM trial AML SCT-BFM 2007 used BU/CY/MEL (enhanced MAC) for children with a matched family or unrelated donor. BU dosing was weight-adapted only. Four-year EFS and OS were 61% and 70%, respectively, for the complete cohort. CIR was 22%. TRM was 15% and correlated with age reaching 9% (SE 3%) in children younger than 12 years and 31% (SE 9%) in older children and adolescents. Of note, children under the age of 12 years, who were transplanted in CR1, achieved an exceptional OS of 94%, an EFS of 84% and a TRM of 6% at four years. Due to unacceptable TRM rates between 20 and 30%, the trial was halted for teenagers, and this regimen should be avoided or used with caution in this age group (Sauer et al. 2020). There is an increasing body of experience with BU/FLU-based MAC, which is well tolerated, but no published randomised comparisons are available to determine the relative anti-leukaemic activity of BU/FLU versus BU/CY (Harris et al. 2018). The recently completed MyeChild01 trial is expected to give answers to this unresolved question.
+
+Replacing BU with Treosulfan (TREO) to reduce toxicity whilst maintaining efficacy is being tested and given in combination with CY (TREO/CY) or with FLU and Thiotepa (FTT). The choice of conditioning regimen is a balance between efficacy and toxicity. Comorbidity, pretreatment with drugs that may contribute to toxicity, i.e., gemtuzumab and VOD/SOS, age and HLA disparity may influence the choice of conditioning regimen. Comorbidity or heavy previous treatment may indicate a reduced intensity conditioning (RIC) regimen with BU/FLU or FLU/MEL. Targeted BU levels will differ between MAC, RTC and RIC. Patient toxicities may suggest avoidance of specific agents. Newer regimens which include clofarabine (CLO) are being tested. A prospectively randomised study comparing CLO/FLU/BU and BU/CY/MEL is currently being conducted by the NOPHO-DBH consortium.
+
+An important concept has been introduced by the FLAMSA-RIC approach (Schmid et al. 2006). It incorporates prophylactic DLI after a rapid CSA taper to compensate for the potentially decreased anti-leukaemic potency of RIC chemotherapy. The AML SCT BFM 2007 trial for children with refractory disease reported an EFS and OS of 53% and 57%, respectively, at 4 years for children with primary refractory de novo AML (Sauer et al. 2020). The trial delivered sequential conditioning for R/R AML immediately followed by allo-HCT. The prospectively randomised phase III ASAP trial has very recently substantiated this concept in adults and produced comparable LFS for conventional intensive induction treatment prior to transplant (Stelljes et al. 2022).
+
+## 71.4 Donor Selection Hierarchy and Stem Cell Source
+
+### 71.4.1 Allogeneic HCT
+
+The choice of donor for allo-HCT is based on HLA compatibility and CMV status. Outcomes are similar for MSD and MUD. The degree of mismatch which is acceptable depends on the risk of relapse and CR status. MMUD or cords and haplo-HCT are generally reserved for HR disease or early relapses.
+
+Patients and their siblings should be tissue-typed at diagnosis. In the absence of a HLA MFD, an UD and a CBU, a search should be initiated as soon as possible after induction course 1 for patients with IR or PR cytogenetics. Donors should be selected using the selection hierarchy of the national group. Medium-/high-resolution typing is required for adult URD (HLA A, B, C, HLA-DRB1, HLA-DQB1 and HLA-DPB1) and unrelated cords (HLA A, B, C and DR loci). The risk of relapse does not direct the need for transplantation, but the HLA discrepancy which is acceptable. MFD or well-MUD should be identified for CR1 patients, whilst mismatched donors and cords or haplo-HCT should be reserved for high-risk disease, CR2, or refractory disease. For MFD/UD, BM is the preferred stem cell source, but the use of peripheral blood stem cell (PBSC) is permissible. The use of PBSC from mismatched donors should be avoided wherever possible.
+
+In the UK, serotherapy is only given to patients transplanted from unrelated donors, 9/10 mismatched family donors, or 5/8 matched cord blood units, but not to patients receiving grafts from matched family donors or 6–8/8 unrelated cord blood units (Table 71.1).
+
+**Table 71.1 Donor and source for HCT: the hierarchy of the UK**
+
+| Choice | Family donor          | Unrelated donor          | Unrelated cord                                               |
+|--------|-----------------------|--------------------------|--------------------------------------------------------------|
+| 1st    | MFD (BM, PBSC and CB) |                          |                                                              |
+| 2nd    |                       | 10/10 MUD; 9/10 1DQ MMUD | 8/8 MUCB (total nucleated cell (TNC \>3 × 10<sup>7</sup>/kg) |
+| 3rd    | 9/10 MMFD             | 9/10 (other) MMUD        | 5–7/8 MMUCB (TNC \>3 × 10<sup>7</sup>/kg)<sup>a</sup>        |
+
+1.  <sup>a</sup> For unrelated cord blood, a single cord is used if the cryopreserved TNC dose is \>3 × 10<sup>7</sup>/kg. If \<3 × 10<sup>7</sup>/kg, a double-cord transplant is preferred
+2.  *MFD* matched family donor, *MUD* matched unrelated donor, *MMUD* mismatched unrelated donor, *MUCB* matched unrelated cord blood, *MMFD* mismatched family donor, *MMUCB* mismatched unrelated cord blood
+
+The optimal stem cell source for HCT in AML remains the subject of intense debate. A retrospective study comparing the outcomes of MSD, MUD and CB HCT in paediatric AML showed no difference in RR or LFS but improved chronic GVHD-free/LFS with unrelated CB HCT (Keating et al. 2019). Another recent retrospective analysis comparing outcomes of T-replete unrelated CB HCT (*n =* 112) with other stem cell sources (*n =* 255) suggests a significantly improved EFS (HR 0.57) with CB HCT in multivariate analysis (Horgan et al. 2023). Similar to what has previously been described in adults (Milano et al. 2016), this benefit was particularly seen in patients who were flow MRD-positive (\>0.1%) pre-HCT where a striking reduction in relapse was observed in the CB cohort compared to other stem cell sources (36% vs. 66% HR 0.46), suggesting this is mediated through enhanced GVL effects. Interestingly, while aGVHD was common after T-replete CB HCT, the incidence of chronic GVHD was reduced (HR 0.28).
+
+Bertaina et al have compared the outcomes of TCRαβ-depleted haploidentical transplant with MUD and MMUD HCT in a multicentre, retrospective analysis in paediatric patients with acute leukaemia, including 105 patients with AML. They report a lower incidence of acute and chronic GVHD and similar LFS between the three cohorts but an improved chronic GVHD-free/RFS in those with haploidentical or MUD donors compared to MMUDs. However, only a minority of these patients had AML, so we would caution extrapolating this data to this disease where the GVL effect is significant (Bertaina et al. 2018). In contrast to the adult setting, data on haploidentical HCT with post-transplant cyclophosphamide (PTC) are limited in the paediatric setting, and to date it is not possible to comment on which approach to haploidentical HCT is preferable. Ultimately, prospective randomised studies are needed to truly determine the optimal stem cell source for this indication.
+
+## 71.5 GVHD Prophylaxis
+
+All patients should receive IS with CSA. Most, but not all, groups add short-course methotrexate (MTX) for all patients. Patients receiving grafts from a MMD or those in whom the stem cell source is PBSC or unrelated CB should receive prophylaxis in addition to CSA with either MMF or short-course MTX.
+
+## 71.6 Prevention of Relapse Post-Transplant
+
+### 71.6.1 Withdrawal of Immunosuppression
+
+Withdrawal of immunosuppression in order to optimise the GVL effect is frequently used pre-emptively in patients at high risk of relapse or in those who develop mixed chimerism (MC) or MRD. In adult AML, increased exposure to CSA was associated with increased relapse and decreased survival (Craddock et al. 2010), supporting early withdrawal of IS where possible. In the absence of GVHD, MMF can be stopped at day 28 post-transplant, and CSA tailed over 4–6 weeks from day 60 (MFD), day 100 (MUD), or earlier if mixed chimerism is detected in the whole blood.
+
+### 71.6.2 Donor Lymphocyte Infusion (DLI)
+
+The evidence of benefit for DLI is weak. Rettinger et al. (2017) investigated the use of pre-emptive immunotherapy with reduction of IS and low-dose DLI in patients with paediatric AML developing MC after HCT for AML: 6/13 patients with MC who received immunotherapy remained in long-term CR, whereas all 7 patients with MC who did not receive immunotherapy relapsed. Based on these limited data, our practice is to use pre-emptive immunotherapy in patients with confirmed MC (defined as \>1% autologous cells in the whole blood on two occasions 1 week apart) without active aGVHD \>Grade 1 or cGVHD in the first-year post-transplant. If patients are still receiving IS, this should be discontinued and chimerism reassessed a month later. In patients already off IS, chimerism should be reassessed a month off IS. If MC persists, DLI should be given to recipients of MFD or MUD. DLI is not recommended in the context of 9/10 mismatched donor HCT. The DLI cell dose administered is dependent on the donor source and the timing post-transplant. In the future, the use of pre-emptive DLI is likely to be based on the detection of flow or molecular MRD in the bone marrow in the absence of GVHD.
+
+### 71.6.3 Targeted Maintenance Therapy
+
+Several options have emerged as post-HCT maintenance strategies to sustain the remission achieved by HCT. These include hypomethylating agents (HMAs) (Decitabine and Azacytidine), tyrosine kinase inhibitors (TKIs) (for FLT3-mutated AMLs) and Venetoclax.
+
+1.  \(a\)
+
+    Hypomethylating agents (Decitabine and Azacytidine): HMAs act on the DNA methyl transferases (DNMTs), reduce epigenetic dysregulation and promote tumour suppression. Their utility and good tolerance as frontline treatment of AML in elderly and frail patients prompted their use as oral prophylactic agents post-allogeneic HCT to prevent relapse in adults. A pilot trial in HR adult AML (RICAZA trial) employing Azacitidine as relapse prophylaxis in high-risk adult AML (*n =* 37) demonstrated a 1-year/2-year-RFS of 57%/49%, respectively, with a beneficial impact of positive CD8+ T-cell response (HR, 0.30; 95% CI, 0.10–0.85; *p* = 0.02). In this trial, patients with stable engraftment commenced treatment with Azacitidine on day +42 at a dose of 36 mg/m² subcutaneously (reduced to 24 mg/m² in dose-limiting toxicity) for 5 days, every 4 weeks for 12 months after HCT (Craddock et al. 2016).
+
+    Because the demethylating effect of Decitabine was noted to be cyclin-dependent, it was explored as a combination therapy with recombinant human G-CSF (100 mcg/m² from D0–5) in a prospective phase II RCT (Gao et al. 2020) in adults (*n =* 152) and children (*n =* 52). The dose of Decitabine (5 mg/m² from D1–5) was lowered to minimise its myelosuppressive side effects. Patients randomised to Decitabine + G-CSF (adults = 75; children *=* 25) were noted to have a lower CIR at 2 years (15% versus 38.3%; HR, 0.32; *p* \< 0.01). G-CSF was tolerated well without a relative increase in cGVHD. In a more recent study, Booth et al. employed a combination of Azacitidine (36 mg/m²/day for 5 days, starting on D + 60, repeated every 4 weeks) and DLI as prophylaxis post-allogenic HCT in 17 patients with IR/HR-AML and reported a 2-year-LFS of 88.2% (61.5% in pre-intervention historical cohort (*n =* 39) (Booth et al. 2023).
+
+2.  \(b\)
+
+    FLT3 inhibitors (FLT3i): The role of FLT3i was first identified in adult AMLs in both frontline and post-HCT approaches. TKI maintenance therapy for *FLT*_(*3*)-*ITD* positive AML has prospectively been shown to improve the outcome significantly. With a median follow-up of 41.8 months, the SORMAIN study reported a HR for relapse or death of 0.39 in the sorafenib group versus placebo. Twenty-four-month RFS probability was 53.3% with placebo versus 85.0% with sorafenib (Burchert et al. 2020). Mechanistic studies suggest that the combination with DLI might even be more potent (Mathew et al. 2018). A retrospective paediatric study (Tarlock et al. 2015) demonstrated the feasibility and tolerability of sorafenib (median dose 150 mg/m²; started at a median interval of 100 days post-HCT, for a median duration of 12 months post-HCT), and all patients who received sorafenib for MRD positivity immediately prior to transplant or with the emergence of MRD post-HCT are alive and remain in complete remission at a median of 48 months post-HCT. This benefit was explored further in a randomised, multi-centre COG AAML 1031 trial, in a cohort of 72 children with high allelic ratio-FLT3-mutated AML (Pollard et al. 2022). While the outcome analysis indicated an improved EFS with a HR of 3.03 (95% CI: 1.31–7.04) for all patients exposed to sorafenib, results focused on outcomes of maintenance therapy post-HCT (*n =* 46) are not available.
+
+    Targeted inhibition of the FLT3 ligand by sorafenib has been shown to be associated with deeper and more durable remission in patients relapsing after prior HCT (Metzelder et al. 2012), reflecting an anti-leukaemic synergism between sorafenib and allo-immune effects exerted by the stem cell graft. It is important to consider the dose-limiting effects of sorafenib, particularly those of cardiotoxicity, palmoplantar dysesthesia and myelosuppression.
+
+    TKI resistance and off-target toxicities associated with first-generation TKI led to their replacement with second-generation TKIs, but their role in paediatric AML remains unclear given the paucity of data. In a small retrospective case series (*n =* 8), the use of Giltertinib (a more potent and selective FLT3 inhibitor) was associated with a 1-year-OS of 70% (McCall et al. 2021). Of note, 4/8 (50%) received Gilteritinib as maintenance post-HCT, and all were alive. Newer second-generation TKIs (including Giltertinib and Quizartinib) are being tested in early-phase prospective paediatric trials (see Table 71.2).
+
+3.  \(c\)
+
+    Venetoclax: Venetoclax is a highly selective and potent inhibitor of BCL2, which is an apoptosis-regulating protein, upregulated in haematological malignancies. Data on its use as prophylaxis against relapse post-HCT are limited. In a phase I dose-escalation study (Karol et al. 2020) in R/R paediatric AML patients (*n =* 20), CR/CRi and partial remission was observed in 70% and 10%, respectively. The recommended phase 2 dose (R2D) in this early-phase trial was 360 mg/m², when used in combination with either Cytarabine or Idarubicin. More recently, in a larger cohort of high-risk paediatric AML patients (*n =* 43; PR cytogenetics in 35(85%), prior history of BMT in 17 (37%) treated on a venetoclax-based regimen, a CR/CRi and partial remission of 40%/5%, respectively, was reported for the overall cohort and CR/CRi and partial remission of 29%/6%, respectively, in patients with previous BMT. None of the patients received venetoclax monotherapy (Trabal et al. 2023).
+
+&nbsp;
+
+**Table 71.2 Summary of novel emerging treatments in paediatric AML**
+
+| Newer treatment                       | Target/mechanism of action | Paediatric AML target population                                                          | Current stage                                                                                          | Ref/trial ID                                                                         |
+|---------------------------------------|----------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| **Antibody-drug conjugates**          |                            |                                                                                           |                                                                                                        |                                                                                      |
+| Gemtuzumab ozogamicin                 | CD33                       | Frontline treatment of all AMLs                                                           | Component of the recently concluded MyeChild 01 trial and standard of care in a phase III COG AAML1831 | MyeChild01: NCT02724163; AAML 1831: NCT04293562                                      |
+| IMGN632                               | CD123                      | Relapsed/refractory AMLs                                                                  | Phase I/II                                                                                             | NCT05320380                                                                          |
+| Flotetuzumab                          | CD123-CD3 DART             | Relapsed/refractory AMLs                                                                  | Phase I                                                                                                | NCT04158739                                                                          |
+| STRO-002<sup>a</sup>                  | CBAF2-GLIS2                | AML with ‘RAM phenotype’                                                                  | Tested on compassionate basis; awaiting trials                                                         | Meshinchi et al. (Blood 2022); NCT03748186 (Approved in ovarian/endometrial cancers) |
+| Tagraxofusp                           | CD123                      | Relapsed/refractory CD123 expressing haematological cancers                               | Phase I                                                                                                | NCT05476770                                                                          |
+| **FLT3 inhibitors**                   |                            |                                                                                           |                                                                                                        |                                                                                      |
+| Sorafenib<sup>^</sup>                 | 1st gen (type II) TKI      | Frontline treatment and also as post-HCT maintenance in FLT3 + ve with high allelic ratio | Phase III RCT                                                                                          | Pollard et al. (2022), NCT01371981                                                   |
+|                                       |                            | FLT3-mutated acute monocytic leukaemia                                                    | Phase III (in combination with chemotherapy)                                                           | NCT05313958                                                                          |
+| Midostaurin                           | 1st gen (type I) TKI       | Frontline treatment of FLT3-mutated AML                                                   | Phase I/II (in combination with chemotherapy)                                                          | NCT03591510                                                                          |
+| Quizartinib                           | 2nd gen (type II) TKI      | Relapsed/refractory FLT3-mutated AML                                                      | Phase I/II (in combination and as maintenance monotherapy)                                             | NCT03793478                                                                          |
+| Gilteritinib (ASP2215)                | 2nd gen (type I) TKI       | Relapsed/refractory FLT3-mutated AML                                                      | Phase I/II (in combination with chemotherapy)                                                          | NCT04240002                                                                          |
+|                                       |                            | Frontline treatment of all AMLs                                                           | Phase III (in combination with chemotherapy; COG AAML1831)                                             | NCT04293562                                                                          |
+| Crenolanib<sup>~</sup>                | 2nd gen (type I) TKI       | Relapsed/refractory FLT3-mutated AML                                                      | Phase I (in combination with Sorafenib)                                                                | Inaba et al. (2022), NCT02270788                                                     |
+| **KMT2A fusion inhibitors**           |                            |                                                                                           |                                                                                                        |                                                                                      |
+| Pinometostat<sup>b</sup>              | DOT1L                      | Relapsed/refractory KMT2A (r) leukaemias                                                  | Phase I (published)                                                                                    | Shukla et al. (2016)                                                                 |
+| Revumenib<sup>c</sup>                 | Menin inhibitor            | Relapsed/refractory KMT2A (r) AML (adults + children)                                     | Phase I/II (in combination with chemotherapy)                                                          | Issa et al. (2023)                                                                   |
+|                                       |                            | Frontline treatment of AML \> 12 years with KMT2A (r)                                     | Phase I (in combination with decitabine/cedazuridine and venetoclax)                                   | NCT05360160                                                                          |
+| **CAR T-cells**                       |                            |                                                                                           |                                                                                                        |                                                                                      |
+| Autologous lentiviral CAR-T           | CD33                       | Relapsed/refractory AMLs (CD33 + ve)                                                      | Phase I (costimulatory domains: 41BB, CD3ζ, HER1t)                                                     | Tambaro et al. (2021), NCT03126864                                                   |
+|                                       |                            | Relapsed/refractory AMLs (CD33 + ve)                                                      | Phase I/II                                                                                             | NCT03971799                                                                          |
+| Autologous lentiviral CAR-T           | CD123                      | Relapsed/refractory AMLs                                                                  | Phase I                                                                                                | NCT04678336                                                                          |
+| Autologous retroviral CAR-T           | CLL-1                      | Relapsed/refractory AMLs (\>30% CLL-1 blasts on flow)                                     | Phase I (costimulatory domain: CD28)                                                                   | NCT04219163                                                                          |
+| CAR T-cells                           | CD38                       | Relapsed/refractory AMLs (CD38 + ve)                                                      | Phase I/II                                                                                             | NCT04351022                                                                          |
+| Autologous CART (with a suicide gene) | CD44v6                     | Relapsed/refractory AMLs (CD44v6 + ve)                                                    | Phase I/II                                                                                             | NCT04097301                                                                          |
+
+1.  Abbreviations: *AML* acute myeloid leukaemia, *DART* dual-affinity retargeting, *TKI* tyrosine kinase inhibitor, *FLT3* Fms-like tyrosine kinase 3, *CART* chimeric antigen receptor–T-cell, *COG* Children’s Oncology Group, *RCT* randomised controlled trial
+2.  <sup>a</sup> Used on compassionate basis in 16 patients with CBAF2-GLIS2 fusion (monotherapy in 10) with 6 (38%) achieving MRD-negative CR (Meshinchi et al. 2022)
+3.  <sup>b</sup> Pinometostat at a R2PD of 70 mg/m<sup>2</sup> showed transient reductions in peripheral/BMblasts were detected in nearly 40% of pts. (*n =* 7/18); however, no objective responses were observed
+4.  <sup>c</sup> Revumenib associated with CR/CRi of 30% (18/60 evaluable patients) with undetectable flow MRD negativity in 78% (14/18)
+5.  <sup>d</sup> Results described in the text (Pollard et al. 2022); ~Crenolanib (and sorafenib combination was tolerable without dose-limiting toxicities, and three complete remissions (one with incomplete count recovery), and one partial remission were observed in 8 evaluable children
+
+Whilst there definitely seems to be a benefit in combining ≥2 agents (i.e., HMA + venetoclax, venetoclax+FLT3i, DLI + HMA), determining the best possible combination, the optimal dose, duration of therapy and positioning of these therapies in the treatment algorithm (either as post-HCT maintenance, definitive therapy for first relapse or as a bridge to subsequent HCT) will best be answered by prospective trials. It is likely that in the future, maintenance therapy post-HCT with agents targeting specific high-risk genetic abnormalities will play an increasing role.
+
+## 71.7 Role of the Second HCT
+
+For selected patients who relapse late (\>1 year) post-first HCT and respond to reinduction chemotherapy, the second HCT may be curative with survival rates of 24–35% reported (Yaniv et al. 2018). However, for the entire relapse population, the prognosis is grim. Two large groups have shown similar dismal outcomes following the second HCT in children relapsing after the first HCT: (Uden et al. 2020) (*n =* 122; 4-year-OS/NRM/CIR = 31%/22%/45%); (*n =* 251; for patients in remission, the 5-year-OS/NRM/CIR = 31%/29%/46%). Remission status impacted survival in the former study and graft/donor choice (better survival in BM grafts and MFD) in the latter. In a smaller cohort of 46 children relapsing after the first HCT, Taga et al. demonstrated a 5-year-OS of 41.7% after the second HCT, with an inter-HCT interval of \>24 months conferring a better outcome (63% vs. 27%; *p* = 0.01). In a multicentre national analysis of mismatched T-replete CB for R/R AML (Horgan et al. 2023), an impressive 2-year-EFS of 69% was noted in a cohort of patients with a previous history of HCT (*n =* 24).
+
+These data demonstrate an urgent need to improve outcomes for this group of children and young adults. Interestingly, CR has been seen in cutaneous (but not BM) relapse of AML post-transplant with the checkpoint inhibitor Ipilimumab (Davids et al. 2016). Treatment options for patients who relapse early after transplant remain limited, and at present, for the majority of such patients, we recommend symptom care or enrolment in a clinical trial. Antibody–drug conjugates, bispecific T-cell-engaging antibodies and CAR T-cells are under development and offer hope for the near future.
+
+### Key Points
+
+- There is increasing evidence that patients with cytogenetic or molecular high-risk features may benefit from HCT in CR1. About 30% of children fall into this risk group. A TRM below 10% should be achievable.
+
+- A MFD or MUD is considered the optimal donor, and BM is the preferred stem cell source. A mismatched donor may be considered appropriate for patients with poorly responding disease.
+
+- Children who achieve CR2 after first relapse have a bleak prognosis without HCT.
+
+- MAC, TBI-free, conditioning is recommended for patients transplanted in CR1 and CR2, and to date the standard regimen had been BU/CY.
+
+- Novel conditioning regimens incorporating TREO or CLO are being explored, and these need to be compared with BU/CY in prospective, randomised studies.
+
+- Relapse after HCT in CR1 is associated with a very poor outcome and is not curable without the second HCT. TRM for the second HCT exceeds 30% which might favour the use of a RIC in this setting. The prevention of relapse remains the major challenge.
+
+- Several novel treatment options, including CAR T-cells, have emerged in the last decade, but their position in the treatment algorithm needs clarity.
+
+## Abbreviations
+
+ALL:  
+Acute lymphoblastic leukaemia
+
+AML:  
+Acute myeloid leukaemia
+
+APL:  
+Acute promyelocytic leukaemia
+
+BFM:  
+Berlin Frankfurt Munster
+
+BM:  
+Bone marrow
+
+CAR:  
+Chimeric antigen receptor
+
+COG:  
+Children’s oncology group
+
+CR:  
+Complete remission
+
+CSA:  
+Cyclosporin A
+
+DART:  
+Dual affinity re-targetting
+
+DLI:  
+Donor lymphocyte infusion
+
+EFS:  
+Event-free survival
+
+FLT3:  
+Fms-like tyrosine kinase 3
+
+G-CSF:  
+Granulocyte colony-stimulating factor
+
+GR:  
+Good risk
+
+GVHD:  
+Graft versus host disease
+
+GVL:  
+Graft versus leukaemia
+
+HLA:  
+Human leucocyte antigen
+
+HMA:  
+Hypomethylating agents
+
+HR:  
+Hazard ratio
+
+HCT:  
+Haematopoeitic cell transplant
+
+IR:  
+Intermediate risk
+
+ITD:  
+Internal tandem duplication
+
+KMT2A:  
+Lysine methyltransferase 2A
+
+LAIP:  
+Leukaemia aberrant immunophenotype
+
+LFS:  
+Leukaemia-free survival
+
+MAC:  
+Myeloablative conditioning
+
+MC:  
+Mixed chimerism
+
+MDS:  
+Myelodysplastic syndrome
+
+MFC:  
+Multiparametric flow cytometry
+
+ML-DS:  
+Myeloid leukaemia of down syndrome
+
+MLL:  
+Mixed lineage leukaemia
+
+MMF:  
+Mycophenolate mofetil
+
+MMUD:  
+Mismatched unrelated donor
+
+MRD:  
+Measurable residual disease
+
+OS:  
+Overall survival
+
+PBSC:  
+Peripheral blood stem cells
+
+PCR:  
+Polymerase chain reaction
+
+PDWP:  
+Paediatric Diseases Working Party
+
+PR:  
+Poor risk
+
+R/R:  
+Relapsed/refractory
+
+RCT:  
+Randomised controlled trial
+
+TKI:  
+Tyrosine kinase inhibitor
+
+TRM:  
+Transplant-related mortality
+
+VOD/SOS:  
+Venoocclusive disease/sinusoidal obstruction syndrome
+
+## References
+
+- Abrahamsson J, Forestier E, Heldrup J, et al. Response-guided induction therapy in pediatric acute myeloid leukemia with excellent remission rate. J Clin Oncol. 2011;29:310–5.
+
+- Andersson BS, Valdez BC, de Lima M, et al. Clofarabine ± fludarabine with once daily i.v. busulfan as pretransplant conditioning therapy for advanced myeloid leukemia and MDS. Biol Blood Marrow Transplant. 2011;17(6):893–900. https://doi.org/10.1016/j.bbmt.2010.09.022. Epub 2010 Oct 11
+
+- Ayala E, Figueroa J, Perkins J, et al. Myeloablative intravenous pharmacokinetically targeted busulfan plus fludarabine as conditioning for allogeneic hematopoietic cell transplantation in patients with non-Hodgkin lymphoma. Clin Lymphoma Myeloma Leuk. 2015;15(6):335–40. https://doi.org/10.1016/j.clml.2014.12.016. Epub 2015 Jan 7
+
+- Bertaina A, Zecca M, Buldini B, et al. Unrelated donor vs HLA-haploidentical α/β T-cell- and B-cell-depleted HSCT in children with acute leukemia. Blood. 2018;132(24):2594–607. https://doi.org/10.1182/blood-2018-07-861575. Epub 2018 Oct 22
+
+- Booth N, Mirea L, Huschart E, Miller H, et al. Efficacy of Azacitidine and Prophylactic Donor Lymphocyte Infusion after HSCT in Pediatric Patients with Acute Myelogenous Leukemia: A Retrospective Pre-Post. StudyTransplant Cell Ther. 2023;29(5):330.e1–7. https://doi.org/10.1016/j.jtct.2023.02.009. Epub 2023 Feb 19
+
+- Buldini B, Rizzati F, Masetti R, et al. Prognostic significance of flow-cytometry evaluation of minimal residual disease in children with acute myeloid leukaemia treated according to the AIEOP-AML 2002/01 study protocol. Br J Haematol. 2017;177:116–26.
+
+- Burchert A, Bug G, Fritz LV, et al. Sorafenib maintenance after allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia with FLT3-internal tandem duplication mutation (SORMAIN)J. Clin Oncol. 2020;38(26):2993–3002. https://doi.org/10.1200/JCO.19.03345. Epub 2020 Jul 16
+
+- Chen YB, Li S, Fisher DC, Driscoll J, et al. Phase II Trial of Tandem High-Dose Chemotherapy with Autologous Stem Cell Transplantation Followed by Reduced-Intensity Allogeneic Stem Cell Transplantation for Patients with High-Risk Lymphoma. Biol Blood Marrow Transplant. 2015;21(9):1583–8. https://doi.org/10.1016/j.bbmt.2015.05.016. Epub 2015 May 22
+
+- Copelan EA, Hamilton BK, Avalos B, et al. Better leukaemia-free and overall survival in AML in first remission following cyclophosphamide in combination with Busulfan compared with TBI. Blood. 2013;122:3863–70.
+
+- Craddock C, Jilani N, Siddique S, et al. Tolerability and Clinical Activity of Post-Transplantation Azacitidine in Patients Allografted for Acute Myeloid Leukemia Treated on the RICAZA Trial. Biol Blood Marrow Transplant. 2016;22(2):385–90. https://doi.org/10.1016/j.bbmt.2015.09.004. Epub 2015 Sep 9
+
+- Craddock C, Nagra S, Peniket A, et al. Factors predicting long-term survival after T-cell depleted reduced intensity allogeneic stem cell transplantation for acute myeloid leukaemia. Haematologica. 2010;95:989–95.
+
+- Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.
+
+- Gao L, Zhang Y, Wang S, et al. Effect of rhG-CSF combined with Decitabine prophylaxis on relapse of patients with high-risk MRD-negative AML after HSCT: an open-label, Multicenter, Randomized Controlled Trial. J Clin Oncol. 2020;38(36):4249–59. https://doi.org/10.1200/JCO.19.03277. Epub 2020 Oct 27
+
+- Harris AC, Boelens JJ, Ahn KW, et al. Comparison of pediatric allogeneic transplant outcomes using myeloablative Busulfan with cyclophosphamide or fludarabine. Blood Adv. 2018;2:1198–206.
+
+- Heuser M, Freeman SD, Ossenkoppele GJ, et al. 2021 Update on MRD in acute myeloid leukemia: a consensus document from the European LeukemiaNet MRD working Party. Blood. 2021;138(26):2753–67. https://doi.org/10.1182/blood.2021013626.
+
+- Horgan C, Mullanfiroze K, Rauthan A, et al. T-cell replete cord transplants give superior outcomes in high-risk and relapsed/refractory pediatric myeloid malignancy. Blood Adv. 2023;7(10):2155–65. https://doi.org/10.1182/bloodadvances.2022009253.
+
+- Inaba H, van Oosterwijk JG, Panetta JC, et al. Preclinical and pilot study of type I FLT3 tyrosine kinase inhibitor, Crenolanib, with Sorafenib in acute myeloid leukemia and FLT3-internal tandem duplication. Clin Cancer Res. 2022;28(12):2536–46. https://doi.org/10.1158/1078-0432.CCR-21-4450.
+
+- Issa GC, Aldoss I, DiPersio J, et al. The menin inhibitor revumenib in KMT2A-rearranged or NPM1-mutant leukaemia. Nature. 2023;615:920–4. https://doi.org/10.1038/s41586-023-05812-3.
+
+- Karlsson L, Nyvold CG, Soboli A, et al. Fusion transcript analysis reveals slower response kinetics than multiparameter flow cytometry in childhood acute myeloid leukaemia. Int J Lab Hematol. 2022;44(6):1094–101. https://doi.org/10.1111/ijlh.13935. Epub 2022 Aug 2
+
+- Karol SE, Alexander TB, Budhraja A, et al. Venetoclax in combination with cytarabine with or without idarubicin in children with relapsed or refractory acute myeloid leukaemia: a phase 1, dose-escalation study. Lancet Oncol. 2020;21(4):551–60. https://doi.org/10.1016/S1470-2045(20)30060-7. Epub 2020 Mar 11
+
+- Kaspers GL, Zimmermann M, Reinhardt D, et al. Improved outcome in pediatric relapsed acute myeloid leukaemia: results of a randomised trial on liposomal daunorubicin by the international BFM study group. J Clin Oncol. 2013;31:599–607.
+
+- Keating AK, Langenhorst J, Wagner JE, et al. The influence of stem cell source on transplant outcomes for pediatric patients with acute myeloid leukemia. Blood Adv. 2019;3(7):1118–28. https://doi.org/10.1182/bloodadvances.2018025908.
+
+- Kebriaei P, Basset R, Ledesma C, et al. Clofarabine combined with busulfan provides excellent disease control in adult patients with acute lymphoblastic leukemia undergoing allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2012;18(12):1819–26. https://doi.org/10.1016/j.bbmt.2012.06.010. Epub 2012 Jun 29
+
+- Leung W, Pui CH, Coustan-Smith E, et al. Detectable minimal residual disease before hematopoietic cell transplantation is prognostic but does not preclude cure for children with very –high-risk leukaemia. Blood. 2012;120:468–72.
+
+- Loken MR, Alonzo TA, Pardo L, et al. Residual disease detected by multidimensional flow cytometry signifies high relapse risk in patients with de novo acute myeloid leukemia: a report from Children’s Oncology Group. Blood. 2012;120(8):1581–8. https://doi.org/10.1182/blood-2012-02-408336. Epub 2012 May 30
+
+- Lucchini et al. Impact of Conditioning Regimen on Outcomes for Children with Acute Myeloid Leukemia Undergoing Transplantation in First Complete Remission. An Analysis on Behalf of the Pediatric Disease Working Party of the European Group for Blood and Marrow Transplantation Biology of Blood and Marrow Transplantation 2017;23(3):467−74. https://doi.org/10.1016/j.bbmt.2016.11.022.
+
+- Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018;24(3):282–91. https://doi.org/10.1038/nm.4484. Epub 2018 Feb 12
+
+- McCall D, Roth M, Mahadeo KM, et al. Gilteritinib combination therapies in pediatric patients with FLT3-mutated acute myeloid leukemia. Blood Adv. 2021;5(23):5215–9. https://doi.org/10.1182/bloodadvances.2021005164.
+
+- McCune JS, Gibbs JP, Slattery JT. Plasma concentration monitoring of busulfan: does it improve clinical outcome. Clin Pharmacokinet. 2000;39(2):155–65. https://doi.org/10.2165/00003088-200039020-00005.
+
+- Meshinchi S, Miller L, Massaro S, et al. Anti-leukemic activity of STRO-002 a novel folate receptor-α (FR-α)-targeting ADC in relapsed/refractory CBF2AT3-GLIS2 AML. Blood. 2022;140(Supplement 1):159–61. https://doi.org/10.1182/blood-2022-162842.
+
+- Metzelder SK, Schroeder T, Finck A, et al. High activity of sorafenib in FLT3-ITD-positive acute myeloid leukemia synergizes with allo-immune effects to induce sustained responses. Leukemia. 2012;26(11):2353–9. https://doi.org/10.1038/leu.2012.105. Epub 2012 Apr 16
+
+- Milano F, Gooley T, Wood B, et al. Cord-blood transplantation in patients with minimal residual disease. N Engl J Med. 2016;375(10):944–53. https://doi.org/10.1056/NEJMoa1602074.
+
+- O'Hare P, Lucchini G, Cummins M, et al. Allogeneic stem cell transplantation for refractory acute myeloid leukemia in pediatric patients: the UK experience. Bone Marrow Transplant. 2017;52(6):825–31. https://doi.org/10.1038/bmt.2017.3. Epub 2017 Feb 20
+
+- Paietta E. Consensus on MRD in AML. Blood. 2018;131(12):1265–6. https://doi.org/10.1182/blood-2018-01-828145.
+
+- Parmar S, Rondon G, de Lima M, et al. Dose intensification of busulfan in the preparative regimen is associated with improved survival: a phase I/II controlled, randomized study. Biol Blood Marrow Transplant. 2013;19(3):474–80. https://doi.org/10.1016/j.bbmt.2012.12.001. Epub 2012 Dec 7
+
+- Pollard JA, Alonzo TA, Gerbing R, et al. Sorafenib in combination with standard chemotherapy for children with high allelic ratio FLT3/ITD+ acute myeloid leukemia: areport from the Children's oncology group protocol AAML1031J. Clin Oncol. 2022;40(18):2023–35. https://doi.org/10.1200/JCO.21.01612. Epub 2022 Mar 29
+
+- Rasche M, Zimmermann M, Steidel E, et al. Survival Following Relapse in Children with Acute Myeloid Leukemia: A Report from AML-BFM and COG. Cancers (Basel). 2021;13(10):2336. https://doi.org/10.3390/cancers13102336.
+
+- Rettinger E, Merker M, Salzmann-Manrique E, et al. Pre-emptive immunotherapy for clearance of molecular disease in childhood acute lymphoblastic leukaemia after transplantation. Biol Blood Marrow Transplant. 2017;23:87–95.
+
+- Rubnitz JE, Inaba H, Dahl G, et al. Minimal residual disease – directed therapy for childhood acute myeloid leukaemia; results of the AML 02 multicentre trial. Lancet Oncol. 2010;11:543–52.
+
+- Sauer MG, Lang PJ, Albert MH, et al. Hematopoietic stem cell transplantation for children with acute myeloid leukemia-results of the AML SCT-BFM 2007 trial. Leukemia. 2020;34(2):613–24. https://doi.org/10.1038/s41375-019-0584-8. Epub 2019 Oct 2
+
+- Schmid C, Schleuning M, Schwerdtfeger R, et al. Long-term survival in refractory acute myeloid leukemia after sequential treatment with chemotherapy and reduced-intensity conditioning for allogeneic stem cell transplantation. Blood. 2006;108(3):1092–9. https://doi.org/10.1182/blood-2005-10-4165. Epub 2006 Mar 21
+
+- Schuurhuis GJ, Heuser M, Freeman S, et al. Minimal/measurable residual disease in AML: a consensus document from the European leukemiaNet MRD working party. Blood. 2018;131:1275–91.
+
+- Segerink WH, de Haas V, Kaspers GJL. Measurable residual disease in pediatric acute myeloid leukemia: a systematic review. Expert Rev Anticancer Ther. 2021;21(4):451–9. https://doi.org/10.1080/14737140.2021.1860763. Epub 2021 Mar 11
+
+- Shukla N, Wetmore C, O'Brien MM, et al. Final report of phase 1 study of the DOT1L inhibitor, Pinometostat (EPZ-5676), in children with relapsed or refractory MLL-r acute leukemia. Blood. 2016;128(22):2780. https://doi.org/10.1182/blood.V128.22.2780.2780.
+
+- Sievers EL, Lange BJ, Alonzo TA, et al. Immunophenotypic evidence of leukemia after induction therapy predicts relapse: results from a prospective Children’s Cancer Group study of 252 patients with acute myeloid leukemia. Blood. 2003;101(9):3398–406. https://doi.org/10.1182/blood-2002-10-3064. Epub 2002 Dec 27
+
+- Stelljes M, Middeke JM, Bug G, et al. In patients with relapsed/refractory AML sequential conditioning and immediate allogeneic stem cell transplantation (Allo-HCT) results in similar overall and leukemia-free survival compared to intensive remission induction chemotherapy followed by Allo-HCT: results from the randomized phase III ASAP trial. Blood. 2022;140(Supplement 1):9–11. https://doi.org/10.1182/blood-2022-159962.
+
+- Tambaro FP, Singh H, Jones E, et al. Autologous CD33-CAR-T cells for treatment of relapsed/refractory acute myelogenous leukemia. Leukemia. 2021;35:3282–6. https://doi.org/10.1038/s41375-021-01232-2.
+
+- Tarlock K, Chang B, Cooper T, et al. Sorafenib treatment following hematopoietic stem cell transplant in pediatric FLT3/ITD acute myeloid leukemia. Pediatr Blood Cancer. 2015;62(6):1048–54. https://doi.org/10.1002/pbc.25437. Epub 2015 Feb 8
+
+- Tierens A, Bjørklund E, Siitonen S, et al. Residual disease detected by flow cytometry is an independent predictor of survival in childhood acute myeloid leukaemia; results of the NOPHO-AML 2004 study. Br J Haematol. 2016;174(4):600–9. https://doi.org/10.1111/bjh.14093. Epub 2016 Apr 13
+
+- Trabal A, Gibson A, He J, et al. Venetoclax for acute myeloid leukemia in pediatric patients: a Texas medical center experience. Cancers (Basel). 2023;15(7):1983. https://doi.org/10.3390/cancers15071983.
+
+- Uden T, Bertaina A, Abrahamsson J, et al. Outcome of children relapsing after first allogeneic haematopoietic stem cell transplantation for acute myeloid leukaemia: a retrospective I-BFM analysis of 333 children. Br J Haematol. 2020;189(4):745−50.
+
+- van Weelderen RE, Klein K, Harrison CJ, et al. Measurable residual disease and fusion partner independently predict survival and relapse risk in childhood KMT2A-rearranged acute myeloid leukemia: astudy by the international Berlin-Frankfurt-Münster study GroupJ. Clin Oncol. 2023;41(16):2963–74. https://doi.org/10.1200/JCO.22.02120. Epub 2023 Mar 30
+
+- Wareham NE, Heilmann C, Abrahamsson J, et al. Outcome of poor response paediatric AML using early SCT. Eur J Haematol. 2013;90:187–94.
+
+- Yaniv I, Krauss AC, Beohou E, et al. Second hematopoietic stem cell transplantation for post-transplantation relapsed acute leukaemia in children: a retrospective EBMT-PDWP study. Biol Blood Marrow Transplant. 2018;24(8):1629–42.
+
+- Zhang H, Graiser M, Hutcherson DA, et al. Pharmacokinetic-directed high-dose busulfan combined with cyclophosphamide and etoposide results in predictable drug levels and durable long-term survival in lymphoma patients undergoing autologous stem cell transplantation. Biol Blood Marrow Transplant. 2012;18(8):1287–94. https://doi.org/10.1016/j.bbmt.2012.02.006. Epub 2012 Feb 25

@@ -1,0 +1,330 @@
+# Chapter 26. GVHD Prophylaxis
+
+> **Source:** Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E (eds). *The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies*, 8th ed. Springer, Cham; 2024. pp. 219–227. https://doi.org/10.1007/978-3-031-44080-9_26  
+> **Authors:** Boelens, Jaap Jan; Bonifazi, Francesca; Gjærde, Lars Klingen; Michonneau, David; Ruggeri, Annalisa; Saavedra, Laura; Socié, Gérard  
+>   - Boelens, Jaap Jan: Memorial Sloan Kettering Cancer Center  
+>   - Bonifazi, Francesca: IRCCS Azienda Ospedaliero-Universitaria di Bologna  
+>   - Gjærde, Lars Klingen: Rigshospitalet, Copenhagen University Hospital  
+>   - Michonneau, David: AP/HP Hospital St Louis; Université Paris Cité; INSERM UMR 976 Human Immunology, Pathophysiology, Immunotherapy  
+>   - Ruggeri, Annalisa: IRCCS San Raffaele Scientific Institute  
+>   - Saavedra, Laura: Transplant Center “Dr. Abraham Sumoza”  
+>   - Socié, Gérard: AP/HP Hospital St Louis; Université Paris Cité; INSERM UMR 976 Human Immunology, Pathophysiology, Immunotherapy  
+> **License:** CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Text reproduced verbatim from the open-access HTML edition; formatting converted to Markdown.
+
+## Abstract
+
+A potentially life-threatening complication of allo-HCT is graft-versus-host disease (GVHD), which occurs when T-cells from the recipient recognize host antigens on healthy tissues. Despite 50 years of history and over half a million procedures performed worldwide, GVHD remains a challenging issue that physicians are facing on a daily basis.
+
+## 26.1 Introduction
+
+A potentially life-threatening complication of allogeneic hematopoietic cell transplantation (allo-HCT) is graft-versus-host disease (GVHD), which occurs when T-cells from the recipient recognize host antigens on healthy tissues. Despite 50 years of history and over 750,000 procedures performed worldwide, GVHD remains a challenging issue that physicians are facing on a daily basis.
+
+Overall, 30–50% of patients undergoing allo-HCT will develop acute GVHD, and around 10% will have severe acute GVHD (grades III–IV). The main risk factor for developing chronic GVHD is the previous development of the acute form of the disease.
+
+The pathophysiology, diagnosis, and management of both acute and chronic GVHD will be covered by other chapters in this Handbook (Chaps. 43 and 44). This chapter will summarize the use of immunosuppression (IS) to prevent the development of acute GVHD because attempts to prevent chronic GVHD basically rely on the ability to prevent the acute disease. Readers with interest in a more detailed overview of the biological process, prevention, and therapy of acute GVHD can refer to two excellent recent reviews (Zeiser and Blazar 2018; Hill et al. 2021).
+
+## 26.2 GVHD Prophylaxis After MAC: The “Gold” Standard Combination of CNI and MTX
+
+In the mid-1980s, Storb and colleagues found that the combination of cyclosporin-A and methotrexate (CSA/MTX) (Table 26.1) was superior to CSA alone in a series of randomized phase 3 trials (Storb et al. 1986). This gold standard regimen remains the most widely used prophylaxis regimen in Europe today, especially after MAC.
+
+**Table 26.1 CSA/MTX for GVHD prophylaxis**
+
+<table>
+<thead>
+<tr>
+<th> </th>
+<th><p>Cyclosporine</p></th>
+<th><p>Methotrexate</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Dosage</p></td>
+<td><p>3 mg/kg/day IV till engraftment then orally</p></td>
+<td><p>15 mg/m<sup>2</sup> day +1</p>
+<p>10 mg/m<sup>2</sup> day +3, +6, +11</p></td>
+</tr>
+<tr>
+<td><p>Adjusting dose</p></td>
+<td><p>Target dose to reach a plasma level of 150–200 ng/mL; adjust to renal function</p></td>
+<td><p>Day +11 dose may be omitted if grade III/IV mucositis</p></td>
+</tr>
+<tr>
+<td><p>Interaction</p></td>
+<td><p>Numerous; ++ with azoles</p></td>
+<td> </td>
+</tr>
+<tr>
+<td><p>Adverse effects</p></td>
+<td><p>Numerous</p>
+<p>Renal insufficiency, CNS, and endothelial toxicities</p></td>
+<td><p>Mucositis</p></td>
+</tr>
+</tbody>
+</table>
+
+In the late 1990s, another CNI-based prophylactic regimen using tacrolimus (TAC) in conjunction with MTX was developed and two randomized phase 3 trials were published after MAC in HLA-identical sibling donors and matched/mismatched unrelated donors (Ratanatharathorn et al. 1998; Nash et al. 2000). Although both reported a significant decrease in the incidence of grade II–IV acute GVHD, none could demonstrate an improved survival with TAC/MTX compared to CSA/MTX. The reasons for this lack of improvement may be that (1) in the trial performed from HLA-identical sibling, there was an imbalance of disease risk among the two groups with higher risk patients with leukemia among patients receiving TAC/MTX, and (2) for the trial in URD, the HLA-typing methodology at that time was serologically based and thus included a very high proportion of patients with almost certainly a high degree of mismatching. Nevertheless, the TAC/MTX regimen is currently considered as the American gold standard, whereas it never reached broad popularity in Europe. More recently, a BMT CTN phase 3 trial aimed at comparing the standard prophylaxis TAC/MTX with CNI-free prophylaxis based on CD34+ selection or PTCy alone after bone marrow allo-HCT with MUD (Luznik et al. 2022). While CNI-free prophylaxis yielded lower rates of moderate/severe chronic GVHD, this did not improve OS or TRM.
+
+CSA and TAC inhibit GVHD by preventing the activation of the nuclear factor of activated T-cell (NFAT) family of transcription factors, thereby reducing the transcription of interleukin-2 and the activation of effector T-cells, albeit with a concurrent reduction in levels of interleukin-2-dependent anti-inflammatory Tregs.
+
+## 26.3 GVHD Prophylaxis After RIC: Is CNI Plus MMF Standard?
+
+From the early development of the RIC, two regimens have been used: CSA (or TAC) alone or in combination with MMF (reviewed in Zeiser and Blazar 2018). Surprisingly, the combination of CSA/MMF—while largely used worldwide—has never been tested in a large randomized clinical trial. In 2014, a meta-analysis of 33 studies representing 3440 patients failed to demonstrate benefits of the combination of CNI and MMF on acute GVHD incidence (Ziakas et al. 2014). In a retrospective study from CIBMTR of 1564 patients who underwent MRD or MUD/MMUD allo-HCT after RIC, CNI and MMF were associated with a higher risk of acute GVHD in unrelated donor transplants and did not improve survival (Hamilton et al. 2019). CNIs in this setting are usually used at the same dose (and share the same toxicity profile) as after MAC. MMF’s toxicity mainly consists of hematological toxicity. Attention must be paid to the use of ganciclovir or valganciclovir (for CMV reactivation) in addition to MMF because of the risk of severe pancytopenia. MMF is usually delivered at the dose of 30 mg/kg/day split into two or three doses.
+
+## 26.4 New Immunosuppressive Regimens for GVHD Prophylaxis
+
+With the current prophylactic treatment strategies summarized above, the rate of grades II–IV acute GVHD remains of concern in the range of 20–30% (Shouval et al. 2019). As reviewed elsewhere in the Handbook, the treatment of acute and of chronic GVHD with high-dose steroids remains unsatisfactory with 30–50% of patients being steroid resistant or dependent. There is thus still an unmet clinical need in GVHD prophylaxis. After years of no new agent in this setting, improved knowledge of basic T-cell immunology and improved knowledge of the pathophysiology of the disease, some new agents have been tested, mostly in phase 2 trials. This section summarizes the drugs with the most advanced development that reported an acute GVHD incidence in the 20% range (i.e., a range that may warrant development of subsequent phase 3 trials).
+
+- *Sirolimus (SIR)*, an mTOR inhibitor, is a more potent suppressor of the expansion of conventional T-cells than Tregs, owing to the greater dependence of conventional T-cells on the mTOR-protein kinase B pathway. This was the basis of the development by the Dana–Farber Cancer Institute (DFCI) group of a regimen that leads to a cumulative incidence of grades II–IV acute GVHD of 20% and less than 5% of grades III–IV acute GVHD. This prompted a large randomized trial of the BMTCTN comparing TAC/SIR to TAC/MTX. There was no difference in the risk of grade II–IV acute GVHD-free survival (67% vs. 62%, *P* = 0.38), and the risk of grade II–IV GVHD was similar (26% vs. 34%, *P* = 0.48) (Cutler et al. 2014). A smaller randomized single-center phase 2 study found however a reduced risk of grade II–IV acute GVHD (43% after TAC/SIR vs. an unexpectedly high rate of 89% after TAC/MTX) (Pidala et al. 2012). In the setting of nonmyeloablative allo-HCT with matched unrelated donors, the addition of SIR to CSA + MMF reduced the risk of grade II–IV acute GVHD and translated into an improved survival in a randomized phase 3 trial (Sandmaier et al. 2019). Likewise, the addition of SIR to CSA + MMF reduced the risk of acute GVHD and resulted in an improved survival—when compared to a historical cohort—in a trial in patients receiving nonmyeloablative allo-HCT with mismatched unrelated donors (Kornblit et al. 2020).
+
+- *Bortezomib (BOR)*, in combination with TAC/MTX, yielded encouraging rates of acute GVHD after mismatched RIC allo-HCT in a phase 1/2 study (Koreth et al. 2012). This combination was tested together with a combination of TAC/MTX/maraviroc and TAC/MMF/PTCy, respectively, against the reference combination of TAC/MTX in a randomized phase 2 trial (the BMTCTN 1203 trial) after RIC. The trial revealed that the combination of TAC/MMF/PTCy was the most promising regimen in comparison to TAC/MTX (Bolaños-Meade et al. 2019). This trial prompted the design of the randomized BMTCTN 1703 trial that directly compared TAC/MTX to TAC/MMF/PTCy (see infra) (Holtan et al. 2022). Finally, in an open-label three-arm phase 2 randomized controlled trial, investigators at the DFCI compared conventional TAC/MTX (A) vs. BOR/TAC/MTX (B) and vs. BOR/SIR/TAC (C) in 138 URD RIC allo-HCT recipients. Grade II–IV acute GVHD rates were similar (A: 33%, B: 31%, C: 21%) as was the 2-year NRM. Overall, the BOR-based regimens did not seem to improve outcomes compared with TAC/MTX therapy (Koreth et al. 2018).
+
+- *Vorinostat*, a histone deacetylase inhibitor, has anti-inflammatory and immunoregulatory effects. Pavan Reddy’s group in Michigan provided compelling evidence from preclinical models that vorinostat reduced the risk of GVHD through suppressed proinflammatory cytokines, regulated APCs, and enhanced Treg functions. In two separate clinical trials (Choi et al. 2014, 2017), authors translated their findings in the clinical setting. In one trial where vorinostat was added to standard prophylaxis after RIC in HLA-identical siblings, acute GVHD grade II–IV rate was 22% and that of grades III–IV is 6%. In another trial after MAC in URD, the acute GVHD rates were similar.
+
+- *Tocilizumab*, a humanized anti-IL-6 receptor monoclonal antibody, added to CNI/MTX standard prophylaxis has been tested by two different groups (Kennedy et al. 2014; Drobyski et al. 2018). IL-6 levels are increased early during GVHD and are present in all target tissues. Blockade of the IL-6 signaling pathway has been shown to reduce the severity of GVHD and to prolong survival in experimental models. Investigators in Milwaukee and in Brisbane conducted two separate phase 2 trials using tocilizumab, and both found very low rates of grade II–IV acute GVHD (less than 15%). However, a phase 3 randomized double-blind trial using Tocilizumab showed nonsignificant reduced incidence of grade 2–4 aGVHD in recipients from HLA-matched VUDs and no improvements in long-term survival (Kennedy et al. 2021).
+
+- *Vedolizumab*, an anti-α4β7 monoclonal antibody that inhibits the migration of lymphocytes across the gut endothelium, was evaluated in a phase 1b trial for the prevention of gut GVHD in combination with the standard prophylaxis TAC/MTX and leads to very promising results regarding the incidence of acute gut GVHD (19% of patients in the 300 mg dose cohort) (Chen et al. 2019). More recently, a phase 3 randomized and placebo-controlled trial confirmed the benefits of adding vedolizumab to standard prophylaxis: The improvement of acute GI GVHD-free survival by 180 days following HCT was 85.5% (95% CI, 79.2–90.0%) vs 70.9% (95% CI, 61.6–77.2%) for those assigned to placebo (HR, 0.45; 95% CI, 0.27–0.73; *P* \< 0.001) (presented orally in the plenary session of the 2023 EBMT meeting).
+
+- *Abatacept*: A phase 2 trial assessed safety, efficacy, and immunologic effects of adding T-cell costimulation blockade with abatacept to CNI/MTX-based GVHD prophylaxis. The primary end point was day +100 grade 3–4 AGVHD, with day +180 severe-AGVHD-free survival (SGFS) a key secondary end point. Adding abatacept to URD HCT was safe, reduced AGVHD, and improved SGFS and was approved by the FDA. This promising drug warrants further evaluation in phase 3 randomized trial (Watkins et al. 2021).
+
+## 26.5 ATG
+
+Rabbit anti-thymoglobulin (ATG) and anti-T lymphoglobulin (ATLG) are polyclonal sera obtained immunizing rabbits against either human thymocytes or Jurkat cell line, respectively. The mechanism of action is only partially known and includes T- and B-cell depletion, inhibition of migration of inflammatory cells and dendritic cells, sparing Treg compartment. ATG and ATLG contain different antibody specificities, are produced from different pulsed antigens and different manufacturing processes, and no pharmacological comparison of the doses can be done, since no head-to-head comparison on the choice of the brand is left to center policy. Several randomized studies comparing weight-based dosed ATG/ATLG with standard CNI and antimetabolites strategy demonstrated the efficacy about GVHD prevention in both unrelated (Bacigalupo et al. 2001; Walker et al. 2016; Finke et al. 2017; Soiffer et al. 2017) and related transplants (Kröger et al. 2016; Chang et al. 2020; Cho et al. 2021) (Table 26.2), although no survival advantage was demonstrated (which may be due to offsetting GvHD-related mortality for infection or relapse related mortality), even with long-term follow-up (Bacigalupo et al. 2001; Walker et al. 2016; Finke et al. 2017; Bonifazi et al. 2019). GRFS and quality of life were significantly better in ATG/ATLG-treated patients (Bonifazi et al. 2019). There is no definitive agreement about the doses in all the transplant settings (Bonifazi et al. 2020). Recently, a population pharmacokinetic model showed that ATG exposure after transplant was highly variable, due to highly variable clearance. It was found that weight (\<40 kg) and ALC prior to dosing were the only predictors for clearance, suggesting that ALC-based dosing could improve outcomes. This was subsequently reinforced in a phase 2 prospective clinical trial (Admiraal et al. 2022), where a simple weight and ALC-based dosing nomogram was used. Improved outcome was mainly due to better immune reconstitution resulting in a fivefold lower non-relapse mortality in those with immune reconstitution (CD4+ \>50/μL at 2 consecutive time points \<100 days), while GvHD rates were similar. Also, in the RCT using ATLG by Soiffer et al. the post hoc analyses suggested that ALC prior to dosing impacts survival; those with low ALC (mainly TBI pt) and ATLG had lower survival probability, while those with higher ALC (mainly chemo pt) had better survival when they received ATLG (Soiffer et al. 2017). Although relapse is a major concern, the majority of the randomized studies failed to confirm these data. RCT however do not fully cover the area of conditions with higher risk of relapse (advanced phases and RIC) where the use and the doses of ATG/ATLG should be evaluated in the context of a risk/benefit evaluation. There is an overall tendency to use lower doses in the real-world experience and in clinical trials too. However, randomized controlled trials using individualized ATG (or ATLG) dosing may be the more individualized answer.
+
+**Table 26.2 Randomized trials using ATG for GVHD prophylaxis**
+
+<table style="width:100%;">
+<thead>
+<tr>
+<th> </th>
+<th><p>Walker</p></th>
+<th><p>Finke</p></th>
+<th><p>Soiffer</p></th>
+<th><p>Kroger</p></th>
+<th><p>Cho</p></th>
+<th><p>Chang</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Settings</p></td>
+<td><p>URD/MSD</p>
+<p>PBSC (prevalent)</p>
+<p>MAC/RIC</p></td>
+<td><p>URD 100%</p>
+<p>PBSC (prevalent)</p>
+<p>MAC</p></td>
+<td><p>URD</p>
+<p>PBSC (prevalent)</p>
+<p>MAC</p></td>
+<td><p>MSD</p>
+<p>PBSC</p>
+<p>MAC</p></td>
+<td><p>MSD</p>
+<p>PBSC</p>
+<p>MAC (prevalent)</p></td>
+<td><p>MSD</p>
+<p>PBSC (prevalent)</p>
+<p>MAC</p></td>
+</tr>
+<tr>
+<td><p>Doses of ATG</p></td>
+<td><p>T—4.5 mg/kg</p></td>
+<td><p>G—60 mg/kg</p></td>
+<td><p>G—60 mg/kg</p></td>
+<td><p>G—30 mg/kg</p></td>
+<td><p>T—2.5 mg/kg</p></td>
+<td><p>T—4.5 mg/kg</p></td>
+</tr>
+<tr>
+<td><p>Primary end point</p></td>
+<td><p>IS withdrawal at 12 months</p></td>
+<td><p>Treatment failure: aGvHD 3–4 and/or death &lt;100 days</p></td>
+<td><p>Mod-severe cGvHD free survival</p></td>
+<td><p>2 years cGVHD</p></td>
+<td><p>2 years cGVHD</p></td>
+<td><p>aGVHD 2–4</p></td>
+</tr>
+<tr>
+<td><p>Years of enrollment</p></td>
+<td><p>2010–2013</p></td>
+<td><p>2003–2007</p></td>
+<td><p>2011–2015</p></td>
+<td><p>205–2014</p></td>
+<td><p>2017–2019</p></td>
+<td><p>2013–2018</p></td>
+</tr>
+<tr>
+<td><p>aGvHD 3–4</p></td>
+<td><p>Lower for ATG</p></td>
+<td><p>Lower for ATG</p></td>
+<td><p>Lower for ATLG (2–4)</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Lower for ATG (2–4)</p></td>
+</tr>
+<tr>
+<td><p>cGvHD</p></td>
+<td><p>Lower for ATG</p></td>
+<td><p>Lower for ATG</p></td>
+<td><p>Lower for ATLG</p></td>
+<td><p>Lower for ATLG</p></td>
+<td><p>Lower for ATG</p></td>
+<td><p>Lower for ATG</p></td>
+</tr>
+<tr>
+<td><p>Extensive cGvHD</p></td>
+<td><p>Lower for ATLG</p></td>
+<td><p>Lower for ATLG</p></td>
+<td><p>Lower for ATLG</p></td>
+<td><p>Lower for ATLG</p></td>
+<td><p>Lower for ATG</p></td>
+<td><p>Lower for ATG</p></td>
+</tr>
+<tr>
+<td><p>NRM</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+</tr>
+<tr>
+<td><p>Relapse</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+</tr>
+<tr>
+<td><p>OS</p></td>
+<td><p>Higher for ATG (long-term)</p></td>
+<td><p>Not different</p></td>
+<td><p>Lower for ATLG</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+<td><p>Not different</p></td>
+</tr>
+</tbody>
+</table>
+
+## 26.6 Alemtuzumab
+
+Alemtuzumab is a humanized monoclonal antibody directed against the 21–28 kD cell surface glycoprotein, CD52. It is marketed for multiple sclerosis and for B-cell chronic lymphocytic leukemia (B-CLL). Alemtuzumab induces a rapid but long-lasting depletion of B- and T-cells in the peripheral blood and secondary lymphoid organs. Although no randomized study has been run to establish the efficacy of alemtuzumab as GVHD prevention, retrospective analyses and prospective non-controlled studies showed Alemtuzumab able to significantly reduce both acute and chronic GVHD both in nonmalignant and in malignant diseases, especially for transplant in SAA (Kanda et al. 2011; Locatelli et al. 2017; Marsh et al. 2019); however due to unpredictable, mostly too high, exposure, immune reconstitution is significantly delayed (compared to ATG) (Willemsen et al. 2015). Consequently, infections and relapse are important limitations using Alemtuzumab.
+
+## 26.7 Naïve T-Cell Depletion
+
+In a large phase 2 trial, 138 patients with acute leukemia received T_(N)-depleted PBSC from HLA-matched related or unrelated donors. GVHD prophylaxis was with TAC +/−MTX or MMF. Subjects received CD34-selected PBSC and a defined dose of memory T-cells depleted of T_(N). Depletion of T_(N) from PBSC allografts results in very low incidences of severe acute and any cGVHD, without apparent excess risks of relapse or nonrelapse mortality (Bleakley et al. 2022).
+
+## 26.8 PTCy
+
+Nowadays, the non-T-cell-depleted haploidentical transplant represents a feasible treatment option for patients lacking matched donor. The classical Baltimore’s PTCY prophylaxis includes CY 50 mg/kg on days +3 and +4 followed by CNI//MMF given from day +5 has led to increasing numbers of haploidentical transplant in the recent years. Another scheme used in some centers includes PTCY given on days +3 and +5 with early introduction of CsA on day −1 or 0 followed by MMF from day +1. According to a retrospective study, this last regimen was more frequently used with MAC and with BM as the source of stem cells and revealed a lower incidence of grade II–IV aGVHD; however, when both regimens mentioned above were compared, there were no differences in the cumulative incidence of cGVHD and extensive GVHD (Ruggeri et al. 2020).
+
+The CY does target and deplete proliferating alloreactive T-cell while preserving Tregs. The use of high doses of PTCY can be associated with hemorrhagic cystitis and cardiac injury that can lead to congestive heart failure.
+
+PTCY has been increasingly used in the setting of URD and MSD and was assumed to lead to decreased rates of GVHD, especially in cGVHD. Recently, these results were supported by two randomized phase 3 studies from the BMT CTN. In the first one (BMT CTN 1301), PTCY was administered as a single agent after a MAC regimen, using BM as a stem cell source. Similar rates of severe cGVHD and OS were observed after PTCy when compared to TAC + MTX. However, PTCY alone was associated with higher aGVHD, and a reduced relapse rate and RFS (Bolaños-Meade et al. 2019). The BMT CTN 1703 randomized phase 3 trial compared PTCY + MMF + TAC to TAC + MTX after in allogeneic HCT using PBSC and RIC conditioning regimen. The results showed a significant reduction in acute and chronic GVHD with PTCy + TAC + MMF without increased risk of relapse or death. There was no difference neither in the relapse/progression rate at 1 year or in the 1-year OS rate. These results are promising and may lead to the development of a new standard of care (Holtan et al. 2022).
+
+PTCY has also been associated with ATG as GVHD prophylaxis in the haploidentical transplantation setting. A retrospective study of patients with AML who underwent haploidentical transplantation and received PBSC and PTCY alone vs ATG + PTCY (associated with MMF + CsA in both groups) as GVHD prophylaxis showed a lower 2-year incidence of cGVHD of all grades in the ATG + PTCY group, with no statistical difference in the cumulative incidence of aGVHD nor extensive cGVHD (Battipaglia et al. 2022).
+
+Currently, there is no consensus on the best conditioning regimen and/or its intensity in the context of haploidentical HCT. Similarly, it is currently unknown if other combinations like sirolimus (SIR) + MMF can be substituted to CNI/MMF in addition to PT-CY in the haploidentical setting.
+
+## 26.9 Conclusion and Perspective
+
+Despite decades of experience with allo-HCT and several trials of prophylactic regimens, GVHD remains a common complication of allo-HCT. When acute GVHD develops, the main treatment is high-dose steroids. However, around one-third of the patients will be steroid-resistant/dependent. Steroid resistance remains associated with a dismal prognosis (30–40% 1-year survival). These data urge for developing new strategies to prevent GVHD. Fortunately, based on preclinical findings and improved knowledge of the immune biology of HCT, recent drug combination opens the gate for future improvements.
+
+### Key Points
+
+- Standard GVHD prophylaxis relies on CNI + short-term MTX after MAC and of CSA ± MMF after RIC.
+
+- ATG significantly reduce rate and severity of acute GVHD in most randomized clinical trials.
+
+- PTCy (+CNI/MMF) is currently the standard GVHD regimen after haploidentical HCT, although this regimen has never been formally tested in randomized trial. In non-haploidentical transplant, phase 3 randomized clinical trials demonstrated the superiority of this regimen (as compared to CNI/MTX) after RIC, while PTCy alone failed to demonstrate superiority after MAC.
+
+- Randomized clinical trials testing new prophylactic regimens are still deeply warranted since GVHD remains a common, and potentially life-threatening, complication after allo-HCT.
+
+## References
+
+- Admiraal R, Nierkens S, Bierings MB, Bredius RGM, van Vliet I, Jiang Y, et al. Individualised dosing of anti-thymocyte globulin in paediatric unrelated allogeneic haematopoietic stem-cell transplantation (PARACHUTE): a single-arm, phase 2 clinical trial. Lancet Haematol. 2022;9(2):e111–20.
+
+- Bacigalupo A, Lamparelli T, Bruzzi P, Guidi S, Alessandrino PE, di Bartolomeo P, et al. Antithymocyte globulin for graft-versus-host disease prophylaxis in transplants from unrelated donors: 2 randomized studies from Gruppo Italiano Trapianti Midollo Osseo (GITMO). Blood. 2001;98(10):2942–7.
+
+- Battipaglia G, Labopin M, Blaise D, Diez-Martin JL, Bazarbachi A, Vitek A, et al. Impact of the addition of antithymocyte globulin to post-transplantation cyclophosphamide in haploidentical transplantation with peripheral blood compared to post-transplantation cyclophosphamide alone in acute myelogenous leukemia: a retrospective study on behalf of the acute leukemia working Party of the European Society for Blood and Marrow Transplantation. Transplant Cell Ther. 2022;28(9):587.e1–7.
+
+- Bleakley M, Sehgal A, Seropian S, Biernacki MA, Krakow EF, Dahlberg A, et al. Naive T-cell depletion to prevent chronic graft-versus-host disease. J Clin Oncol. 2022;40(11):1174–85.
+
+- Bolaños-Meade J, Reshef R, Fraser R, Fei M, Abhyankar S, Al-Kadhimi Z, et al. Three prophylaxis regimens (tacrolimus, mycophenolate mofetil, and cyclophosphamide; tacrolimus, methotrexate, and bortezomib; or tacrolimus, methotrexate, and maraviroc) versus tacrolimus and methotrexate for prevention of graft-versus-host disease with haemopoietic cell transplantation with reduced-intensity conditioning: a randomised phase 2 trial with a non-randomised contemporaneous control group (BMT CTN 1203). Lancet Haematol. 2019;6(3):e132–43.
+
+- Bonifazi F, Solano C, Wolschke C, Sessa M, Patriarca F, Zallio F, et al. Acute GVHD prophylaxis plus ATLG after myeloablative allogeneic haemopoietic peripheral blood stem-cell transplantation from HLA-identical siblings in patients with acute myeloid leukaemia in remission: final results of quality of life and long-term outcome analysis of a phase 3 randomised study. Lancet Haematol. 2019;6(2):e89–99.
+
+- Bonifazi F, Rubio MT, Bacigalupo A, Boelens JJ, Finke J, Greinix H, et al. Rabbit ATG/ATLG in preventing graft-versus-host disease after allogeneic stem cell transplantation: consensus-based recommendations by an international expert panel. Bone Marrow Transplant. 2020;55(6):1093–102.
+
+- Chang YJ, Wu DP, Lai YR, Liu QF, Sun YQ, Hu J, et al. Antithymocyte globulin for matched sibling donor transplantation in patients with hematologic malignancies: a multicenter, open-label, randomized controlled study. J Clin Oncol. 2020;38(29):3367–76.
+
+- Chen YB, Shah NN, Renteria AS, Cutler C, Jansson J, Akbari M, et al. Vedolizumab for prevention of graft-versus-host disease after allogeneic hematopoietic stem cell transplantation. Blood Adv. 2019;3(23):4136–46.
+
+- Cho BS, Min GJ, Park SS, Yoon SY, Park S, Jeon YW, et al. Low-dose thymoglobulin for prevention of chronic graft-versus-host disease in transplantation from an HLA-matched sibling donor. Am J Hematol. 2021;96(11):1441–9.
+
+- Choi SW, Braun T, Chang L, Ferrara JLM, Pawarode A, Magenau JM, et al. Vorinostat plus tacrolimus and mycophenolate to prevent graft-versus-host disease after related-donor reduced-intensity conditioning allogeneic haemopoietic stem-cell transplantation: a phase 1/2 trial. Lancet Oncol. 2014;15(1):87–95.
+
+- Choi SW, Braun T, Henig I, Gatza E, Magenau J, Parkin B, et al. Vorinostat plus tacrolimus/methotrexate to prevent GVHD after myeloablative conditioning, unrelated donor HCT. Blood. 2017;130(15):1760–7.
+
+- Cutler C, Logan B, Nakamura R, Johnston L, Choi S, Porter D, et al. Tacrolimus/sirolimus vs tacrolimus/methotrexate as GVHD prophylaxis after matched, related donor allogeneic HCT. Blood. 2014;124(8):1372–7.
+
+- Drobyski WR, Szabo A, Zhu F, Keever-Taylor C, Hebert KM, Dunn R, et al. Tocilizumab, tacrolimus and methotrexate for the prevention of acute graft-versus-host disease: low incidence of lower gastrointestinal tract disease. Haematologica. 2018;103(4):717–27.
+
+- Finke J, Schmoor C, Bethge WA, Ottinger H, Stelljes M, Volin L, et al. Long-term outcomes after standard graft-versus-host disease prophylaxis with or without anti-human-T-lymphocyte immunoglobulin in haemopoietic cell transplantation from matched unrelated donors: final results of a randomised controlled trial. Lancet Haematol. 2017;4(6):e293–301.
+
+- Hamilton BK, Liu Y, Hemmer MT, Majhail N, Ringden O, Kim D, et al. Inferior outcomes with cyclosporine and mycophenolate mofetil after myeloablative allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2019;25(9):1744–55.
+
+- Hill GR, Betts BC, Tkachev V, Kean LS, Blazar BR. Current concepts and advances in graft-versus-host disease immunology. Annu Rev Immunol. 2021;39:19–49.
+
+- Holtan SG, Hamadani M, Wu J, AL Malki MM, Runaas L, Elmariah H, et al. Post-transplant cyclophosphamide, tacrolimus, and mycophenolate mofetil as the new standard for graft-versus-host disease (GVHD) prophylaxis in reduced intensity conditioning: results from phase III BMT CTN 1703. Blood. 2022;140(Supplement 2):LBA-4.
+
+- Kanda J, Lopez RD, Rizzieri DA. Alemtuzumab for the prevention and treatment of graft-versus-host disease. Int J Hematol. 2011;93(5):586–93.
+
+- Kennedy GA, Varelias A, Vuckovic S, Le Texier L, Gartlan KH, Zhang P, et al. Addition of interleukin-6 inhibition with tocilizumab to standard graft-versus-host disease prophylaxis after allogeneic stem-cell transplantation: a phase 1/2 trial. Lancet Oncol. 2014;15(13):1451–9.
+
+- Kennedy GA, Tey SK, Buizen L, Varelias A, Gartlan KH, Curley C, et al. A phase 3 double-blind study of the addition of tocilizumab vs placebo to cyclosporin/methotrexate GVHD prophylaxis. Blood. 2021;137(14):1970–9.
+
+- Koreth J, Stevenson KE, Kim HT, McDonough SM, Bindra B, Armand P, et al. Bortezomib-based graft-versus-host disease prophylaxis in HLA-mismatched unrelated donor transplantation. J Clin Oncol. 2012;30(26):3202–8.
+
+- Koreth J, Kim HT, Lange PB, Poryanda SJ, Reynolds CG, Rai SC, et al. Bortezomib-based immunosuppression after reduced-intensity conditioning hematopoietic stem cell transplantation: randomized phase II results. Haematologica. 2018;103(3):522–30.
+
+- Kornblit B, Storer BE, Andersen NS, Maris MB, Chauncey TR, Petersdorf EW, et al. Sirolimus with CSP and MMF as GVHD prophylaxis for allogeneic transplantation with HLA antigen-mismatched donors. Blood. 2020;136(13):1499–506.
+
+- Kröger N, Solano C, Wolschke C, Bandini G, Patriarca F, Pini M, et al. Antilymphocyte globulin for prevention of chronic graft-versus-host disease. N Engl J Med. 2016;374(1):43–53.
+
+- Locatelli F, Bernardo ME, Bertaina A, Rognoni C, Comoli P, Rovelli A, et al. Efficacy of two different doses of rabbit anti-T-lymphocyte globulin to prevent graft-versus-host disease in children with haematological malignancies transplanted from an unrelated donor: a multicentre, randomised, open-label, phase 3 trial. Lancet Oncol. 2017;18(8):1126–36.
+
+- Luznik L, Pasquini MC, Logan B, Soiffer RJ, Wu J, Devine SM, et al. Randomized phase III BMT CTN trial of calcineurin inhibitor-free chronic graft-versus-host disease interventions in myeloablative hematopoietic cell transplantation for hematologic malignancies. J Clin Oncol. 2022;40(4):356–68.
+
+- Marsh JCW, Risitano AM, Mufti GJ. The case for upfront HLA-matched unrelated donor hematopoietic stem cell transplantation as a curative option for adult acquired severe aplastic anemia. Biol Blood Marrow Transplant. 2019;25(9):e277–84.
+
+- Nash RA, Antin JH, Karanes C, Fay JW, Avalos BR, Yeager AM, et al. Phase 3 study comparing methotrexate and tacrolimus with methotrexate and cyclosporine for prophylaxis of acute graft-versus-host disease after marrow transplantation from unrelated donors. Blood. 2000;96(6):2062–8.
+
+- Pidala J, Kim J, Jim H, Kharfan-Dabaja MA, Nishihori T, Fernandez HF, et al. A randomized phase II study to evaluate tacrolimus in combination with sirolimus or methotrexate after allogeneic hematopoietic cell transplantation. Haematologica. 2012;97(12):1882–9.
+
+- Ratanatharathorn V, Nash RA, Przepiorka D, Devine SM, Klein JL, Weisdorf D, et al. Phase III study comparing methotrexate and tacrolimus (prograf, FK506) with methotrexate and cyclosporine for graft-versus-host disease prophylaxis after HLA-identical sibling bone marrow transplantation. Blood. 1998;92(7):2303–14.
+
+- Ruggeri A, Labopin M, Battipaglia G, Chiusolo P, Tischer J, Diez-Martin JL, et al. Timing of post-transplantation cyclophosphamide administration in haploidentical transplantation: a comparative study on behalf of the acute leukemia working Party of the European Society for Blood and Marrow Transplantation. Biol Blood Marrow Transplant. 2020;26(10):1915–22.
+
+- Sandmaier BM, Kornblit B, Storer BE, Olesen G, Maris MB, Langston AA, et al. Addition of sirolimus to standard cyclosporine plus mycophenolate mofetil-based graft-versus-host disease prophylaxis for patients after unrelated non-myeloablative haemopoietic stem cell transplantation: a multicentre, randomised, phase 3 trial. Lancet Haematol. 2019;6(8):e409–18.
+
+- Shouval R, Fein JA, Labopin M, Kröger N, Duarte RF, Bader P, et al. Outcomes of allogeneic haematopoietic stem cell transplantation from HLA-matched and alternative donors: a European Society for Blood and Marrow Transplantation registry retrospective analysis. Lancet Haematol. 2019;6(11):e573–84.
+
+- Soiffer RJ, Kim HT, McGuirk J, Horwitz ME, Johnston L, Patnaik MM, et al. Prospective, randomized, double-blind, phase III clinical trial of anti-T-lymphocyte globulin to assess impact on chronic graft-versus-host disease-free survival in patients undergoing HLA-matched unrelated myeloablative hematopoietic cell transplantation. J Clin Oncol. 2017;35(36):4003–11.
+
+- Storb R, Deeg HJ, Farewell V, Doney K, Appelbaum F, Beatty P, et al. Marrow transplantation for severe aplastic anemia: methotrexate alone compared with a combination of methotrexate and cyclosporine for prevention of acute graft-versus-host disease. Blood. 1986;68(1):119–25.
+
+- Walker I, Panzarella T, Couban S, Couture F, Devins G, Elemary M, et al. Pretreatment with anti-thymocyte globulin versus no anti-thymocyte globulin in patients with haematological malignancies undergoing haemopoietic cell transplantation from unrelated donors: a randomised, controlled, open-label, phase 3, multicentre trial. Lancet Oncol. 2016;17(2):164–73.
+
+- Watkins B, Qayed M, McCracken C, Bratrude B, Betz K, Suessmuth Y, et al. Phase II trial of costimulation blockade with abatacept for prevention of acute GVHD. J Clin Oncol. 2021;39(17):1865–77.
+
+- Willemsen L, Jol-van der Zijde CM, Admiraal R, Putter H, Jansen-Hoogendijk AM, Ostaijen-Ten Dam MM, et al. Impact of serotherapy on immune reconstitution and survival outcomes after stem cell transplantations in children: thymoglobulin versus alemtuzumab. Biol Blood Marrow Transplant. 2015;21(3):473–82.
+
+- Zeiser R, Blazar BR. Acute graft-versus-host disease. N Engl J Med. 2018;378(6):586.
+
+- Ziakas PD, Zervou FN, Zacharioudakis IM, Mylonakis E. Graft-versus-host disease prophylaxis after transplantation: a network meta-analysis. PLoS One. 2014;9(12):e114735.

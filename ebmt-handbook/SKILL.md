@@ -1,12 +1,13 @@
 ---
 name: ebmt-handbook
 description: >
-  EBMT Handbook 第8版（2024）造血細胞移植（HCT）與細胞治療臨床指引技能。
+  EBMT Handbook 第8版（2024）造血細胞移植（HCT）與細胞治療臨床指引技能，內含全書 94 章完整原文
+  （所有段落、表格、圖、公式、Key Points、參考文獻）與中文快速摘要。
   當使用者詢問任何移植病人相關問題時，必須立即啟用本技能，包含：
   移植前評估、捐贈者選擇、預處理方案、幹細胞來源、GVHD 預防與治療、
   感染處理（細菌/黴菌/病毒）、器官併發症（肝/腎/肺/神經）、移植後復發管理、
-  CAR-T 細胞治療、各疾病移植適應症（AML/ALL/MDS/淋巴瘤/骨髓瘤等）、
-  移植後長期追蹤、兒童移植、疫苗接種、心理照護。
+  CAR-T 細胞治療、各疾病移植適應症（AML/ALL/MDS/淋巴瘤/骨髓瘤/自體免疫/實體腫瘤等）、
+  移植後長期追蹤、兒童移植、疫苗接種、心理照護、JACIE 認證、登記處與統計方法。
   每次回答必須標明出處：「📖 來自 EBMT Handbook 第8版 第 N 章」。
   使用者問 HCT、移植、骨髓、幹細胞、GVHD、CAR-T、造血、移植病人 等關鍵字時，強制觸發本技能。
 ---
@@ -15,90 +16,180 @@ description: >
 
 **書籍**：The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies, 8th edition (2024)  
 **編輯**：Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E  
-**出版**：Springer; Open Access CC BY 4.0  
-**來源**：https://www.ncbi.nlm.nih.gov/books/NBK608238/
+**出版**：Springer, Cham; Open Access CC BY 4.0 — https://doi.org/10.1007/978-3-031-44080-9  
+**收錄**：全書 94 章 × 9 Parts 完整原文（逐字、含表格與圖），已逐章與官方 PDF 比對驗證
 
 ---
 
 ## ⚙️ 核心規則（每次回答必須遵守）
 
-1. **來源標示**：每段落標明 `📖 來自 EBMT Handbook 第8版 第 N 章`
-2. **來源區分**：
-   - `[書中驗證]`：內容來自已 fetch 的原書章節
-   - `[模型補充]`：來自 Claude 訓練知識，請交叉核對原文
-3. **知識截止警告**：回答藥物核准、新指引等議題時，加上：
+1. **先讀原文再回答**：依下方路由表找到章節，讀 `references/chapters/chNN-*.md` 的相關段落後才作答。
+   原文檔很長（每章 2k–9k 字），先用 grep 找到段落編號（如 `## 43.4`、`**Table 43.3`），再讀該段。
+2. **來源標示**：每段落標明 `📖 來自 EBMT Handbook 第8版 第 N 章`；引用表格/圖時寫出編號（如 Table 49.2、Fig. 24.1）。
+3. **來源分級**：
+   - 依 `chapters/` 原文作答 → 直接引用，可附原文英文關鍵句
+   - `summaries/` 是中文快速摘要，標 `[模型補充]` 的段落**未經原文驗證**，不可單獨作為依據
+   - 原書沒寫的內容 → 明說「EBMT Handbook 未涵蓋」，再以一般醫學知識補充並標註
+4. **知識截止警告**：回答藥物核准、新指引等議題時，加上：
    > 📅 本資訊以 EBMT Handbook 第8版（2024）為準，請確認是否有最新更新。
-4. **臨床第一**：先給出可操作建議，再補充原理
-5. **計算工具**：劑量/評分/CrCl 請執行 `scripts/hct_tools.py`，每次輸出自帶 safety disclaimer
-6. **死連結保護**：若 references/ 中無對應檔案，誠實告知「此章節尚未詳細收錄，請查閱原書」
-7. **不確定時**：明確說明不確定，建議查閱原書 URL：https://www.ncbi.nlm.nih.gov/books/NBK608238/
+5. **臨床第一**：先給出可操作建議，再補充原理。
+6. **計算工具**：劑量/評分/CrCl 請執行 `scripts/hct_tools.py`，每次輸出自帶 safety disclaimer。
 
 ---
 
-## 📚 快速章節路由表
+## 📂 檔案結構
 
-根據問題類型，先查閱對應章節，再深入 references/ 資料夾。
+```
+references/
+├── INDEX.md               # 全書目錄：9 Parts × 94 章 → 檔名、頁碼、表/圖數量
+├── chapters/chNN-*.md     # 第 NN 章完整原文（94 檔）
+├── figures/chNN-fig*.*    # 原書圖片（嵌入於章節原文中，可直接 view）
+└── summaries/partNN-*.md  # 各 Part 中文快速摘要（非權威）
+```
 
-### 🔍 問題 → 章節 對照
+**查找方式**
+```bash
+ls references/chapters/ch43-*                              # 依章號開檔
+grep -n "^#" references/chapters/ch49-*.md                 # 看章節段落架構
+grep -n "^\*\*Table" references/chapters/ch26-*.md         # 列出該章所有表格
+grep -ril "letermovir" references/chapters/                # 全書關鍵字搜尋（找跨章內容）
+grep -n -i "defibrotide" references/chapters/*.md | head   # 關鍵字 + 行號
+```
 
-| 問題類型 | 章節 | 深入參考 |
-|---------|------|---------|
-| 移植前評估 / 適應症判斷 | Ch.11 | references/part3-methodology.md |
-| 捐贈者選擇（成人/兒童）| Ch.12 | references/part3-methodology.md |
-| HLA 配對原則 | Ch.9 | references/part2-biological.md ✅ |
-| 預處理方案（MAC/RIC/NMA）| Ch.13 | references/part3-methodology.md |
-| 幹細胞來源選擇（BM/PB/CB）| Ch.14 | references/part3-methodology.md |
-| 骨髓採集 | Ch.15 | references/part3-methodology.md |
-| 幹細胞動員與採集 | Ch.16, 17 | references/part3-methodology.md |
-| 臍帶血 | Ch.18, 64 | references/part8-modalities.md |
-| Graft 處理/冷凍保存 | Ch.19, 20 | references/part3-methodology.md |
-| Chimerism 監測 | Ch.21 | references/part3-methodology.md |
-| 移植後追蹤 | Ch.22 | references/part3-methodology.md |
-| 血管通路（CVC）| Ch.23 | references/part4-management.md |
-| 輸血支持 | Ch.24 | references/part4-management.md |
-| 營養支持 | Ch.25 | references/part4-management.md |
-| **GVHD 預防** | **Ch.26** | references/part4-management.md |
-| 感染控制/隔離 | Ch.27, 28 | references/part4-management.md |
-| 疫苗接種 | Ch.29 | references/part4-management.md |
-| 心理照護 | Ch.30 | references/part4-management.md |
-| 藥物交互作用 | Ch.31 | references/part4-management.md |
-| 中性球低燒 | Ch.35 | references/part5-complications.md |
-| 細菌感染 | Ch.36 | references/part5-complications.md |
-| **黴菌感染** | **Ch.37** | references/part5-complications.md |
-| **病毒感染**（CMV/EBV/HHV6…）| **Ch.38** | references/part5-complications.md |
-| 其他感染（結核/弓漿蟲）| Ch.39 | references/part5-complications.md |
-| 出血/血栓 | Ch.40 | references/part5-complications.md |
-| Graft failure | Ch.41 | references/part5-complications.md |
-| SOS/VOD（肝竇阻塞症候群）| Ch.49 | references/part6-organ.md |
-| **急性 GVHD** | **Ch.43** | references/part5-complications.md |
-| **慢性 GVHD** | **Ch.44** | references/part5-complications.md |
-| PTLD | Ch.45 | references/part5-complications.md |
-| 鐵過載 | Ch.46 | references/part5-complications.md |
-| 次發性腫瘤 | Ch.47 | references/part5-complications.md |
-| 眼/口腔併發症 | Ch.48 | references/part6-organ.md |
-| 腸胃道併發症 | Ch.50 | references/part6-organ.md |
-| 出血性膀胱炎/腎功能 | Ch.51 | references/part6-organ.md |
-| 肺部非感染性併發症 | Ch.52 | references/part6-organ.md |
-| 神經系統併發症 | Ch.53 | references/part6-organ.md |
-| 皮膚/肌肉骨骼 | Ch.54 | references/part6-organ.md |
-| 心血管/代謝症候群 | Ch.55 | references/part6-organ.md |
-| 內分泌/生育/性功能 | Ch.56 | references/part6-organ.md |
-| MRD 監測 | Ch.57 | references/part7-relapse.md |
-| 復發藥物治療（TKI/HMA…）| Ch.58 | references/part7-relapse.md |
-| DLI（供者淋巴球輸注）| Ch.59 | references/part7-relapse.md |
-| CAR-T / 基因療法 | Ch.60 | references/part7-relapse.md |
-| Haploidentical HCT | Ch.65 | references/part8-modalities.md ✅ |
-| 老年移植 | Ch.68 | references/part8-modalities.md ✅ |
-| AML（成人）| Ch.70 | references/part9-indications.md |
-| AML（兒童）| Ch.71 | references/part9-indications.md |
-| ALL（成人）| Ch.72 | references/part9-indications.md |
-| ALL（兒童）| Ch.73 | references/part9-indications.md |
-| MDS | Ch.74, 75 | references/part9-indications.md |
-| 骨髓纖維化/CML | Ch.77 | references/part9-indications.md |
-| 再生不良性貧血/PNH | Ch.78 | references/part9-indications.md |
-| 血色素病變（SCD/Thal）| Ch.80 | references/part9-indications.md |
-| 多發性骨髓瘤 | Ch.81 | references/part9-indications.md |
-| 淋巴瘤（DLBCL/MCL/iNHL）| Ch.84-88 | references/part9-indications.md |
+---
+
+## 📚 章節路由表（全書 94 章，MECE）
+
+檔案一律為 `references/chapters/chNN-*.md`；摘要在 `references/summaries/`。
+
+### Part I — Introduction（Ch.1–6）→ `summaries/part01-introduction.md`
+| 主題 | Ch |
+|---|---|
+| HCT 歷史沿革 | 1 |
+| EBMT 組織：歷史、現況、未來 | 2 |
+| 捐贈者登記處（WMDA、registry）| 3 |
+| HCT 單位設施與人員要求 | 4 |
+| JACIE 認證 | 5 |
+| HCT 與細胞治療的統計方法（competing risk、GRFS…）| 6 |
+
+### Part II — Biological Aspects（Ch.7–10）→ `summaries/part02-biological.md`
+| 主題 | Ch |
+|---|---|
+| 造血幹細胞生物學 | 7 |
+| 非 HSC 細胞（MSC、Treg、NK…）生物學 | 8 |
+| **組織相容性 / HLA 配對** | 9 |
+| **免疫重建**（graft composition、免疫監測、CAR-T 監測）| 10 |
+
+### Part III — Methodology and Clinical Aspects（Ch.11–22）→ `summaries/part03-methodology.md`
+| 主題 | Ch |
+|---|---|
+| **移植前評估與諮詢**（HCT-CI、EBMT score）| 11 |
+| **捐贈者選擇**（成人/兒童）| 12 |
+| **預處理方案**（MAC/RIC/NMA）| 13 |
+| 幹細胞來源選擇（BM/PB/CB）| 14 |
+| 骨髓採集 | 15 |
+| 幹細胞動員與採集（成人）| 16 |
+| 幹細胞動員與採集（兒童）| 17 |
+| 臍帶血單位取得與管理 | 18 |
+| Graft manipulation（T-cell depletion 等）| 19 |
+| 處理、冷凍保存、品質管控 | 20 |
+| 植入與嵌合度（chimerism）| 21 |
+| 移植後短期與長期追蹤 | 22 |
+
+### Part IV — General Management of the Patient（Ch.23–34）→ `summaries/part04-general-management.md`
+| 主題 | Ch |
+|---|---|
+| 血管通路（CVC）| 23 |
+| **輸血支持**（照射、CMV-safe、ABO 不合）| 24 |
+| 營養支持 | 25 |
+| **GVHD 預防**（CSA/MTX、PTCy、ATG…）| 26 |
+| 感染控制與隔離 | 27 |
+| 兒童感染支持照護（含兒童抗黴菌劑量）| 28 |
+| **疫苗接種** | 29 |
+| 心理照護 | 30 |
+| **藥物交互作用** | 31 |
+| HCT 護理角色 | 32 |
+| 倫理議題 | 33 |
+| 生活品質評估（成人/兒童）| 34 |
+
+### Part V — HCT Complications and Management（Ch.35–47）→ `summaries/part05-complications.md`
+| 主題 | Ch |
+|---|---|
+| **中性球低下發燒** | 35 |
+| 細菌感染 | 36 |
+| **侵襲性黴菌感染** | 37 |
+| **病毒感染**（CMV/EBV/HHV-6 等疱疹病毒、呼吸道病毒、SARS-CoV-2、ADV、BK/JC、norovirus…；肝炎病毒見 Ch.49）| 38 |
+| 其他威脅生命感染（弓漿蟲、TB、NTM、Listeria、Nocardia；PJP 見 Ch.37）| 39 |
+| 出血與血栓併發症 | 40 |
+| Graft failure | 41 |
+| 內皮源性早期併發症（FOS、CLS、ES、pre-ES、TA-TMA、PRES）| 42 |
+| **急性 GVHD** | 43 |
+| **慢性 GVHD** | 44 |
+| PTLD | 45 |
+| 鐵過載 | 46 |
+| 次發性腫瘤 | 47 |
+
+### Part VI — Specific Organ Complications（Ch.48–56）→ `summaries/part06-organ-complications.md`
+| 主題 | Ch |
+|---|---|
+| 眼部與口腔（含口腔黏膜炎）| 48 |
+| **肝臟**（SOS/VOD、HBV/HCV、DILI）| 49 |
+| 腸胃道（噁心嘔吐、腹瀉、食道炎/胃炎、GI 出血、typhlitis、胰臟）| 50 |
+| 出血性膀胱炎與腎功能異常 | 51 |
+| 非感染性肺部併發症（IPS、DAH、BOS…）| 52 |
+| 神經系統併發症 | 53 |
+| 皮膚、毛髮、肌肉骨骼 | 54 |
+| 心血管疾病與代謝症候群 | 55 |
+| 內分泌、生育、性健康 | 56 |
+
+### Part VII — Prevention and Management of Relapse（Ch.57–62）→ `summaries/part07-relapse.md`
+| 主題 | Ch |
+|---|---|
+| MRD 監測（ALL、AML）| 57 |
+| 藥物預防與治療復發（維持治療）| 58 |
+| **DLI** | 59 |
+| **CAR-T / 基因改造 T 細胞**（療效、CRS、ICANS）| 60 |
+| 免疫抵抗機制 | 61 |
+| ATMP 與最小操作細胞的法規 | 62 |
+
+### Part VIII — Specific Modalities of HCT and Management（Ch.63–69）→ `summaries/part08-modalities.md`
+| 主題 | Ch |
+|---|---|
+| 居家移植 | 63 |
+| 臍帶血移植（UCBT）| 64 |
+| **Haploidentical HCT** | 65 |
+| 體外光照療法（ECP）| 66 |
+| 過重/肥胖病人 | 67 |
+| 老年病人 | 68 |
+| 資源受限環境 | 69 |
+
+### Part IX — Indications and Results（Ch.70–94）→ `summaries/part09-indications.md`
+| 主題 | Ch |
+|---|---|
+| AML 成人 / 兒童 | 70 / 71 |
+| ALL 成人 / 兒童與青少年 | 72 / 73 |
+| MDS 成人 / 兒童 MDS（RCC）與 JMML | 74 / 75 |
+| MDS/MPN（CMML 等）| 76 |
+| MPN（骨髓纖維化、CML）| 77 |
+| 後天骨髓衰竭（SAA、PNH）| 78 |
+| Fanconi 貧血與遺傳性骨髓衰竭 | 79 |
+| 血紅素病變（SCD、地中海貧血）| 80 |
+| 多發性骨髓瘤 | 81 |
+| AL 類澱粉沉積症 | 82 |
+| POEMS 與其他單株免疫球蛋白疾病 | 83 |
+| 惰性淋巴瘤 | 84 |
+| CLL | 85 |
+| 大 B 細胞淋巴瘤 | 86 |
+| 套細胞淋巴瘤 | 87 |
+| 其他侵襲性 B/T 淋巴瘤、HIV 相關淋巴瘤 | 88 |
+| 古典型何杰金氏淋巴瘤 | 89 |
+| 先天性免疫缺陷（IEI，含 SCID、HLH）| 90 |
+| 先天性代謝異常與骨質石化症 | 91 |
+| 自體免疫疾病（MS、SSc、Crohn…）| 92 |
+| 自體免疫疾病的 CAR-T、MSC、Treg 細胞治療 | 93 |
+| 實體腫瘤（神經母細胞瘤、生殖細胞瘤、腦瘤…）| 94 |
+
+> 原書**沒有**第 95 章。CAR-T 在血液腫瘤的適應症分散於 Ch.60 與各疾病章（72、81、84–87）。
 
 ---
 
@@ -107,28 +198,29 @@ description: >
 ```
 移植病人問題
 ├── 移植前？
-│   ├── 適應症評估 → Ch.11 + Ch.70-95（疾病別）
-│   ├── 捐贈者/來源 → Ch.12, 14, 64, 65
-│   └── 預處理選擇 → Ch.13
+│   ├── 適應症評估 → Ch.11 + Ch.70–94（疾病別）
+│   ├── 捐贈者/HLA/來源 → Ch.9, 12, 14, 64, 65
+│   ├── 採集/處理 → Ch.15–20
+│   └── 預處理選擇 → Ch.13（特殊族群 Ch.67, 68）
 │
 ├── 移植中（D-7 到 D+30）？
-│   ├── 感染/發燒 → Ch.35, 36, 37, 38
-│   ├── 器官毒性 → Ch.42（endothelial）, Ch.49（SOS/VOD）
+│   ├── 感染/發燒 → Ch.35, 36, 37, 38（兒童 Ch.28；感控 Ch.27）
+│   ├── 器官毒性 → Ch.42（endothelial）, Ch.49（SOS/VOD）, Ch.48/50（黏膜炎/GI）
 │   ├── GVHD 預防 → Ch.26
-│   └── 支持照護 → Ch.23-25, 31
+│   └── 支持照護 → Ch.23–25, 31
 │
 ├── 移植後早期（D+30 到 D+100）？
-│   ├── 急性 GVHD → Ch.43
-│   ├── 感染 → Ch.36-39
-│   ├── Graft failure → Ch.41
-│   └── Chimerism → Ch.21
+│   ├── 急性 GVHD → Ch.43（ECP Ch.66）
+│   ├── 感染 → Ch.36–39
+│   ├── Graft failure / chimerism → Ch.41, 21
+│   └── 出血/血栓 → Ch.40
 │
 └── 移植後晚期（D+100 之後）？
-    ├── 慢性 GVHD → Ch.44
-    ├── 感染/疫苗 → Ch.29, 38
-    ├── 器官長期併發症 → Ch.48-56
-    ├── MRD/復發 → Ch.57-61
-    └── 次發腫瘤/生活品質 → Ch.47, 34
+    ├── 慢性 GVHD → Ch.44（ECP Ch.66）
+    ├── 追蹤排程 / 疫苗 → Ch.22, 29
+    ├── 器官長期併發症 → Ch.48–56
+    ├── MRD/復發/DLI/CAR-T → Ch.57–61
+    └── 次發腫瘤/PTLD/生活品質/心理 → Ch.47, 45, 34, 30
 ```
 
 ---
@@ -142,15 +234,16 @@ description: >
 | BSA（體表面積）計算 | `calc_bsa(weight, height)` |
 | CrCl / eGFR 計算 | `calc_crcl(age, weight, creatinine, sex)` |
 | Sorror HCT-CI 評分 | `hct_ci_score(comorbidities_dict)` |
-| GVHD 分期 | `grade_gvhd(skin_pct, bilirubin, stool_vol)` |
-| 藥物劑量試算 | `drug_dose(drug, weight, bsa, renal)` |
+| GVHD 分期 | `grade_acute_gvhd(...)` |
+| 幹細胞採集目標量 | `stem_cell_target(weight, transplant_type)` |
+| 藥物劑量試算 | `drug_dose(drug, weight, bsa)` |
 | Checklist 輸出（JSON）| `print_checklist(phase)` |
 
-執行方式：`python3 /home/claude/ebmt-handbook/scripts/hct_tools.py`
+執行方式：`python3 scripts/hct_tools.py`（相對於本技能資料夾）
 
 ---
 
-## 📋 常用 Checklist（直接輸出）
+## 📋 常用 Checklist（快速輸出；細節以原文為準）
 
 ### 移植前評估 Checklist（Ch.11）
 ```json
@@ -167,7 +260,7 @@ description: >
 }
 ```
 
-### 中性球低燒處理 Checklist（Ch.35）
+### 中性球低下發燒處理 Checklist（Ch.35）
 ```json
 {
   "phase": "febrile neutropenia",
@@ -185,22 +278,5 @@ description: >
 
 ---
 
-## 📖 深入閱讀指引
-
-當需要完整的臨床指引內容，請 `view` 對應 references 檔案：
-
-```
-view /home/claude/ebmt-handbook/references/part2-biological.md   # HLA、免疫重建（Ch.7-10）✅新增
-view /home/claude/ebmt-handbook/references/part3-methodology.md   # 移植方法論（Ch.11-22）
-view /home/claude/ebmt-handbook/references/part4-management.md   # 一般處置、疫苗（Ch.22-34）
-view /home/claude/ebmt-handbook/references/part5-complications.md # GVHD、感染、鐵過載（Ch.35-47）✅擴充
-view /home/claude/ebmt-handbook/references/part6-organ.md         # 器官併發症（Ch.48-56）✅擴充
-view /home/claude/ebmt-handbook/references/part7-relapse.md       # 復發/CAR-T（Ch.57-65）
-view /home/claude/ebmt-handbook/references/part8-modalities.md    # 特殊移植模式（Ch.63-69）✅新增
-view /home/claude/ebmt-handbook/references/part9-indications.md   # 各疾病+兒童適應症（Ch.70-95）✅擴充
-```
-
----
-
 > ⚠️ 本技能提供臨床參考，不取代個別病人的醫療決策。
-> 所有建議均引用自 EBMT Handbook 第8版（2024），請依據最新機構指引調整。
+> 內容引用自 EBMT Handbook 第8版（2024，CC BY 4.0），請依據最新機構指引調整。
