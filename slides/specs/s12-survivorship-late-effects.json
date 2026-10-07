@@ -367,7 +367,7 @@
         3.6,
         8.2
       ],
-      "fontSize": 16,
+      "fontSize": 15,
       "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
       "caption": "Ch. 29 names PCV13 [verify: PCV15/PCV20 use in the current Taiwan schedule]",
       "captionY": 6.0,
@@ -831,40 +831,40 @@
         [
           "Metabolic syndrome",
           "3 of 5: waist*, TG ≥ 1.7, low HDL,\nBP ≥ 130/85, glucose ≥ 5.6",
-          "31–49% after HCT; CV events\n26.7% with vs 9% without"
+          "31–49% after HCT; CV events\n26.7% vs 9% without MetS"
         ],
         [
           "Diabetes",
-          "Prednisone > 0.25 mg/kg/day:\nRR 3.6; TBI 3.42× risk",
-          "Screen every 3 years if\n≥ 45 y or BP > 135/80"
+          "Prednisone > 0.25 mg/kg/day: RR 3.6; TBI 3.42×",
+          "Every 3 y if ≥ 45 or BP > 135/80"
         ],
         [
           "Hypothyroidism",
-          "About 1 in 4 after allo-HCT;\nsingle-dose TBI 5–6× risk",
-          "Yearly TSH, FT4\nand palpation"
+          "~1 in 4 after allo-HCT; single-dose TBI 5–6× risk",
+          "Yearly TSH, FT4, palpation"
         ],
         [
           "Hypoadrenalism",
-          "Supraphysiological steroids\n≥ 1 month, any route",
-          "Paired morning cortisol\nand ACTH"
+          "Supraphysiological steroids ≥ 1 month, any route",
+          "Morning cortisol + ACTH"
         ],
         [
           "Ovarian failure",
           "Oocyte LD50 < 2 Gy; ESD 18.4 Gy\nat age 10, 6 Gy over 40",
-          "Fertility counselling\nbefore conditioning"
+          "Counsel before conditioning"
         ],
         [
           "Testicular damage",
           "Leydig spared; azoospermia after\nMAC TBI, ~50% after Bu",
-          "Monitor testosterone;\nsperm cryopreservation"
+          "Testosterone; sperm banking"
         ]
       ],
       "caption": "*Waist cut-off is population-specific [verify: Taiwan cut-off]",
-      "captionY": 6.0,
+      "captionY": 5.9,
       "colW": [
-        2.8,
-        4.8,
-        4.2
+        2.5,
+        5.5,
+        3.8
       ],
       "fontSize": 15,
       "cite": "Galvan ER, et al. EBMT Handbook 8th ed. 2024; Ch. 55 · Salooja N, et al. EBMT Handbook 8th ed. 2024; Ch. 56",

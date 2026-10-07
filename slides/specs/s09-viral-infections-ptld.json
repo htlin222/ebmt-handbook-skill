@@ -64,7 +64,7 @@
       "steps": [
         "Serology: patient and donor",
         "CMV− donor for CMV− patient",
-        "Letermovir 3 months if CMV+",
+        "Letermovir 3 months if CMV+",
         "Weekly qPCR ≥ 3 months",
         "Preemptive therapy on DNAemia"
       ],
@@ -614,7 +614,7 @@
         {
           "label": "DNAemia, no disease",
           "box": "Preemptive therapy",
-          "out": "Rituximab weekly (1–2 doses) + RIS"
+          "out": "Rituximab weekly,\n1–2 doses, + RIS"
         },
         {
           "label": "Probable/proven PTLD",

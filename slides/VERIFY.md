@@ -11,6 +11,9 @@ Each item below is bracketed `[verify: …]` on the slide and listed in that sli
 | 11 | Organ complications | IPS steroid line | Ch. 52 prints "Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible" with the drug missing (presumably etanercept); check the printed chapter |
 | 18 | Myeloma and lymphoma | Myeloma CAR-T labels | Current EMA/FDA/TFDA labels for ide-cel and cilta-cel by number of prior lines; Ch. 81 says "> 3 previous lines" but also reports KarMMa-3 and CARTITUDE-4 in earlier lines |
 | 18 | Myeloma and lymphoma (backup) | BEAM melphalan unit | Ch. 86 and 89 print melphalan "140 mg/kg/day"; almost certainly mg/m² |
+| 13 | Relapse (backup) | Gilteritinib / midostaurin maintenance | Table 58.1 says gilteritinib "No benefit" and midostaurin "May be beneficial"; the Ch. 58 text says gilteritinib is still under investigation and midostaurin (Maziarz 2018) showed no survival benefit. Main slide follows the text |
+| 17 | Marrow failure (backup) | Voxelotor, crizanlizumab status | Table 80.1 lists both as approved; crizanlizumab's phase III failed in 2023 per the book; check current status |
+| 17 | Marrow failure (backup) | CRISPR-Cas9 BCL11A editing, gene addition for TDT | Ch. 80 gives trial data only; check approval and Taiwan availability |
 | 14 | CAR-T | CRS/ICANS grading standard | Ch. 60 shows only the Penn, CTCAE and Lee 2014 scales; check whether to name ASTCT consensus grading (Lee 2019) as current |
 | 14 | CAR-T | Steroids for ICANS | First-line corticosteroids for ICANS are not stated in Ch. 60 |
 | 16 | MDS/MPN | MTSS age point value | Table 77.1 lists "Age ≥ 57 years" without points; check Gagelmann 2019 |
