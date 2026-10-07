@@ -1,0 +1,20 @@
+[
+ {"id": "s01", "slug": "hla-donor-source", "week": 1, "title": "HLA, donor selection and stem cell source", "core": [9, 12, 14], "support": []},
+ {"id": "s02", "slug": "evaluation-conditioning", "week": 2, "title": "Pre-transplant evaluation and conditioning", "core": [11, 13], "support": [67, 68]},
+ {"id": "s03", "slug": "haplo-cord-blood", "week": 3, "title": "Alternative donors: haploidentical and cord blood HCT", "core": [65, 64], "support": [18]},
+ {"id": "s04", "slug": "collection-engraftment-transfusion", "week": 4, "title": "Mobilisation, engraftment, chimerism, graft failure and transfusion", "core": [16, 21, 41, 24], "support": [15, 20]},
+ {"id": "s05", "slug": "gvhd-prophylaxis", "week": 5, "title": "GVHD prophylaxis and graft manipulation", "core": [26], "support": [19]},
+ {"id": "s06", "slug": "acute-gvhd", "week": 6, "title": "Acute GVHD", "core": [43], "support": []},
+ {"id": "s07", "slug": "chronic-gvhd-ecp", "week": 7, "title": "Chronic GVHD and extracorporeal photopheresis", "core": [44, 66], "support": []},
+ {"id": "s08", "slug": "neutropenic-fever-bacterial-fungal", "week": 8, "title": "Neutropenic fever, bacterial and invasive fungal infections", "core": [35, 36, 37], "support": []},
+ {"id": "s09", "slug": "viral-infections-ptld", "week": 9, "title": "Viral and other life-threatening infections, PTLD", "core": [38, 45], "support": [39]},
+ {"id": "s10", "slug": "sos-vod-endothelial", "week": 10, "title": "SOS/VOD and early endothelial complications", "core": [49, 42], "support": []},
+ {"id": "s11", "slug": "organ-complications", "week": 11, "title": "Bleeding and thrombosis, haemorrhagic cystitis and kidney, lung, nervous system", "core": [40, 51, 52, 53], "support": []},
+ {"id": "s12", "slug": "survivorship-late-effects", "week": 12, "title": "Long-term follow-up, vaccination and late effects", "core": [22, 29, 46, 47], "support": [55, 56]},
+ {"id": "s13", "slug": "relapse-mrd-dli", "week": 13, "title": "Relapse: MRD, maintenance and donor lymphocyte infusion", "core": [57, 58, 59], "support": []},
+ {"id": "s14", "slug": "car-t", "week": 14, "title": "CAR-T and engineered T cells", "core": [60], "support": [61]},
+ {"id": "s15", "slug": "aml-all", "week": 15, "title": "HCT for AML and ALL", "core": [70, 72], "support": [71, 73]},
+ {"id": "s16", "slug": "mds-mpn", "week": 16, "title": "HCT for MDS, MDS/MPN and MPN", "core": [74, 76, 77], "support": [75]},
+ {"id": "s17", "slug": "marrow-failure-hemoglobinopathies", "week": 17, "title": "HCT for aplastic anaemia, Fanconi anaemia and haemoglobinopathies", "core": [78, 79, 80], "support": []},
+ {"id": "s18", "slug": "myeloma-lymphoma", "week": 18, "title": "HCT for myeloma and lymphoma", "core": [81, 86, 89, 84, 87], "support": [82, 83, 85, 88]}
+]
