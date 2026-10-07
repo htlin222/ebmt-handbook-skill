@@ -1,0 +1,1185 @@
+{
+  "id": "s02",
+  "slug": "evaluation-conditioning",
+  "week": 2,
+  "title": "Pre-transplant evaluation and conditioning",
+  "subtitle": "Week 2 · Ch. 11, 13 (with Ch. 67, 68)",
+  "cite": "Barba P, Rambaldi A. EBMT Handbook 8th ed. 2024; Ch. 11 · Shimoni A, et al. EBMT Handbook 8th ed. 2024; Ch. 13",
+  "refsPerSlide": 6,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "大家好，第二週的主題是移植前評估和 conditioning，對應 EBMT Handbook 第 11 章和第 13 章，另外帶到第 67 章肥胖病人和第 68 章老年病人。誰適合移植、風險有多高、conditioning 要用多強，這些問題在病人住進移植病房之前就要回答完。這三十分鐘會把常考的 score 和 regimen 走過一遍，最後一樣是三題 board-style 題目。"
+    ]
+  },
+  "references": [
+    "1. Barba P, Rambaldi A. Evaluation and counseling of candidates. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 99–110. doi:10.1007/978-3-031-44080-9_11",
+    "2. Shimoni A, Radici V, Nagler A. Conditioning. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 125–134. doi:10.1007/978-3-031-44080-9_13",
+    "3. Langebrake C. Overweight and obese patients. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 595–600. doi:10.1007/978-3-031-44080-9_67",
+    "4. Duarte RF, Sánchez-Ortega I. HCT in elderly patients. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 601–606. doi:10.1007/978-3-031-44080-9_68",
+    "5. Armand P, Gibson CJ, Cutler C, et al. A disease risk index for patients undergoing allogeneic stem cell transplantation. Blood. 2012;120:905–13.",
+    "6. Gratwohl A, Stern M, Brand R, et al. Risk score for outcome after allogeneic hematopoietic stem cell transplantation: a retrospective analysis. Cancer. 2009;115:4715–26.",
+    "7. Sorror ML, Maris MB, Storb R, et al. Hematopoietic cell transplantation (HCT)-specific comorbidity index: a new tool for risk assessment before allogeneic HCT. Blood. 2005;106:2912–9.",
+    "8. Sorror ML, Storb RF, Sandmaier BM, et al. Comorbidity-age index: a clinical measure of biologic age before allogeneic hematopoietic cell transplantation. J Clin Oncol. 2014;32:3249–56.",
+    "9. Barba P, Piñana JL, Martino R, et al. Comparison of two pretransplant predictive models and a flexible HCT-CI using different cut off points to determine low-, intermediate-, and high-risk groups: the flexible HCT-CI is the best predictor of NRM and OS in a population of patients undergoing Allo-RIC. Biol Blood Marrow Transplant. 2010;16:413–20.",
+    "10. Hogan WJ, Maris M, Storer B, et al. Hepatic injury after nonmyeloablative conditioning followed by allogeneic hematopoietic cell transplantation: a study of 193 patients. Blood. 2004;103:78–84.",
+    "11. Bacigalupo A, Ballen K, Rizzo D, et al. Defining the intensity of conditioning regimens: working definitions. Biol Blood Marrow Transplant. 2009;15:1628–33.",
+    "12. Spyridonidis A, Labopin M, Savani BN, et al. Redefining and measuring transplant conditioning intensity in current era: a study in acute myeloid leukemia patients. Bone Marrow Transplant. 2020;55:1114–25.",
+    "13. Thomas ED, Clift RA, Hersman J, et al. Marrow transplantation for acute nonlymphoblastic leukemic in first remission using fractionated or single-dose irradiation. Int J Radiat Oncol Biol Phys. 1982;8:817–21.",
+    "14. Spyridonidis A, Labopin M, Savani B, et al. Reduced 8-gray compared to standard 12-gray Total body irradiation for allogeneic transplantation in first remission acute lymphoblastic leukemia: a study of the acute leukemia working party of the EBMT. Hemasphere. 2023;7:e812.",
+    "15. Peters C, Dalle JH, Locatelli F, et al. Total body irradiation or chemotherapy conditioning in childhood ALL: a multinational, randomized, noninferiority phase III study. J Clin Oncol. 2021;39:295–307.",
+    "16. Rambaldi A, Grassi A, Masciulli A, et al. Busulfan plus cyclophosphamide versus busulfan plus fludarabine as a preparative regimen for allogeneic haemopoietic stem-cell transplantation in patients with acute myeloid leukaemia: an open-label, multicentre, randomised, phase 3 trial. Lancet Oncol. 2015;16:1525–36.",
+    "17. Lee JH, Joo YD, Kim H, et al. Randomized trial of myeloablative conditioning regimens: busulfan plus cyclophosphamide versus busulfan plus fludarabine. J Clin Oncol. 2013;31:701–9.",
+    "18. Bornhäuser M, Kienast J, Trenschel R, et al. Reduced-intensity conditioning versus standard conditioning before allogeneic haemopoietic cell transplantation in patients with acute myeloid leukaemia in first complete remission: a prospective, open-label randomised phase 3 trial. Lancet Oncol. 2012;13:1035–44.",
+    "19. Scott BL, Pasquini MC, Logan BR, et al. Myeloablative versus reduced-intensity hematopoietic cell transplantation for acute myeloid leukemia and myelodysplastic syndromes. J Clin Oncol. 2017;35:1154–61.",
+    "20. Kröger N, Iacobelli S, Franke GN, et al. Dose-reduced versus standard conditioning followed by allogeneic stem-cell transplantation for patients with myelodysplastic syndrome: a prospective randomized phase III study of the EBMT (RICMAC trial). J Clin Oncol. 2017;35:2157–64.",
+    "21. Blaise D, Tabrizi R, Boher JM, et al. Randomized study of 2 reduced-intensity conditioning strategies for human leukocyte antigen-matched, related allogeneic peripheral blood stem cell transplantation: prospective clinical and socioeconomic evaluation. Cancer. 2013;119:602–11.",
+    "22. Beelen DW, Trenschel R, Stelljes M, et al. Treosulfan or busulfan plus fludarabine as conditioning treatment before allogeneic haemopoietic stem cell transplantation for older patients with acute myeloid leukaemia or myelodysplastic syndrome (MC-FludT.14/L): a randomised, non-inferiority, phase 3 trial. Lancet Haematol. 2020;7:e28–39.",
+    "23. Craddock C, Jackson A, Loke J, et al. Augmented reduced-intensity regimen does not improve postallogeneic transplant outcomes in acute myeloid leukemia. J Clin Oncol. 2021;39:768–78.",
+    "24. Palmer J, McCune JS, Perales MA, Marks D, Bubalo J, Mohty M, Wingard J, Paci A, Hassan M, Bredeson C, Pidales J, Shah N, Shaughnessy P, Majhail N, Schriber J, Savani BN, Carpenter PA. Personalizing Busulfan-based conditioning: considerations from the American Society for Blood and Marrow Transplantation Practice Guidelines Committee. Biol Blood Marrow Transplant. 2016;22:1915.",
+    "25. Bachanova V, Rogosheske J, Shanley R, Burns LJ, Smith SM, Weisdorf DJ, Brunstein CG. Adjusting cyclophosphamide dose in obese patients with lymphoma is safe and yields favorable outcomes after autologous hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22(3):571–4.",
+    "26. Basak GW, Sánchez-Ortega I, Beohou E, et al. Allogeneic hematopoietic cell transplantation in elderly patients aged 65 and older: a retrospective analysis by the complications and quality of life working party of the EBMT. Blood. 2016;128:681.",
+    "27. Sánchez-Ortega I, Basak G, Beohou E, et al. Performance status drives the impact of age on the outcomes of autologous hematopoietic cell transplantation in elderly patients aged 65 and older: a retrospective analysis by the complications and quality of life working party of the EBMT. Blood. 2016;128:678.",
+    "28. Bonanad S, De la Rubia J, Gironella M, et al. Development and psychometric validation of a brief comprehensive health status assessment scale in older patients with hematological malignancies: the GAH scale. J Geriatr Oncol. 2015;6:353–61."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Evaluation and conditioning · Outline",
+      "title": "Four parts, from work-up to the conditioning choice",
+      "rows": [
+        [
+          "Work-up and individual risk factors",
+          "Tests within 30 days, the variables every model shares",
+          "3 min"
+        ],
+        [
+          "Risk scores and what they change",
+          "DRI, EBMT risk score, HCT-CI, contraindications",
+          "7.5 min"
+        ],
+        [
+          "Conditioning intensity and regimens",
+          "MAC/RTC/RIC/NMA, doses, TBI, busulfan, trials, haplo",
+          "8.5 min"
+        ],
+        [
+          "Obese and elderly candidates; 3 MCQs",
+          "Which weight for dosing; performance status over age",
+          "8 min"
+        ]
+      ],
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "今天分四段。第一段是移植前的 work-up 和個別 risk factor，大約三分鐘。第二段是三個最常用的 risk score，DRI、EBMT risk score 和 HCT-CI，要知道每個 score 由哪些變數組成、預測什麼，以及分數高的時候臨床上怎麼改變做法。",
+          "第三段進到 conditioning，從 MAC、RTC、RIC、NMA 的定義，到 TBI 和 busulfan 的演變，再看幾個 randomized trial。最後一段是肥胖和老年病人，接著三題練習題。三題練習題分別對應 EBMT score、conditioning 強度和肥胖病人的劑量計算。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Work-up and risk factors",
+      "eyebrow": "Evaluation · Pre-transplant work-up",
+      "title": "Pre-transplant tests must fall within 30 days of HCT",
+      "head": [
+        "Domain",
+        "Tests",
+        "Window"
+      ],
+      "rows": [
+        [
+          "Blood",
+          "CBC, coagulation, chemistry with ferritin, ABO/Rh, Igs",
+          "≤ 30 days"
+        ],
+        [
+          "Serology",
+          "CMV, EBV, HSV, VZV, toxo, syphilis; HBsAg, HBcAb, HBsAb",
+          "≤ 30 days"
+        ],
+        [
+          "Molecular",
+          "NAT for HBV, HCV, HIV; HTLV-I/II, Chagas by origin",
+          "≤ 30 days"
+        ],
+        [
+          "Heart and lung",
+          "CXR, PFT (FEV1, DLCO), ECG, echo or isotope scan",
+          "≤ 30 days"
+        ],
+        [
+          "Other",
+          "Dental, gynae, psych, nutrition review; HLA recheck",
+          "≤ 30 days"
+        ],
+        [
+          "Disease status",
+          "Baseline disease status and MRD re-evaluation",
+          "7–15 days"
+        ],
+        [
+          "Pregnancy",
+          "Pregnancy test",
+          "≤ 7 days"
+        ]
+      ],
+      "colW": [
+        2.3,
+        7.2,
+        1.8
+      ],
+      "fontSize": 16,
+      "caption": "Pregnancy is the only absolute contraindication to HCT (§11.1.5)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張整理 11.1.3 節的移植前檢查。原則是所有檢查都要在移植前 30 天內完成，例外有兩個，疾病狀態的評估要在 7 到 15 天內，pregnancy test 要在 7 天內。這兩項的窗口比較短，因為疾病狀態和懷孕都可能在幾週內改變。",
+          "血液檢查除了 CBC、凝血和生化，書上特別寫了 ferritin，因為 iron overload 本身就是 risk factor。血清學包括 CMV、EBV、HSV、VZV、toxoplasma 和 syphilis，B 肝要同時驗 HBsAg、HBcAb 和 HBsAb，再加上 HBV、HCV、HIV 的 NAT。HTLV-I/II 和 Chagas 則看病人來自哪裡再決定。",
+          "心肺功能包括胸部 X 光、含 FEV1 和 DLCO 的肺功能、心電圖，以及心臟超音波或 isotopic ventriculography。這些數字等一下會直接代入 HCT-CI 和禁忌症的切點。另外還有 MRD 再評估，牙科、婦科、心理和營養評估，以及 HLA 再確認。",
+          "病房裡最容易漏的是 pregnancy test 的 7 天窗口，因為懷孕是唯一的 absolute contraindication。另外 first visit 就要安排牙科、婦科和放射腫瘤科的會診，要做 TBI 的病人，住院前最後一次門診要確認 dosimetry 已經完成。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Evaluation · Individual risk factors",
+      "title": "The same risk factors recur in every predictive model",
+      "head": [
+        "Variable",
+        "High-risk feature"
+      ],
+      "rows": [
+        [
+          "Age",
+          "Older; never use as a single criterion"
+        ],
+        [
+          "General condition",
+          "Karnofsky index < 80%"
+        ],
+        [
+          "Disease",
+          "Not in remission"
+        ],
+        [
+          "Donor type and HLA",
+          "Not an HLA-identical sibling; any A, B, C or DRB1 mismatch"
+        ],
+        [
+          "CMV serology",
+          "Recipient serology differs from the donor's"
+        ],
+        [
+          "Donor age and sex",
+          "Donor > 35–40 years; female donor for a male recipient"
+        ],
+        [
+          "Diagnosis-to-HCT interval",
+          "Prolonged (relevant in CML and SAA)"
+        ],
+        [
+          "Other",
+          "HCT-CI comorbidities; iron overload; non-JACIE/FACT centre"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8
+      ],
+      "fontSize": 17,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是書上列出、在所有預測模型裡都有預後價值的個別變數。年紀大是 risk factor，但書上特別寫，不能把年紀當作單一標準，它的重要性是相對的。一般狀況用 Karnofsky index，低於 80% 算高風險。疾病沒有緩解、donor 不是 HLA-identical sibling、HLA-A、B、C、DRB1 任何一個不合，都會增加風險。",
+          "Donor 相關的還有三項。CMV serology 和 donor 不同，donor 年紀超過 35 到 40 歲，以及 female donor 給 male recipient，尤其是生過多胎的女性 donor。Diagnosis 到移植的間隔太長也是 risk factor，書上說在 CML 和 SAA 特別有意義。",
+          "最後一列是 comorbidity，用 HCT-CI 評估，另外還有 iron overload，以及移植中心沒有 JACIE 或 FACT 認證。這些變數單獨看都不足以預測結果，所以才要把它們組合成 score，下一段就從 DRI 開始。",
+          "這張表和 EBMT score 有很多重疊，donor 類型、female-to-male 和診斷到移植的間隔，都會在 EBMT score 再出現一次。選 donor 時，donor 年紀和 CMV serology 配對常被忽略，其實它們都列在這張表裡。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Risk scores",
+      "eyebrow": "Risk scores · Disease Risk Index",
+      "title": "The DRI sorts patients by disease and stage, not by fitness",
+      "head": [
+        "DRI",
+        "Disease / combination",
+        "Stage / 4-year OS"
+      ],
+      "rows": [
+        [
+          "Low",
+          "AML favourable cyt., CLL, CML, indolent B-NHL",
+          "CR1, CR ≥ 2, PR1, untreated,\nCML CP, PR ≥ 2 if RIC"
+        ],
+        [
+          "Intermediate",
+          "AML/MDS int. cyt., MPN, MM, HL, DLBCL, MCL, nodal T-NHL",
+          "—"
+        ],
+        [
+          "High",
+          "AML/MDS adverse cyt., extranodal T-NHL",
+          "PR ≥ 2 if MAC, induction failure,\nactive relapse, CML AP/BP"
+        ],
+        [
+          "Overall low",
+          "Low disease + low stage",
+          "64%"
+        ],
+        [
+          "Overall intermediate",
+          "Low + high, or intermediate + low",
+          "46%"
+        ],
+        [
+          "Overall high",
+          "Intermediate + high, or high + low",
+          "26%"
+        ],
+        [
+          "Overall very high",
+          "High disease + high stage",
+          "6%"
+        ]
+      ],
+      "colW": [
+        2.6,
+        5.4,
+        3.6
+      ],
+      "fontSize": 15,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Disease Risk Index 是 Armand 在 2012 年發表、2014 年修訂的。它只看疾病種類和移植時的 stage，完全不考慮年紀和 comorbidity，所以和後面的 HCT-CI 剛好互補。它預測 OS、PFS、relapse 和 NRM。",
+          "Disease risk 分三級。Low 是 favorable cytogenetics 的 AML、CLL、CML 和 indolent B-cell NHL。Intermediate 包括 intermediate cytogenetics 的 AML 和 MDS、MPN、myeloma、Hodgkin、DLBCL、mantle cell 和 nodal T-cell lymphoma。High 是 adverse cytogenetics 的 AML 和 MDS，以及 extranodal T-cell lymphoma。",
+          "Stage risk 只分兩級。CR1、CR2 以上、PR1、未治療、CML chronic phase 都算 low。容易考的是 PR2 以上，用 RIC 算 low，用 MAC 卻算 high。Induction failure、active relapse 和 CML 的 accelerated 或 blast phase 都是 high。",
+          "兩者組合成 overall DRI。Low 加 low 是 low，四年 OS 64%；low 加 high 或 intermediate 加 low 是 intermediate，46%；intermediate 加 high 或 high 加 low 是 high，26%；high 加 high 是 very high，只有 6%。從 64% 掉到 6%，差距非常大，DRI 因此也常被拿來校正中心之間的病人組成。",
+          "用一個例子算一次。Adverse cytogenetics 的 AML 屬於 high disease risk，如果在 CR1 移植，stage 是 low，組合起來是 high DRI，四年 OS 約 26%。同一個病人如果 induction failure 才移植，就變成 very high，只剩 6%。題目常給一個病人，要你先分 disease、再分 stage，最後查表。另外 myeloma 和 Hodgkin 都在 intermediate，不是 low，這個細節也常被拿來設計選項。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Risk scores · EBMT risk score",
+      "title": "The EBMT risk score adds five pre-transplant variables",
+      "head": [
+        "Variable",
+        "0 points",
+        "1 point",
+        "2 points"
+      ],
+      "rows": [
+        [
+          "Age",
+          "< 20 years",
+          "20–40 years",
+          "> 40 years"
+        ],
+        [
+          "Disease status (not SAA)",
+          "Early",
+          "Intermediate",
+          "Advanced"
+        ],
+        [
+          "Diagnosis-to-HCT interval",
+          "< 12 months",
+          "≥ 12 months",
+          "—"
+        ],
+        [
+          "Donor",
+          "HLA-identical sibling",
+          "Unrelated donor",
+          "—"
+        ],
+        [
+          "Donor–recipient sex",
+          "Other combinations",
+          "Female → male",
+          "—"
+        ]
+      ],
+      "colW": [
+        3.6,
+        2.8,
+        2.6,
+        2.2
+      ],
+      "fontSize": 18,
+      "caption": "Interval not scored in CR1. AML, 5-year OS: 68% at 0 points, 18% at 6–7; TRM 14% vs 41% (Gratwohl 2009)",
+      "captionY": 4.75,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "EBMT risk score 最早由 Gratwohl 在 1998 年用 CML 病人建立，2009 年擴大到主要疾病，驗證人數 56,505 人。它預測五年 OS 和 TRM，五個變數加起來是 0 到 7 分。",
+          "年紀小於 20 歲 0 分，20 到 40 歲 1 分，超過 40 歲 2 分。Disease status 分 early、intermediate、advanced，給 0 到 2 分，這一項不適用於 SAA。Early 是 acute leukemia CR1、MDS 在 CR1 或未治療、CML first chronic phase、NHL 和 myeloma 未治療或 CR1。Acute leukemia CR2 算 intermediate。其他疾病的分法也要知道。MDS 在 CR2 或 PR 算 intermediate；CML 只要不是 first chronic phase、也不在 accelerated 或 blast phase，就算 intermediate，blast crisis 是 advanced。NHL 和 myeloma 在 CR2、PR 或 stable disease 是 intermediate，其他狀態都算 advanced。",
+          "Diagnosis 到移植的間隔 12 個月以上加 1 分，但 CR1 的病人不計這一項，這是最常見的計分陷阱。Unrelated donor 加 1 分，female donor 給 male recipient 再加 1 分。和 DRI 不同，EBMT score 把年紀、donor 和性別配對都放進來。同樣是 AML CR1，一位 40 歲以上、接受 unrelated female donor 的男性，分數就會比年輕、有 sibling donor 的病人高好幾分。",
+          "以 AML 為例，0 分的五年 OS 是 68%，6 到 7 分只剩 18%，TRM 從 14% 升到 41%。這個 score 在 second HCT 和 T-cell depleted HCT 也有預測力，和 HCT-CI 合併使用可以提高區辨力。第一題就是 EBMT score 的計算。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Risk scores · HCT-CI",
+      "title": "HCT-CI weights 17 comorbidities from 1 to 3 points",
+      "head": [
+        "Points",
+        "Comorbidity (definition)"
+      ],
+      "rows": [
+        [
+          "1",
+          "Arrhythmia; CAD, CHF, MI or LVEF ≤ 50%; treated diabetes"
+        ],
+        [
+          "1",
+          "IBD, CVA/TIA, treated psychiatric disease, BMI > 35 kg/m²"
+        ],
+        [
+          "1",
+          "Mild liver; infection treated beyond day 0"
+        ],
+        [
+          "2",
+          "Moderate lung: DLCO/FEV1 66–80% or dyspnoea on effort"
+        ],
+        [
+          "2",
+          "Rheumatologic; peptic ulcer; renal (creatinine > 176 µmol/L)"
+        ],
+        [
+          "3",
+          "Prior malignancy (not non-melanoma skin); valve disease"
+        ],
+        [
+          "3",
+          "Severe pulmonary; severe liver disease or cirrhosis"
+        ],
+        [
+          "+1",
+          "Age ≥ 40 years (comorbidity-age index, Sorror 2014)"
+        ]
+      ],
+      "colW": [
+        1.2,
+        10.4
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "HCT-CI 是 Sorror 在 2005 年從 Charlson Comorbidity Index 改良而來，看 17 種 comorbidity，依嚴重度給 1 到 3 分。",
+          "1 分的項目最多，包括 arrhythmia、cardiac 問題，例如 coronary disease、心衰竭、心肌梗塞或 EF 50% 以下，需要用藥的 diabetes、IBD、cerebrovascular disease、持續治療中的精神疾病、BMI 超過 35、輕度肝病，以及移植前的感染需要治療到 day 0 之後。",
+          "2 分是 moderate lung，DLCO 或 FEV1 在 66 到 80%，或輕微活動就喘，還有 rheumatologic disease、peptic ulcer，以及 creatinine 超過 176 µmol/L、透析或做過腎移植。3 分是先前的 malignancy，不含 non-melanoma skin cancer，再加上 heart valve disease、severe pulmonary 和 severe liver disease。",
+          "2014 年的版本加入年紀，40 歲以上加 1 分。總分 0 是 low risk，1 到 2 是 intermediate，3 分以上是 high，和兩年 NRM 明顯相關。另一個 flexible HCT-CI 把切點改成 0 到 3、4 到 5、超過 5，在 RIC 病人的兩年 NRM 分別是 19%、33% 和 40%。",
+          "實際計分有幾個細節。Diabetes 指移植前四週內需要 insulin 或口服藥；精神疾病要是持續治療，不是需要時才吃藥；peptic ulcer 要有內視鏡或影像診斷，只有 reflux 或 gastritis 不算。最新版本把不同 lineage 的血液腫瘤也算進 prior malignancy，例如 AML 病人以前得過 lymphoma 要算，但 AML 之前的 MDS 不算。"
+        ],
+        "reminders": [
+          "Risk groups (0 / 1–2 / ≥ 3) and the flexible HCT-CI cutoffs are spoken only; they are in §11.1.4.2.3.",
+          "The chapter's Table 11.5 prints garbled thresholds for severe pulmonary and severe liver disease; no number is shown on the slide for those two."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Risk scores · From score to decision",
+      "title": "High NRM risk points to RIC; pregnancy is the only absolute bar",
+      "root": "Candidate assessed with scores and organ function",
+      "branches": [
+        {
+          "label": "High NRM risk",
+          "box": "Consider RIC",
+          "out": "On any of the risk scores"
+        },
+        {
+          "label": "Relative",
+          "box": "Uncontrolled infection or liver disease",
+          "out": "LVEF < 40%, DLCO < 40%, CrCl < 30 mL/min"
+        },
+        {
+          "label": "Cirrhosis",
+          "box": "Even if compensated",
+          "out": "Decompensation likely, even with RIC"
+        },
+        {
+          "label": "Absolute",
+          "box": "Pregnancy",
+          "out": "Pregnancy test ≤ 7 days before HCT"
+        }
+      ],
+      "invert": 3,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Risk assessment 最後要轉成決定，書上 11.1.5 節把實際應用分成三類。任何一個 score 顯示 NRM 風險高，就應該考慮 RIC，而不是直接放棄移植。",
+          "Relative contraindication 包括 uncontrolled infection、嚴重或慢性肝病，以及器官功能明顯不足，心臟 EF 小於 40%、DLCO 小於 40%、creatinine clearance 小於每分鐘 30 mL。這組 40、40、30 的切點很適合出題，可以和 HCT-CI 的 66 到 80% 對照著記。這組切點和 HCT-CI 是不同層次。HCT-CI 的 cardiac 是 EF 50% 以下給 1 分，肺功能 66 到 80% 給 2 分；當 EF 或 DLCO 掉到 40% 以下，就不只是加分，而是進入 relative contraindication。書上把 RIC 放在第一個選項，高風險本身不等於不能移植，而是要調整做法。",
+          "Cirrhosis 單獨拿出來講，因為即使是 compensated cirrhosis，接受 RIC 之後仍然很可能發生肝功能失代償，這是 Hogan 2004 的資料。",
+          "唯一的 absolute contraindication 是懷孕，這也呼應前面 pregnancy test 必須在移植前 7 天內完成。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Conditioning",
+      "eyebrow": "Conditioning · Intensity",
+      "title": "Intensity is defined by cytopenia and the need for stem cells",
+      "head": [
+        "Category",
+        "Cytopenia",
+        "Stem cell support",
+        "Typical candidate"
+      ],
+      "rows": [
+        [
+          "MAC",
+          "Irreversible in most; often > 21 days",
+          "Required",
+          "Fit, low comorbidity;\ntypically ≤ 55 years"
+        ],
+        [
+          "RTC",
+          "MAC dose, less toxicity\n(e.g. FLU replaces CY)",
+          "Required",
+          "Needs dose intensity,\nless fit"
+        ],
+        [
+          "RIC",
+          "Profound; may reverse\nafter a long time",
+          "Should be given",
+          "Elderly or medically infirm"
+        ],
+        [
+          "NMA",
+          "Minimal; mixed chimerism\nat first",
+          "Theoretically not needed",
+          "Elderly or medically infirm"
+        ]
+      ],
+      "colW": [
+        1.6,
+        3.8,
+        2.6,
+        3.6
+      ],
+      "fontSize": 17,
+      "caption": "Order of intensity: MAC > RTC > RIC > NMA (Bacigalupo 2009). The EBMT TCI score predicts NRM better (Spyridonidis 2020)",
+      "captionY": 5.2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Conditioning 包含 myelodepletion 和 lymphodepletion 兩個成分。Melphalan 和 busulfan 偏 myeloablative，fludarabine 和 cyclophosphamide 偏 lymphodepleting。強度分類採用 Bacigalupo 2009 的定義，依據是 cytopenia 會不會恢復，以及需不需要 stem cell support。",
+          "MAC 造成大多數病人不可逆的 cytopenia，常超過 21 天，一定要 stem cell support，毒性也讓它只適合年輕、身體好的病人，傳統上大約 55 歲以下。RIC 造成 profound cytopenia，沒有 stem cell 也可能在很長時間後恢復，但仍應給 stem cell。NMA 只有輕微 cytopenia，理論上不需要 stem cell，一開始常是 mixed chimerism。",
+          "RTC 是 MAC 的新版本，例如用 fludarabine 取代 cyclophosphamide，現在多半歸在 MAC。EBMT 後來提出 transplant conditioning intensity score，分 low、intermediate、high，預測 NRM 比舊的 RIC/MAC 分類更好。這個分類的背景是傳統 MAC 的器官毒性和 TRM 太高。過去二十年發展出的 NMA、RIC 和 RTC，目的不是把腫瘤殺光，而是提供足夠的 immunosuppression 讓 graft 長得起來，再靠 graft-versus-leukemia 控制疾病。強度越低，mixed chimerism 越常見，移植後追蹤 chimerism 時要記得這一點。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Conditioning · Regimens and doses",
+      "title": "Classic regimens carry doses worth knowing by heart",
+      "head": [
+        "Regimen",
+        "Components and dose",
+        "Category / use"
+      ],
+      "rows": [
+        [
+          "CY/TBI",
+          "CY 60 mg/kg/day × 2, then TBI 12 Gy",
+          "MAC"
+        ],
+        [
+          "BU/CY",
+          "Oral BU 4 mg/kg/day × 4 + CY 60 mg/kg/day × 2",
+          "MAC"
+        ],
+        [
+          "TBI alone",
+          "≥ 5 Gy single dose or ≥ 8 Gy fractionated",
+          "Counts as MAC"
+        ],
+        [
+          "FLU/BU2 · FLU/MEL",
+          "BU at half the myeloablative dose; FLU + MEL",
+          "RIC"
+        ],
+        [
+          "FLU/TREO",
+          "Treosulfan 36–42 g/m² (RTC) or 30 g/m² (RIC)",
+          "RTC or RIC"
+        ],
+        [
+          "Seattle",
+          "FLU + TBI 2 Gy",
+          "NMA"
+        ],
+        [
+          "TBF",
+          "Thiotepa, BU, FLU; RIC and MAC versions",
+          "Alternative donors"
+        ],
+        [
+          "BEAM · HD MEL",
+          "BCNU, VP16, Ara-C, MEL · high-dose melphalan",
+          "Auto: lymphoma · MM"
+        ]
+      ],
+      "colW": [
+        2.6,
+        6,
+        3
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張把常見 regimen 和劑量放在一起。傳統兩大 MAC 是 CY/TBI 和 BU/CY。CY/TBI 是 cyclophosphamide 每天 60 mg/kg 給兩天，接著 TBI 12 Gy；BU/CY 是口服 busulfan 每天 4 mg/kg 給四天，加上 cyclophosphamide 60 mg/kg 兩天。",
+          "TBI 算不算 MAC，切點是單次 5 Gy 以上，或分次總量 8 Gy 以上。RIC 最常用的是 FLU/BU2，busulfan 只用 myeloablative 劑量的一半，另一個是 FLU/MEL。Seattle 的 NMA 是 fludarabine 加 2 Gy TBI。",
+          "Treosulfan 的分類看劑量，FLU/TREO 總量 36 到 42 g/m² 算 RTC，30 g/m² 算 RIC，在 MDS 可能特別有優勢。TBF 有 RIC 和 MAC 兩種版本，在 alternative donor 很受歡迎。自體移植則是 lymphoma 用 BEAM，myeloma 用 high-dose melphalan。",
+          "FLAMSA 是另一種思路，先給 fludarabine、Ara-C 和 amsacrine 的 salvage 化療，幾天後接 RIC，原本設計給 refractory leukemia。這些新 regimen 很難塞進舊的 RIC/MAC 分類，這也是 EBMT 提出 TCI score 的原因。考題最常問 TBI 的 MAC 切點，以及 FLU/BU2 的 busulfan 只有 MAC 劑量的一半。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Conditioning · Total body irradiation",
+      "title": "TBI reaches sanctuary sites but carries lasting toxicity",
+      "head": [
+        "Aspect",
+        "Key point"
+      ],
+      "rows": [
+        [
+          "Rationale",
+          "Reaches CNS and testes; kills chemo-resistant clones; IS"
+        ],
+        [
+          "Standard dose",
+          "12 Gy in 6 fractions, twice daily over 3 days (Thomas 1982)"
+        ],
+        [
+          "Higher dose",
+          "14.25 Gy: better antileukaemic effect, more toxicity and TRM"
+        ],
+        [
+          "AML",
+          "BU/CY ≈ CY/TBI; FLU/TBI 8 Gy ≈ CY/TBI in CR1"
+        ],
+        [
+          "Adult ALL",
+          "Often first choice; 8 Gy suffices in CR1 (Spyridonidis 2023)"
+        ],
+        [
+          "Paediatric ALL",
+          "TBI/VP16: less relapse, better OS (Peters 2021)"
+        ],
+        [
+          "Acute toxicity",
+          "Nausea, stomatitis, parotitis, haemorrhagic cystitis, rash"
+        ],
+        [
+          "Late toxicity",
+          "Pneumonitis, SOS, cataract, infertility, growth delay, SMN"
+        ]
+      ],
+      "colW": [
+        2.6,
+        9
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "TBI 有三個作用。劑量分布均勻，可以到達 CNS 和睪丸這些化療不容易進去的 sanctuary；對化療抗藥的 clone 用不同機轉殺傷；同時提供 immunosuppression 幫助 engraftment。",
+          "標準劑量是 12 Gy，分六次，一天兩次，共三天。提高到 14.25 Gy 雖然抗白血病效果較好，但毒性和 TRM 也增加。AML 方面，BU/CY 和 CY/TBI 大致相當；fludarabine 加 8 Gy TBI 和標準 CY/TBI 的存活也相似。",
+          "ALL 不太一樣。成人 ALL 很多中心仍以 TBI 為首選，而 EBMT 登錄資料顯示 CR1 的成人 ALL 用 8 Gy 就夠，加到 12 Gy 沒有額外好處。兒童 ALL 的 Peters 2021 randomized trial 中，TBI 組 relapse 較少、OS 較好。",
+          "代價是急性和晚期毒性。晚期包括 interstitial pneumonitis、SOS、白內障、不孕、內分泌問題、生長遲緩和 secondary malignancy，對兒童的影響最大。新方向包括 helical tomotherapy、total marrow irradiation 和 TMLI，可以降低眼睛、甲狀腺、肝和肺的劑量。兒童 ALL 方面，MRD 監測加上 bispecific antibody 或 CAR-T，讓不含 TBI 的 conditioning 也開始有接近的結果。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Conditioning · Busulfan",
+      "title": "Busulfan moved from oral dosing to IV drug with fludarabine",
+      "steps": [
+        "Oral BU/CY: erratic absorption",
+        "High AUC → SOS; low → relapse",
+        "Plasma levels guide the dose",
+        "IV BU: less SOS/VOD and TRM",
+        "FLU replaces CY: less TRM"
+      ],
+      "invert": 3,
+      "caption": "Rambaldi 2015 (AML, age 40–65): FLU/BU4 had lower NRM than BU/CY, with similar relapse and OS.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Busulfan 的演變是一條很好的考題線。BU/CY 在 80 年代由 Johns Hopkins 發展，用來取代 TBI。早期用口服 busulfan，吸收不穩定，病人之間和同一病人內的變異都很大。AUC 太高容易 SOS/VOD，太低則 graft rejection 和 relapse 增加。",
+          "解法先是監測血中濃度調整劑量，後來改用 IV busulfan，藥物動力學可預測，明顯降低 SOS/VOD 和 TRM。再下一步是用 fludarabine 取代 cyclophosphamide，Rambaldi 2015 顯示 FLU/BU4 的 NRM 較低，relapse 和 OS 沒有差別。",
+          "Fludarabine 本身有很強的 immunosuppression，又會抑制 DNA repair，和 alkylator 有加乘作用，毒性卻相對溫和，所以現在不只取代 BU/CY 裡的 CY，也開始取代 TBI regimen 裡的 CY。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Conditioning · Randomized trials",
+      "title": "Randomized trials trade relapse against non-relapse mortality",
+      "head": [
+        "Comparison",
+        "Trial",
+        "Population",
+        "Result"
+      ],
+      "rows": [
+        [
+          "MAC vs RTC",
+          "Lee 2013",
+          "AML, 17–59 y",
+          "BuCy: less relapse, better OS"
+        ],
+        [
+          "MAC vs RTC",
+          "Rambaldi 2015",
+          "AML, 40–65 y",
+          "FluBu4: less NRM; relapse, OS similar"
+        ],
+        [
+          "MAC vs RTC",
+          "Bornhäuser 2012",
+          "AML, 18–60 y",
+          "Cy/TBI vs Flu/TBI 8 Gy: similar"
+        ],
+        [
+          "TBI vs chemo",
+          "Peters 2021",
+          "ALL, 4–21 y",
+          "TBI/VP16: less relapse, better OS"
+        ],
+        [
+          "MAC vs RIC",
+          "Scott 2017",
+          "AML/MDS, MAC-eligible",
+          "MAC: less relapse, better LFS; MRD+ gain"
+        ],
+        [
+          "MAC vs RIC",
+          "Kröger 2017",
+          "MDS, 18–60 y",
+          "Similar 2-year RFS and OS"
+        ],
+        [
+          "RIC vs RIC",
+          "Blaise 2013",
+          "MAC-ineligible",
+          "FLU/BU2 vs FLU/TBI 2 Gy: OS similar"
+        ],
+        [
+          "RIC vs RIC",
+          "Beelen 2020",
+          "AML/MDS, MAC-ineligible",
+          "FLU/TREO: lower NRM, better OS"
+        ]
+      ],
+      "colW": [
+        2.2,
+        2.6,
+        3,
+        4.6
+      ],
+      "fontSize": 15,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Table 13.1 整理了比較不同強度的 randomized trial。前三列是 MAC 對 RTC。Lee 2013 在 17 到 59 歲的 AML，BuCy 的 relapse 較低、OS 較好。Rambaldi 2015 在 40 到 65 歲的 AML，FluBu4 的 NRM 較低，relapse 和 OS 相似。Bornhäuser 2012 在 CR1 的 AML，CY/TBI 12 Gy 和 FLU/TBI 8 Gy 結果相似。",
+          "Peters 2021 是 4 到 21 歲的 ALL，TBI 合併 etoposide 對上不含 TBI 的化療組合，TBI 組 relapse 較少、OS 較好。",
+          "MAC 對 RIC 最重要的是 BMT CTN 的 Scott 2017，收 MAC-eligible 的 AML 和 MDS。RIC 的 TRM 較低，但 relapse 高很多，MAC 的 leukemia-free survival 較好，OS 有優勢趨勢，而優勢集中在移植時 MRD 陽性的病人。MDS 的 Kröger 2017 則顯示 RIC 和 MAC 的兩年 RFS 和 OS 沒有差別。",
+          "RIC 之間也不一樣。Blaise 2013 的 FLU/BU2 比 FLU 加低劑量 TBI relapse 少、TRM 多，存活相似。Beelen 2020 的 FLU/TREO 比 FLU/BU2 NRM 低、OS 較好。Craddock 2021 在 RIC 前加 FLAMSA，沒有改善存活。回顧性研究的大方向是強度越高 relapse 越少、TRM 越高，OS 常常打平。",
+          "回顧性比較有選擇偏差，身體好的病人才會被分到 MAC，所以要看 randomized trial。考試最常問 Scott 2017 的方向，RIC 是 relapse 增加、TRM 降低，MRD 陽性的病人從 MAC 得到最多好處。FLU/MEL 和 FLU/BU 的回顧比較中，FLU/MEL 的 relapse 較低，但 NRM 較高，主要來自 GVHD。"
+        ],
+        "reminders": [
+          "Scott 2017: the chapter text and Table 13.1 differ slightly (text: better LFS and an OS trend with MAC; table: better OS). The slide follows the text."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Conditioning · Alternative donors",
+      "title": "Haplo-HCT runs on two non-T-cell-depleted platforms",
+      "root": "Haploidentical or cord blood donor",
+      "branches": [
+        {
+          "label": "Baltimore",
+          "box": "PTCY + tacrolimus + MMF",
+          "out": "FLU/CY/low-dose TBI, BM; now TBF, PBSC"
+        },
+        {
+          "label": "Chinese",
+          "box": "ATG-based",
+          "out": "Intensive conditioning; G-CSF BM + PBSC"
+        },
+        {
+          "label": "Cord blood",
+          "box": "MAC: TBI- or TBF-based",
+          "out": "RIC: FLU + CY + low-dose TBI"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Alternative donor 過去 engraftment 失敗和 TRM 都高，haplo 現在大幅增加，關鍵是從 extensive T-cell depletion 轉成 non-T-cell-depleted。Baltimore approach 用 PTCY 清除 alloreactive T cell、增強 Treg，原始版本是 fludarabine、低劑量 CY 加低劑量 TBI，移植後 PTCY 加 tacrolimus 和 MMF，用 bone marrow，現在也有 TBF 和 PBSC 的版本。",
+          "Chinese approach 用 ATG，搭配強力 conditioning 和 G-CSF 動員的 BM 加 PBSC。Cord blood 在成人越用越少，MAC 用 TBI 或 TBF，RIC 常用 FLU、CY 加低劑量 TBI。",
+          "PTCY 的原始 NMA 版本讓年長和身體較差的病人也能做 haplo，這是 haplo 快速增加的原因之一，而 Chinese approach 主要用在中國的年輕病人。考題常問 PTCY 的機轉，它清除 alloreactive T cell，同時增強 Treg。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Special populations",
+      "eyebrow": "Special populations · Obesity",
+      "title": "Busulfan and cyclophosphamide are dosed on adjusted body weight",
+      "head": [
+        "Drug or topic",
+        "Weight for dosing",
+        "Basis"
+      ],
+      "rows": [
+        [
+          "Definition (WHO)",
+          "Overweight BMI 25–29.9; obese ≥ 30 kg/m²",
+          "—"
+        ],
+        [
+          "AIBW",
+          "IBW + 25–40% of (TBW − IBW)",
+          "—"
+        ],
+        [
+          "Busulfan",
+          "AIBW; TDM in children and MAC",
+          "PK and clinical (Palmer 2016)"
+        ],
+        [
+          "High-dose CY",
+          "AIBW",
+          "PK and clinical (Bachanova 2016)"
+        ],
+        [
+          "Melphalan, auto MM",
+          "AIBW-based BSA",
+          "Non-inferior 3-year EFS"
+        ],
+        [
+          "BEAM, auto lymphoma",
+          "No weight-based adjustment",
+          "Tolerability and outcome"
+        ],
+        [
+          "ATG",
+          "TBW per ASBMT; IBW more logical",
+          "Vd ≈ blood volume"
+        ],
+        [
+          "Non-HCT chemo",
+          "Full dose on actual weight (ASCO)",
+          "Excludes high-dose regimens"
+        ]
+      ],
+      "colW": [
+        3,
+        4.8,
+        3.8
+      ],
+      "fontSize": 16,
+      "cite": "Langebrake C. EBMT Handbook 8th ed. 2024; Ch. 67",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "肥胖的定義用 WHO 的 BMI，25 到 29.9 是 overweight，30 以上是 obese。HCT-CI 的 obesity 切點則是 BMI 超過 35，兩個數字不要混在一起。",
+          "劑量計算常用 adjusted ideal body weight，AIBW 等於 IBW 加上 TBW 和 IBW 差值的 25 到 40%。Busulfan 有藥動學和臨床證據支持用 AIBW，兒童和 MAC 建議做 therapeutic drug monitoring。高劑量 cyclophosphamide 同樣支持用 AIBW。Myeloma 自體移植用 AIBW 算 BSA 給 melphalan，三年 EFS 不劣於非肥胖病人；lymphoma 的 BEAM 則不需要依體重調整。評估腎功能也有陷阱。Cockcroft–Gault 用 TBW 會高估 eGFR，用 IBW 會低估，所以建議用 AIBW。病房裡最常碰到的是 vancomycin，起始劑量用 TBW，之後靠 TDM 調整。",
+          "ATG 的 ASBMT 建議用 TBW，但 ATG 的分布體積接近血液容積，從藥動學看用 IBW 比較合理。ASCO 用實際體重給足劑量的建議不適用於 high-dose regimen。大約 80% 移植中心會調整劑量，但方法不一。肥胖病人做 allo-HCT 的 NRM 較高、存活較差，auto-HCT 則差不多。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Special populations · Elderly",
+      "title": "Performance status, not age, drives outcome in older patients",
+      "head": [
+        "EBMT, age ≥ 65 (2000–2014)",
+        "All ≥ 65",
+        "65–69 y",
+        "≥ 70 y"
+      ],
+      "rows": [
+        [
+          "Auto-HCT, n",
+          "21,390",
+          "17,531",
+          "3859"
+        ],
+        [
+          "Auto: NRM / OS at 1 year",
+          "4.9% / 87%",
+          "4.6% / 88%",
+          "5.9% / 83%"
+        ],
+        [
+          "Auto: OS at 3 years",
+          "67%",
+          "69%",
+          "61%"
+        ],
+        [
+          "Allo-HCT, n",
+          "6046",
+          "4914",
+          "1132"
+        ],
+        [
+          "Allo: NRM / OS at 1 year",
+          "27% / 57%",
+          "26% / 57%",
+          "29% / 53%"
+        ],
+        [
+          "Allo: OS at 3 years",
+          "39%",
+          "40%",
+          "35%"
+        ]
+      ],
+      "colW": [
+        4.4,
+        2.4,
+        2.4,
+        2.4
+      ],
+      "fontSize": 17,
+      "caption": "Karnofsky outweighed age in multivariate analysis (Basak 2016; Sánchez-Ortega 2016)",
+      "captionY": 5.45,
+      "cite": "Duarte RF, Sánchez-Ortega I. EBMT Handbook 8th ed. 2024; Ch. 68",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "血液惡性疾病的診斷中位年齡超過 65 歲，如果用年紀一刀切，多數病人都不會被考慮移植。這張是 EBMT 在 2000 到 2014 年 65 歲以上病人的資料，auto 21,390 人，allo 6046 人。",
+          "Auto-HCT 一年 NRM 4.9%，三年 OS 67%；allo-HCT 一年 NRM 27%，三年 OS 39%。70 歲以上和 65 到 69 歲相比只差一點，allo 的三年 OS 是 35% 對 40%。多變項分析中，Karnofsky performance status 對結果的影響比年紀更大。年紀以外，老年病人的疾病本身常常比較差，例如 AML/MDS 的高風險 cytogenetics 比較多，移植前的治療也可能比較保守，這些都會增加 relapse。幾個大型 AML/MDS 系列也顯示，NRM 和 OS 受 KPS 低於 80 到 90% 影響，而不是受實際年齡影響。身體好的老年病人，移植適應症和年輕成人相同。",
+          "老年病人的評估重點是 Karnofsky 80 以上、HCT-CI、frailty 和 geriatric assessment。50 歲以上的移植候選人約 25% 有 frailty，比一般老年人口還高，而且和年紀無關。Allo-HCT 要特別考慮 RIC 或 NMA，選 donor 也要注意 donor 年紀。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: calculate the EBMT risk score",
+      "stem": "A 45-year-old man with AML in second complete remission is referred for allo-HCT 20 months after diagnosis. His only donor is a 10/10 HLA-matched unrelated woman. CMV serostatus of the donor is pending. Which statement about his EBMT risk score (Gratwohl 2009) is correct?",
+      "options": [
+        "4 points, because the interval is scored only in CR1",
+        "5 points, because age 45 scores 1 point",
+        "6 points; 5-year OS for AML at this score is about 18%",
+        "7 points, because CR2 counts as advanced disease",
+        "It cannot be calculated until donor CMV status is known"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: six points, with 5-year OS about 18% in AML",
+      "explanation": "Age > 40 = 2; AML in CR2 = intermediate, 1; diagnosis-to-HCT ≥ 12 months = 1 (not scored only in CR1); unrelated donor = 1; female donor to male recipient = 1. Total 6. For AML, 6–7 points give 5-year OS 18% and TRM 41%. CMV serostatus is not an EBMT score variable.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題算分數。45 歲男性，AML 第二次完全緩解，診斷後 20 個月轉介移植。唯一的 donor 是 10/10 matched unrelated 的女性，donor 的 CMV 結果還沒出來。用 EBMT risk score 計算，選出正確的敘述。",
+          "選項 A 是 4 分，理由是間隔只在 CR1 計分；B 是 5 分，理由是 45 歲算 1 分；C 是 6 分，AML 在這個分數的五年 OS 約 18%；D 是 7 分，把 CR2 當成 advanced；E 是 donor CMV 不明，所以無法計算。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C，6 分。年紀超過 40 歲 2 分，AML CR2 屬於 intermediate 1 分，診斷到移植超過 12 個月 1 分，unrelated donor 1 分，female donor 給 male recipient 1 分，總共 6 分。對照 Table 11.4，AML 6 到 7 分的五年 OS 約 18%，TRM 約 41%。",
+          "A 是主要陷阱。間隔這一項是 CR1 的病人不計，這位病人在 CR2，所以要算。B 把 45 歲算成 1 分，忘了 40 歲以上是 2 分。D 把 CR2 當成 advanced，其實 acute leukemia 的 CR2 是 intermediate。E 錯在 CMV 不是 EBMT score 的變數，它出現在 EBMT 的 machine learning algorithm 裡。",
+          "這題的 donor 是女性、病人是男性，這個組合在 EBMT score 和個別 risk factor 表都會出現，看到就要加分。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose the conditioning intensity",
+      "stem": "A 48-year-old woman with AML in first complete remission has detectable MRD by flow cytometry before transplant. Her Karnofsky index is 90% and HCT-CI is 0. An HLA-identical sister will donate. Which conditioning approach is best supported by the randomized evidence summarized in the EBMT Handbook?",
+      "options": [
+        "Fludarabine plus 2 Gy TBI, relying on graft-versus-leukaemia",
+        "Myeloablative conditioning, such as BU/CY or FLU/BU4",
+        "FLU/BU2, because RIC lowered relapse in the BMT CTN trial",
+        "FLAMSA followed by RIC, which improved survival over RIC alone",
+        "Defer HCT until MRD is negative; MAC is unsafe when MRD-positive"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: a fit MRD-positive patient benefits from MAC",
+      "explanation": "In the BMT CTN phase III trial of MAC-eligible AML/MDS (Scott 2017), RIC gave lower TRM but much higher relapse; MAC gave better LFS and an OS trend, with the advantage limited to MRD-positive patients. A truly NMA approach may be less effective in acute leukaemia. FLAMSA before RIC did not improve survival (Craddock 2021).",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。48 歲女性，AML 在 CR1，但移植前 flow cytometry 仍驗得到 MRD。Karnofsky 90%，HCT-CI 0 分，donor 是 HLA-identical 的姊妹。根據書上整理的 randomized evidence，哪一種 conditioning 最有支持？",
+          "選項 A 是 fludarabine 加 2 Gy TBI，靠 GVL 控制疾病；B 是 MAC，例如 BU/CY 或 FLU/BU4；C 是 FLU/BU2，理由是 RIC 在 BMT CTN trial 降低 relapse；D 是先 FLAMSA 再接 RIC；E 是等 MRD 轉陰再移植，理由是 MRD 陽性不適合 MAC。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。這位病人年輕、Karnofsky 90%、HCT-CI 0 分，屬於 MAC-eligible。BMT CTN 的 Scott 2017 正是收這類病人，RIC 的 TRM 較低，但 relapse 高很多，MAC 的 LFS 較好，而且優勢集中在移植時 MRD 陽性的病人。",
+          "C 是主要陷阱，它把 trial 的結果講反了，RIC 增加的是 relapse，不是減少。A 的 truly NMA 在 acute leukemia 可能效果較差。D 的 FLAMSA 在 Craddock 2021 沒有改善存活。E 沒有書上的根據，MRD 陽性反而是 MAC 最有優勢的族群。",
+          "反過來，如果同一個病人年紀大、HCT-CI 高，前面的 score 會把我們推向 RIC，這時就要接受 relapse 增加的代價。移植後還可以再加其他治療，書上把移植形容成一個 immunotherapy platform。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: choose the busulfan dosing weight",
+      "stem": "A 45-year-old man with AML in first complete remission weighs 125 kg (BMI 38 kg/m²). He will receive IV busulfan with fludarabine as myeloablative conditioning before HLA-identical sibling HCT. Which approach to busulfan dosing is best supported by the EBMT Handbook?",
+      "options": [
+        "Actual body weight, as ASCO advises for obese adults",
+        "Ideal body weight, with a fixed 25% dose reduction",
+        "Dose by absolute lymphocyte count",
+        "Adjusted ideal body weight, with therapeutic drug monitoring",
+        "Switch to RIC, because BMI > 35 contraindicates MAC"
+      ],
+      "answer": "D",
+      "answerTitle": "Answer D: adjusted ideal body weight with drug monitoring",
+      "explanation": "Pharmacokinetic and clinical studies support adjusted ideal body weight (IBW + 25–40% of TBW − IBW) for busulfan; TDM is recommended in children and MAC. ASCO's full actual-weight dosing excludes high-dose regimens. Lymphocyte-count dosing was proposed for ATG. BMI > 35 adds 1 HCT-CI point; it is not a contraindication.",
+      "cite": "Langebrake C. EBMT Handbook 8th ed. 2024; Ch. 67",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題回到肥胖病人。45 歲男性，AML 在 CR1，體重 125 公斤，BMI 38。準備用 IV busulfan 加 fludarabine 的 MAC，donor 是 HLA-identical sibling。Busulfan 的劑量要怎麼算？體重這麼重的病人，每一種藥該用哪一個體重來算，答案並不相同。",
+          "選項 A 是照 ASCO 建議用實際體重；B 是理想體重再固定減 25%；C 是依 absolute lymphocyte count 給藥；D 是 adjusted ideal body weight，加上 therapeutic drug monitoring；E 是因為 BMI 超過 35 改成 RIC。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 D。Busulfan 有藥動學和臨床研究支持用 AIBW，也就是 IBW 加上 TBW 和 IBW 差值的 25 到 40%，MAC 和兒童建議加做 therapeutic drug monitoring。",
+          "A 是主要陷阱。ASCO 建議肥胖病人用實際體重給足劑量，但這個建議明確排除 high-dose regimen，也不涵蓋移植的 conditioning。B 的固定減量沒有根據。C 是有人對 ATG 提出的給藥方式，因為 lymphocyte 才是 ATG 的目標。E 錯在 BMI 超過 35 只是 HCT-CI 的 1 分，不是 MAC 的禁忌症。",
+          "如果這位病人改用高劑量 cyclophosphamide，答案一樣是 AIBW；如果是 ATG，ASBMT 的建議反而是用 TBW。這兩個對比很適合出成選項。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Risk scores · Model performance",
+      "title": "No predictive model discriminates much better than another",
+      "head": [
+        "Study",
+        "Model",
+        "Predictive capacity"
+      ],
+      "rows": [
+        [
+          "Sorror 2005",
+          "HCT-CI",
+          "0.65"
+        ],
+        [
+          "Xhaard 2008",
+          "Reduced HCT-CI, PAM",
+          "0.49, 0.57"
+        ],
+        [
+          "Gratwohl 2009",
+          "EBMT",
+          "0.63"
+        ],
+        [
+          "Barba 2010",
+          "Flexible HCT-CI, PAM",
+          "0.67, 0.63"
+        ],
+        [
+          "Barba 2014",
+          "HCT-CI, EBMT",
+          "0.60, 0.54"
+        ],
+        [
+          "Versluis 2015",
+          "HCT-CI, EBMT (combined)",
+          "0.58, 0.58 (0.64)"
+        ]
+      ],
+      "colW": [
+        3,
+        5,
+        3.6
+      ],
+      "fontSize": 18,
+      "caption": "Also in Ch. 11: EBMT machine-learning algorithm (acute leukaemia) and MTSS for myelofibrosis",
+      "captionY": 5.5,
+      "cite": "Barba P, Rambaldi A. EBMT Handbook 8th ed. 2024; Ch. 11",
+      "notes": {
+        "script": [
+          "書上直接寫，這些模型的預測能力都有限，沒有一個特別突出，數值大約在 0.5 到 0.67 之間。HCT-CI 和 EBMT score 合併使用時區辨力略好。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Risk scores · EBMT score outcomes",
+      "title": "EBMT score points translate into 5-year OS and TRM",
+      "head": [
+        "Disease, outcome",
+        "0 points",
+        "2 points",
+        "4 points",
+        "6–7 points"
+      ],
+      "rows": [
+        [
+          "AML, OS",
+          "68%",
+          "52%",
+          "30%",
+          "18%"
+        ],
+        [
+          "AML, TRM",
+          "14%",
+          "25%",
+          "36%",
+          "41%"
+        ],
+        [
+          "ALL, OS",
+          "66%",
+          "43%",
+          "22%",
+          "14%"
+        ],
+        [
+          "ALL, TRM",
+          "15%",
+          "24%",
+          "40%",
+          "53%"
+        ],
+        [
+          "CML, OS",
+          "76%",
+          "60%",
+          "39%",
+          "14%"
+        ],
+        [
+          "MDS, OS",
+          "56%",
+          "46%",
+          "35%",
+          "25%"
+        ]
+      ],
+      "colW": [
+        3.2,
+        2.1,
+        2.1,
+        2.1,
+        2.1
+      ],
+      "fontSize": 18,
+      "caption": "Selected columns of Tables 11.3 and 11.4 (Gratwohl 2009)",
+      "captionY": 5.5,
+      "cite": "Barba P, Rambaldi A. EBMT Handbook 8th ed. 2024; Ch. 11",
+      "notes": {
+        "script": [
+          "這是 Table 11.3 和 11.4 的節錄。每多一分，五年 OS 大約往下掉一截，AML 從 0 分的 68% 到 6 到 7 分的 18%，ALL 的 TRM 在高分時超過 50%。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Conditioning · Autologous HCT",
+      "title": "Auto-HCT conditioning is built on BCNU or high-dose melphalan",
+      "head": [
+        "Disease",
+        "Regimen",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Lymphoma",
+          "BEAM: BCNU, VP16, Ara-C, MEL",
+          "Most popular"
+        ],
+        [
+          "Lymphoma",
+          "BEAC (CY for MEL); CBV",
+          "Other BCNU-based"
+        ],
+        [
+          "Lymphoma",
+          "TEAM, TECAM (thiotepa for BCNU); BeEAM",
+          "Thiotepa, BCNU, VP16 cross the BBB"
+        ],
+        [
+          "Multiple myeloma",
+          "High-dose MEL",
+          "± bortezomib or BU in some centres"
+        ],
+        [
+          "AML (auto)",
+          "BU/CY or BU/MEL",
+          "Use has declined"
+        ]
+      ],
+      "colW": [
+        2.6,
+        5,
+        4
+      ],
+      "fontSize": 17,
+      "caption": "Thiotepa-, BCNU- and etoposide-containing regimens suit lymphoma with CNS involvement",
+      "captionY": 4.9,
+      "cite": "Shimoni A, et al. EBMT Handbook 8th ed. 2024; Ch. 13",
+      "notes": {
+        "script": [
+          "自體移植主要用在 lymphoma 和 myeloma。Lymphoma 最常用 BEAM，CNS 侵犯時偏好含 thiotepa、BCNU 或 etoposide 的 regimen，因為它們能通過 blood–brain barrier。Myeloma 仍以 high-dose melphalan 為主。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "backup": true,
+      "eyebrow": "Special populations · Geriatric assessment",
+      "title": "Frailty and geriatric assessment add to comorbidity scores",
+      "blocks": [
+        {
+          "head": "Frailty",
+          "body": "About 25% of HCT candidates ≥ 50 years, independent of age; poorer OS after adjusting for age and HCT-CI",
+          "extra": "Definition still unsettled"
+        },
+        {
+          "head": "Assessment",
+          "body": "Karnofsky ≥ 80, HCT-CI, function tests (gait speed, 6-min walk, grip), cognition, psychosocial, nutrition",
+          "extra": "Multidisciplinary"
+        },
+        {
+          "head": "GAH scale",
+          "body": "30 items in 8 dimensions, 10–12 minutes; validated in older patients with haematological malignancies",
+          "extra": "Not yet validated in HCT"
+        }
+      ],
+      "cite": "Duarte RF, Sánchez-Ortega I. EBMT Handbook 8th ed. 2024; Ch. 68",
+      "notes": {
+        "script": [
+          "Frailty 在 50 歲以上的移植候選人約占四分之一，校正年紀和 HCT-CI 之後仍和較差的 OS 相關。Geriatric assessment 涵蓋功能、認知、心理社會和營養；GAH scale 簡短好用，但還沒在移植族群驗證。"
+        ]
+      }
+    }
+  ]
+}

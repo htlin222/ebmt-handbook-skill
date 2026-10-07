@@ -1,0 +1,946 @@
+{
+  "id": "s05",
+  "slug": "gvhd-prophylaxis",
+  "week": 5,
+  "title": "GVHD prophylaxis and graft manipulation",
+  "subtitle": "Week 5 · Ch. 26 (core) · Ch. 19 (support)",
+  "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26 · Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
+  "refsPerSlide": 6,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第五週談 GVHD prophylaxis，核心是 EBMT Handbook 第 26 章，再補第 19 章的 graft manipulation。重點放在各個 regimen 的劑量、ATG、PTCy 和 T-cell depletion，最後做三題 board-style 題目。"
+    ]
+  },
+  "references": [
+    "1. Boelens JJ, Bonifazi F, Gjærde LK, Michonneau D, Ruggeri A, Saavedra L, Socié G. GVHD prophylaxis. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 219–227. doi:10.1007/978-3-031-44080-9_26",
+    "2. Lang P, Schumm M, Pierini A, Handgretinger R. Graft manipulation. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 171–177. doi:10.1007/978-3-031-44080-9_19",
+    "3. Shouval R, Fein JA, Labopin M, Kröger N, Duarte RF, Bader P, et al. Outcomes of allogeneic haematopoietic stem cell transplantation from HLA-matched and alternative donors: a European Society for Blood and Marrow Transplantation registry retrospective analysis. Lancet Haematol. 2019;6(11):e573–84.",
+    "4. Storb R, Deeg HJ, Farewell V, Doney K, Appelbaum F, Beatty P, et al. Marrow transplantation for severe aplastic anemia: methotrexate alone compared with a combination of methotrexate and cyclosporine for prevention of acute graft-versus-host disease. Blood. 1986;68(1):119–25.",
+    "5. Ratanatharathorn V, Nash RA, Przepiorka D, Devine SM, Klein JL, Weisdorf D, et al. Phase III study comparing methotrexate and tacrolimus (prograf, FK506) with methotrexate and cyclosporine for graft-versus-host disease prophylaxis after HLA-identical sibling bone marrow transplantation. Blood. 1998;92(7):2303–14.",
+    "6. Nash RA, Antin JH, Karanes C, Fay JW, Avalos BR, Yeager AM, et al. Phase 3 study comparing methotrexate and tacrolimus with methotrexate and cyclosporine for prophylaxis of acute graft-versus-host disease after marrow transplantation from unrelated donors. Blood. 2000;96(6):2062–8.",
+    "7. Luznik L, Pasquini MC, Logan B, Soiffer RJ, Wu J, Devine SM, et al. Randomized phase III BMT CTN trial of calcineurin inhibitor-free chronic graft-versus-host disease interventions in myeloablative hematopoietic cell transplantation for hematologic malignancies. J Clin Oncol. 2022;40(4):356–68.",
+    "8. Ziakas PD, Zervou FN, Zacharioudakis IM, Mylonakis E. Graft-versus-host disease prophylaxis after transplantation: a network meta-analysis. PLoS One. 2014;9(12):e114735.",
+    "9. Hamilton BK, Liu Y, Hemmer MT, Majhail N, Ringden O, Kim D, et al. Inferior outcomes with cyclosporine and mycophenolate mofetil after myeloablative allogeneic hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2019;25(9):1744–55.",
+    "10. Cutler C, Logan B, Nakamura R, Johnston L, Choi S, Porter D, et al. Tacrolimus/sirolimus vs tacrolimus/methotrexate as GVHD prophylaxis after matched, related donor allogeneic HCT. Blood. 2014;124(8):1372–7.",
+    "11. Pidala J, Kim J, Jim H, Kharfan-Dabaja MA, Nishihori T, Fernandez HF, et al. A randomized phase II study to evaluate tacrolimus in combination with sirolimus or methotrexate after allogeneic hematopoietic cell transplantation. Haematologica. 2012;97(12):1882–9.",
+    "12. Sandmaier BM, Kornblit B, Storer BE, Olesen G, Maris MB, Langston AA, et al. Addition of sirolimus to standard cyclosporine plus mycophenolate mofetil-based graft-versus-host disease prophylaxis for patients after unrelated non-myeloablative haemopoietic stem cell transplantation: a multicentre, randomised, phase 3 trial. Lancet Haematol. 2019;6(8):e409–18.",
+    "13. Kornblit B, Storer BE, Andersen NS, Maris MB, Chauncey TR, Petersdorf EW, et al. Sirolimus with CSP and MMF as GVHD prophylaxis for allogeneic transplantation with HLA antigen-mismatched donors. Blood. 2020;136(13):1499–506.",
+    "14. Watkins B, Qayed M, McCracken C, Bratrude B, Betz K, Suessmuth Y, et al. Phase II trial of costimulation blockade with abatacept for prevention of acute GVHD. J Clin Oncol. 2021;39(17):1865–77.",
+    "15. Chen YB, Shah NN, Renteria AS, Cutler C, Jansson J, Akbari M, et al. Vedolizumab for prevention of graft-versus-host disease after allogeneic hematopoietic stem cell transplantation. Blood Adv. 2019;3(23):4136–46.",
+    "16. Kennedy GA, Tey SK, Buizen L, Varelias A, Gartlan KH, Curley C, et al. A phase 3 double-blind study of the addition of tocilizumab vs placebo to cyclosporin/methotrexate GVHD prophylaxis. Blood. 2021;137(14):1970–9.",
+    "17. Choi SW, Braun T, Chang L, Ferrara JLM, Pawarode A, Magenau JM, et al. Vorinostat plus tacrolimus and mycophenolate to prevent graft-versus-host disease after related-donor reduced-intensity conditioning allogeneic haemopoietic stem-cell transplantation: a phase 1/2 trial. Lancet Oncol. 2014;15(1):87–95.",
+    "18. Choi SW, Braun T, Henig I, Gatza E, Magenau J, Parkin B, et al. Vorinostat plus tacrolimus/methotrexate to prevent GVHD after myeloablative conditioning, unrelated donor HCT. Blood. 2017;130(15):1760–7.",
+    "19. Koreth J, Kim HT, Lange PB, Poryanda SJ, Reynolds CG, Rai SC, et al. Bortezomib-based immunosuppression after reduced-intensity conditioning hematopoietic stem cell transplantation: randomized phase II results. Haematologica. 2018;103(3):522–30.",
+    "20. Walker I, Panzarella T, Couban S, Couture F, Devins G, Elemary M, et al. Pretreatment with anti-thymocyte globulin versus no anti-thymocyte globulin in patients with haematological malignancies undergoing haemopoietic cell transplantation from unrelated donors: a randomised, controlled, open-label, phase 3, multicentre trial. Lancet Oncol. 2016;17(2):164–73.",
+    "21. Finke J, Schmoor C, Bethge WA, Ottinger H, Stelljes M, Volin L, et al. Long-term outcomes after standard graft-versus-host disease prophylaxis with or without anti-human-T-lymphocyte immunoglobulin in haemopoietic cell transplantation from matched unrelated donors: final results of a randomised controlled trial. Lancet Haematol. 2017;4(6):e293–301.",
+    "22. Soiffer RJ, Kim HT, McGuirk J, Horwitz ME, Johnston L, Patnaik MM, et al. Prospective, randomized, double-blind, phase III clinical trial of anti-T-lymphocyte globulin to assess impact on chronic graft-versus-host disease-free survival in patients undergoing HLA-matched unrelated myeloablative hematopoietic cell transplantation. J Clin Oncol. 2017;35(36):4003–11.",
+    "23. Kröger N, Solano C, Wolschke C, Bandini G, Patriarca F, Pini M, et al. Antilymphocyte globulin for prevention of chronic graft-versus-host disease. N Engl J Med. 2016;374(1):43–53.",
+    "24. Cho BS, Min GJ, Park SS, Yoon SY, Park S, Jeon YW, et al. Low-dose thymoglobulin for prevention of chronic graft-versus-host disease in transplantation from an HLA-matched sibling donor. Am J Hematol. 2021;96(11):1441–9.",
+    "25. Chang YJ, Wu DP, Lai YR, Liu QF, Sun YQ, Hu J, et al. Antithymocyte globulin for matched sibling donor transplantation in patients with hematologic malignancies: a multicenter, open-label, randomized controlled study. J Clin Oncol. 2020;38(29):3367–76.",
+    "26. Admiraal R, Nierkens S, Bierings MB, Bredius RGM, van Vliet I, Jiang Y, et al. Individualised dosing of anti-thymocyte globulin in paediatric unrelated allogeneic haematopoietic stem-cell transplantation (PARACHUTE): a single-arm, phase 2 clinical trial. Lancet Haematol. 2022;9(2):e111–20.",
+    "27. Bleakley M, Sehgal A, Seropian S, Biernacki MA, Krakow EF, Dahlberg A, et al. Naive T-cell depletion to prevent chronic graft-versus-host disease. J Clin Oncol. 2022;40(11):1174–85.",
+    "28. Ruggeri A, Labopin M, Battipaglia G, Chiusolo P, Tischer J, Diez-Martin JL, et al. Timing of post-transplantation cyclophosphamide administration in haploidentical transplantation: a comparative study on behalf of the acute leukemia working Party of the European Society for Blood and Marrow Transplantation. Biol Blood Marrow Transplant. 2020;26(10):1915–22.",
+    "29. Holtan SG, Hamadani M, Wu J, AL Malki MM, Runaas L, Elmariah H, et al. Post-transplant cyclophosphamide, tacrolimus, and mycophenolate mofetil as the new standard for graft-versus-host disease (GVHD) prophylaxis in reduced intensity conditioning: results from phase III BMT CTN 1703. Blood. 2022;140(Supplement 2):LBA-4.",
+    "30. Battipaglia G, Labopin M, Blaise D, Diez-Martin JL, Bazarbachi A, Vitek A, et al. Impact of the addition of antithymocyte globulin to post-transplantation cyclophosphamide in haploidentical transplantation with peripheral blood compared to post-transplantation cyclophosphamide alone in acute myelogenous leukemia: a retrospective study on behalf of the acute leukemia working Party of the European Society for Blood and Marrow Transplantation. Transplant Cell Ther. 2022;28(9):587.e1–7."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "GVHD prophylaxis · Outline",
+      "title": "Four parts, from the CNI backbone to graft engineering",
+      "rows": [
+        [
+          "Why prophylaxis, and the CNI backbones",
+          "aGVHD burden; CSA/MTX after MAC; CNI ± MMF after RIC",
+          "7 min"
+        ],
+        [
+          "Newer agents and serotherapy",
+          "Sirolimus, abatacept, vedolizumab; ATG/ATLG, alemtuzumab",
+          "9 min"
+        ],
+        [
+          "PTCy and graft manipulation",
+          "Baltimore schedule, BMT CTN trials; CD34, CD3, TcRαβ depletion",
+          "6 min"
+        ],
+        [
+          "Board questions",
+          "MTX dosing, PTCy schedule, TcRαβ-depleted graft",
+          "5 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段先看為什麼預防這麼重要，再把兩個基本盤講清楚，MAC 之後的 CSA/MTX，以及 RIC 之後的 CNI 加或不加 MMF，大約七分鐘。",
+          "第二段是比較新的藥，包括 sirolimus、abatacept、vedolizumab，接著是 ATG 和 ATLG 的 randomized trial、劑量問題，以及 alemtuzumab。這段最長，因為 trial 的結果最容易被出成選項。",
+          "第三段是 PTCy 的給藥日期和 BMT CTN 的兩個 phase 3，再用第 19 章看 ex vivo T-cell depletion 的幾種做法。最後五分鐘做三題練習。下週的 acute GVHD 也有一張 prophylaxis trial 總表，今天的內容是它的細節版。",
+          "每一張的 footer 都標了出處，書上數字有疑問的地方，我會直接說明需要再查證。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "section": "Why prophylaxis and CNI backbones",
+      "eyebrow": "Prophylaxis · Burden",
+      "title": "Acute GVHD still affects a third to a half of allo-HCT recipients",
+      "items": [
+        {
+          "num": "30–50%",
+          "label": "Develop acute GVHD after allo-HCT"
+        },
+        {
+          "num": "~10%",
+          "label": "Develop severe (grade III–IV) acute GVHD"
+        },
+        {
+          "num": "20–30%",
+          "label": "Grade II–IV aGVHD with current prophylaxis (Shouval 2019)"
+        }
+      ],
+      "caption": "Prior acute GVHD is the main risk factor for chronic GVHD, so preventing cGVHD starts with preventing aGVHD.",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "先看預防為什麼重要。接受 allo-HCT 的病人，大約 30 到 50% 會發生 acute GVHD，其中約 10% 是 grade III 到 IV 的重度。即使用了現行的 prophylaxis，grade II 到 IV 仍然有 20 到 30%，這是 EBMT registry 的數字。",
+          "治療的主力是高劑量 steroid，可是 30 到 50% 的病人會 steroid-resistant 或 dependent，steroid resistance 的一年存活只有 30 到 40%。Chronic GVHD 最主要的 risk factor 又是之前得過 acute GVHD，所以第 26 章把篇幅放在預防 acute GVHD，預防 chronic 也從這裡開始。",
+          "這三個數字提醒我們，prophylaxis 的目標不是把 GVHD 完全歸零，而是把重度 GVHD 壓到最低，同時不讓感染和復發增加。後面每一個 trial 都可以用這個角度看，GVHD 少了多少，代價又是什麼。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Prophylaxis · MAC standard",
+      "title": "CSA plus short-course MTX remains the European standard after MAC",
+      "head": [
+        "",
+        "Cyclosporine (CSA)",
+        "Methotrexate (MTX)"
+      ],
+      "rows": [
+        [
+          "Dose",
+          "3 mg/kg/day IV until engraftment,\nthen orally",
+          "15 mg/m² on day +1;\n10 mg/m² on days +3, +6, +11"
+        ],
+        [
+          "Adjusting",
+          "Target level 150–200 ng/mL;\nadjust to renal function",
+          "Day +11 dose may be omitted\nif grade III/IV mucositis"
+        ],
+        [
+          "Interactions",
+          "Numerous; strongest with azoles",
+          "—"
+        ],
+        [
+          "Adverse effects",
+          "Renal insufficiency, CNS and\nendothelial toxicity",
+          "Mucositis"
+        ]
+      ],
+      "colW": [
+        2.4,
+        4.8,
+        4.8
+      ],
+      "fontSize": 18,
+      "caption": "Table 26.1. CSA/MTX beat CSA alone in randomized phase 3 trials (Storb 1986).",
+      "captionY": 5.0,
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這是書上的 Table 26.1，也是今天最需要背熟的一張。1980 年代中期，Storb 團隊在一系列 randomized phase 3 trial 證明 cyclosporine 加 methotrexate 比單用 cyclosporine 好。到現在，CSA/MTX 仍是歐洲最常用的 regimen，特別是 myeloablative conditioning 之後。",
+          "Cyclosporine 從 3 mg/kg/day 靜脈開始，engraftment 之後改口服。劑量靠血中濃度調整，目標 150 到 200 ng/mL，同時看腎功能。它的 drug interaction 非常多，和 azole 類抗黴菌藥的交互作用最強，加上或停掉 azole 的那幾天，濃度都要重新追。副作用包括腎功能不全、CNS 毒性和 endothelial toxicity。",
+          "Methotrexate 是 short course，day +1 給 15 mg/m²，day +3、+6、+11 各給 10 mg/m²。主要毒性是 mucositis，如果到 day +11 已經是 grade III 到 IV 的 mucositis，這一劑可以省略。四個日期、兩種劑量，加上省略 day +11 的條件，是考題最常見的組合。",
+          "在病房，每天看口腔黏膜、creatinine 和 CSA 濃度，這三個數字決定 MTX 和 CSA 怎麼調。",
+          "MTX 只給短短四劑，CNI 才是長期使用的主軸。所以 mucositis 嚴重時省略最後一劑，代價有限，cyclosporine 照常進行。題目如果問要不要因為 mucositis 停掉 cyclosporine，方向是否定的，該調整的是 MTX。",
+          "CSA 的腎毒性要和濃度一起看。濃度在範圍內，但 creatinine 上升，仍然要依腎功能減量，書上寫得很明確，劑量同時依濃度和腎功能調整。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Prophylaxis · CNI mechanism",
+      "title": "Calcineurin inhibitors block NFAT and blunt IL-2-driven activation",
+      "steps": [
+        "CSA or tacrolimus",
+        "NFAT activation prevented",
+        "Less IL-2 transcription",
+        "Fewer effector T cells, but fewer Tregs too"
+      ],
+      "invert": 3,
+      "caption": "IL-2-dependent Tregs fall with effector T cells. Sirolimus and PTCy are described in Ch. 26 as relatively Treg-sparing.",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "CSA 和 tacrolimus 的機轉相同，都是阻斷 NFAT 這一類 transcription factor 的活化。NFAT 無法啟動，IL-2 的轉錄就減少，effector T cell 的活化也跟著下降。",
+          "代價在最右邊。Regulatory T cell 同樣依賴 IL-2，所以 CNI 也壓低了 Treg，這是 CNI 先天的限制。後面會看到，sirolimus 和 PTCy 在書上都被描述成相對保留 Treg 的方法，用這個對比來記各藥的定位會容易很多。",
+          "臨床上，這也解釋了為什麼 CNI 要維持穩定的濃度。濃度太低擋不住 T cell 活化，太高則出現腎毒性、CNS 毒性和 endothelial toxicity。前一張的 150 到 200 ng/mL，就是在效果和毒性之間取得平衡。考試偶爾會問 CNI 的作用標的，記得是 NFAT 和 IL-2 這條路徑。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Prophylaxis · TAC versus CSA",
+      "title": "TAC/MTX cut aGVHD but never improved survival over CSA/MTX",
+      "head": [
+        "Trial",
+        "Setting",
+        "Result",
+        "Caveat"
+      ],
+      "rows": [
+        [
+          "Ratanatharathorn 1998",
+          "MAC, HLA-identical sibling;\nTAC/MTX vs CSA/MTX",
+          "Less grade II–IV aGVHD;\nno survival gain",
+          "More high-risk leukaemia\nin the TAC/MTX arm"
+        ],
+        [
+          "Nash 2000",
+          "MAC, matched/mismatched URD;\nTAC/MTX vs CSA/MTX",
+          "Less grade II–IV aGVHD;\nno survival gain",
+          "Serologic HLA typing:\nmany hidden mismatches"
+        ],
+        [
+          "Luznik 2022\n(BMT CTN)",
+          "MAC, MUD, marrow; TAC/MTX vs\nCD34 selection or PTCy alone",
+          "CNI-free arms: less\nmoderate/severe cGVHD",
+          "No gain in OS or TRM"
+        ]
+      ],
+      "colW": [
+        2.8,
+        3.9,
+        2.9,
+        2.9
+      ],
+      "fontSize": 16,
+      "caption": "TAC/MTX became the American gold standard; it never gained broad use in Europe.",
+      "captionY": 5.2,
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Tacrolimus 加 MTX 在 1990 年代後期發展出來，有兩個 MAC 之後的 phase 3。Ratanatharathorn 1998 做 HLA-identical sibling，Nash 2000 做 matched 和 mismatched unrelated donor。兩個都顯示 grade II 到 IV aGVHD 明顯減少，存活卻都沒有比 CSA/MTX 好。",
+          "書上給了兩個理由。Sibling 那個 trial，TAC/MTX 組高風險白血病比較多，兩組不平衡。Unrelated 那個 trial 用的是當年的 serologic HLA typing，很多病人其實有相當程度的 mismatch。結果 TAC/MTX 成為美國的 gold standard，歐洲則一直以 CSA/MTX 為主。",
+          "最後一列是 BMT CTN 的 CNI-free 設計，用 CD34 selection 或單用 PTCy 取代 TAC/MTX。Moderate 到 severe chronic GVHD 比較少，OS 和 TRM 卻沒有改善。GVHD 下降不等於存活改善，這個模式今天會一再出現。",
+          "考試時要分清楚兩種比較。TAC/MTX 對比 CSA/MTX，比的是兩種 CNI，差別主要在 acute GVHD；CNI-free 的設計是完全拿掉 CNI，差別主要在 chronic GVHD。兩種比較的存活都沒有改變。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Prophylaxis · RIC standard",
+      "title": "After RIC, CNI plus MMF is widely used but never proven in an RCT",
+      "head": [
+        "Question",
+        "What Ch. 26 says"
+      ],
+      "rows": [
+        [
+          "Usual regimens",
+          "CSA (or TAC) alone, or CSA/TAC plus MMF"
+        ],
+        [
+          "Randomized evidence",
+          "No large RCT of CSA/MMF"
+        ],
+        [
+          "Meta-analysis (Ziakas 2014)",
+          "33 studies, 3440 patients: no aGVHD benefit of CNI + MMF"
+        ],
+        [
+          "CIBMTR, 1564 patients\n(Hamilton 2019) [verify]",
+          "More aGVHD with unrelated donors; no survival gain"
+        ],
+        [
+          "CNI dose",
+          "Same dose and toxicity as after MAC"
+        ],
+        [
+          "MMF dose",
+          "30 mg/kg/day, split into two or three doses"
+        ],
+        [
+          "MMF toxicity",
+          "Haematological; severe pancytopenia with (val)ganciclovir"
+        ]
+      ],
+      "colW": [
+        4.0,
+        7.6
+      ],
+      "fontSize": 17,
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "RIC 發展以來常用兩種做法，CSA 或 tacrolimus 單用，或再加 MMF。CSA/MMF 全世界都在用，卻從來沒有在大型 randomized trial 中驗證過。",
+          "2014 年的 meta-analysis 收了 33 個研究、3440 位病人，CNI 加 MMF 並沒有減少 acute GVHD。CIBMTR 1564 位病人的回溯分析，unrelated donor 用 CNI 加 MMF 反而 aGVHD 比較多，存活也沒有改善。這筆資料書上寫是 RIC，但原文標題寫 myeloablative，引用前要再確認。",
+          "劑量方面，CNI 和 MAC 時一樣，毒性也一樣。MMF 通常 30 mg/kg/day，分兩到三次。它的毒性主要在血液，最要小心的是 CMV 再活化時加上 ganciclovir 或 valganciclovir，兩者合併可能造成嚴重 pancytopenia。這個交互作用很適合出成病房情境題。",
+          "實務上，CNI 的腎毒性和 MMF 的骨髓抑制要一起監測。CMV 陽性的病人準備開 ganciclovir 或 valganciclovir 時，先確認 MMF 是否還在用、血球數多少。書上的 key point 把這兩張濃縮成一句，MAC 之後用 CNI 加短程 MTX，RIC 之後用 CSA 加或不加 MMF。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 26 describes Hamilton 2019 (CIBMTR, n = 1564) as an RIC study, but the reference title reads 'after myeloablative allogeneic HCT'. Check the conditioning intensity in the original paper before quoting it."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Newer agents and serotherapy",
+      "eyebrow": "Prophylaxis · Sirolimus",
+      "title": "Sirolimus improves survival only in nonmyeloablative URD trials",
+      "head": [
+        "Trial",
+        "Setting",
+        "Comparison",
+        "Result"
+      ],
+      "rows": [
+        [
+          "DFCI regimen",
+          "Single centre",
+          "TAC/SIR",
+          "aGVHD II–IV 20%; III–IV < 5%"
+        ],
+        [
+          "Cutler 2014\n(BMT CTN)",
+          "Matched related,\nrandomized",
+          "TAC/SIR vs TAC/MTX",
+          "II–IV-free survival 67% vs 62%;\nII–IV aGVHD 26% vs 34% (NS)"
+        ],
+        [
+          "Pidala 2012",
+          "Single-centre\nphase 2",
+          "TAC/SIR vs TAC/MTX",
+          "II–IV aGVHD 43% vs 89%"
+        ],
+        [
+          "Sandmaier 2019",
+          "Nonmyeloablative,\nMUD, phase 3",
+          "CSA/MMF ± SIR",
+          "Less II–IV aGVHD;\nbetter survival"
+        ],
+        [
+          "Kornblit 2020",
+          "Nonmyeloablative,\nmismatched URD",
+          "CSA/MMF + SIR vs\nhistorical cohort",
+          "Less aGVHD;\nbetter survival"
+        ]
+      ],
+      "colW": [
+        2.7,
+        2.9,
+        3.0,
+        4.3
+      ],
+      "fontSize": 15,
+      "caption": "mTOR inhibition suppresses conventional T cells more than Tregs.",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Sirolimus 是 mTOR inhibitor。Conventional T cell 比 Treg 更依賴 mTOR–protein kinase B 這條路徑，所以 sirolimus 壓 conventional T cell 比壓 Treg 多，正好和剛才的 CNI 形成對比。",
+          "DFCI 最早用 TAC/SIR，grade II 到 IV aGVHD 約 20%，III 到 IV 不到 5%。接著 BMT CTN 做大型 randomized trial 對比 TAC/MTX，grade II 到 IV GVHD-free survival 67% 比 62%，P 0.38；grade II 到 IV aGVHD 26% 比 34%，P 0.48，都沒有差異。Pidala 的單中心 phase 2 雖然看到 43% 比 89%，但對照組的 89% 高得不尋常，解讀要保守。",
+          "真正看到存活好處的是 nonmyeloablative 的情境。Sandmaier 2019 的 phase 3，matched unrelated donor，在 CSA/MMF 上加 sirolimus，aGVHD 減少，存活改善。Kornblit 2020 在 mismatched unrelated donor 也看到類似結果，不過對照是歷史組。",
+          "所以題目若問 sirolimus 哪裡有 phase 3 的存活證據，要選 nonmyeloablative、unrelated donor、CSA/MMF 加 sirolimus 的三藥組合，而不是 MAC 之後的 TAC/SIR。",
+          "DFCI 的數字是單臂結果，放到 randomized trial 就沒有重現，這是新藥 phase 2 常見的情形，看到單臂試驗的漂亮數字要保留一點。Cutler 的兩個 P 值都遠大於 0.05，TAC/SIR 可以當作 TAC/MTX 的替代，但不是更好的選擇。Kornblit 沒有隨機對照，證據等級比 Sandmaier 低，題目若問哪一個是 randomized phase 3，要選 Sandmaier。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Prophylaxis · Newer add-ons",
+      "title": "Newer add-ons target costimulation, gut homing and cytokines",
+      "head": [
+        "Agent",
+        "Target",
+        "Key result in Ch. 26"
+      ],
+      "rows": [
+        [
+          "Abatacept\n(Watkins 2021)",
+          "T-cell costimulation",
+          "URD phase 2 + CNI/MTX: less aGVHD,\nbetter SGFS; FDA-approved"
+        ],
+        [
+          "Vedolizumab\n(Chen 2019)",
+          "α4β7 integrin,\ngut homing",
+          "Phase 3: d180 GI-aGVHD-free survival\n85.5% vs 70.9% [verify]"
+        ],
+        [
+          "Tocilizumab\n(Kennedy 2021)",
+          "IL-6 receptor",
+          "Phase 2: II–IV < 15%; phase 3: NS,\nno long-term survival gain"
+        ],
+        [
+          "Vorinostat\n(Choi 2014, 2017)",
+          "Histone deacetylase",
+          "RIC sibling: II–IV 22%, III–IV 6%"
+        ],
+        [
+          "Bortezomib\n(Koreth 2018)",
+          "Proteasome",
+          "URD RIC, 3 arms: II–IV 33%, 31%, 21%;\nno gain over TAC/MTX"
+        ]
+      ],
+      "colW": [
+        3.0,
+        2.8,
+        6.4
+      ],
+      "fontSize": 15,
+      "caption": "SGFS: severe-aGVHD-free survival at day 180. Vedolizumab phase 3: EBMT 2023 oral presentation.",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "多年沒有新藥之後，這幾年依免疫學的進展出現幾個方向，書上挑的是 aGVHD 落在 20% 左右、值得做 phase 3 的藥。",
+          "Abatacept 阻斷 T cell 的 costimulation。Watkins 2021 的 phase 2 在 unrelated donor 加到 CNI/MTX 上，primary endpoint 是 day 100 的 grade 3 到 4 aGVHD，關鍵的次要 endpoint 是 day 180 的 severe aGVHD-free survival，簡稱 SGFS。結果安全、aGVHD 減少、SGFS 改善，已經拿到 FDA 核准。",
+          "Vedolizumab 是 anti-α4β7，阻止淋巴球穿過腸道內皮，所以專門預防腸道 GVHD。Phase 1b 的 300 mg 組，腸道 aGVHD 19%。Phase 3 對 placebo，day 180 的 GI aGVHD-free survival 85.5% 比 70.9%，HR 0.45。這是 2023 年 EBMT 的口頭報告，正式發表的數據要再確認。",
+          "Tocilizumab 是 anti-IL-6 receptor，兩個 phase 2 都低於 15%，但 phase 3 雙盲試驗只有不顯著的下降，長期存活也沒有改善。Vorinostat 是 HDAC inhibitor，RIC sibling 的 grade II 到 IV 是 22%。Bortezomib 的三臂試驗是 33%、31%、21%，整體沒有贏過 TAC/MTX。",
+          "這張的考點在於區分機轉和證據等級。Abatacept 打 costimulation，已有 FDA 核准；vedolizumab 打腸道 homing，有 phase 3 的正面結果；tocilizumab 打 IL-6，phase 3 沒有達到顯著；bortezomib 沒有贏過標準組。選項若把 vedolizumab 說成全身性的免疫抑制，要記得它的選擇性在腸道。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: the vedolizumab phase 3 result (85.5% vs 70.9%, HR 0.45) is cited in Ch. 26 only as an oral plenary presentation at EBMT 2023; check the full publication and any approval status before quoting it."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Prophylaxis · ATG randomized trials",
+      "title": "ATG lowers chronic GVHD in every RCT without changing NRM or relapse",
+      "head": [
+        "Trial",
+        "Setting",
+        "Dose",
+        "Primary end point",
+        "Overall survival"
+      ],
+      "rows": [
+        [
+          "Walker",
+          "URD/MSD, MAC/RIC",
+          "T 4.5 mg/kg",
+          "IS withdrawal at 12 months",
+          "Higher with ATG (long term)"
+        ],
+        [
+          "Finke",
+          "URD, MAC",
+          "G 60 mg/kg",
+          "aGVHD 3–4 and/or death < day 100",
+          "Not different"
+        ],
+        [
+          "Soiffer",
+          "URD, MAC",
+          "G 60 mg/kg",
+          "Mod–severe cGVHD-free survival",
+          "Lower with ATLG"
+        ],
+        [
+          "Kröger",
+          "MSD, PBSC, MAC",
+          "G 30 mg/kg",
+          "cGVHD at 2 years",
+          "Not different"
+        ],
+        [
+          "Cho",
+          "MSD, PBSC",
+          "T 2.5 mg/kg",
+          "cGVHD at 2 years",
+          "Not different"
+        ],
+        [
+          "Chang",
+          "MSD, MAC",
+          "T 4.5 mg/kg",
+          "aGVHD 2–4",
+          "Not different"
+        ]
+      ],
+      "colW": [
+        1.7,
+        2.9,
+        2.0,
+        3.9,
+        3.2
+      ],
+      "fontSize": 15,
+      "caption": "Table 26.2: cGVHD lower in all six; NRM and relapse not different. [verify: T = Thymoglobulin, G = ATLG]",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Table 26.2 整理了六個 randomized trial，三個以 unrelated donor 為主，三個是 matched sibling，大多是 PBSC 和 MAC。劑量欄的 T 和 G，書上沒有明寫，依各試驗的標題來看，T 是 Thymoglobulin，G 是 ATLG。T 用 2.5 到 4.5 mg/kg，G 用 30 到 60 mg/kg。兩者的抗體特異性和製程不同，劑量不能互相換算，也沒有 head-to-head 比較，用哪一個由中心決定。",
+          "結果非常一致。六個試驗的 chronic GVHD 都比較少，NRM 和 relapse 都沒有差別。Acute GVHD 3 到 4 級則只有部分試驗下降。存活這一欄最值得看，只有 Walker 長期追蹤看到 ATG 組 OS 較好，Soiffer 的 ATLG 組反而較差，其他四個沒有差別。",
+          "書上的解釋是，GVHD 相關死亡減少，被感染或復發相關的死亡抵消了。不過 GRFS 和生活品質在 ATG 組明顯比較好。考題常把 ATG 寫成能改善存活，或是會增加復發，兩個說法都不對。",
+          "還有兩個細節。各試驗的 aGVHD 欄位標準不同，有的看 3 到 4 級，有的看 2 到 4 級，比較時要對齊 endpoint。Walker 的 primary endpoint 是 12 個月時停掉免疫抑制的比例，和其他試驗看 GVHD 或存活不同。在病房，用了 ATG 的病人要特別注意感染和免疫重建延遲，這和下一張的劑量個人化直接相關。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Table 26.2 labels doses only as 'T' and 'G'. The reading T = Thymoglobulin (rabbit ATG) and G = ATLG (Grafalon) is inferred from the trial titles, not stated in the chapter. Note also that the table lists 'Lower for ATLG' for Walker (a T trial) in the extensive-cGVHD row."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Prophylaxis · ATG dosing",
+      "title": "ALC before dosing predicts ATG exposure, so dosing can be individualized",
+      "root": "ATG clearance predictors: weight < 40 kg and ALC",
+      "branches": [
+        {
+          "label": "Low ALC (mainly TBI)",
+          "box": "ATLG, Soiffer post hoc",
+          "out": "Lower survival"
+        },
+        {
+          "label": "High ALC (mainly chemo)",
+          "box": "ATLG, Soiffer post hoc",
+          "out": "Better survival"
+        },
+        {
+          "label": "Weight + ALC nomogram",
+          "box": "PARACHUTE phase 2\n(Admiraal 2022)",
+          "out": "CD4 > 50/μL twice by day 100:\nNRM 5-fold lower"
+        }
+      ],
+      "invert": 2,
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "ATG 和 ATLG 的機轉只部分清楚，包括清除 T 和 B cell、抑制發炎細胞和 dendritic cell 的移行，同時相對保留 Treg。劑量到現在都沒有共識，2020 年國際專家的建議也承認這一點。",
+          "Population PK model 發現移植後 ATG 的暴露量差異很大，原因是 clearance 差異很大，唯一的預測因子是體重小於 40 公斤，以及給藥前的 ALC。PARACHUTE 這個兒童 phase 2 用體重加 ALC 的簡單 nomogram 給藥，GVHD 發生率相近，但達到免疫重建的病人，也就是 day 100 前連續兩次 CD4 大於 50/μL，NRM 低了五倍。",
+          "Soiffer 的 post hoc 分析方向一致。ALC 低的病人多半接受 TBI，用 ATLG 存活較差；ALC 高的多半是 chemotherapy-based conditioning，用 ATLG 存活反而較好。整體趨勢是劑量越用越低，依 ALC 個人化給藥可能是下一步。",
+          "病房上的意義是，給 ATG 之前先看 ALC。同樣的 mg/kg，對不同 ALC 的病人，實際暴露量可能差很多。"
+        ]
+      }
+    },
+    {
+      "type": "columns",
+      "eyebrow": "Prophylaxis · Other T-cell depletion",
+      "title": "Alemtuzumab and naive T-cell depletion are alternatives to ATG",
+      "cols": [
+        {
+          "head": "ATG / ATLG",
+          "items": [
+            "Polyclonal rabbit sera",
+            "Several RCTs",
+            "Less cGVHD; NRM unchanged",
+            "Exposure varies with ALC",
+            "Brand: centre policy"
+          ]
+        },
+        {
+          "head": "Alemtuzumab",
+          "items": [
+            "Humanized anti-CD52 mAb",
+            "No randomized trial",
+            "Less aGVHD/cGVHD, esp. SAA",
+            "Exposure often too high",
+            "Delayed immune recovery"
+          ]
+        },
+        {
+          "head": "Naive T-cell depletion",
+          "items": [
+            "Phase 2, 138 acute leukaemia",
+            "MRD/MUD; TAC ± MTX or MMF",
+            "CD34+ cells + memory T cells",
+            "Rare severe aGVHD or cGVHD",
+            "No excess relapse or NRM"
+          ]
+        }
+      ],
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "把三種清除 T cell 的方法放在一起比。中間的 alemtuzumab 是針對 CD52 的 humanized monoclonal antibody，會快速而且長時間清除血中和次級淋巴器官的 B 和 T cell。它沒有 randomized trial，回溯和非對照研究顯示 acute 和 chronic GVHD 都減少，SAA 特別明顯。問題是暴露量難預測，多半太高，免疫重建比 ATG 慢得多，感染和復發因此是主要限制。",
+          "右邊是 naive T-cell depletion。Bleakley 2022 的 phase 2 收 138 位急性白血病，donor 是 HLA-matched related 或 unrelated。病人接受 CD34-selected PBSC，再加上定量、已經去除 naive T cell 的 memory T cell。嚴重 acute GVHD 和任何 chronic GVHD 都非常少，復發和 NRM 也沒有增加。",
+          "第 19 章提供了背後的邏輯，CD45RO 的 memory T cell 引起的 GVHD 反應很小，卻保有抗白血病和抗病毒的能力。",
+          "考題如果問哪一種 serotherapy 在 SAA 的資料特別多，書上提到的是 alemtuzumab。Naive T-cell depletion 本質上也是 graft engineering，等一下第 19 章會看到同樣的 CD34 selection 技術。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "PTCy and graft manipulation",
+      "eyebrow": "Prophylaxis · PTCy schedules",
+      "title": "Baltimore PTCy is 50 mg/kg on days +3 and +4, then CNI/MMF",
+      "head": [
+        "",
+        "Baltimore (classical)",
+        "Alternative scheme"
+      ],
+      "rows": [
+        [
+          "Cyclophosphamide",
+          "50 mg/kg on days +3 and +4",
+          "Days +3 and +5"
+        ],
+        [
+          "CNI start",
+          "Day +5",
+          "CsA from day −1 or 0"
+        ],
+        [
+          "MMF start",
+          "Day +5",
+          "Day +1"
+        ],
+        [
+          "Used more with",
+          "—",
+          "MAC and bone marrow grafts"
+        ],
+        [
+          "Outcome\n(Ruggeri 2020)",
+          "Reference",
+          "Lower II–IV aGVHD; cGVHD and\nextensive cGVHD not different"
+        ]
+      ],
+      "colW": [
+        3.0,
+        4.2,
+        4.8
+      ],
+      "fontSize": 18,
+      "caption": "CY depletes proliferating alloreactive T cells and spares Tregs. Toxicity: haemorrhagic cystitis, cardiac injury and CHF.",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Non-T-cell-depleted 的 haplo 能普及，靠的就是 PTCy。經典的 Baltimore 方案是 cyclophosphamide 50 mg/kg，在 day +3 和 +4 給，day +5 開始 CNI 和 MMF。另一種方案在 day +3 和 +5 給 PTCy，CsA 提早在 day −1 或 day 0 開始，MMF 從 day +1 開始。",
+          "EBMT 的回溯研究顯示，第二種方案比較常搭配 MAC 和 bone marrow，grade II 到 IV aGVHD 比較低，但 chronic 和 extensive chronic GVHD 沒有差別。",
+          "機轉上，cyclophosphamide 打掉的是正在快速增殖的 alloreactive T cell，Treg 則被保留下來。高劑量 cyclophosphamide 的毒性要記兩個，hemorrhagic cystitis 和心臟傷害，嚴重時導致 congestive heart failure。Baltimore 方案的日期和 50 mg/kg 是很常見的考點。",
+          "兩種方案的差異，關鍵在 CNI 什麼時候開始。Baltimore 方案在 cyclophosphamide 給完之後才開始 CNI，alternative 方案則讓 CsA 從 day −1 就和 PTCy 同時存在。考題給的日期只要差一天，答案就不同，要逐一核對。",
+          "病房上，移植前評估心臟功能、移植後注意血尿，是 PTCy 病人的例行工作。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Prophylaxis · PTCy beyond haplo",
+      "title": "PTCy beat TAC/MTX after RIC but failed as a single agent after MAC",
+      "root": "PTCy outside haploidentical HCT: BMT CTN phase 3 trials",
+      "branches": [
+        {
+          "label": "BMT CTN 1301 [verify]",
+          "box": "MAC, marrow;\nPTCy alone vs TAC/MTX",
+          "out": "More aGVHD; severe cGVHD\nand OS similar"
+        },
+        {
+          "label": "BMT CTN 1703",
+          "box": "RIC, PBSC;\nPTCy/TAC/MMF vs TAC/MTX",
+          "out": "Less aGVHD and cGVHD;\nsame 1-year relapse, OS"
+        },
+        {
+          "label": "Haploidentical",
+          "box": "PTCy + CNI/MMF",
+          "out": "Standard, but never\ntested in an RCT"
+        }
+      ],
+      "invert": 1,
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "PTCy 已經從 haplo 擴展到 unrelated 和 sibling donor，BMT CTN 有兩個 phase 3。左邊的 1301 在 MAC 之後、用 bone marrow，單用 PTCy 對比 TAC/MTX，severe chronic GVHD 和 OS 相近，acute GVHD 反而比較多。",
+          "中間的 1703 是重點。它來自 phase 2 的 1203，那個試驗把 bortezomib、maraviroc 和 PTCy 三種組合各自和 TAC/MTX 比，PTCy 加 TAC/MMF 最有希望，於是進到 phase 3。1703 在 RIC、PBSC 的情境，acute 和 chronic GVHD 都明顯減少，一年的復發和 OS 沒有差別，可能成為新的標準。",
+          "右邊是 haplo。PTCy 加 CNI/MMF 是現行標準，但書上的 key point 特別指出它從來沒有正式做過 randomized trial。單用 PTCy 在 MAC 沒有贏，合併 TAC/MMF 在 RIC 贏了，這個對比要記清楚。",
+          "左邊的單用 PTCy 和第五張 Luznik 2022 那一列，都是 CNI-free 的設計，兩處都看到 GVHD 某部分下降，存活卻沒有改善。書上這段的引用有些不一致，細節放在講者提醒，引用 1301 的數字前要再查原文。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 26 cites BMT CTN 1301 as Bolaños-Meade 2019, which in its reference list is the BMT CTN 1203 phase 2 paper; 1301 appears to be Luznik 2022 (CNI-free, MAC). The chapter also says 1301 showed 'a reduced relapse rate and RFS' with PTCy alone, which is ambiguous; relapse is left off the slide. Check the 1301 primary paper.",
+          "Holtan 2022 (reference 29) is the BMT CTN 1703 abstract."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft manipulation · Ex vivo TCD",
+      "title": "TcRαβ/CD19 depletion keeps NK and γδ T cells and is most widely used",
+      "head": [
+        "Method",
+        "Removes / keeps",
+        "Depletion",
+        "Clinical point"
+      ],
+      "rows": [
+        [
+          "CD34+ enrichment",
+          "Keeps CD34+ cells only;\nfew T and B cells",
+          "4.6 log;\nCD34 recovery 50–90%",
+          "Backbone for add-back cells"
+        ],
+        [
+          "CD3/CD19 depletion",
+          "Removes T and B cells;\nkeeps NK cells",
+          "4.0 log",
+          "Haplo: may need partial\nCD34 selection"
+        ],
+        [
+          "TcRαβ/CD19 depletion",
+          "Removes αβ T and B cells;\nkeeps γδ T and NK cells",
+          "4.7 log",
+          "Most widely used;\nlow aGVHD and cGVHD"
+        ],
+        [
+          "CD19 depletion\n(with CD3 or αβ)",
+          "Removes B cells",
+          "—",
+          "Prevents EBV PTLD;\nor in vivo anti-CD20"
+        ],
+        [
+          "CD45RA depletion\n(for DLI)",
+          "Removes naive T cells;\nkeeps CD45RO cells",
+          "No residual\nCD45RA+ cells",
+          "GvL and antiviral,\nlittle GVHD"
+        ]
+      ],
+      "colW": [
+        3.1,
+        3.8,
+        2.4,
+        3.4
+      ],
+      "fontSize": 14,
+      "caption": "Haplo target: residual T cells (or TCRαβ+ cells) < 50 × 10³/kg.",
+      "cite": "Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張進到第 19 章。現在的 graft engineering 主要靠 immunomagnetic 技術，用 monoclonal antibody 加 paramagnetic microbeads。CD34 positive selection 最早出現，只留下 stem cell，T 和 B cell 都很少，depletion 效率 4.6 log，CD34 回收率 50 到 90%。現在常當作 backbone，再把其他細胞加回去。",
+          "CD3/CD19 depletion 反過來，只拿掉 T 和 B cell，保留大量 NK cell，engraftment 快。效率約 4.0 log，比 CD34 selection 低約 0.5 log。Haplo 的 residual T cell 不能超過每公斤 50 × 10³，所以有時要拿部分 apheresis 做 CD34 selection 才能壓到門檻以下。",
+          "TcRαβ/CD19 depletion 只拿掉 αβ T cell 和 B cell，保留 γδ T cell 和 NK cell，效率 4.7 log，結果也最穩定，連小孩都能壓到 50 × 10³/kg 以下。兒童和成人的試驗中 acute 和 chronic GVHD 都很低，是目前最廣泛使用的方法。",
+          "加做 CD19 depletion 是為了預防 EBV 相關的 PTLD，也可以改在體內用 anti-CD20 抗體。CD45RA depletion 用在 DLI，拿掉 naive T cell，保留 CD45RO memory T cell。",
+          "操作細節也會被問。CD3 depletion 時，只要 20 到 50 μL 沒接觸到抗體的細胞，裡面的 T cell 就可能比整個 graft 允許的還多，所以所有細胞都要和試劑充分接觸。這幾種方法各有適用，選哪一種取決於 donor 類型和中心經驗。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Graft manipulation · Stem cell boost",
+      "title": "CD34-selected boosts rescue poor graft function with little GVHD",
+      "steps": [
+        "Bilinear severe cytopenia and/or transfusions",
+        "Full donor chimerism",
+        "CD34-selected boost from the original donor",
+        "Response ~80%; de novo GVHD 6–22%"
+      ],
+      "invert": 2,
+      "caption": "Ex vivo TCD of the boost is recommended, even with mismatched donors; lymphocyte recovery also improves.",
+      "cite": "Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "主線最後一張是 poor graft function。定義是至少兩系的嚴重血球低下，或需要輸血，而且發生在 full donor chimerism 的情況下。",
+          "治療選項之一是從原本的 donor 再給一次 stem cell boost。為了降低 GVHD，建議先做 ex vivo TCD，經驗最多的是 CD34-selected boost。反應率約 80%，de novo GVHD 只有 6 到 22%，即使是 mismatched donor 也一樣，淋巴球亞群的恢復也會改善。",
+          "因為 chimerism 已經是 full donor，所以用原 donor 的 CD34 cell 補強。必要時也可以再加回 donor T cell，幫助 engraftment 和免疫重建。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: adjust the prophylaxis on day +11",
+      "stem": "A 34-year-old woman with AML in CR1 receives MAC and a PBSC graft from her HLA-identical sister, with cyclosporine plus short-course methotrexate. On day +11 she has grade III oral mucositis. Her cyclosporine level is 180 ng/mL and creatinine is normal. What is the most appropriate step?",
+      "options": [
+        "Omit the day +11 methotrexate dose and continue cyclosporine",
+        "Give methotrexate 15 mg/m² on day +11 as planned",
+        "Stop cyclosporine because the level is above target",
+        "Raise cyclosporine to reach a level of 300 ng/mL",
+        "Replace cyclosporine with MMF 30 mg/kg/day"
+      ],
+      "answer": "A",
+      "answerTitle": "Answer A: the day +11 MTX dose may be omitted",
+      "explanation": "Table 26.1: MTX 15 mg/m² on day +1, then 10 mg/m² on days +3, +6 and +11; the day +11 dose may be omitted for grade III/IV mucositis. The CSA target is 150–200 ng/mL, so 180 needs no change. The day +11 dose is 10, not 15 mg/m². MMF is the RIC partner, not a substitute for CSA here.",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。34 歲女性，AML 在 CR1，接受 MAC 和 HLA-identical 姊姊的 PBSC，prophylaxis 是 cyclosporine 加 short-course methotrexate。Day +11 出現 grade III 口腔黏膜炎，cyclosporine 濃度 180 ng/mL，腎功能正常。",
+          "選項分別是省略 day +11 MTX、照原計畫給 15 mg/m²、停 cyclosporine、把濃度拉到 300，或改用 MMF。",
+          "請先想 MTX 四個日期各自的劑量，再看 cyclosporine 濃度有沒有在目標範圍內，最後決定要動哪一個藥。腎功能正常這個條件，也是題目刻意給的。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 A。Table 26.1 寫得很清楚，day +11 那一劑在 grade III 到 IV mucositis 時可以省略，cyclosporine 繼續。",
+          "B 是主要陷阱，錯了兩次。第一，15 mg/m² 是 day +1 的劑量，day +3、+6、+11 都是 10 mg/m²；第二，這位病人有 grade III mucositis，本來就可以不給。C 和 D 也不對，目標濃度是 150 到 200 ng/mL，180 剛好在範圍內，腎功能又正常，不需要調整。E 的 MMF 是 RIC 常用的搭配，不是 MAC 時拿來取代 CSA 的藥。",
+          "臨床上也要記得，省略 MTX 不代表放棄 prophylaxis，cyclosporine 這條主軸要繼續維持在目標濃度。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose the classical PTCy schedule",
+      "stem": "A 50-year-old man with AML in CR1 has no matched donor. He will receive a PBSC graft from his haploidentical son, and the team chooses the classical Baltimore post-transplant cyclophosphamide (PTCy) platform. Which schedule matches it?",
+      "options": [
+        "Cy 50 mg/kg on days +3 and +4; CNI and MMF from day +5",
+        "Cy on days +3 and +5; CsA from day −1; MMF from day +1",
+        "Cy 50 mg/kg on days +3 and +4 alone, with no further IS",
+        "Cy 50 mg/kg on day 0; CsA and MTX from day +1",
+        "Cy on days −3 and −2; MTX on days +1, +3, +6 and +11"
+      ],
+      "answer": "A",
+      "answerTitle": "Answer A: Cy 50 mg/kg on days +3 and +4, then CNI/MMF",
+      "explanation": "Baltimore PTCy: Cy 50 mg/kg on days +3 and +4, then CNI/MMF from day +5. B is the alternative +3/+5 scheme with early CsA (Ruggeri 2020): lower grade II–IV aGVHD, same cGVHD. PTCy alone after MAC (BMT CTN 1301) gave more aGVHD. Watch for haemorrhagic cystitis and cardiac injury.",
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題換到 PTCy。50 歲男性，AML 在 CR1，沒有 matched donor，要接受兒子的 haploidentical PBSC。團隊選擇經典的 Baltimore PTCy 方案，問哪一個給藥時程符合。",
+          "五個選項的差別在 cyclophosphamide 給在哪幾天、CNI 和 MMF 從哪一天開始，以及有沒有合併其他免疫抑制。",
+          "提示一下，題目特別寫了 classical Baltimore，要選的是最原始的時程，不是後來的變化型。PBSC 和 haplo 這兩個條件，則是 PTCy 最典型的使用情境。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 A。Cyclophosphamide 50 mg/kg 在 day +3 和 +4，day +5 開始 CNI 和 MMF。",
+          "B 是最容易混淆的選項，它是另一種方案，day +3 和 +5 給 PTCy，CsA 提早到 day −1，MMF 從 day +1 開始。這個方案確實存在，EBMT 的比較顯示 grade II 到 IV aGVHD 較低，但它不是經典的 Baltimore。C 單用 PTCy，在 BMT CTN 1301 是 acute GVHD 比較多。D 和 E 把時間點和 MTX 混了進來。",
+          "答完這題，也順便複習 PTCy 的兩個毒性，hemorrhagic cystitis 和心臟傷害。",
+          "記日期的方法是，cyclophosphamide 連續兩天，第三和第四天，隔天第五天才開始 CNI 和 MMF，三個數字剛好連在一起。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: describe the TcRαβ/CD19-depleted graft",
+      "stem": "A 6-year-old boy with relapsed ALL has no matched donor. He will receive a haploidentical graft depleted ex vivo of TCRαβ+ T cells and CD19+ B cells. Which statement about this graft is correct?",
+      "options": [
+        "It retains γδ T cells and NK cells",
+        "It lacks NK cells, so NK recovery lags behind CD34 selection",
+        "Its depletion efficacy is lower than that of CD3 depletion",
+        "CD19 depletion raises the risk of EBV-associated PTLD",
+        "Residual TCRαβ+ cells up to 50 × 10⁶/kg are acceptable"
+      ],
+      "answer": "A",
+      "answerTitle": "Answer A: TcRαβ depletion keeps γδ T cells and NK cells",
+      "explanation": "TcRαβ depletion removes αβ T cells but keeps γδ T and NK cells; early CD3+ and CD56+ expansion is faster than after CD34 selection. Efficacy is 4.7 log vs 4.0 log for CD3 depletion. Residual TCRαβ+ cells stay < 50 × 10³/kg, even in small children. CD19 depletion prevents EBV PTLD.",
+      "cite": "Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "最後一題回到 graft manipulation。6 歲男孩，relapsed ALL，沒有 matched donor，要接受 haploidentical graft，體外去除 TCRαβ 陽性 T cell 和 CD19 陽性 B cell。問關於這個 graft 哪一個敘述正確。",
+          "選項涉及保留哪些細胞、depletion 效率、PTLD 風險和 residual T cell 的門檻。",
+          "這題的數字都來自第 19 章，注意單位，也注意每一種 depletion 拿掉什麼、留下什麼。臨床上這種 graft 多用在兒童的 haplo。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 A。TcRαβ depletion 只拿掉 αβ T cell，γδ T cell 和 NK cell 都留在 graft 裡。",
+          "B 是主要陷阱，方向剛好相反。和 CD34-selected graft 比，TcRαβ-depleted graft 移植後早期 CD3 和 CD56 細胞擴增更快，推測就是因為一起輸入的 γδ T cell 和 NK cell。C 也反了，TcRαβ 是 4.7 log，CD3 depletion 是 4.0 log。D 錯在 CD19 depletion 是用來預防 EBV PTLD。E 的單位差了一千倍，門檻是每公斤 50 × 10³，不是 10⁶。",
+          "整理成一句話，TcRαβ/CD19 depletion 拿掉 αβ T cell 和 B cell，留下 γδ T cell 和 NK cell，效率最高，也是目前最常用的方法。"
+        ]
+      }
+    },
+    {
+      "type": "bullets",
+      "backup": true,
+      "eyebrow": "Prophylaxis · PTCy plus ATG",
+      "title": "ATG added to PTCy lowers chronic GVHD in haploidentical PBSC HCT",
+      "items": [
+        "Battipaglia 2022: AML, haplo PBSC, PTCy ± ATG, both with CsA + MMF (retrospective)",
+        "ATG + PTCy: lower 2-year cGVHD of all grades",
+        "No difference in aGVHD or extensive cGVHD",
+        "Open question: best conditioning regimen and intensity for haplo-HCT",
+        "Open question: can sirolimus + MMF replace CNI/MMF alongside PTCy?"
+      ],
+      "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26",
+      "notes": {
+        "script": [
+          "EBMT 的回溯研究在 haplo PBSC 的 AML 病人，PTCy 再加 ATG，兩年各級 chronic GVHD 較少，acute 和 extensive chronic GVHD 沒有差別。Haplo 最佳的 conditioning 和以 sirolimus 取代 CNI 仍是未解問題。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Graft manipulation · Add-back cells",
+      "title": "Add-back T-cell doses depend on donor type and time from HCT",
+      "head": [
+        "Product",
+        "Dose or detail (Ch. 19)"
+      ],
+      "rows": [
+        [
+          "Cryopreserved vials, MUD",
+          "100 × 10³ CD3+/kg"
+        ],
+        [
+          "Cryopreserved vials, haplo",
+          "25 × 10³ CD3+/kg"
+        ],
+        [
+          "DLI, MUD or family donor",
+          "1 × 10⁵ to 1 × 10⁶/kg, by time from HCT (3–6 months)"
+        ],
+        [
+          "DLI, haploidentical",
+          "Lower doses [verify: text reads 1–2, 5 × 10⁴/kg]"
+        ],
+        [
+          "Tregs + Tcons (CD34+ graft)",
+          "Tregs 2–3 days before Tcons; little or no post-HCT IS"
+        ],
+        [
+          "Virus-specific T cells",
+          "ADV, CMV, EBV; response 70–86%"
+        ]
+      ],
+      "colW": [
+        4.2,
+        7.6
+      ],
+      "fontSize": 17,
+      "cite": "Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
+      "notes": {
+        "script": [
+          "加回去的 T cell 劑量依 HLA 差異、chimerism 和移植後時間而定。MUD 和 family donor 的 DLI 是每公斤 10⁵ 到 10⁶，haplo 要更低。Treg 加 conventional T cell 的策略可以少用甚至不用移植後免疫抑制，virus-specific T cell 的反應率 70 到 86%。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 19 gives the haploidentical DLI dose as '1–2, 5 × 10e⁴/kg', which may mean 1–2.5 × 10⁴/kg. Check the source before quoting a number."
+        ]
+      }
+    },
+    {
+      "type": "bullets",
+      "backup": true,
+      "eyebrow": "Graft manipulation · Quality control",
+      "title": "Engineered grafts need special counting and GMP manufacturing",
+      "items": [
+        "Residual T cells: multigating, ≥ 1 × 10⁶ events, CD3 in a bright fluorochrome",
+        "20–50 μL of unstained cells can hold more T cells than the whole graft should",
+        "After CD19 depletion, count B cells with CD20",
+        "Engineering within 48 hours is acceptable; freezing and thawing are an option",
+        "Graft manipulation counts as drug manufacturing (EU GMP); PBSC and BM are non-ATMP"
+      ],
+      "cite": "Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
+      "notes": {
+        "script": [
+          "Depleted graft 裡的 T cell 非常稀少，至少要收 10⁶ 個 events，用多重 gating 才算得準。CD19 depletion 之後要改用 CD20 偵測 B cell。在歐洲，graft manipulation 視同藥品製造，要符合 GMP。"
+        ]
+      }
+    }
+  ]
+}

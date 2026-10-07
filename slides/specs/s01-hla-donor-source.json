@@ -1,0 +1,978 @@
+{
+  "id": "s01",
+  "slug": "hla-donor-source",
+  "week": 1,
+  "title": "HLA, donor selection and stem cell source",
+  "subtitle": "Week 1 · Ch. 9, 12, 14",
+  "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第一週從移植最根本的問題開始，donor 怎麼選、HLA 要配到什麼程度、stem cell 從哪裡來。內容取自 EBMT Handbook 第 9、12、14 章。這三章的數字很多，考試常直接拿來出題，今天會把重點放在機率、cutoff 和 trial 結果，最後用三題 board-style 題目收尾。每一題都會對應前面某一張投影片。"
+    ]
+  },
+  "references": [
+    "1. Spierings E, Madrigal A, Fleischhauer K. Histocompatibility. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 73–84. doi:10.1007/978-3-031-44080-9_9",
+    "2. Ayuk F, Balduzzi A, Worel N. Donor selection for adults and pediatrics. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 111–123. doi:10.1007/978-3-031-44080-9_12",
+    "3. Horgan C, Valcárcel D. Selection of stem cell source. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 135–141. doi:10.1007/978-3-031-44080-9_14",
+    "4. Lee SJ, Klein J, Haagenson M, et al. High-resolution donor-recipient HLA matching contributes to the success of unrelated donor marrow transplantation. Blood. 2007;110:4576–83.",
+    "5. Fürst D, Müller C, Vucinic V, et al. High-resolution HLA matching in hematopoietic stem cell transplantation: a retrospective collaborative analysis. Blood. 2013;122:3220–9.",
+    "6. Petersdorf EW, Philip Stevenson P, Bengtsson M, et al. HLA-B leader and survivorship after HLA-mismatched unrelated donor transplantation. Blood. 2020;136(3):362–9.",
+    "7. Fuchs EJ, McCurdy SR, Solomon SR, et al. HLA informs risk predictions after haploidentical stem cell transplantation with posttransplantation cyclophosphamide. Blood. 2022;139(10):1452–68. https://doi.org/10.1182/blood.2021013443.",
+    "8. Shaw BE, Logan BR, Spellman SR, et al. Development of an unrelated donor selection score predictive of survival after HCT: donor age matters most. Biol Blood Marrow Transplant. 2018;24:1049–56.",
+    "9. Kollman C, Spellman SR, Zhang MJ, et al. The effect of donor characteristics on survival after unrelated donor transplantation for hematologic malignancy. Blood. 2016;127:260–7.",
+    "10. Ciurea SO, Thall PF, Milton DR, et al. Complement-binding donor-specific anti-HLA antibodies and risk of primary graft failure in hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2015;21:1392–8.",
+    "11. Stern M, Ruggeri L, Mancusi A, et al. Survival after T cell-depleted haploidentical stem cell transplantation is improved using the mother as donor. Blood. 2008;112:2990–5.",
+    "12. S.C.T.C Group. Allogeneic peripheral blood stem-cell compared with bone marrow transplantation in the Management of Hematologic Malignancies: an individual patient data meta-analysis of nine randomized trials. J Clin Oncol. 2005;23:5074–87.",
+    "13. Anasetti C, Logan BR, Lee SJ, et al. Peripheral-blood stem cells versus bone marrow from unrelated donors. N Engl J Med. 2012;367:1487–96.",
+    "14. Savani BN, Labopin M, Blaise D, et al. Peripheral blood stem cell graft compared to bone marrow after reduced intensity conditioning regimens for acute leukemia: a report from the ALWP of the EBMT. Haematologica. 2016;101:256–62.",
+    "15. Ruggeri A, Labopin M, Bacigalupo A, et al. Bone marrow versus mobilized peripheral blood stem cells in haploidentical transplants using posttransplantation cyclophosphamide. Cancer. 2018;124:1428–37.",
+    "16. Simonin M, Dalissier A, Labopin M, et al. More chronic GvHD and non-relapse mortality after peripheral blood stem cell compared with bone marrow in hematopoietic transplantation for paediatric acute lymphoblastic leukemia: a retrospective study on behalf of the EBMT Paediatric diseases working party. Bone Marrow Transplant. 2017;52:1071–3.",
+    "17. Körbling M, Anderlini P. Peripheral blood stem cell versus bone marrow allotransplantation: does the source of hematopoietic stem cells matter? B Blood. 2001;98:2900–8.",
+    "18. Balduzzi A, Bönig H, Jarisch A, Nava T, Ansari M, Cattoni A, Prunotto G, Lucchini G, Krivan G, Matic T, Kalwak K, Yesilipek A, Ifversen M, Svec P, Buechner J, Vettenranta K, Meisel R, Lawitschka A, Peters C, Gibson B, Dalissier A, Corbacioglu S, Willasch A, Dalle JH, Bader P, Pediatric Diseases Working EBMT, Party. ABO incompatibile graft management in pediatric transplantation. Bone Marrow Transplant. 2021;56(1):84–90. https://doi.org/10.1038/s41409-020-0981-7. Epub 2020 Jun 27. Erratum in: Bone Marrow Transplant 2020 Aug 4."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "HLA and donors · Outline",
+      "title": "Four parts, from HLA biology to the graft bag",
+      "rows": [
+        [
+          "HLA biology and typing",
+          "Class I vs II, typing resolution, three routes of T-cell alloreactivity",
+          "4 min"
+        ],
+        [
+          "Matching rules by donor type",
+          "Sibling, unrelated, haploidentical and cord blood: what must match",
+          "7 min"
+        ],
+        [
+          "Choosing the donor",
+          "Donor hierarchy, donor age, CMV, sex, ABO, DSA; paediatric rules",
+          "5 min"
+        ],
+        [
+          "Stem cell source and board questions",
+          "BM vs PB vs CB, randomized and registry data, 3 MCQs",
+          "11 min"
+        ]
+      ],
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9 · Ayuk F, et al. Ch. 12 · Horgan C, et al. Ch. 14",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是 HLA 的基本生物學，class I 和 class II 的差別、typing resolution 怎麼分級，以及 T cell 辨認異體抗原的三條途徑，大約四分鐘，後面所有 matching 規則都建立在這裡。",
+          "第二段最長，依 donor 類型逐一看 sibling、unrelated、haploidentical 和 cord blood 各自要配哪些 locus、可以容忍哪些 mismatch。第三段是 donor 的選擇順序，包括 donor age、CMV、性別、ABO、DSA，以及兒科的特殊規則。",
+          "最後一段比較 bone marrow、peripheral blood 和 cord blood，接著做三題練習，每題都對應前面的某一張投影片。",
+          "Donor 和 stem cell source 其實是一起決定的，兒科尤其明顯，兩段會互相引用。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "HLA biology and typing",
+      "eyebrow": "HLA · Class I and class II",
+      "title": "HLA class I and II differ in expression and in their T-cell partner",
+      "head": [
+        "",
+        "Class I",
+        "Class II"
+      ],
+      "rows": [
+        [
+          "Loci",
+          "HLA-A, -B, -C",
+          "HLA-DR, -DQ, -DP"
+        ],
+        [
+          "Chains",
+          "Polymorphic α-chain + monomorphic β2m",
+          "α- and β-chain, about 30 kDa each"
+        ],
+        [
+          "Expression",
+          "All healthy nucleated cells",
+          "APCs; induced by IFN-γ and TNF-α"
+        ],
+        [
+          "Peptides",
+          "Mostly intracellular; proteasome → TAP",
+          "Mostly extracellular; loaded by HLA-DM/DO"
+        ],
+        [
+          "Read by",
+          "CD8+ T cells; NK cells via KIR",
+          "CD4+ T cells; NKp44 binds some HLA-DP"
+        ]
+      ],
+      "colW": [
+        2.0,
+        4.6,
+        5.4
+      ],
+      "fontSize": 18,
+      "caption": "MHC on 6p21.3, about 260 genes; codominant, Mendelian; recombination rate > 1%",
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "HLA 基因位在第六對染色體短臂 6p21.3，整個 MHC 大約 4 million base pairs、260 個基因。它以 codominant 方式表現、依 Mendelian 遺傳，兩個兄弟姊妹 HLA 完全相同的機率因此是 25%。Recombination rate 超過 1%，所以 sibling 也要做 family study 確認。",
+          "Class I 是 HLA-A、B、C，由多型性的 α-chain 加上不變的 β2-microglobulin 組成，表現在所有有核細胞上。它呈現細胞內來源的 peptide，經 proteasome 切割、由 TAP 運進內質網，交給 CD8 T cell；NK cell 則透過 KIR 讀取 class I。",
+          "Class II 是 DR、DQ、DP，平常只在 B cell、macrophage、dendritic cell 這些專業 APC 上，發炎時 IFN-γ 和 TNF-α 會讓其他細胞也表現。它呈現細胞外來源的 peptide，交給 CD4 T cell。DR 的多型性集中在 β-chain，DQ 和 DP 則兩條鏈都有。",
+          "Class II 的 peptide loading 在 MIIC compartment 進行，由同樣編在 MHC 裡的 HLA-DM 和 HLA-DO 催化。",
+          "哪一類表現在所有有核細胞、對應 CD4 還是 CD8，是基本概念題，左右兩欄對照記即可。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "HLA · Typing resolution",
+      "title": "Typing resolution sets how precisely a match can be called",
+      "head": [
+        "Resolution",
+        "Definition",
+        "Methods"
+      ],
+      "rows": [
+        [
+          "Low (first field)",
+          "Serological or first-field DNA result",
+          "Serology, SSP, SSOP"
+        ],
+        [
+          "Intermediate",
+          "Between low and high, as agreed\n(e.g. CIWD alleles, NMDP codes)",
+          "SSP, SSOP, SBT"
+        ],
+        [
+          "High (second field)",
+          "Same protein in the antigen-binding groove;\nincludes P groups",
+          "NGS, SBT"
+        ],
+        [
+          "Allelic (all fields)",
+          "Unique nucleotide sequence, all digits",
+          "NGS, SBT"
+        ]
+      ],
+      "colW": [
+        3.0,
+        6.0,
+        2.8
+      ],
+      "fontSize": 18,
+      "caption": "Polymorphism clusters in exons 2–4 (class I) and 2–3 (class II); 36,263 alleles in IMGT/HLA",
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 Table 9.1，typing resolution 分四級。Low resolution 是 serology 或 DNA 的 first field。High resolution 是 second field，定義是在 antigen-binding groove 編出相同蛋白質的一組 allele，所以 P group 也算 high。Allelic 是所有欄位都確定的獨特序列。Intermediate 介於兩者之間，由送檢單位和實驗室事先約定。",
+          "方法要對得上。Serology、SSP、SSOP 只到 low 或 intermediate；high 和 allelic 需要定序，也就是 Sanger 的 SBT 或 NGS。多型性集中在 class I 的 exon 2 到 4、class II 的 exon 2 到 3，正好是 peptide-binding groove 和 coreceptor 結合區，早期的 PCR typing 就只看這幾個 exon。",
+          "NGS 也改變了 registry。全球 registry donor 具備 A、B、C、DRB1、DQB1、DPB1 六個 locus 資料的比例，2016 到 2022 年幾乎加倍，達到 43%，找 donor 和 workup 都變快。Unrelated donor 的 HLA identity 要用中心和實驗室協議的最高 resolution 確認。",
+          "Low resolution 相合不代表 allele 層級相合，所以 unrelated donor 要確認到 high resolution 才能說 8/8。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "HLA · Alloreactivity",
+      "title": "T cells see alloantigen by three routes that drive GVHD and GVL",
+      "root": "Alloreactive donor T cells: GVHD and GVL",
+      "branches": [
+        {
+          "label": "Direct",
+          "box": "Intact mismatched HLA–peptide",
+          "out": "Naïve and memory T cells"
+        },
+        {
+          "label": "Indirect",
+          "box": "Mismatched-HLA peptides on self-HLA",
+          "out": "PIRCHE-I and PIRCHE-II"
+        },
+        {
+          "label": "Minor antigens",
+          "box": "Non-HLA polymorphic peptides on self-HLA",
+          "out": "Only target in HLA-matched HCT"
+        }
+      ],
+      "invert": 2,
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "T cell 辨認異體組織的能力叫 alloreactivity，GVHD 和 GVL 都來自它。Direct 途徑直接辨認對方完整的 mismatched HLA 加 peptide。Indirect 途徑是把 mismatched HLA 切成 peptide，放在自己的 HLA 上呈現，這類 epitope 叫 PIRCHE。",
+          "右邊是 minor histocompatibility antigen，來自 HLA 以外的多型性蛋白。HLA 完全相合的移植，mHAg 是唯一的標的，這句是常考的概念。只表現在造血細胞的 mHAg 偏向 GVL，正被拿來發展 immunotherapy。",
+          "PIRCHE 模型可以用在任何 HLA-mismatched 移植。Direct 途徑則取決於兩個 HLA 的 immunopeptidome 重疊多少，重疊越少，alloreactive T cell 越多，這是後面 nonpermissive mismatch 的生物學基礎。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Matching by donor type",
+      "eyebrow": "Matching · Donor types",
+      "title": "Donor availability ranges from 25% for siblings to over 90% for haplo",
+      "head": [
+        "Donor type",
+        "Chance of finding one",
+        "Match standard"
+      ],
+      "rows": [
+        [
+          "HLA-identical sibling",
+          "25% per sibling",
+          "12/12 genotypic; confirm by family study"
+        ],
+        [
+          "Matched unrelated (MUD)",
+          "30–90%, by ethnicity",
+          "8/8 A, B, C, DRB1 (10/10 with DQB1)"
+        ],
+        [
+          "Haploidentical relative",
+          "> 90%",
+          "One shared haplotype; 6/12 mismatched"
+        ],
+        [
+          "Unrelated cord blood",
+          "> 80%",
+          "Mismatch tolerated; full match is rare"
+        ]
+      ],
+      "colW": [
+        3.4,
+        2.8,
+        5.8
+      ],
+      "fontSize": 18,
+      "caption": "10/10 MUD: > 75% for European Whites, < 30% for African Americans",
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9 · Ayuk F, et al. Ch. 12",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "四種 donor 的可得性差很多，這組數字來自 Ch. 9 的 key points。HLA-identical sibling 是 25%，每個兄弟姊妹有四分之一機會遺傳到相同的兩條 haplotype；Ch. 12 也提到實際上不到三分之一的病人有 sibling 可用，主要看家庭大小。Sibling 要用 family study 確認 A、B、C、DRB1、DQB1、DPB1 六個 locus，排除 recombination，確認後才是 12/12。",
+          "Unrelated donor 是 phenotypic match，最低標準是 A、B、C、DRB1 四個 locus 的 8/8。DR 和 DQ 之間 linkage disequilibrium 很強，大多數 8/8 也是 10/10；DP 的 LD 弱，所以大多數 unrelated donor 在 DP 不合。這就是 matched sibling 和 matched unrelated 要分開看的原因。全球 registry 超過四千一百萬人，找到 8/8 的機率依族群從 30% 到超過 90%。",
+          "Haploidentical relative 共享一條 haplotype，超過 90% 的病人找得到，父母和子女是 100%，兄弟姊妹是 50%。Cord blood 已經冷凍保存，mismatch 比較能容忍，完全相合反而是例外，代價是 protective immunity 恢復較慢。",
+          "實務上，family typing 和 registry search 常需要同時進行，因為 sibling 只有四分之一機會相合。少數族群在 registry 的代表性不足，找到 10/10 的機會低，haplo、mismatched UD 和 cord 就是補這個缺口。",
+          "25%、50%、100% 這三個機率很常考，分別對應 HLA-identical sibling、haplo sibling 和父母子女。"
+        ],
+        "reminders": [
+          "Ch. 9 gives 30–90% for an 8/8 UD; Ch. 12 gives 16–75% for a fully matched UD (Gragert 2014; Buck 2016). If asked, both are from the book; the slide follows Ch. 9 key points."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Matching · Unrelated donors",
+      "title": "In unrelated donors, each A, B, C or DRB1 mismatch costs survival",
+      "head": [
+        "Locus",
+        "What the chapters say",
+        "Practical use"
+      ],
+      "rows": [
+        [
+          "A, B, C, DRB1",
+          "Each mismatch ≈ 10% lower survival\n(non-PTCy prophylaxis); no hierarchy",
+          "Minimum loci, high resolution"
+        ],
+        [
+          "DQB1",
+          "Mismatch better tolerated",
+          "Mismatch of choice if no 10/10"
+        ],
+        [
+          "DPB1",
+          "Mismatched in most 10/10 UDs;\nmismatch protects against relapse",
+          "Nonpermissive (TCE) worse;\navoidance optional"
+        ],
+        [
+          "HLA-B leader",
+          "Mismatched-UD outcome depends on it\n(Petersdorf 2020)",
+          "Also seen in haplo and cord"
+        ],
+        [
+          "Any locus, PTCy",
+          "Risk of single or multiple mismatches\ndramatically lower",
+          "Mismatched UD is a valid option"
+        ]
+      ],
+      "colW": [
+        2.6,
+        5.4,
+        4.0
+      ],
+      "fontSize": 16,
+      "caption": "Survival loss comes from higher NRM, with no gain in relapse (Lee 2007; Fürst 2013)",
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9 · Ayuk F, et al. Ch. 12",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Unrelated donor 的 matching 規則在這張表。A、B、C、DRB1 是最少要做的 locus，而且要 high resolution。在非 PTCy 的 prophylaxis 下，每多一個 mismatch，mortality 大約增加 10%，這是 Lee 2007 和 Fürst 2013 的結果。Survival 變差來自 NRM 增加，relapse 並沒有減少，多出來的 alloreactivity 換不到疾病控制。",
+          "找不到 10/10 時，DQB1 mismatch 是首選，因為耐受性最好。除了 DQ，A、B、C、DRB1 之間沒有明確的優先順序，題目問 9/10 時哪一個 locus 不合最好，答案就是 DQ。",
+          "DPB1 比較特別。大多數 10/10 donor 在 DP 都不合，而 DP mismatch 反而保護 relapse。依 T-cell epitope group 可以分 permissive 和 nonpermissive，nonpermissive 的結果比 full match 或 permissive 差，但各國指引把避開 nonpermissive mismatch 列為 optional。",
+          "HLA-B leader dimorphism 是較新的概念，mismatched unrelated 的結果和它有關，haplo 和 cord 也有類似發現。最後一列最重要。有了 PTCy，single 甚至 multiple mismatch 的風險大幅下降，mismatched UD 已經是可行的選擇；那個 10% 的規則，是在非 PTCy 的時代建立的。",
+          "這一張的數字大多來自成人、非 PTCy 的資料，用在 PTCy 平台時要小心外推。Ch. 9 也提醒，GVHD prophylaxis 本身就會改變 HLA 的重要性，matching 規則需要在 PTCy 的情境下重新定義。考試若出現 PTCy 的題幹，選項說 mismatch 一定不能用，通常就是錯的。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "eyebrow": "Matching · Haploidentical donors",
+      "title": "Haplo donors need family confirmation, a DSA check and HLA-loss vigilance",
+      "blocks": [
+        {
+          "head": "Confirm the haplotype",
+          "body": "Shared haplotype by descent, or high-resolution typing of all six loci to exclude recombination (EFI)",
+          "extra": "Parents and children 100%; siblings 50%"
+        },
+        {
+          "head": "Pick the best haplo",
+          "body": "Better with B-leader match, DPB1 nonpermissive mismatch, DRB1 mismatch in GvH direction (Fuchs 2022)",
+          "extra": "'Less-than-haplo' gives no advantage"
+        },
+        {
+          "head": "DSA and HLA loss",
+          "body": "DSA raise graft-failure risk and must be avoided; 25% of relapses after haplo lose the unshared haplotype",
+          "extra": "Type the relapsed leukaemia"
+        }
+      ],
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9 · Ayuk F, et al. Ch. 12",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Haplo donor 有三件事要做。先確認 haplotype。父母和子女依定義就是 haploidentical，但 EFI 的標準要求用 family study 證明共享 haplotype，做不到就用 high-resolution typing 六個 locus，排除 recombination。",
+          "同樣是 haplo，donor 之間也有差別。Fuchs 2022 在 PTCy 的資料中發現，B-leader match、DPB1 nonpermissive mismatch，以及 GvH 方向的 DRB1 mismatch 結果較好。在 unshared haplotype 上剛好多配到幾個 allele 的 less-than-haploidentical donor，目前看不出好處。",
+          "第三件是 DSA。病人有針對 donor HLA 的抗體時，graft failure 風險上升，graft failure 之後的存活也更差，所以要依 EFI 指引篩檢並避開，輸血很多的病人尤其重要。另外，haplo 之後的 relapse 有 25% 是 HLA loss，白血病丟掉 unshared haplotype，躲過 donor T cell，所以復發時書上建議對白血病細胞做 HLA typing。",
+          "輸血很多的病人，例如 hemoglobinopathy 和骨髓衰竭，最容易帶有 anti-HLA antibody。Haplo 的候選人通常不只一位，先驗 DSA，再比較年齡和 HLA 細節。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Matching · Cord blood",
+      "title": "Cord blood units are chosen by HLA match, then by cell dose",
+      "steps": [
+        "High-res typing: A, B, C, DRB1",
+        "First choice: ≥ 5/6 (A, B, DRB1) units",
+        "Include HLA-C: steer toward ≥ 6/8",
+        "No ≥ 5/6? 4/6 is acceptable"
+      ],
+      "invert": 1,
+      "caption": "Dose: ≥ 3 × 10⁷ TNC/kg with ≤ 1–2 mismatched loci (Ch. 12). Double cord: no unit-to-unit match needed.",
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9 · Ayuk F, et al. Ch. 12",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Cord blood 的 matching 比較寬。傳統的最低標準是 HLA-A、B 做到 serologic split antigen，DRB1 做到 high resolution，所以才有 6/6、5/6、4/6 這種說法。後來的研究發現，把 HLA-C 納入、而且用 high resolution，結果更好。",
+          "書上的建議依序是這四步。病人和 cord unit 都做 A、B、C、DRB1 的 high-resolution typing。首選是 A、B、DRB1 至少 5/6 的 unit。可以把 HLA-C 納入，往 6/8 以上靠。真的沒有 5/6，4/6 也可以接受。做 double cord 時，兩個 unit 之間不需要相合。",
+          "Matching 之外還要看 cell dose，這是 cord 最大的限制。Ch. 12 引用的較新建議是最多一到兩個 locus 不合，TNC 至少 3 × 10⁷/kg。Cord 的細胞數大約少 1 log，靠高增殖能力彌補。兒科有兩個 prospective study 顯示 double cord 沒有好處。",
+          "Cord blood 的另一個特點是速度。Unit 已經 typing 並冷凍在 cord blood bank，不用等成人 donor 的 search 和 workup，需要趕時間的病人，cord 是可以考慮的選項。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "section": "Choosing the donor",
+      "eyebrow": "Donor selection · Algorithm",
+      "title": "Adult donor search runs sibling, then 10/10 MUD, then alternatives",
+      "steps": [
+        "HLA-identical sibling",
+        "10/10 matched unrelated donor",
+        "9/10 MUD, haploidentical or cord blood"
+      ],
+      "invert": 0,
+      "caption": "Beyond HLA at the MUD step: donor age > CMV, sex and ABO matching. At the last step: donor age, DSA and centre experience (Fig. 12.1).",
+      "cite": "Ayuk F, et al. EBMT Handbook 8th ed. 2024; Ch. 12 · Spierings E, et al. Ch. 9",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "這是 Fig. 12.1，成人血液惡性疾病的 donor 選擇流程。第一順位是 HLA-identical sibling。沒有的話找 10/10 matched unrelated donor，HLA 以外先看 donor age，再看 CMV、性別、ABO。再下一層是 9/10 unrelated、haplo 或 cord blood，這時看 donor age、DSA 和中心經驗。",
+          "Ch. 9 的國際指引順序相同。要補一句，年輕的 MUD 可能比年長 10 歲以上的 sibling 還好，sibling 優先並不是絕對。歐洲的指引常把 DQB1 一起算，以 10/10 當作 matched 的標準。",
+          "流程的重點在 HLA 以外因素的排序。Fig. 12.1 把 donor age 放在 CMV、性別和 ABO 之前；到了最後一層，取而代之的是 DSA 和中心經驗。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Donor selection · Non-HLA factors",
+      "title": "After HLA, donor age is the donor factor that matters most",
+      "head": [
+        "Factor",
+        "Evidence in the chapters",
+        "Selection rule"
+      ],
+      "rows": [
+        [
+          "Donor age",
+          "2-year survival 3% better per 10 years\nyounger donor (Shaw 2018)",
+          "Prefer the youngest matched donor"
+        ],
+        [
+          "CMV serostatus",
+          "Best: seronegative patient and graft",
+          "Letermovir may reduce its weight"
+        ],
+        [
+          "Sex",
+          "Female → male significant in 3 studies;\nmay depend on conditioning",
+          "Controversial"
+        ],
+        [
+          "ABO",
+          "Modest, declining impact",
+          "PB avoids infusion issues, not\ndelayed haemolysis or PRCA"
+        ],
+        [
+          "Anti-HLA DSA",
+          "More graft failure after haplo HCT\n(Ciurea 2015)",
+          "Test and avoid (EBMT consensus)"
+        ]
+      ],
+      "colW": [
+        2.6,
+        5.2,
+        4.2
+      ],
+      "fontSize": 16,
+      "caption": "UD donors aged < 30: 36% (1988–2006) → 69% (2012–2014) of selections (Kollman 2016)",
+      "cite": "Ayuk F, et al. EBMT Handbook 8th ed. 2024; Ch. 12 · Spierings E, et al. Ch. 9",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "HLA 之後，donor age 是最重要的因素，Ch. 9 和 Ch. 12 都這樣寫。Shaw 2018 發現每選年輕 10 歲的 donor，2-year survival 好 3%。這個結果改變了實務，被選中的 unrelated donor 小於 30 歲的比例，從 1988 到 2006 年的 36%，增加到 2012 到 2014 年的 69%。",
+          "CMV 也有影響，最好的組合是病人和 donor 都 seronegative。現在有 letermovir 預防，CMV 在 donor 選擇上的份量可能會下降。兒科則建議 CMV IgG 陽性的病人選陽性 donor。",
+          "性別的影響有爭議，主要因為定義不同。只看 male recipient 的三個研究都發現 sex mismatch 有顯著影響，但可能和 conditioning 有關。ABO 的影響不大，而且越來越小。PB 幾乎不含紅血球，可以避開輸注時的溶血，但移植後仍可能有 delayed hemolysis、delayed erythropoiesis 和 pure red cell aplasia。",
+          "最後是 donor-specific anti-HLA antibody。Ciurea 2015 顯示 DSA 增加 haplo 之後的 graft failure，EBMT 也有專門的 consensus guideline。病房的做法是 mismatched donor 先驗 DSA，有的話盡量換 donor，或依 consensus 處理。",
+          "這些因素通常只在有兩位以上 donor 可選時才派得上用場。Ch. 12 也提醒，在用 PTCy 的 related donor 移植，donor 因素的影響可能比較不明顯，而且 donor 年齡、donor 與病人的關係、病人年齡彼此糾纏，分析起來很複雜，需要更大型的前瞻研究。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Donor selection · Children",
+      "title": "In children, a 9/10 donor matches a sibling and BM is preferred",
+      "head": [
+        "Issue",
+        "Paediatric rule (Ch. 12)"
+      ],
+      "rows": [
+        [
+          "Matched donor (I-BFM)",
+          "10/10 or 9/10: EFS, OS, CIR not inferior to MSD (ALL)"
+        ],
+        [
+          "Mismatched donor (≥ 2 disparities)",
+          "4-year NRM 23% vs 9% (p < 0.001)"
+        ],
+        [
+          "Non-malignant disease",
+          "No benefit from alloreactivity: closest match, 10/10"
+        ],
+        [
+          "Haplo: mother vs father",
+          "Mother better: survival 51% vs 11% (Stern 2008)"
+        ],
+        [
+          "Bone marrow dose",
+          "≥ 3 × 10⁸ NC/kg and ≥ 3 × 10⁶ CD34+/kg"
+        ],
+        [
+          "PB graft",
+          "CD3+ ≤ 10 × 10⁸/kg; avoid PB in non-malignant disease"
+        ]
+      ],
+      "colW": [
+        4.2,
+        7.8
+      ],
+      "fontSize": 17,
+      "cite": "Ayuk F, et al. EBMT Handbook 8th ed. 2024; Ch. 12",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "兒科的規則和成人不同。I-BFM 的定義不分 related 或 unrelated，10/10 或 9/10 都算 matched donor，兩個以上 disparity 才算 mismatched。BFM 和 I-BFM 的 prospective study 顯示，ALL 兒童用 matched donor，EFS、OS 和 cumulative incidence of relapse 都不輸 HLA-identical sibling。",
+          "Mismatched donor 就不同了。569 位 very-high-risk ALL 中，106 位用 mismatched donor，主要是 haplo，4-year NRM 23% 對 9%，p 小於 0.001，多變量分析的 OS、EFS 和 NRM 都比較差。Non-malignant disease 得不到 GVL 的好處，要找最接近的 10/10。",
+          "兒科 haplo 多由父母捐贈。Stern 2008 在 T-cell-depleted haplo 中，用母親當 donor 的 survival 51%，父親 11%，可能和懷孕時的 microchimerism 有關。",
+          "來源方面，兒科首選 BM。BM 至少要 3 × 10⁸ nucleated cells/kg 和 3 × 10⁶ CD34/kg，惡性疾病的 neutrophil engraftment 機率超過 95%，中位數 21 天。用 PB 時 CD3 不要超過 10 × 10⁸/kg；non-malignant disease 因為 chronic GVHD 增加，明確建議避免 PB。",
+          "這張背後的邏輯是，惡性疾病可以容忍一點 mismatch，因為 GVL 可以抵銷 GVHD 的代價；non-malignant disease 沒有這個好處，所以要求最嚴格。因為 matched donor 不輸 sibling，書上認為未來幾乎每個需要 allo-HCT 的兒童都可以啟動 unrelated donor search，病人風險越高，可以接受的 disparity 越大。疾病進展快或移植後復發時，mismatched donor 因為隨時可用，也被廣泛推薦。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Stem cell source",
+      "eyebrow": "Stem cell source · Trade-offs",
+      "title": "Each stem cell source trades engraftment speed against GVHD",
+      "head": [
+        "",
+        "Bone marrow",
+        "Peripheral blood",
+        "Cord blood"
+      ],
+      "rows": [
+        [
+          "Engraftment",
+          "Slower",
+          "Fastest; least graft failure",
+          "Slowest"
+        ],
+        [
+          "Chronic GVHD",
+          "Lower (fewer T cells)",
+          "Higher",
+          "Low"
+        ],
+        [
+          "GVL / relapse",
+          "Less T-cell GVL",
+          "Possibly greater GVL",
+          "Lower relapse reported"
+        ],
+        [
+          "Donor side",
+          "General anaesthesia;\nchild donors possible",
+          "G-CSF, apheresis;\nnot for child donors",
+          "Banked, already typed"
+        ],
+        [
+          "Drawbacks",
+          "ABO mismatch: RBC depletion\nlowers cell dose",
+          "Long immunosuppression,\nquality of life",
+          "Higher TRM, cost;\nno cells for DLI"
+        ]
+      ],
+      "colW": [
+        2.4,
+        3.3,
+        3.3,
+        3.0
+      ],
+      "fontSize": 16,
+      "caption": "PB is used in more than 80% of adult allo-HCT; BM remains the paediatric choice",
+      "cite": "Horgan C, et al. EBMT Handbook 8th ed. 2024; Ch. 14",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "三種來源的優缺點放在同一張表。PB 現在是成人的主流，超過 80% 的成人 allo-HCT 用 PB；兒科仍以 BM 為主，cord blood 的使用則逐年下降。",
+          "PB 的 CD34 量大，engraftment 和免疫重建最快，graft failure 和感染都較少，也能較早出院。T cell 多，在 RIC 時能幫助 engraftment，也可能加強 GVL。代價是 chronic GVHD 較多，長期免疫抑制影響生活品質。Donor 要打 G-CSF，有時需要 central line，基於倫理，兒童 donor 不做 PB 捐贈。",
+          "BM 的 T cell 較少，GVHD 較少，但 GVL 也可能較弱。Cell dose 受限於抽取量，ABO 不合時要做 RBC depletion，又再損失細胞，捐贈者也需要全身麻醉。",
+          "Cord blood 已經 typing、冷凍好，HLA 要求寬，對少數族群特別重要，relapse 較低、chronic GVHD 也少。缺點是 TRM 較高、費用高、engraftment 慢，而且無法再拿細胞做 DLI，這一點很適合出成選項。",
+          "Donor 的角度也要考慮。BM 捐贈需要全身麻醉，需要高細胞量時捐贈者有時還要輸紅血球；PB 捐贈不用開刀，比較容易接受，但要打 G-CSF，少數 poor mobilizer 需要第二天收集。Cord blood 近年有 ex vivo expansion，CD34 可以接近 PB 的量，隨機研究顯示 engraftment 更快、早期併發症更少。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Stem cell source · PB vs BM data",
+      "title": "PB speeds engraftment and adds chronic GVHD without changing OS",
+      "head": [
+        "Study (PB vs BM)",
+        "Engraftment",
+        "Chronic GVHD",
+        "Relapse / NRM",
+        "OS"
+      ],
+      "rows": [
+        [
+          "SCTCG meta-analysis 2005\nHLA-id sibling, 538 vs 554",
+          "ANC day 14 vs 21",
+          "73% vs 56%",
+          "Relapse 21% vs 27%\nNRM 16% vs 25%",
+          "62% vs 59% (NS)"
+        ],
+        [
+          "Anasetti 2012, RCT\nMAC, unrelated, 273 vs 278",
+          "Graft failure\n3% vs 9%",
+          "53% vs 41%",
+          "NS",
+          "NS"
+        ],
+        [
+          "Savani 2016, registry\nRIC, 9011 vs 837",
+          "ANC day 16 vs 20",
+          "36% vs 29%",
+          "Relapse 35% vs 43%",
+          "50% vs 47%\n(p = 0.05)"
+        ],
+        [
+          "Ruggeri 2018, haplo PTCy\n191 vs 260",
+          "ANC day 17 vs 18",
+          "32% vs 36% (NS)\naGVHD 38% vs 21%",
+          "Relapse 22% vs 26%\n(NS)",
+          "56% vs 55% (NS)"
+        ],
+        [
+          "Simonin 2017, paediatric\nALL, 719 vs 1743",
+          "ANC day 16 vs 19",
+          "44% vs 21%",
+          "NRM 20% vs 12%",
+          "62% vs 67%\n(BM better)"
+        ]
+      ],
+      "colW": [
+        3.6,
+        2.2,
+        2.3,
+        2.4,
+        2.0
+      ],
+      "fontSize": 14,
+      "cite": "Horgan C, et al. EBMT Handbook 8th ed. 2024; Ch. 14",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張整理 Ch. 14 表格中 PB 對 BM 的主要比較。第一列是 SCTCG 的 individual patient data meta-analysis，對象是 HLA-identical sibling。PB 的 neutrophil engraftment 第 14 天對第 21 天，chronic GVHD 73% 對 56%，但 NRM 16% 對 25%，relapse 21% 對 27%，DFS 59% 對 53%，三者都有顯著差異；OS 62% 對 59%，p 等於 0.17。",
+          "Anasetti 2012 是 unrelated donor、myeloablative 的 RCT，PB 的 graft failure 3% 對 9%，chronic GVHD 53% 對 41%，2-year OS 沒有差別。Savani 2016 是 RIC 的 registry，PB 的 relapse 35% 對 43%，OS 50% 對 47%，p 剛好 0.05，支持 RIC 用 PB。",
+          "Haplo PTCy 的 Ruggeri 2018，PB 的 acute GVHD 38% 對 21%，grade III 到 IV 14% 對 4%，chronic GVHD 和 OS 則相近。最後是兒科 ALL 的 Simonin 2017，PB 的 chronic GVHD 44% 對 21%，NRM 20% 對 12%，OS 反而是 BM 較好，67% 對 62%。",
+          "讀這種表要看研究設計。SCTCG 和 Anasetti 來自 randomized trial，證據等級最高；Savani、Ruggeri、Simonin 是 registry，有選擇偏差。考試常把 DFS 和 OS 混在一起，SCTCG 的 DFS 有顯著差異，OS 沒有，兩個 endpoint 要分清楚。Relapse 減少的好處，在 HLA identical donor 和進展期疾病最明顯。",
+          "成人的 OS 大致打平，兒童則偏向 BM，這是下一張選擇流程的根據。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Stem cell source · Choice",
+      "title": "Disease, age and conditioning decide the stem cell source",
+      "root": "Which stem cell source?",
+      "branches": [
+        {
+          "label": "Adult malignancy",
+          "box": "PB, especially RIC or high relapse risk",
+          "out": "Faster engraftment, possible GVL"
+        },
+        {
+          "label": "Standard-risk disease",
+          "box": "Consider BM",
+          "out": "Less cGVHD, better QoL"
+        },
+        {
+          "label": "SAA, non-malignant",
+          "box": "BM",
+          "out": "Lower GVHD risk"
+        },
+        {
+          "label": "Children",
+          "box": "BM",
+          "out": "No G-CSF for child donors"
+        }
+      ],
+      "cite": "Horgan C, et al. EBMT Handbook 8th ed. 2024; Ch. 14 · Ayuk F, et al. Ch. 12",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "最後把來源選擇整理成這棵樹。成人血液惡性疾病，PB 通常是首選，特別是 RIC 和 relapse 風險高的病人，因為 cell dose 高、engraftment 快，也可能有較強的 GVL。",
+          "不過 key points 也提醒，標準風險的疾病整體結果相似，BM 的 chronic GVHD 較少，長期生活品質可能較好，所以值得考慮。Non-malignant disease，尤其 severe aplastic anemia，BM 仍是首選，因為 GVHD 較低。兒童多半用 BM，兒童 donor 也不打 G-CSF。",
+          "Haplo 加 PTCy 傳統上用 BM；Bashey 2017 發現改用 PB，acute 和 chronic GVHD 較多，但白血病的 relapse 較少。ATG-based haplo 用 G-CSF-stimulated BM，αβ T-cell depletion 則用 PB。三種 haplo 平台之間的 stem cell source 目前都沒有前瞻研究直接比較，選擇主要依照各平台的傳統。",
+          "這幾條原則在考試中常以病人情境出現，例如年輕 SAA 病人有 HLA-identical sibling，問 stem cell source，答案是 BM；成人 AML 接受 RIC，答案偏向 PB。Cord blood 在 metabolic disease 有特殊角色，因為 chimerism 較好，結果也比較好。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: choose the 9/10 unrelated donor",
+      "stem": "A 50-year-old man with AML in first complete remission has no HLA-identical sibling and no 10/10 unrelated donor. Five 9/10 unrelated donors of similar age are available, each with a single allele mismatch at a different locus. GVHD prophylaxis will not include PTCy. Which donor is preferred?",
+      "options": [
+        "Single HLA-A mismatch",
+        "Single HLA-B mismatch",
+        "Single HLA-C mismatch",
+        "Single HLA-DRB1 mismatch",
+        "Single HLA-DQB1 mismatch"
+      ],
+      "answer": "E",
+      "answerTitle": "Answer E: a DQB1 mismatch is best tolerated",
+      "explanation": "HLA-DQ mismatches are better tolerated and are the mismatch of choice when no 10/10 UD exists. Among HLA-A, -B, -C and -DRB1 no hierarchy has been found; under non-PTCy prophylaxis each mismatch lowers survival by about 10%, through higher NRM without less relapse.",
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。50 歲男性，AML in first CR，沒有 HLA-identical sibling，registry 也找不到 10/10。有五位年齡相近的 9/10 unrelated donor，各自在不同 locus 有一個 allele 不合。Prophylaxis 不用 PTCy。依書上的 matching 原則，選哪一位最適合。",
+          "選項 A 到 E 分別是 HLA-A、HLA-B、HLA-C、HLA-DRB1 和 HLA-DQB1 的單一 allele mismatch。五位 donor 的年齡、CMV 和 ABO 條件都相近，所以只需要比較 mismatch 落在哪一個 locus。給大家三十秒。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 E，DQB1 mismatch。書上明確寫 DQ mismatch 耐受性最好，找不到 10/10 時就是首選。",
+          "常見的錯誤是選 C，覺得 HLA-C 比較不重要；或選 D，以為 DR 一定最危險。書上的說法是 A、B、C、DRB1 之間找不到明確的優先順序，在非 PTCy 的情況下，每一個 mismatch 都讓 mortality 增加大約 10%，增加的是 NRM，relapse 並沒有減少。",
+          "如果題目改成用 PTCy，答案方向不變，但 mismatch 的代價小很多，mismatched UD 本身就是合理的選擇。",
+          "另外要分清楚 DQ 和 DP。DP 大多數 10/10 donor 本來就不合，重點在 permissive 或 nonpermissive，和這題是不同的問題。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: pick one of two 10/10 donors",
+      "stem": "A 46-year-old CMV-seropositive man with high-risk AML in first remission has no sibling donor. Two 10/10 unrelated donors are found. Donor 1: 24-year-old man, CMV-seronegative, ABO major-incompatible. Donor 2: 54-year-old man, CMV-seropositive, ABO-identical. Which choice best follows the EBMT algorithm?",
+      "options": [
+        "Donor 1, because donor age outweighs CMV and ABO matching",
+        "Donor 2, because CMV matching outweighs donor age",
+        "Donor 2, because ABO major incompatibility causes graft failure",
+        "Either donor; non-HLA factors do not affect survival",
+        "Neither; a haploidentical relative is preferred over a 10/10 MUD"
+      ],
+      "answer": "A",
+      "answerTitle": "Answer A: after HLA, donor age matters most",
+      "explanation": "Fig. 12.1 ranks donor age above CMV, sex and ABO matching for a 10/10 MUD. A donor 10 years younger gives about 3% better 2-year survival (Shaw 2018). The ABO effect is modest and declining; a PB graft avoids infusion-related ABO problems, although delayed haemolysis and PRCA can still occur.",
+      "cite": "Ayuk F, et al. EBMT Handbook 8th ed. 2024; Ch. 12",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。46 歲男性，CMV 陽性，high-risk AML in first remission，沒有 sibling。找到兩位 10/10 unrelated donor。Donor 1 是 24 歲男性，CMV 陰性，ABO major incompatible；Donor 2 是 54 歲男性，CMV 陽性，ABO 相同。",
+          "A 選 Donor 1，理由是年齡比較重要；B 和 C 選 Donor 2，理由分別是 CMV 和 ABO；D 是都可以；E 是都不要，改找 haplo。兩位 donor 都是男性，性別這一項可以先不考慮，請比較年齡、CMV 和 ABO 三個條件。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 A。Fig. 12.1 在 10/10 MUD 這一層寫得很清楚，HLA 以外先看 donor age，再看 CMV、性別和 ABO。兩位 donor 差 30 歲，依 Shaw 2018，每年輕 10 歲，2-year survival 好 3%。",
+          "B 是主要陷阱。CMV matching 確實有影響，但排序在年齡之後，而且有了 letermovir，它的份量還在下降。C 錯在 ABO 的影響很小，用 PB 還能避開輸注時的問題。E 也不對，流程上 10/10 MUD 排在 haplo 前面。",
+          "如果選 Donor 1，ABO major incompatible 用 PB 時紅血球很少，輸注時的溶血風險低，但移植後仍要追蹤 delayed hemolysis 和 pure red cell aplasia。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: compare PB with BM from a sibling",
+      "stem": "A 40-year-old man with AML in first complete remission will undergo myeloablative HCT from his HLA-identical brother. The team debates peripheral blood (PB) versus bone marrow (BM). According to the SCTCG individual-patient meta-analysis of randomized trials, which statement about PB compared with BM is correct?",
+      "options": [
+        "PB lowers the incidence of chronic GVHD",
+        "PB delays neutrophil engraftment by about one week",
+        "PB significantly improves 3-year overall survival",
+        "PB lowers relapse and NRM at the cost of more chronic GVHD",
+        "PB increases graft failure because of G-CSF exposure"
+      ],
+      "answer": "D",
+      "answerTitle": "Answer D: PB trades more chronic GVHD for less relapse and NRM",
+      "explanation": "SCTCG (PB 538, BM 554): neutrophils day 14 vs 21; chronic GVHD 73% vs 56%; 3-year NRM 16% vs 25%; relapse 21% vs 27%; DFS 59% vs 53%; OS 62% vs 59% (p = 0.17). Graft failure is lower, not higher, with PB (Anasetti 2012: 3% vs 9%).",
+      "cite": "Horgan C, et al. EBMT Handbook 8th ed. 2024; Ch. 14",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。40 歲男性，AML in first CR，準備接受 myeloablative 移植，donor 是 HLA-identical 的哥哥。團隊在討論用 PB 還是 BM。依 SCTCG 的 meta-analysis，關於 PB 相對於 BM，哪一個敘述正確。",
+          "A 是 chronic GVHD 較少，B 是 engraftment 慢一週，C 是 OS 顯著較好，D 是 relapse 和 NRM 較低但 chronic GVHD 較多，E 是 graft failure 較多。這題考的是 SCTCG 的數字，包括 engraftment、chronic GVHD、NRM、relapse 和 OS。給大家三十秒。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 D。SCTCG 中 PB 的 3-year NRM 16% 對 25%，relapse 21% 對 27%，DFS 59% 對 53%，代價是 chronic GVHD 73% 對 56%。",
+          "C 是主要陷阱。DFS 有差異，但 OS 62% 對 59%，p 等於 0.17，沒有顯著差別，PB 的 survival 好處在大多數研究都不明顯。A 和 B 剛好說反了，PB 的 chronic GVHD 較多，engraftment 較快，第 14 天對第 21 天。E 也反了，Anasetti 的 RCT 中 PB 的 graft failure 是 3% 對 9%。",
+          "PB 的好處在 DFS 和 engraftment，代價是 chronic GVHD 和長期免疫抑制；標準風險的病人，key points 建議考慮 BM，換取較好的長期生活品質。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "HLA · Nonpermissive mismatches",
+      "title": "Four models flag high-risk HLA mismatches",
+      "head": [
+        "Model",
+        "Loci",
+        "Donor setting",
+        "Clinical association"
+      ],
+      "rows": [
+        [
+          "T-cell epitope (TCE) groups",
+          "DPB1",
+          "8/8 UD",
+          "Mortality, acute GVHD"
+        ],
+        [
+          "Expression levels",
+          "C, DPB1",
+          "7–8/8 UD",
+          "Acute GVHD"
+        ],
+        [
+          "Mismatch combinations",
+          "C, DPB1",
+          "7–8/8 UD",
+          "Mortality, aGVHD, relapse"
+        ],
+        [
+          "PIRCHE",
+          "C, DPB1",
+          "8/8 UD; 9/10 UD, CBU",
+          "Acute GVHD"
+        ]
+      ],
+      "colW": [
+        3.8,
+        1.8,
+        3.0,
+        3.4
+      ],
+      "fontSize": 18,
+      "caption": "Avoiding these mismatches is usually regarded as optional (Table 9.2)",
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9",
+      "notes": {
+        "script": [
+          "這是 Table 9.2 的四種 nonpermissive mismatch 模型，TCE group、表現量、特定 mismatch 組合和 PIRCHE。三種 DP 模型的預測力相近，可能互為替代指標；在 PTCy 時代，這些規則還需要重新定義。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "HLA · Non-HLA immunogenetics",
+      "title": "Non-HLA genes also shape GVHD and relapse",
+      "head": [
+        "Factor",
+        "Outcome association",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Minor histocompatibility antigens",
+          "GVHD and relapse",
+          "Haematopoietic-restricted ones favour GVL"
+        ],
+        [
+          "KIR",
+          "Relapse and mortality",
+          "Missing-self NK GVL; used in donor choice"
+        ],
+        [
+          "MICA (NKG2D ligand)",
+          "GVHD, relapse, TRM",
+          "Met/Val 129 changes NKG2D affinity"
+        ],
+        [
+          "Immune response genes",
+          "GVHD and TRM",
+          "Cytokine, chemokine, NOD2, TLR, miRNA"
+        ]
+      ],
+      "colW": [
+        3.8,
+        3.0,
+        5.2
+      ],
+      "fontSize": 17,
+      "cite": "Spierings E, et al. EBMT Handbook 8th ed. 2024; Ch. 9",
+      "notes": {
+        "script": [
+          "Table 9.3 列出 HLA 以外的免疫遺傳因子。KIR 讓 educated NK cell 對缺少對應 HLA ligand 的細胞產生 missing-self 反應，在 haplo 有明顯的 GVL，所以 KIR typing 越來越常納入 donor 選擇。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Stem cell source · Cell content",
+      "title": "PB carries about 3 times the CD34 and 14 times the T cells of BM",
+      "head": [
+        "Source",
+        "Volume collected",
+        "Median CD34+ (×10⁶/kg)",
+        "Median CD3+ (×10⁶/kg)",
+        "Target dose"
+      ],
+      "rows": [
+        [
+          "Bone marrow",
+          "10–20 mL/kg",
+          "2–3",
+          "25",
+          "> 2 × 10⁸ TNC/kg"
+        ],
+        [
+          "Peripheral blood",
+          "150–400 mL",
+          "8",
+          "250",
+          "5–10 × 10⁶ CD34+/kg"
+        ],
+        [
+          "Umbilical cord blood",
+          "80–160 mL",
+          "0.2",
+          "2.5",
+          "> 3 × 10⁷ TNC/kg"
+        ]
+      ],
+      "colW": [
+        3.0,
+        2.4,
+        2.4,
+        2.4,
+        2.8
+      ],
+      "fontSize": 17,
+      "caption": "Körbling series, PB vs BM (×10⁶/kg): CD34 7.3 vs 2.4; CD3 701 vs 49 (Ch. 14)",
+      "captionY": 4.6,
+      "cite": "Ayuk F, et al. EBMT Handbook 8th ed. 2024; Ch. 12 · Horgan C, et al. Ch. 14",
+      "notes": {
+        "script": [
+          "這是 Table 12.1 和 Ch. 14 的組成比較。PB 的 CD34 大約是 BM 的三倍，CD3 多大約一個 log，這解釋了 PB 的 engraftment 較快、chronic GVHD 較多。Cord blood 的細胞數又比 BM 少一個 log。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Donor selection · Paediatric ranking",
+      "title": "Paediatric surveys put HLA first, then CMV",
+      "head": [
+        "Rank",
+        "Factor (EBMT PDWP survey, Balduzzi 2021)"
+      ],
+      "rows": [
+        [
+          "1",
+          "HLA compatibility, 10/10 better than 9/10"
+        ],
+        [
+          "2",
+          "CMV-positive donor for a CMV-positive recipient"
+        ],
+        [
+          "3",
+          "Bone marrow as the stem cell source"
+        ],
+        [
+          "4",
+          "Younger donor"
+        ],
+        [
+          "5",
+          "Male donor, particularly for a male recipient"
+        ],
+        [
+          "6",
+          "ABO major compatibility"
+        ],
+        [
+          "7",
+          "Donor centre location"
+        ],
+        [
+          "8",
+          "ABO minor compatibility"
+        ]
+      ],
+      "colW": [
+        1.2,
+        10.8
+      ],
+      "fontSize": 16,
+      "cite": "Ayuk F, et al. EBMT Handbook 8th ed. 2024; Ch. 12",
+      "notes": {
+        "script": [
+          "這是 EBMT 兒科工作小組的問卷排序，各中心之間差異很大，沒有共識的階層。有了 letermovir，CMV 這一項的份量可能下降。"
+        ]
+      }
+    }
+  ],
+  "refsPerSlide": 9
+}

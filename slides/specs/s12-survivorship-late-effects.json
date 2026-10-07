@@ -1,0 +1,1180 @@
+{
+  "id": "s12",
+  "slug": "survivorship-late-effects",
+  "week": 12,
+  "title": "Long-term follow-up, vaccination and late effects",
+  "subtitle": "Week 12 · Ch. 22, 29, 46, 47 (support: Ch. 55, 56)",
+  "cite": "EBMT Handbook 8th ed. 2024; Ch. 22, 29, 46, 47, 55, 56",
+  "refsPerSlide": 6,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第十二週談移植後的長期照顧，主軸是 Ch. 22、29、46、47，再補上 Ch. 55、56 的重點。病人度過第一年之後，威脅換成感染、鐵沉積、第二癌和代謝問題。最後一樣用三題收尾。"
+    ]
+  },
+  "references": [
+    "1. Suárez-Lledó M, Rovira M. Short- and long-term controls after HCT. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 189–193. doi:10.1007/978-3-031-44080-9_22",
+    "2. de la Cámara R, Meisel R. Vaccinations. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 249–264. doi:10.1007/978-3-031-44080-9_29",
+    "3. Angelucci E, Raiola AM. Iron overload. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 419–423. doi:10.1007/978-3-031-44080-9_46",
+    "4. Tichelli A, Rovó A. Secondary neoplasia (other than PTLPS). In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 425–432. doi:10.1007/978-3-031-44080-9_47",
+    "5. Galvan ER, Snowden JA, Greenfield DM. Cardiovascular diseases and metabolic syndrome. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 495–500. doi:10.1007/978-3-031-44080-9_55",
+    "6. Salooja N, Rovó A, Dalle JH. Endocrine disorders, fertility, and sexual health. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 501–509. doi:10.1007/978-3-031-44080-9_56",
+    "7. Majhail NS, Rizzo JD, Lee SJ, et al. Recommended screening and preventive practices for long-term survivors after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2012;18:348–71.",
+    "8. Cordonnier C, Einarsdottir S, Cesaro S, Di Blasi R, Mikulska M, Rieger C, et al. Vaccination of haemopoietic stem cell transplant recipients: guidelines of the 2017 European Conference on Infections in Leukaemia (ECIL 7). Lancet Infect Dis. 2019;19(6):e200–e12.",
+    "9. Bastidas A, de la Serna J, El Idrissi M, Oostvogels L, Quittet P, Lopez-Jimenez J, et al. Effect of recombinant zoster vaccine on incidence of herpes zoster after autologous stem cell transplantation: a randomized clinical trial. JAMA. 2019;322(2):123–33.",
+    "10. Ifversen M, Meisel R, Sedlacek P, Kalwak K, Sisinni L, Hutt D, et al. Supportive care during pediatric hematopoietic stem cell transplantation: prevention of infections. A report from workshops on Supportive Care of the Paediatric Diseases Working Party (PDWP) of the European Society for Blood and Marrow Transplantation (EBMT). Front Pediatr. 2021;29:705179. https://doi.org/10.3389/fped.2021.705179.",
+    "11. Angelucci E, Muretto P, Lucarelli G, et al. Phlebotomy to reduce iron overload in patients cured of thalassemia by bone marrow transplantation. Italian cooperative group for phlebotomy treatment of transplanted thalassemia patients. Blood. 1997a;90:994–8.",
+    "12. Rizzo JD, Curtis RE, Socie G, et al. Solid cancers after allogeneic hematopoietic cell transplantation. Blood. 2009;113:1175–83.",
+    "13. Greenfield DM, Salooja N, Peczynski C, et al. Metabolic syndrome and cardiovascular disease after hematopoietic stem cell transplantation (HCT) in adults: an EBMT, cross-sectional non-interventional stud. Bone Marrow Transplant. 2021;56:2820–5."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Survivorship · Outline",
+      "title": "Four parts, from the follow-up calendar to late organ damage",
+      "rows": [
+        [
+          "Follow-up schedule and organ screening",
+          "Visit intervals after auto- and allo-HCT; the Table 22.1 organ checklist",
+          "3 min"
+        ],
+        [
+          "Revaccination after HCT",
+          "Live vs non-live, ECIL 7 schedule, pneumococcus and zoster, when to delay",
+          "6.5 min"
+        ],
+        [
+          "Iron overload and secondary neoplasia",
+          "TSAT and toxic iron, phlebotomy vs chelation; t-MN, DDM, solid cancers",
+          "10.5 min"
+        ],
+        [
+          "Cardiometabolic, endocrine; board questions",
+          "Metabolic syndrome, thyroid, adrenal, gonads; three MCQs",
+          "7.25 min"
+        ]
+      ],
+      "cite": "Suárez-Lledó M, et al. EBMT Handbook 8th ed. 2024; Ch. 22",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是追蹤的骨架，Ch. 22 規定出院後多久回診、每年要查哪些器官，大約三分鐘。",
+          "第二段是 vaccination，六分半。重點放在 live 和 non-live 的分界、ECIL 7 的時程表，以及哪些情況才值得延後打疫苗，這幾個時間點幾乎每年都出現在考題裡。",
+          "第三段最長，十分半。先看 iron overload 在移植前、中、後的不同處理，再看三種 secondary neoplasm 和各自的篩檢。最後一段把 Ch. 55、56 的代謝症候群、甲狀腺和生育問題濃縮成一張表，接著做三題練習。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Follow-up framework",
+      "eyebrow": "Follow-up · Visit calendar",
+      "title": "Allo-HCT recipients stay near the centre, then visits widen",
+      "head": [
+        "Phase",
+        "Allogeneic HCT",
+        "Autologous HCT"
+      ],
+      "rows": [
+        [
+          "Discharge to day +100",
+          "Live near centre 3–6 months;\nweekly visits in month 1, then spaced",
+          "Live near hospital until full\nhaematologic recovery"
+        ],
+        [
+          "Bloods in this phase",
+          "CBC, liver, kidney, Mg, IS levels,\nCMV PCR (EBV if ATG)",
+          "Basic blood tests, disease markers,\ntransfusions as needed"
+        ],
+        [
+          "Chimerism",
+          "At months 1 and 2",
+          "—"
+        ],
+        [
+          "Around 3 months",
+          "Turning point: care may return\nto the referring doctor",
+          "Restage: MRD, marrow if previously\ninvolved, imaging"
+        ],
+        [
+          "Centre review",
+          "Every 3–4 months in year 1,\nevery 4–6 months in year 2",
+          "Every 6 months up to 2 years"
+        ],
+        [
+          "Long term, no complications",
+          "Every 6 months up to 3 years,\nthen annually",
+          "Annually; watch for relapse\nfor at least 5 years"
+        ],
+        [
+          "Children < 17 years",
+          "Weight and height every 3 months",
+          "—"
+        ]
+      ],
+      "colW": [
+        3,
+        4.5,
+        4.3
+      ],
+      "fontSize": 15,
+      "cite": "Suárez-Lledó M, et al. EBMT Handbook 8th ed. 2024; Ch. 22",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是 Ch. 22 的追蹤時程。Allo-HCT 的病人，建議前三到六個月住在移植中心附近。第一個月每週回診，第二個月起每兩週一次，三個月之後大約每月一次，持續到六到十二個月。每次回診都要特別看 acute GVHD、感染和肺部併發症。",
+          "抽血除了 CBC 和肝腎功能，還要驗 Mg、免疫抑制劑濃度和 CMV PCR，用過 ATG 的人加驗 EBV。Chimerism 在第一和第二個月各做一次。",
+          "三個月左右是轉折點，沒有大問題的病人可以交回原本的醫師，但仍要定期回移植中心，第一年每三到四個月，第二年每四到六個月。沒有併發症的話，每六個月一次到第三年，之後每年一次。Auto-HCT 簡單一些，每六個月到第二年，之後每年，原發疾病至少追五年。十七歲以下的孩子每三個月量身高體重。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Follow-up · Organ screening",
+      "title": "Organ screening starts at 6 months and is tightened in chronic GVHD",
+      "head": [
+        "Organ",
+        "Screening",
+        "When",
+        "Point to remember"
+      ],
+      "rows": [
+        [
+          "Eye",
+          "Symptoms; acuity and fundus",
+          "6 m, 1 y, yearly",
+          "Sicca syndrome"
+        ],
+        [
+          "Mouth",
+          "Oral and dental assessment",
+          "6 m, 1 y, yearly",
+          "Oral cGVHD: SCC risk, exam every 6 m"
+        ],
+        [
+          "Lung",
+          "Clinical review, no smoking",
+          "6 m, 1 y, yearly",
+          "cGVHD: spirometry at every visit"
+        ],
+        [
+          "Liver",
+          "Liver tests; ferritin",
+          "Ferritin at 1 y",
+          "High ferritin: MRI / FerriScan"
+        ],
+        [
+          "Bone",
+          "Bone density",
+          "1 y",
+          "Women, all allo-HCT, high risk"
+        ],
+        [
+          "Endocrine",
+          "Thyroid, gonads, growth",
+          "1 y, then yearly",
+          "Yearly gynaecological exam"
+        ],
+        [
+          "Immunity",
+          "PJP and encapsulated-organism\nprophylaxis",
+          "While cGVHD or IS",
+          "Vaccines per Ch. 29"
+        ],
+        [
+          "Second cancer",
+          "Counselling, self-exam,\npopulation screening",
+          "From 1 y",
+          "After TBI: more frequent\nmammography"
+        ]
+      ],
+      "colW": [
+        2.1,
+        3.8,
+        2.4,
+        4.2
+      ],
+      "fontSize": 15,
+      "cite": "Suárez-Lledó M, et al. EBMT Handbook 8th ed. 2024; Ch. 22",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Table 22.1 把長期追蹤按器官排開，改編自 Majhail 2012。表上的 1 代表所有病人都做，2 代表只針對仍有 chronic GVHD 或還在用免疫抑制的人。",
+          "幾個細節常被拿來出題。口腔有 chronic GVHD 的人，squamous cell cancer 風險高，每六個月檢查一次。肺有 chronic GVHD 時，很多作者建議每次回診都做 spirometry。Ferritin 在一年時驗，偏高就安排 MRI 或 FerriScan，這會接到後面的 iron overload。",
+          "Bone density 在一年時做，對象是成年女性、所有 allo-HCT 和骨質流失高風險的人。一年時也要查甲狀腺和性腺功能，女性每年看婦科。第二癌從一年開始衛教和自我檢查，做過 TBI 的人 mammography 要更頻繁。PJP 和莢膜菌的預防在 chronic GVHD 期間持續，疫苗則照 Ch. 29 的時程，就是下一段。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Vaccination",
+      "eyebrow": "Vaccination · Live or not",
+      "title": "Live vaccines wait for 24 months and a fully competent recipient",
+      "root": "Post-HCT recipient = never vaccinated",
+      "branches": [
+        {
+          "label": "Non-live",
+          "box": "Inactivated, subunit, conjugate",
+          "out": "Give on schedule; controlled GVHD no delay"
+        },
+        {
+          "label": "Live, conditional",
+          "box": "MMR, varicella, yellow fever",
+          "out": "≥ 24 m, no GVHD, no IS, no relapse, no IVIG"
+        },
+        {
+          "label": "Live, never",
+          "box": "OPV, BCG, Zostavax, LAIV, oral typhoid",
+          "out": "Contraindicated"
+        }
+      ],
+      "invert": 1,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "疫苗先建立一個原則。移植前打過的疫苗，不論是病人自己還是 donor 打的，移植後都無法維持保護，所以 post-HCT 的病人要當成從來沒打過疫苗，整套重來。這點和 solid organ transplant 剛好相反，SOT 重視的是移植前接種。",
+          "左邊是 non-live vaccine，包括 inactivated、subunit 和 conjugate，安全性和一般人相同，也沒有證據會誘發 GVHD，例外是 SARS-CoV-2 疫苗。GVHD 已經用藥控制住，不是延後的理由。",
+          "中間是有條件的 live vaccine，MMR、varicella 和 yellow fever。條件要全部符合，移植滿 24 個月、沒有 GVHD、沒有免疫抑制、原發疾病沒有復發，距離上次 IVIG 至少三個月，最好八個月。右邊是永遠不打的，還要加上 rotavirus。Zostavax 的病毒量是 varicella vaccine 的十四倍以上，曾有致死的 vaccine-strain VZV。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Vaccination · ECIL 7 schedule",
+      "title": "ECIL 7 restarts most vaccines between 3 and 12 months after HCT",
+      "head": [
+        "Vaccine",
+        "Doses",
+        "Start after HCT",
+        "Grade"
+      ],
+      "rows": [
+        [
+          "Pneumococcal conjugate (PCV)",
+          "3",
+          "3 months",
+          "AI"
+        ],
+        [
+          "Pneumococcal polysaccharide (PPSV23)",
+          "1",
+          "12 months; PCV instead if GVHD",
+          "BI"
+        ],
+        [
+          "Influenza, inactivated",
+          "1 (2 in special cases)",
+          "> 6 months (3 if outbreak);\nyearly, lifelong",
+          "AIIr"
+        ],
+        [
+          "Haemophilus influenzae conjugate",
+          "3",
+          "3 or 6 months",
+          "BIIr"
+        ],
+        [
+          "Diphtheria-tetanus; pertussis; IPV",
+          "3 each",
+          "DT from 6 m; others 6–12 m",
+          "BIu · CIII · BIIu"
+        ],
+        [
+          "Hepatitis B (sero-negative)",
+          "3 (0, 1, 6 months)",
+          "6–12 months",
+          "BIIt"
+        ],
+        [
+          "Meningococcal conjugate; HPV",
+          "2; per label",
+          "From 6 months; 6–12 months",
+          "BIIu"
+        ],
+        [
+          "MMR (sero-negative, criteria met)",
+          "1 (2 in children)",
+          "≥ 24 months",
+          "BIIu"
+        ]
+      ],
+      "colW": [
+        4.4,
+        2.4,
+        3.6,
+        1.6
+      ],
+      "fontSize": 15,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這是 ECIL 7 的建議，Cordonnier 2019，書上的 Table 29.1。最早開始的是 pneumococcal conjugate vaccine，移植後三個月就開始，打三劑，證據等級 AI，是整張表唯一的 A 級。第四劑在十二個月給 PPSV23，距離上一劑 PCV 至少八週；如果有 GVHD，polysaccharide 反應差，第四劑改用 PCV。",
+          "Inactivated influenza 從六個月開始，社區流行時可以提早到三個月，之後每年打，終身持續。提早打的、嚴重 GVHD 或淋巴球低的人，可以考慮三到四週後補第二劑。Hib conjugate 三劑，三或六個月開始。",
+          "Diphtheria-tetanus 從六個月開始，pertussis 和 inactivated polio 在六到十二個月，各三劑。Hepatitis B 在六到十二個月，用 0、1、6 個月三劑；打完一到二個月 anti-HBs 仍低於 10，可以考慮再一輪三劑，但效益不確定。Meningococcal 和 HPV 依各國建議。",
+          "最後是 MMR，血清陰性且符合條件才打，最早 24 個月。沒有特別註明時，劑與劑間隔一個月。Auto-HCT 用同一份時程，只是部分證據等級不同。PCV 三個月、influenza 六個月、MMR 二十四個月，這三個時間點最常出現在選項裡。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Vaccination · Vaccine by vaccine",
+      "title": "Pneumococcus, influenza, zoster and HBV carry the testable numbers",
+      "head": [
+        "Vaccine",
+        "Key fact from Ch. 29"
+      ],
+      "rows": [
+        [
+          "Pneumococcus",
+          "Invasive disease 50× general population; < 1 in 5 vaccinated"
+        ],
+        [
+          "PCV timing",
+          "Start at 3 m not inferior to 9 m; 54–98% respond; PCV first"
+        ],
+        [
+          "Influenza",
+          "One-third pneumonia, 10% ventilated, 6% die; 20% afebrile"
+        ],
+        [
+          "VZV prophylaxis",
+          "Acyclovir ≥ 1 year after allo-HCT, 3–6 months after auto"
+        ],
+        [
+          "Recombinant zoster, auto-HCT",
+          "RCT: 68.2% efficacy; 2 doses, first at day 50–70"
+        ],
+        [
+          "Recombinant zoster, allo-HCT",
+          "No randomized data; efficacy and safety not established"
+        ],
+        [
+          "Hepatitis B",
+          "40–70% respond; still prevents reverse seroconversion"
+        ],
+        [
+          "HPV",
+          "Genital HPV in about 40% of women long-term; 3 doses"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8.2
+      ],
+      "fontSize": 16,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "caption": "Ch. 29 names PCV13 [verify: PCV15/PCV20 use in the current Taiwan schedule]",
+      "captionY": 5.95,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是各疫苗最常被考的數字。Invasive pneumococcal disease 在 HCT 病人是一般人的 50 倍，可是得病的人不到五分之一打過疫苗。PCV 是 T-cell dependent、有 boost 效果，三劑後反應率 54 到 98%，三個月開始不輸給九個月開始，而且一定要排在 PPSV23 之前。",
+          "Influenza 在 HCT 很兇，三分之一變成肺炎，10% 要插管，6% 死亡，還有 20% 的病人不發燒。",
+          "VZV 的預防主力是 acyclovir 或 valacyclovir，allo-HCT 至少一年，auto-HCT 三到六個月。Recombinant zoster vaccine 在 auto-HCT 的 randomized trial，Bastidas 2019，第一劑在 day 50 到 70，效果 68.2%；allo-HCT 沒有 randomized data。HBV 疫苗只有 40 到 70% 產生抗體，但沒反應的人也能預防 reverse seroconversion。書上的 PCV 是 13 價，新一代 PCV 的用法要另外確認。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 29 discusses only PCV13 (and PCV10/PCV7); check whether PCV15 or PCV20 has replaced PCV13 in current guidelines and in the Taiwan post-HCT schedule."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Vaccination · When to delay",
+      "title": "Delay non-live vaccines only for a short list of reasons",
+      "head": [
+        "Situation",
+        "What Ch. 29 says"
+      ],
+      "rows": [
+        [
+          "Rituximab in the past 6 months",
+          "Postpone; ECIL: start > 6 months after the last dose"
+        ],
+        [
+          "IgG < 3 g/L",
+          "Postpone (profound hypogammaglobulinaemia)"
+        ],
+        [
+          "Uncontrolled grade 3–4 aGVHD, infection or ICU",
+          "Postpone until stable"
+        ],
+        [
+          "Current ATG",
+          "Postpone"
+        ],
+        [
+          "GVHD controlled on treatment",
+          "Do not delay; conjugate vaccines still respond"
+        ],
+        [
+          "Waiting for CD4 > 200/μL",
+          "No data support any lymphocyte threshold"
+        ],
+        [
+          "Platelets < 50 × 10⁹/L",
+          "IM safe if ≥ 30–50, ≤ 23-gauge, 2-min pressure"
+        ],
+        [
+          "IVIG",
+          "Non-live unaffected; live ≥ 3 (ideally 8) months later"
+        ]
+      ],
+      "colW": [
+        5,
+        6.8
+      ],
+      "fontSize": 16,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Non-live vaccine 原則上不延後，延後要有理由，書上列了四種。六個月內用過 rituximab，ECIL 建議最後一劑之後超過六個月再開始，抗體反應不確定，打完可以驗抗體。IgG 低於 3 g/L 的嚴重 hypogammaglobulinemia。病情不穩，例如沒控制的 grade 3 到 4 acute GVHD、沒控制的感染或住 ICU。以及正在使用 ATG。",
+          "反過來，GVHD 已經用藥控制，不應延後。Conjugate 的 Hib、pneumococcus、meningococcus，還有 IPV 和 DT，在 GVHD 或免疫抑制下反應都還在。有些中心要等 CD4 超過 200，但沒有數據支持任何淋巴球門檻，等待只會拉長病人沒有保護的時間。",
+          "血小板低於 50 時，IPV 和 PCV 可以改皮下，flu 可以皮內。血小板在 30 到 50 以上、用 23 號或更細的針、壓兩分鐘，肌肉注射是安全的。IVIG 不影響 non-live vaccine，只影響 live vaccine。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Iron overload",
+      "eyebrow": "Iron overload · Measurement",
+      "title": "Transferrin saturation above 70% signals toxic NTBI and LPI",
+      "head": [
+        "Method",
+        "Strength",
+        "Limitation"
+      ],
+      "rows": [
+        [
+          "Transferrin saturation",
+          "> 70% = NTBI/LPI in serum;\ncheap, repeatable",
+          "No quantitative link to\nthe iron pool"
+        ],
+        [
+          "Serum ferritin",
+          "Tracks total iron and outcome;\nshows trends",
+          "Raised by inflammation,\ninfection, liver disease"
+        ],
+        [
+          "NTBI / LPI",
+          "The toxic circulating iron species",
+          "Research laboratories only;\nlabile, unvalidated"
+        ],
+        [
+          "Liver biopsy",
+          "Gold standard for liver iron\nconcentration",
+          "Invasive; ≥ 1 mg dry weight;\nnot for repeated follow-up"
+        ],
+        [
+          "MRI T2 / T2*",
+          "Current standard of care;\nnon-invasive, reproducible",
+          "Organ-specific calibration;\ncost and access"
+        ]
+      ],
+      "colW": [
+        3,
+        4.6,
+        4.2
+      ],
+      "fontSize": 16,
+      "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
+      "caption": "Damage depends on toxic iron species and duration of exposure, not iron level alone",
+      "captionY": 5.75,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Iron overload 的傷害不只看鐵有多少。真正有毒的是沒有和 transferrin 結合的 NTBI，其中的 labile plasma iron 會不受控制地進入細胞、產生 reactive oxygen species，造成 DNA、脂質、蛋白和粒線體的傷害。毒性還取決於暴露時間和個人的抗氧化基因。",
+          "NTBI 和 LPI 只在 transferrin saturation 超過 70% 時出現，但目前只有研究實驗室能測。臨床上就用 transferrin saturation 當替代指標，超過 70% 表示血清中有毒性鐵。Ferritin 便宜、可看趨勢，和總鐵量與預後相關，缺點是發炎、感染、肝病都會讓它升高，移植後的病人這三樣常常同時存在。",
+          "Liver biopsy 仍是 liver iron concentration 的 gold standard，但它侵入性高，樣本至少 1 mg dry weight，不適合重複追蹤。MRI T2 或 T2* 是目前的 standard of care，非侵入、可重複，但每個器官要各自校正。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Iron overload · Three phases",
+      "title": "Iron toxicity acts differently before, during and after HCT",
+      "steps": [
+        "Before: chelate early and regularly for years",
+        "Conditioning: marrow lysis floods NTBI/LPI",
+        "Engraftment: NTBI clears in 3–4 weeks",
+        "After: TSAT stays high; remove the iron"
+      ],
+      "invert": 0,
+      "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
+      "caption": "Chelation during the transplant phase is experimental; consider it only if engraftment is slow and TSAT is high.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "書上把鐵的影響分成移植前、中、後三段。移植前的關鍵是預防組織傷害。Thalassemia 的資料最清楚，不規則的 chelation、肝纖維化和肝腫大會影響移植結果，三者都反映毒性鐵暴露的強度和時間。這些病人的 GVHD 發生率沒有差別，但 grade III 到 IV GVHD 的存活差很多。GITMO 在 MDS 和 acute leukemia 的研究中，輸血負擔只影響 myeloablative 的病人。所以未來可能移植、需要輸血的病人，chelation 要盡早開始、長期規則使用。",
+          "Conditioning 時紅血球系大量破壞，NTBI 和 LPI 湧入血液。等紅血球系恢復、transferrin 重新出現，三到四週內清掉，除非本來就有 iron overload。移植期間的 chelation 屬於實驗性。",
+          "Engraftment 之後病人不再輸血，但累積的鐵不會自己離開，transferrin saturation 會一直維持在高點，肝病也會持續進展。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Iron overload · After engraftment",
+      "title": "After engraftment, phlebotomy or chelation aims for a normal TSAT",
+      "head": [
+        "",
+        "Phlebotomy",
+        "Chelation"
+      ],
+      "rows": [
+        [
+          "Schedule",
+          "6 mL/kg every 14 days",
+          "Deferasirox oral daily;\ndeferoxamine SC/IV infusion"
+        ],
+        [
+          "Pros",
+          "Efficient, safe, inexpensive;\ncomplete iron removal",
+          "Efficient, safe; immediate effect\non NTBI/LPI; no hospital visits"
+        ],
+        [
+          "Cons",
+          "Needs sustained engraftment;\nhospital visits",
+          "Renal toxicity with CSA; more\ntoxicity at low iron burden"
+        ],
+        [
+          "Effect on NTBI/LPI",
+          "Immediate effect not yet verified",
+          "Immediate"
+        ],
+        [
+          "Avoid",
+          "Early post-HCT period",
+          "Deferiprone: agranulocytosis"
+        ]
+      ],
+      "colW": [
+        2.6,
+        4.4,
+        4.8
+      ],
+      "fontSize": 16,
+      "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
+      "caption": "Target: normal transferrin saturation (Table 46.3; Angelucci 1997a)",
+      "captionY": 5.6,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "移植後去鐵的目標是正常的鐵量，更具體地說是正常的 transferrin saturation，確保血中沒有毒性鐵。因為移植後造血有效，phlebotomy 可以取代 chelation。書上的做法是每 14 天抽 6 mL/kg，來自 Angelucci 1997 在 thalassemia 移植後病人的計畫。",
+          "Phlebotomy 有效、安全、便宜，而且能把體內的鐵完全移除。缺點是需要穩定的 engraftment，移植早期不能用，病人要常回醫院，對 NTBI 的立即效果也還沒證實。Chelation 一樣有效安全，對 NTBI 和 LPI 有立即作用，在家吃藥就好。要注意和 cyclosporine 併用的腎毒性，以及鐵量不高時毒性可能增加。",
+          "Deferiprone 有 agranulocytosis 的報告，在造血幹細胞疾病通常不用。三種 chelator 的比較放在 backup。考題常給一個移植後不再輸血、ferritin 還很高的 thalassemia 病人，答案是主動去鐵，不是等它自己降。"
+        ],
+        "reminders": [
+          "Ch. 46 text calls the 6 mL/kg every 14 days schedule the 'standard chelation program'; from context and the cited paper it is the phlebotomy program."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Secondary neoplasia",
+      "eyebrow": "Second cancers · Three types",
+      "title": "Secondary neoplasms come in three types with different origins",
+      "head": [
+        "",
+        "t-MN",
+        "Donor-derived (DDM)",
+        "Second solid (SSN)"
+      ],
+      "rows": [
+        [
+          "Definition",
+          "t-MDS / t-AML after\nchemo- or radiotherapy",
+          "Haematologic neoplasm\nin donor cells",
+          "Solid cancer of any site\nafter HCT"
+        ],
+        [
+          "Setting",
+          "Mainly auto-HCT;\nrare after allo",
+          "Allo-HCT only",
+          "Auto- and allo-HCT"
+        ],
+        [
+          "Timing",
+          "Mostly within 10 years",
+          "Variable",
+          "Rises with longer follow-up"
+        ],
+        [
+          "Frequency",
+          "Lymphoma auto: 1% at 2 y\nup to 24% at 43 m",
+          "< 1% at 15 y; up to 5%\nof leukaemia 'relapses'",
+          "2.2% at 10 y,\n6.7% at 15 y"
+        ],
+        [
+          "Outcome",
+          "Poor; median survival\n6 months",
+          "Poor; few data",
+          "Depends on cancer type"
+        ],
+        [
+          "Treatment",
+          "As de novo; early donor\nsearch and allo-HCT",
+          "No standard: re-HCT,\nchemo, DLI, palliation",
+          "As a de novo cancer\nof the same type"
+        ]
+      ],
+      "colW": [
+        2.1,
+        3.3,
+        3.3,
+        3.1
+      ],
+      "fontSize": 15,
+      "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Secondary neoplasm 指移植後發生的任何惡性疾病，不論和移植是否相關，PTLD 另外討論。書上分三種。",
+          "Therapy-related myeloid neoplasm 主要在 auto-HCT 之後，大多在十年內，和移植前的 alkylating agents、anthracyclines、topoisomerase II inhibitors 以及 TBI 有關。Lymphoma 做 auto 之後的報告，從兩年 1% 到 43 個月 24% 都有。預後很差，中位存活六個月，治療比照 de novo，及早找 donor 做 allo-HCT，這是唯一能治癒的方法。",
+          "Donor-derived malignancy 只發生在 allo-HCT，15 年累積不到 1%，卻可能占移植後 leukemia「復發」的 5%。所以移植後復發，要對惡性細胞做 chimerism，分清是 donor 還是 recipient 來源。Second solid neoplasm 在 auto 和 allo 都會出現，追得越久越多，十年 2.2%、十五年 6.7%，預後看癌別。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Second cancers · Solid tumours",
+      "title": "Radiation, chronic GVHD and viruses drive second solid cancers",
+      "root": "Second solid neoplasm after HCT (Rizzo 2009)",
+      "branches": [
+        {
+          "label": "Radiation / TBI",
+          "box": "Thyroid, breast, brain",
+          "out": "Latency ≥ 10 years; dose related"
+        },
+        {
+          "label": "cGVHD / IS",
+          "box": "SCC of skin and oropharynx",
+          "out": "Short latency; any time after HCT"
+        },
+        {
+          "label": "Viral",
+          "box": "HCV → HCC; HPV → anogenital",
+          "out": "HCC: 16% at 20 years if HCV"
+        }
+      ],
+      "invert": 1,
+      "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Second solid cancer 依 Rizzo 2009 分成三類，機轉不同，出現的時間也不同。",
+          "第一類和放射線有關，已證實的是甲狀腺、乳癌和腦瘤。潛伏期長，放射後十年以上才出現，而且和劑量相關。",
+          "第二類和 chronic GVHD 及其免疫抑制有關，典型是皮膚和口咽的 squamous cell carcinoma。這類潛伏期短，移植後任何時間都可能發生，危險因子是 chronic GVHD、長期 GVHD 治療、azathioprine 和男性，和放射線無關。",
+          "第三類和病毒有關。HCV 病人二十年 HCC 累積 16%；HPV 則牽涉子宮頸、頭頸、外陰、陰道、肛門和陰莖癌。",
+          "Squamous 和 non-squamous 的對比很常考，squamous 看 chronic GVHD、早發，non-squamous 看放射、晚發。另外，RIC 並沒有降低第二癌，一個單中心研究在 RIC 之後十年的累積發生率是 12.9%。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Second cancers · Numbers and risks",
+      "title": "Each second cancer has its own driver and its own number",
+      "head": [
+        "Cancer",
+        "Frequency",
+        "Risk factors"
+      ],
+      "rows": [
+        [
+          "t-MN after allo-HCT",
+          "0.06–0.67% at 3 years",
+          "Pre-HCT chemo, TBI, older age;\nlenalidomide in myeloma (auto)"
+        ],
+        [
+          "Breast",
+          "11% at 25 years",
+          "Radiation or TBI; younger age\nat radiation"
+        ],
+        [
+          "Thyroid",
+          "SIR 3.2",
+          "Radiation or TBI; younger age"
+        ],
+        [
+          "Basal cell carcinoma",
+          "6.5% at 20 years",
+          "Radiation; light skin"
+        ],
+        [
+          "SCC of skin",
+          "3.4 at 20 years (as printed)",
+          "cGVHD, prolonged IS,\nazathioprine, male sex"
+        ],
+        [
+          "Hepatocellular",
+          "16% at 20 years with HCV",
+          "Chronic HCV, cirrhosis"
+        ],
+        [
+          "Lung",
+          "SIR 2.59 after BuCy",
+          "Bu-Cy conditioning;\nsmoking before HCT"
+        ],
+        [
+          "Genital and anal",
+          "Vulvar/vaginal SIR 22.76;\nanal 4.85; cervical 2.13",
+          "HPV reactivation"
+        ]
+      ],
+      "colW": [
+        3,
+        4,
+        4.8
+      ],
+      "fontSize": 15,
+      "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 Table 47.1 的數字和危險因子。t-MN 在 lymphoma 做 auto 之後最多，因為這群人移植前接受最多化療；myeloma 用 lenalidomide，包括移植後維持，也會增加 t-MN。Allo 之後 t-MN 很少，三年 0.06 到 0.67%。",
+          "乳癌在移植後二十五年累積 11%，甲狀腺癌的 SIR 是 3.2，basal cell carcinoma 二十年 6.5%。這三種都和放射線、年輕時接受放射有關，BCC 再加上膚色淺。",
+          "皮膚 squamous cell carcinoma 書上寫二十年 3.4，沒有標單位，危險因子是 chronic GVHD 和長期免疫抑制。肺癌在 BuCy 之後 SIR 2.59，加上移植前抽菸。生殖器和肛門癌和 HPV reactivation 有關，外陰陰道的 SIR 高達 22.76。",
+          "大腸直腸癌在移植後沒有被證實增加。一位病人可以發生好幾個不同的第二癌，最多報告過五個。"
+        ],
+        "reminders": [
+          "Table 47.1 prints SCC of the skin as '3.4 at 20 years' with no unit (Curtis 2005); say so if asked rather than quoting a percentage."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Second cancers · Screening",
+      "title": "Second-cancer screening is lifelong and tighter for those at risk",
+      "head": [
+        "Site",
+        "All patients",
+        "Patients at risk"
+      ],
+      "rows": [
+        [
+          "Skin",
+          "Self-exam, avoid UV;\ndermatologist every 1–2 years",
+          "More often after skin cancer\nor with skin cGVHD"
+        ],
+        [
+          "Mouth, pharynx",
+          "Exam at annual control",
+          "Specialist yearly if severe\noral GVHD"
+        ],
+        [
+          "Thyroid",
+          "Yearly palpation",
+          "After TBI or local RT:\nregular ultrasound"
+        ],
+        [
+          "Breast",
+          "Discuss self-examination",
+          "After TBI or RT: mammography\nevery 1–2 years*"
+        ],
+        [
+          "Cervix",
+          "Pap smear every 1–3 years\nfrom age 21*",
+          "HPV-positive: genital and anal\nspecialist review"
+        ],
+        [
+          "Lung",
+          "Avoid active and passive smoking",
+          "High-dose busulfan and smoking:\nchest CT"
+        ],
+        [
+          "Liver",
+          "—",
+          "HCV: assess fibrosis\n8–10 years after HCT"
+        ],
+        [
+          "Blood (t-MN)",
+          "Yearly CBC for 10 years\nafter auto-HCT",
+          "Abnormal CBC: marrow,\ncytogenetics, NGS"
+        ]
+      ],
+      "colW": [
+        2.4,
+        4.6,
+        4.8
+      ],
+      "fontSize": 14,
+      "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
+      "caption": "*Breast: from age 25 or 8 years after RT, whichever is later, but no later than 40. Cervix: or within 3 years of first sexual activity, if earlier.",
+      "captionY": 5.95,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "篩檢原則是 auto 和 allo 都要終身篩檢，每年回診問症狀、做檢查，其餘照一般族群的癌症篩檢，再對高風險族群加強。",
+          "皮膚，所有人自我檢查、避免紫外線，每一到兩年看皮膚科；得過皮膚癌或有皮膚 chronic GVHD 的人要更頻繁。甲狀腺每年觸診，做過 TBI 或局部放射的人定期超音波，可疑結節就做 FNA。",
+          "乳房最常考。做過 TBI 或局部放射的女性，mammography 每一到兩年一次，從 25 歲或放射後 8 年開始，取較晚者，但不晚於 40 歲。子宮頸抹片每一到三年，從 21 歲或開始性行為三年內，取較早者。",
+          "高劑量 busulfan 加上抽菸的人考慮 chest CT。HCV 病人在移植後 8 到 10 年評估肝纖維化。大腸直腸癌從 50 歲開始，和一般人相同。最後一列是血液，auto-HCT 之後頭十年每年驗 CBC，MCV 上升、血球低下或單核球增加，就做骨髓、染色體和 NGS。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Cardiometabolic and endocrine",
+      "eyebrow": "Late effects · Support chapters",
+      "title": "Metabolic, thyroid, adrenal and gonadal late effects need lifelong checks",
+      "head": [
+        "Late effect",
+        "Exam-relevant fact",
+        "Screening or action"
+      ],
+      "rows": [
+        [
+          "Metabolic syndrome",
+          "3 of 5: waist, TG ≥ 1.7, low HDL,\nBP ≥ 130/85, glucose ≥ 5.6",
+          "Prevalence 31–49% after HCT\n[verify: Taiwan waist cut-off]"
+        ],
+        [
+          "Cardiovascular events",
+          "Up to 6% at 15 years;\n26.7% with MetS vs 9% without",
+          "Adults: BP at least every\n2 years; treat risk factors"
+        ],
+        [
+          "Diabetes",
+          "Prednisone > 0.25 mg/kg/day:\nRR 3.6; TBI 3.42× risk",
+          "Type 2 DM screen every 3 years\nif ≥ 45 y or BP > 135/80"
+        ],
+        [
+          "Hypothyroidism",
+          "About 1 in 4 after allo-HCT;\nsingle-dose TBI 5–6× risk",
+          "Yearly TSH, FT4 and palpation"
+        ],
+        [
+          "Hypoadrenalism",
+          "Supraphysiological steroids\n≥ 1 month, any route",
+          "Paired morning cortisol\nand ACTH"
+        ],
+        [
+          "Ovarian failure",
+          "Oocyte LD50 < 2 Gy; ESD 18.4 Gy\nat age 10, 6 Gy over 40",
+          "Fertility counselling before\nconditioning"
+        ],
+        [
+          "Testicular damage",
+          "Leydig cells spared; azoospermia\nafter MAC TBI, ~50% after Bu",
+          "Monitor testosterone;\nsperm cryopreservation"
+        ],
+        [
+          "Pregnancy",
+          "Delay 6 months after gonadotoxic\ntherapy; TBI: preterm, low weight",
+          "Early expert review if at risk"
+        ]
+      ],
+      "colW": [
+        2.8,
+        4.8,
+        4.2
+      ],
+      "fontSize": 14,
+      "cite": "Galvan ER, et al. EBMT Handbook 8th ed. 2024; Ch. 55 · Salooja N, et al. EBMT Handbook 8th ed. 2024; Ch. 56",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "最後把 Ch. 55 和 56 濃縮成一張表。Metabolic syndrome 是五項符合三項，腰圍依族群定義、三酸甘油酯 1.7 mmol/L 以上、HDL 男性低於 1.0 女性低於 1.3、血壓 130/85 以上、空腹血糖 5.6 以上。移植後盛行率 31 到 49%，Greenfield 2021 的研究中，有 MetS 的人心血管事件 26.7%，沒有的 9%。",
+          "心血管事件十五年累積可達 6%。糖尿病方面，prednisone 累積劑量每天超過 0.25 mg/kg，RR 3.6，TBI 讓風險增加 3.42 倍。",
+          "甲狀腺功能低下約四分之一 allo-HCT 病人會發生，single-dose TBI 比 fractionated 高五到六倍，每年驗 TSH 和 FT4。超生理劑量的 steroid 用一個月以上，不論哪種途徑，都可能造成 adrenal insufficiency，症狀會和 GVHD 混淆，診斷要配對早上的 cortisol 和 ACTH。",
+          "生殖方面，卵母細胞的半致死劑量低於 2 Gy，effective sterilizing dose 在十歲是 18.4 Gy，四十歲以上只要 6 Gy。男性的 Leydig cell 相對耐受，testosterone 通常正常，但 MAC TBI 之後大多數無精，busulfan 之後約一半。完成 gonadotoxic 治療後，建議延後六個月再懷孕。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 55 gives waist circumference only as population- and country-specific; confirm the Taiwan cut-off before quoting a number."
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: vaccinate a patient with controlled chronic GVHD",
+      "stem": "A 46-year-old man is 7 months after a matched sibling allo-HCT for AML. He has mild oral and skin chronic GVHD, controlled on prednisolone 10 mg/day and cyclosporine. He has had no rituximab or IVIG; platelets are 120 × 10⁹/L. Which vaccination plan is most appropriate today?",
+      "options": [
+        "Defer all vaccines until immunosuppression has stopped",
+        "Give pneumococcal conjugate and inactivated influenza vaccines now",
+        "Give MMR now if he is measles-seronegative",
+        "Give live-attenuated zoster vaccine (Zostavax)",
+        "Vaccinate only once the CD4 count exceeds 200/μL"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: controlled GVHD does not delay non-live vaccines",
+      "explanation": "GVHD under control should not delay non-live vaccines, and conjugate vaccines still respond during GVHD or IS. ECIL 7: PCV from 3 months, inactivated influenza from 6 months. MMR needs ≥ 24 months with no GVHD and no IS; Zostavax is contraindicated. No data support any CD4 threshold.",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題考疫苗。46 歲男性，matched sibling allo-HCT 治療 AML 之後七個月，有輕微的口腔和皮膚 chronic GVHD，用 prednisolone 每天 10 mg 加 cyclosporine 控制住。沒用過 rituximab 或 IVIG，血小板 12 萬。今天要打疫苗，哪個計畫最適當。",
+          "A 是全部等到停免疫抑制再打，B 是現在打 PCV 和 inactivated influenza，C 是血清陰性就打 MMR，D 是 Zostavax，E 是等 CD4 超過 200。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。GVHD 已經用藥控制，不是延後 non-live vaccine 的理由，conjugate vaccine 在 GVHD 和免疫抑制下仍有反應。PCV 從三個月開始，influenza 從六個月開始，他七個月，兩個都該打了。",
+          "A 是最大的陷阱，很多人直覺要等免疫抑制停掉，但書上說延後 non-live vaccine 應該是例外，等越久，病人沒有保護的時間越長。C 的 MMR 是 live vaccine，要滿 24 個月、沒有 GVHD 也沒有免疫抑制。D 的 Zostavax 永遠禁忌。E 的 CD4 門檻沒有數據支持。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: manage iron overload after a cured thalassaemia",
+      "stem": "A 19-year-old woman with β-thalassaemia major had a matched sibling allo-HCT 2 years ago. She is transfusion-independent and off immunosuppression, with Hb 12.5 g/dL and normal renal function. Serum ferritin is 2,400 ng/mL, transferrin saturation 82%, and liver MRI shows marked iron overload. What is the best next step?",
+      "options": [
+        "Observe; iron stores will normalise now that transfusions have stopped",
+        "Phlebotomy 6 mL/kg every 14 days, aiming for a normal TSAT",
+        "Start deferiprone three times daily",
+        "Repeat liver biopsy every 6 months to guide therapy",
+        "Treat only if ferritin rises above its current level"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: remove the iron by phlebotomy to a normal TSAT",
+      "explanation": "After sustained engraftment, acquired iron does not leave without intervention: transferrin saturation stays high indefinitely and liver disease progresses. Effective erythropoiesis allows phlebotomy, 6 mL/kg every 14 days, with normal transferrin saturation as the target. Deferiprone is usually avoided (agranulocytosis); biopsy is unsuitable for repeated follow-up.",
+      "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題換到 iron overload。19 歲女性，β-thalassemia major，兩年前做了 matched sibling allo-HCT。現在不需輸血、已停免疫抑制，Hb 12.5，腎功能正常。Ferritin 2400，transferrin saturation 82%，肝臟 MRI 顯示明顯鐵沉積。下一步最適當的是什麼。",
+          "A 是觀察，B 是每 14 天放血 6 mL/kg，C 是 deferiprone 一天三次，D 是每六個月肝切片，E 是 ferritin 再升高才治療。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。Engraftment 之後病人不再輸血，可是已經累積的鐵不會自己離開，transferrin saturation 會一直偏高，肝病繼續進展。她的造血有效，可以用 phlebotomy，每 14 天 6 mL/kg，目標是正常的 transferrin saturation。",
+          "A 是主要陷阱，以為不輸血鐵就會慢慢降。Angelucci 的前瞻性資料正好相反，不治療的話 transferrin saturation 無限期維持在高點。C 的 deferiprone 因為 agranulocytosis，在造血幹細胞疾病通常不用。D 肝切片不適合重複追蹤，E 等 ferritin 再升只會延長毒性鐵的暴露。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: plan breast screening after TBI",
+      "stem": "A 30-year-old woman had a myeloablative cyclophosphamide/TBI allo-HCT for ALL at age 21. She is in remission, off immunosuppression and has no chronic GVHD or family history of breast cancer. At her annual late-effects visit, which breast screening plan is recommended?",
+      "options": [
+        "Breast self-examination only until age 40",
+        "Screening mammography every 1–2 years, starting now",
+        "Mammography from age 50, as for the general population",
+        "No screening, because TBI is not linked to breast cancer",
+        "Mammography only if a BRCA mutation is found"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: after TBI, mammography starts at the later of 25 or RT + 8",
+      "explanation": "After TBI or local radiation, screening mammography every 1–2 years starts at age 25 or 8 years after radiation, whichever is later, and no later than 40. Here: 21 + 8 = 29, later than 25, so she is due now. Breast cancer is a radiation-related, long-latency second cancer: 11% at 25 years after HCT.",
+      "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題考第二癌篩檢。30 歲女性，21 歲時因 ALL 接受 cyclophosphamide 加 TBI 的 myeloablative allo-HCT。目前緩解、已停免疫抑制，沒有 chronic GVHD，也沒有乳癌家族史。今天是她的年度 late-effects 門診，乳房篩檢該怎麼安排。",
+          "A 是只做自我檢查到 40 歲，B 是現在開始每一到兩年 mammography，C 是比照一般人 50 歲開始，D 是不用篩，E 是有 BRCA 突變才做。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。做過 TBI 或局部放射的人，mammography 從 25 歲或放射後 8 年開始，取較晚者，但不晚於 40 歲。她 21 歲照 TBI，加 8 年是 29 歲，比 25 晚，所以 29 歲就該開始，現在 30 歲，已經到期了。",
+          "C 是最常見的錯，把一般族群的建議直接套上去。乳癌是 radiation-related、潛伏期長的第二癌，移植後二十五年累積 11%，所以書上要求提早。D 正好相反，E 的 BRCA 不是這裡的條件。算的時候記住兩個數字，25 歲和 8 年，取晚的，上限 40 歲。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Iron overload · Chelators",
+      "title": "Three chelators differ in route, half-life and toxicity",
+      "head": [
+        "Chelator",
+        "Route, half-life, schedule",
+        "Main adverse events"
+      ],
+      "rows": [
+        [
+          "Deferoxamine (hexadentate)",
+          "SC or IV infusion; 30 min;\ncontinuous",
+          "Site and allergic reactions, bone,\ngrowth, auditory, eye, Yersinia"
+        ],
+        [
+          "Deferasirox (tridentate)",
+          "Oral; 8–16 h; once daily",
+          "Renal toxicity, raised liver\nenzymes, rash, GI upset"
+        ],
+        [
+          "Deferiprone (bidentate)",
+          "Oral; 3 h; three times daily",
+          "GI upset, liver enzymes,\nneutropenia, agranulocytosis"
+        ]
+      ],
+      "colW": [
+        3.4,
+        3.8,
+        4.6
+      ],
+      "fontSize": 18,
+      "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
+      "notes": {
+        "script": [
+          "這是 Table 46.2。Deferoxamine 要持續皮下或靜脈輸注，deferasirox 一天一次口服，主要毒性在腎臟；deferiprone 因為 agranulocytosis，在造血幹細胞疾病通常不用。適應症和劑量依各國核准而不同。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Vaccination · Donors and contacts",
+      "title": "Household contacts and staff are part of the vaccine programme",
+      "head": [
+        "Who / vaccine",
+        "Recommendation"
+      ],
+      "rows": [
+        [
+          "Donor",
+          "No routine vaccination for the recipient's benefit"
+        ],
+        [
+          "Donor, live vaccines",
+          "Avoid MMR, varicella, zoster within 4 weeks of harvest"
+        ],
+        [
+          "Contacts and HCWs: influenza",
+          "Inactivated, yearly while in contact"
+        ],
+        [
+          "Sero-negative contacts: varicella",
+          "2 doses ≥ 28 days apart; avoid contact if rash"
+        ],
+        [
+          "Live intranasal influenza in a contact",
+          "Avoid contact with the patient for 7 days"
+        ],
+        [
+          "Oral polio in the household",
+          "Do not give; 4–6-week furlough if given"
+        ],
+        [
+          "Rotavirus-vaccinated infant",
+          "No contact with stools or diapers for 4 weeks"
+        ],
+        [
+          "MMR, yellow fever, oral typhoid",
+          "Can be given to contacts safely"
+        ]
+      ],
+      "colW": [
+        4.8,
+        7
+      ],
+      "fontSize": 16,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "script": [
+          "這是 Table 29.3。家人和醫護每年打 inactivated influenza，血清陰性者打兩劑 varicella。家中不能給 oral polio，打過 rotavirus 的嬰兒，四週內病人不要碰尿布。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Vaccination · Children",
+      "title": "Children restart combination vaccines at a fixed 6-month point",
+      "head": [
+        "Item",
+        "PDWP-EBMT recommendation (Ifversen 2021)"
+      ],
+      "rows": [
+        [
+          "Start",
+          "DTaP-IPV-HBV-Hib and PCV13 at 6 months, platelets ≥ 50"
+        ],
+        [
+          "Regardless of",
+          "Donor or graft type, GVHD, IST, immune recovery"
+        ],
+        [
+          "Optional vaccines",
+          "Preferably from 12 months; PPSV23 at 24 months"
+        ],
+        [
+          "Influenza",
+          "Yearly; 2 doses at the first post-HCT vaccination"
+        ],
+        [
+          "HPV",
+          "All adolescents, from 12 months"
+        ],
+        [
+          "Live MMR-V",
+          "≥ 24 months; no GVHD or IST for ≥ 3 months; off IVIG"
+        ],
+        [
+          "During IVIG",
+          "Non-live vaccines safe; check titres 3 months after stop"
+        ]
+      ],
+      "colW": [
+        3,
+        8.8
+      ],
+      "fontSize": 17,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "script": [
+          "兒童用固定時間點，移植後六個月、血小板 50 以上，就開始六合一和 PCV13，不管 donor 種類、GVHD 或免疫抑制。Live 的 MMR-V 要 24 個月以上，而且停免疫抑制、沒有 GVHD 至少三個月。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Fertility · Preservation options",
+      "title": "Fertility preservation depends on sex and pubertal status",
+      "head": [
+        "Patient",
+        "Option",
+        "Caveat"
+      ],
+      "rows": [
+        [
+          "Postpubertal male",
+          "Sperm cryopreservation\n(TESE if needed)",
+          "Recovery likelier if < 25 y,\nno TBI, no cGVHD"
+        ],
+        [
+          "Prepubertal male",
+          "Testicular tissue\ncryopreservation",
+          "Experimental; no human\nlive births yet"
+        ],
+        [
+          "Adult female",
+          "Embryo or oocyte\ncryopreservation (preferred)",
+          "Needs ≥ 2 weeks of\novarian stimulation"
+        ],
+        [
+          "Prepubertal girl, or no time",
+          "Ovarian tissue\ncryopreservation",
+          "Do not reimplant in leukaemia\n(risk of reseeding)"
+        ],
+        [
+          "Female during chemotherapy",
+          "GnRH agonist",
+          "Benefit uncertain;\nCochrane: consider"
+        ]
+      ],
+      "colW": [
+        3.4,
+        4,
+        4.4
+      ],
+      "fontSize": 17,
+      "cite": "Salooja N, et al. EBMT Handbook 8th ed. 2024; Ch. 56",
+      "notes": {
+        "script": [
+          "成年男性做精子冷凍，青春期前男孩只能做實驗性的睾丸組織冷凍。成年女性首選胚胎或卵子冷凍，但要至少兩週刺激排卵；青春期前女孩只能做卵巢組織冷凍，白血病病人不建議回植。"
+        ]
+      }
+    }
+  ]
+}

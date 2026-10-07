@@ -1,0 +1,1029 @@
+{
+  "id": "s11",
+  "slug": "organ-complications",
+  "week": 11,
+  "title": "Bleeding and thrombosis, haemorrhagic cystitis and kidney, lung, nervous system",
+  "subtitle": "Week 11 · EBMT Handbook Ch. 40, 51, 52 and 53",
+  "cite": "EBMT Handbook 8th ed. 2024; Ch. 40, 51, 52, 53",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第十一週談移植後的器官併發症，涵蓋 EBMT Handbook 第 40、51、52 和 53 章，分別是出血與血栓、hemorrhagic cystitis 與腎臟、肺，以及神經系統。四章範圍很廣，今天只挑考試最常出的數字、診斷條件和處置，最後一樣做三題練習。",
+      "這四個器官系統彼此交錯，例如 TMA 同時影響腎和腦。"
+    ]
+  },
+  "references": [
+    "1. Shah R, Savani BN, Chaturvedi S. Bleeding and thrombotic complications. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 355–63. https://doi.org/10.1007/978-3-031-44080-9_40",
+    "2. Cesaro S. Haemorrhagic cystitis and renal dysfunction. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 465–9. https://doi.org/10.1007/978-3-031-44080-9_51",
+    "3. Bergeron A, Cooke KR. Noninfectious pulmonary complications. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 471–80. https://doi.org/10.1007/978-3-031-44080-9_52",
+    "4. Duléry R, Schmidt-Hieber M, Sharrack B. Neurological complications. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 481–7. https://doi.org/10.1007/978-3-031-44080-9_53",
+    "5. Gerber DE, Segal JB, Levy MY, Kane J, Jones RJ, Streiff MB. The incidence and risk factors for venous thromboembolism (VTE) and bleeding among 1514 patients undergoing hematopoietic stem cell transplantation: implications for VTE prevention. Blood. 2008;112:504–10.",
+    "6. Pihusch R, Salat C, Schmidt E, Gohring P, Pihusch M, Hiller E, et al. Hemostatic complications in bone marrow transplantation: a retrospective analysis of 447 patients. Transplantation. 2002;74:1303–9.",
+    "7. Ganguly N, Clough LA, Dubois LK, et al. Low-dose cidofovir in the treatment of symptomatic BK virus infection in patients undergoing allogeneic hematopoietic stem cell transplantation: a retrospective analysis of an algorithmic approach. Transpl Infect Dis. 2010;12:406–11.",
+    "8. Bridges B, Donegan S, Badros A. Cidofovir bladder instillation for the treatment of BK hemorrhagic cystitis after allogeneic stem cell transplantation. Am J Hematol. 2006;81:535–7.",
+    "9. Tirindelli MC, Flammia GP, Bove P, et al. Fibrin glue therapy for severe hemorrhagic cystitis after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:1612–7.",
+    "10. Bergeron A, Chevret S, Chagnon K, et al. Budesonide/formoterol for bronchiolitis obliterans after hematopoietic stem cell transplantation. Am J Respir Crit Care Med. 2015;191:1242–9.",
+    "11. Williams KM, Cheng GS, Pusic I, et al. Fluticasone, Azithromycin, and Montelukast treatment for new-onset bronchiolitis obliterans syndrome after hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2016;22:710–6.",
+    "12. Martens KL, da Costa WL, Amos CI, et al. HIGH-2-LOW risk model to predict venous thromboembolism in allogeneic transplant patients after platelet engraftment. Blood Adv. 2021;5(1):167–75. https://doi.org/10.1182/bloodadvances.2020003353.",
+    "13. Gangaraju R, Chen Y, Hageman L, et al. Late-occurring venous thromboembolism in allogeneic blood or marrow transplant survivors: a BMTSS-HiGHS2 risk model. Blood Adv. 2021;5(20):4102–11. https://doi.org/10.1182/bloodadvances.2021004341.",
+    "14. Hashmi H, Mirza AS, Darwin A, et al. Venous thromboembolism associated with CD19-directed CAR T-cell therapy in large B-cell lymphoma. Blood Adv. 2020;4(17):4086–90. https://doi.org/10.1182/bloodadvances.2020002060.",
+    "15. Parks AL, Kambhampati S, Fakhri B, et al. Incidence, management and outcomes of arterial and venous thrombosis after chimeric antigen receptor modified T cells for B cell lymphoma and multiple myeloma. Leuk Lymphoma. 2021;62(4):1003–6. https://doi.org/10.1080/10428194.2020.1852474.",
+    "16. Johnsrud A, Craig J, Baird J, et al. Incidence and risk factors associated with bleeding and thrombosis following chimeric antigen receptor T-cell therapy. Blood Adv. 2021;5(21):4465–75. https://doi.org/10.1182/bloodadvances.2021004716."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Organ complications · Outline",
+      "title": "Four organ systems, then three board questions",
+      "cite": "EBMT Handbook 8th ed. 2024; Ch. 40, 51, 52, 53",
+      "rows": [
+        [
+          "Bleeding and thrombosis (Ch. 40)",
+          "Competing risks, who gets prophylaxis, treating VTE and catheter thrombosis",
+          "5 min"
+        ],
+        [
+          "Haemorrhagic cystitis and kidney (Ch. 51)",
+          "Early vs late HC, BK virus diagnosis, cidofovir and beyond, AKI grading",
+          "5.5 min"
+        ],
+        [
+          "Noninfectious lung complications (Ch. 52)",
+          "IPS criteria and etanercept, DAH, BOS versus ILD, BOS treatment",
+          "7 min"
+        ],
+        [
+          "Nervous system (Ch. 53) and board questions",
+          "PRES and drug toxicity, immune-mediated disease, work-up, 3 MCQs",
+          "10 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是出血與血栓，核心觀念是移植病人出血的風險比血栓高，所以誰該打預防性抗凝、血小板多少才能開始治療，書上都有明確的門檻，這些門檻在病房每天都會用到。",
+          "第二段是 hemorrhagic cystitis，分早發和晚發兩型，晚發型和 BK virus 有關，接著看 cidofovir 的幾種給法，再用一張表看急性腎損傷的分級。",
+          "第三段時間最長，包括 IPS 的診斷條件、DAH，以及晚期的 BOS 和 ILD 怎麼區分、怎麼治療。最後一段是神經併發症，以 PRES 為主軸，加上免疫相關疾病和檢查順序，然後做三題練習，每題都對應前面的某一張投影片。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Bleeding and thrombosis",
+      "eyebrow": "Haemostasis · Competing risks",
+      "title": "After HCT, bleeding is more frequent and more lethal than VTE",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": [
+        "",
+        "Thrombosis (VTE)",
+        "Bleeding"
+      ],
+      "rows": [
+        [
+          "Incidence\n(Gerber 2008, n = 1514)",
+          "4.6% symptomatic VTE",
+          "15.2% significant; 3.6% fatal"
+        ],
+        [
+          "Main type or site",
+          "73% catheter-related",
+          "GI and respiratory tract"
+        ],
+        [
+          "Timing",
+          "After engraftment",
+          "Early, during profound thrombocytopenia"
+        ],
+        [
+          "Risk factors",
+          "Catheters, GVHD, prior VTE, IMiDs",
+          "Therapeutic anticoagulation (OR 3.1); GVHD (OR 2.4)"
+        ],
+        [
+          "1-year VTE\n(Pihusch 2002)",
+          "Auto 4.8%; allo 6.8%;\nallo with GVHD 8.1%",
+          "Auto vs allo protective (OR 0.46)"
+        ]
+      ],
+      "colW": [
+        3.0,
+        4.2,
+        4.6
+      ],
+      "fontSize": 17,
+      "caption": "Across series: bleeding 15.2–27.1%, life-threatening or fatal 1.1–3.6%",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張把血栓和出血放在一起比。Gerber 2008 收了 1514 位住院移植的病人，有症狀的 VTE 是 4.6%，其中七成以上和中心靜脈導管有關。同一群病人，有臨床意義的出血是 15.2%，致命出血 3.6%。出血比血栓多，也比較致命，這是整章抗凝決策的出發點，後面每一個預防和治療的門檻，都是在這個前提下訂出來的。",
+          "時間點也不一樣。出血集中在早期血小板最低的時候，血栓則多在 engraftment 之後，所以同一個病人在不同階段，要擔心的事情剛好相反。出血最強的預測因子是移植後開始 therapeutic anticoagulation，odds ratio 3.1，其次是 GVHD。GVHD 帶來全身發炎和內皮損傷，兩邊的風險都會上升，腸道 GVHD 的病人尤其容易腸胃道出血。",
+          "Pihusch 的一年 VTE 數字可以看出，auto 最低，allo 合併 GVHD 最高。另外，移植本身會讓 von Willebrand factor 上升、antithrombin 和 protein C 下降，凝血系統整體偏向血栓。上週講過的 SOS 和 TA-TMA 在這一章也算血栓性併發症，今天就不重複了。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Haemostasis · Thromboprophylaxis",
+      "title": "Thromboprophylaxis is reserved for IMiD myeloma and inpatients",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "root": "HCT recipient: is thromboprophylaxis indicated?",
+      "branches": [
+        {
+          "label": "Myeloma on IMiDs",
+          "box": "Aspirin if lower risk",
+          "out": "LMWH 40 mg SC daily if > 1 risk factor"
+        },
+        {
+          "label": "Inpatient or post-op",
+          "box": "Platelets > 50 × 10⁹/L, no bleeding",
+          "out": "Prophylactic UFH or LMWH"
+        },
+        {
+          "label": "Outpatient with CVC",
+          "box": "Catheter-related thrombosis",
+          "out": "No routine prophylaxis"
+        }
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "因為出血風險較高，書上不建議血小板低的移植病人常規打預防性抗凝，只有兩種例外。左邊是接受 thalidomide 或 lenalidomide 的 myeloma，本身血栓風險 5 到 10%，加上 IMiD 會再翻好幾倍，移植後的 maintenance 又常用 lenalidomide，所以這群人特別重要。低風險用 aspirin，超過一個危險因子就用 LMWH 40 mg 皮下一天一次。",
+          "中間是住院或手術後的病人，血小板大於 50 × 10⁹/L 且沒有出血，才給預防劑量的 UFH 或 LMWH。活動量差、過去有 VTE 的病人獲益最大。非常高風險的病人，書上放寬到 30 以上也可以考慮，但一定要權衡出血。",
+          "右邊是門診帶著導管的病人，不建議常規預防。WARP trial 的調整劑量 warfarin 雖然把有症狀的 CRT 從 5.9% 降到 2.7%，但 major bleeding 增加，meta-analysis 也沒有顯著好處。50 這個血小板門檻考試很常出，題目常給 40 左右的數字，問要不要開始預防。",
+          "這張圖的重點是，預防與否看的是病人類別加上血小板，而不是看有沒有導管。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haemostasis · Treating VTE and CRT",
+      "title": "LMWH or UFH treats VTE once platelets exceed 50 × 10⁹/L",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": [
+        "Question",
+        "Ch. 40 recommendation"
+      ],
+      "rows": [
+        [
+          "Start therapeutic dose",
+          "Platelets > 50 × 10⁹/L and no active bleeding"
+        ],
+        [
+          "LMWH or UFH?",
+          "UFH if GFR < 30 mL/min or high bleeding risk"
+        ],
+        [
+          "Platelets 25–50 × 10⁹/L",
+          "Reduced-dose LMWH in some centres; or transfuse\nto 50 × 10⁹/L for a large symptomatic clot"
+        ],
+        [
+          "Maintenance",
+          "LMWH, or warfarin; DOAC only case by case"
+        ],
+        [
+          "Duration, VTE",
+          "3–6 months, longer while malignancy or IMiDs persist"
+        ],
+        [
+          "Catheter-related thrombosis",
+          "Anticoagulate; remove line only if\nnonfunctional, not needed or infected"
+        ],
+        [
+          "Duration, CRT",
+          "3 months or until line removed, whichever is longer"
+        ],
+        [
+          "IVC filter",
+          "Only if anticoagulation contraindicated or PE on it"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8.2
+      ],
+      "fontSize": 15,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "確診 VTE 之後，第一步是評估出血風險。沒有出血病史、血小板大於 50 × 10⁹/L，就開始 therapeutic 的 LMWH 或 UFH。LMWH 限用在 GFR 大於 30 的病人，腎功能差或出血風險高的時候改用 UFH，因為半衰期短、停藥快，必要時還可以中和。移植病人常常同時有腎毒性藥物，所以這一行在病房很實用。",
+          "血小板 25 到 50 之間，有些中心用減量的 LMWH，這是權衡之下的做法，證據等級不高。血栓大又有症狀、血小板又很低時，書上的做法是輸血小板拉到 50 以上，再比較安全地給 heparin。",
+          "維持治療繼續 LMWH，或改 warfarin。DOAC 這裡要小心，Table 40.1 寫目前不建議用在移植病人，內文則說血小板穩定超過 50、近期沒出血、腎功能足夠時，可以個案考慮，考試若問標準答案，以 LMWH 為主。療程是三到六個月，惡性疾病或 IMiD 還在就延長，但復發又血小板低的病人常常做不到。",
+          "導管相關血栓的目標是緩解症狀、避免往中央靜脈延伸、保住管路，也避免日後的靜脈狹窄。拔管並不會改善結果，所以只有管子不通、不再需要或懷疑感染才拔，但不論拔不拔都要抗凝，療程三個月或到拔管為止，取較長者。IVC filter 只留給不能抗凝，或抗凝中仍發生 PE 的病人，能抗凝之後就要盡快移除，也不能拿來做初級預防。"
+        ],
+        "reminders": [
+          "Ch. 40 is internally inconsistent on DOACs: Table 40.1 says 'not currently recommended in patients undergoing HCT'; §40.2.3 allows case-by-case use (stable platelets > 50, no recent bleeding, adequate renal function). The slide states both."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Haemorrhagic cystitis and kidney",
+      "eyebrow": "HC · Early versus late",
+      "title": "Early HC is chemical; late HC is driven by BK polyomavirus",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": [
+        "",
+        "Early-onset HC",
+        "Late-onset HC"
+      ],
+      "rows": [
+        [
+          "Onset",
+          "During conditioning or ≤ 48 h after",
+          "Engraftment (weeks 2–4) to month 2–3"
+        ],
+        [
+          "Incidence",
+          "< 3%, now rare",
+          "7–25%"
+        ],
+        [
+          "Cause",
+          "Drug metabolites (acrolein), radiotherapy",
+          "BKPyV, adenovirus; donor alloreactivity"
+        ],
+        [
+          "Prevention",
+          "Hyperhydration + continuous IV mesna",
+          "Hyperhydration, forced diuresis"
+        ],
+        [
+          "Not recommended",
+          "Bladder irrigation via catheter",
+          "Fluoroquinolone prophylaxis"
+        ],
+        [
+          "Therapy",
+          "Hydration, diuresis, HOT, fibrin glue",
+          "Same, plus IV or intravesical cidofovir"
+        ]
+      ],
+      "colW": [
+        2.6,
+        4.6,
+        4.6
+      ],
+      "fontSize": 16,
+      "caption": "Haematuria: 1 microscopic · 2 macroscopic · 3 with clots · 4 clots + obstructive renal failure",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Hemorrhagic cystitis 依發生時間分兩型。早發型在 conditioning 期間或結束後 48 小時內出現，是藥物代謝物和放射線直接傷害膀胱黏膜，典型就是高劑量 CY 的 acrolein。現在發生率小於 3%，因為 CY 的預防做得很好，PTCy 也一樣，靠 hyperhydration 加上連續靜脈 mesna，降低膀胱黏膜接觸 acrolein 的時間。用導尿管做膀胱灌洗並沒有比 hyperhydration 好，又侵入、又不舒服，所以不建議。",
+          "晚發型從 engraftment 前後，也就是兩到四週，一直延伸到第二、三個月，發生率 7 到 25%。主因是 BK polyomavirus，腺病毒少見，再加上 donor 的 alloreactivity 攻擊膀胱黏膜。Fluoroquinolone 在試管裡能抑制 BK，但臨床上沒有降低 HC，還有細菌抗藥性和兒童肌腱關節傷害的問題，所以不建議拿來預防。",
+          "底下是血尿分級，一級顯微、二級肉眼、三級有血塊、四級是血塊造成阻塞和腎衰竭。考題最常用發生時間來區分兩型，看到 day 28 就應該想到晚發型。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "HC · BK virus diagnosis",
+      "title": "BK-HC needs haematuria, cystitis symptoms and high-load viruria",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "steps": [
+        "Macroscopic haematuria",
+        "Dysuria, frequency or lower abdominal pain",
+        "BKPyV viruria > 10⁷ copies/mL (viraemia > 10³ in two-thirds)",
+        "Other causes excluded; US or CT for clots"
+      ],
+      "invert": 2,
+      "caption": "Risk: CB or PB > BM; haplo > URD > MRD; MAC > RIC; ATG, CY or BU; aGVHD grade 2–4; child > 7 years. Routine BK monitoring is not recommended.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "BK virus-associated HC 的診斷要三個條件同時成立，肉眼血尿、膀胱炎的症狀，像解尿疼痛、頻尿、下腹痛，再加上高量的 BK viruria，大於 10 的 7 次方 copies/mL。三分之二的病人同時有 viremia，大於 10 的 3 次方。最後要排除其他感染和非感染原因，超音波或 CT 可以看到膀胱壁水腫增厚、膀胱內血塊，或尿路阻塞。",
+          "背景要知道，超過九成成人 BK 血清陽性，病毒潛伏在腎小管和尿路上皮。Allo 移植後超過一半有 viruria，但真正發生 HC 的只有大約 20%，所以單看尿液病毒量不能診斷，一定要有臨床症狀。病毒量下降和臨床恢復是平行的。",
+          "下面是危險因子，CB 和 PB 高於 BM，haplo 高於 unrelated 再高於 matched related，MAC 高於 RIC，還有 conditioning 用 ATG、CY、BU，以及 grade 2 到 4 的 aGVHD，兒童則是七歲以上。因為沒有確立的 pre-emptive 治療，書上不建議常規監測 BK，這一點和 CMV 的策略完全不同。"
+        ],
+        "reminders": [
+          "Ch. 51 defines grade 2 as macroscopic haematuria but writes the diagnostic threshold as '> grade 2'; the slide says 'macroscopic haematuria' to avoid the ambiguity."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "HC · Treatment",
+      "title": "Cidofovir has no agreed dose; local measures stop the bleeding",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": [
+        "Option",
+        "Scheme",
+        "Result or caveat"
+      ],
+      "rows": [
+        [
+          "Cidofovir IV, standard",
+          "3–5 mg/kg weekly or fortnightly\n+ probenecid",
+          "Creatinine rise in 18%"
+        ],
+        [
+          "Cidofovir IV, low dose",
+          "0.5–1.5 mg/kg 1–3×/week,\nno probenecid",
+          "Renal toxicity in 20%\n(Ganguly 2010)"
+        ],
+        [
+          "Cidofovir intravesical",
+          "5 mg/kg/week, clamp 1–2 h",
+          "Response about 50%\n(Bridges 2006)"
+        ],
+        [
+          "Fibrin glue by cystoscopy",
+          "One or two applications",
+          "Response 83% (Tirindelli 2014)"
+        ],
+        [
+          "Hyperbaric oxygen",
+          "Urothelial repair",
+          "Limited access; ear barotrauma"
+        ],
+        [
+          "BK virus-specific T cells",
+          "Banked third-party (phase II)",
+          "ORR 81–92%; no moderate–severe GVHD"
+        ]
+      ],
+      "colW": [
+        3.6,
+        4.3,
+        4.1
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "治療以支持療法為主，止痛、解痙、輸血和 hyperhydration。抗病毒藥是 cidofovir，它是 nucleotide analogue，半衰期 15 到 65 小時，可以一到兩週給一次，但有明顯的腎小管毒性，所以只用在治療，不做預防。劑量沒有共識，書上列了三種。",
+          "標準劑量是 3 到 5 mg/kg，每週或每兩週，配 probenecid，阻止腎小管細胞攝取 cidofovir，仍有 18% 肌酸酐上升。低劑量 0.5 到 1.5 mg/kg，每週一到三次，不加 probenecid，腎毒性 20%。膀胱內灌注 5 mg/kg，每週一次，夾管一到兩小時，反應率約一半，好處是避開全身腎毒性。",
+          "止血和修復黏膜的方法，fibrin glue 用膀胱鏡塗在出血處，反應率 83%，多數一兩次就好。Hyperbaric oxygen 可以促進黏膜修復，但受限於設備，還有耳朵氣壓傷和幽閉恐懼的問題。",
+          "最新的是 third-party、事先冷凍保存的 BK virus-specific T cells，phase II 反應率 81 到 92%，沒有中重度 GVHD，還需要更大的前瞻性研究確認。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Kidney · AKI",
+      "title": "AKI affects 27–66% of allo-HCT recipients by day 100",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": [
+        "Category",
+        "Serum creatinine",
+        "Urine output"
+      ],
+      "rows": [
+        [
+          "Risk",
+          "1.5–2× baseline",
+          "< 0.5 mL/kg/h for > 6 h"
+        ],
+        [
+          "Injury",
+          "2–3× baseline",
+          "< 0.5 mL/kg/h for > 12 h"
+        ],
+        [
+          "Failure",
+          "> 3× baseline",
+          "< 0.3 mL/kg/h for > 24 h, anuria\n> 12 h, or renal replacement"
+        ]
+      ],
+      "colW": [
+        2.6,
+        3.8,
+        5.4
+      ],
+      "fontSize": 20,
+      "captionY": 4.6,
+      "caption": "Lower after auto-HCT. AKI raises later CKD, non-relapse and overall mortality.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Allo 移植後 AKI 發生率 27 到 66%，大多在前 100 天。Auto 比較少，因為 engraftment 快、感染少、沒有 GVHD 和 CMV、比較少嚴重腹瀉脫水，也比較少用腎毒性藥物。",
+          "嚴重度用肌酸酐和尿量分三級。Risk 是肌酸酐 1.5 到 2 倍，injury 是 2 到 3 倍，failure 是超過 3 倍，或無尿超過 12 小時、開始腎臟替代治療。",
+          "常見的腎毒性藥物包括 CNI、MTX、CY、platinum、amphotericin、aminoglycoside 和 vancomycin，在病房要每天一起看。AKI 沒有完全恢復、持續蛋白尿或高血壓的病人，之後慢性腎病、非復發死亡和整體死亡率都會增加。",
+          "考試常把這三級的倍數和尿量時間互換，例如把 6 小時和 12 小時對調，要看清楚。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Noninfectious lung complications",
+      "eyebrow": "Lung · Idiopathic pneumonia syndrome",
+      "title": "IPS is widespread alveolar injury with infection excluded",
+      "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
+      "head": [
+        "Item",
+        "Ch. 52"
+      ],
+      "rows": [
+        [
+          "Criterion 1: alveolar injury",
+          "Multilobar infiltrates, pneumonia signs, abnormal physiology"
+        ],
+        [
+          "Criterion 2: no infection",
+          "BAL negative for bacteria, viruses, fungi and PJ"
+        ],
+        [
+          "Criterion 3: no mimic",
+          "No cardiac dysfunction, AKI or iatrogenic fluid overload"
+        ],
+        [
+          "Timing",
+          "Usually ≤ day 120 (range day 21–180)"
+        ],
+        [
+          "Incidence",
+          "< 10%: 7% after MAC with TBI ≥ 12 Gy; 2% after RIC"
+        ],
+        [
+          "Treatment",
+          "MP ≤ 2 mg/kg/day; etanercept 0.4 mg/kg twice weekly (≤ 8)"
+        ],
+        [
+          "Evidence",
+          "Children: CR 71%, 1-y OS 63%; adult RCT under-accrued"
+        ]
+      ],
+      "colW": [
+        3.8,
+        8.0
+      ],
+      "fontSize": 16,
+      "caption": "[verify: Ch. 52 steroid line is truncated: when to add etanercept]",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "IPS 的定義是廣泛的肺泡損傷，同時沒有活動性下呼吸道感染、心臟或腎臟功能異常，也不是醫源性的水分過多。診斷時三項都要成立。第一項是肺泡損傷的證據，多葉浸潤、肺炎的症狀徵候，加上異常的生理指標，像 A-a gradient 增加、需要氧氣，或新的限制型 PFT。第二項是 BAL 對細菌、病毒、黴菌和 Pneumocystis 都陰性。第三項排除心臟、腎臟和水分問題。",
+          "時間通常在 day 120 內，範圍 day 21 到 180。過去發生率大約 25%，現在因為定義嚴格、RIC 增加、病原偵測進步，已經降到 10% 以下，MAC 合併 12 Gy 以上 TBI 是 7%，成人 RIC 是 2%。危險因子還有年紀大、KPS 低於 90、HLA 不合、MTX 和 aGVHD。",
+          "治療先做支持療法，氧氣、呼吸器、廣效抗生素和嚴格的水分控制。特定治療是 methylprednisolone 每天 2 mg/kg 以內，加上 anti-TNF 的 etanercept 0.4 mg/kg 一週兩次，最多 8 劑。這個組合的理論基礎是 IPS 的肺損傷走 TNF 和 IL-6、IL-17 兩條路。",
+          "兒童 phase II 的 CR 71%，一年存活 63%。成人的 randomized trial 因收案太慢提早結束，兩組 day 28 反應都約 60%，書上強調缺乏證據不等於沒有效。Tocilizumab 這類 anti-IL-6 仍在實驗階段。成人 IPS 的死亡率至今仍然很高。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 52 reads 'Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible' with the object missing; presumably etanercept is meant. Check the printed chapter."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Lung · Diffuse alveolar haemorrhage",
+      "title": "DAH is diagnosed by progressively bloodier BAL returns",
+      "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52 · Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": [
+        "Feature",
+        "DAH"
+      ],
+      "rows": [
+        [
+          "Incidence",
+          "2–14% of HCT recipients"
+        ],
+        [
+          "Timing",
+          "Median day 23, often pre-engraftment; later in up to 42%"
+        ],
+        [
+          "BAL diagnosis",
+          "Progressively bloodier return in ≥ 3 segmental bronchi"
+        ],
+        [
+          "Supporting",
+          "20% haemosiderin-laden macrophages (may take 72 h)"
+        ],
+        [
+          "Risk factors",
+          "TBI, high-dose CY, thrombocytopenia, acute GVHD"
+        ],
+        [
+          "Treatment",
+          "MP 250–500 mg q6h × 5 days, then taper; ± ACA, rFVIIa"
+        ],
+        [
+          "Prognosis",
+          "Mortality up to 85% by day 100; better after auto-HCT"
+        ]
+      ],
+      "colW": [
+        3.0,
+        8.8
+      ],
+      "fontSize": 17,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "DAH 發生在 2 到 14% 的移植病人，中位數 day 23，常在 engraftment 之前，但多達 42% 較晚發生。臨床表現和其他 IPS 一樣，真正咳血反而少見，所以不能等到咳血才懷疑，診斷要靠 BAL。連續灌洗至少三個 segmental bronchi，回收液一管比一管更紅，就是 DAH。含鐵血素巨噬細胞 20% 可以支持，但可能要 72 小時才出現，沒有也不能排除。",
+          "危險因子是 TBI 和高劑量 CY，第 40 章另外提到血小板低和 acute GVHD，可能和發炎細胞激素傷害肺泡內襯有關。非感染性的 DAH 歸在 IPS 的診斷大傘下，和典型 IPS 的鑑別也只能靠 BAL。",
+          "治療傳統上用高劑量 methylprednisolone，250 到 500 mg 每六小時，給五天再減量，可以加 aminocaproic acid 或 recombinant factor VIIa，但整體效果都令人失望。預後很差，day 100 死亡率可達 85%。直接死於出血的不到 15%，多數是演變成多重器官衰竭，auto 約 30%，allo 約 70%。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Lung · Late-onset complications",
+      "title": "BOS is diagnosed by PFTs and ILD by CT",
+      "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
+      "head": [
+        "",
+        "BOS",
+        "ILD"
+      ],
+      "rows": [
+        [
+          "Onset",
+          "Median 13 months (6–24)",
+          "Median 15 months; any time"
+        ],
+        [
+          "Incidence",
+          "3–11%",
+          "5% at 3 years"
+        ],
+        [
+          "Extrathoracic cGVHD",
+          "> 90%",
+          "> 75% (< 50% in PPFE)"
+        ],
+        [
+          "CT",
+          "Air trapping, mosaic, bronchial\nchanges; no parenchymal opacity",
+          "Alveolar and/or interstitial\nopacities"
+        ],
+        [
+          "PFT",
+          "FEV1/FVC < 0.7, TLC > 80%",
+          "TLC < 80%, FEV1/FVC > 0.7;\nlow DLCO"
+        ],
+        [
+          "Steroids",
+          "Low efficacy",
+          "Usually respond (not PPFE);\nrelapse on taper"
+        ],
+        [
+          "Survival",
+          "3-y OS 79%; 5-y OS 74%",
+          "3-y OS 81%; 5-y OS 71%"
+        ]
+      ],
+      "colW": [
+        3.0,
+        4.4,
+        4.4
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Day 100 以後的非感染性肺併發症，在 allo 移植可達 20%，最常見的是 BOS 和 ILD。診斷前一定要先排除感染，雖然呼吸道病毒感染常常就是誘發因子。",
+          "BOS 目前被視為肺部唯一被認可的 chronic GVHD 表現，中位數 13 個月發生，多在 6 到 24 個月之間，超過兩年才診斷很少見。超過九成合併其他部位的 cGVHD。CT 是空氣滯留、mosaic attenuation 和支氣管變化，沒有肺實質浸潤；PFT 是阻塞型，FEV1/FVC 小於 0.7，TLC 大於 80%。要注意超過三成病人移植前的 CT 就有 air trapping，所以 BOS 的診斷主要靠 PFT。",
+          "ILD 剛好相反，三年累積發生率 5%，任何時間都可能發生，靠 CT 看到肺泡或間質浸潤來診斷，PFT 是正常或限制型，DLCO 下降。CT 型態有 organizing pneumonia、PPFE 和無法分類三種。發炎型的 ILD 對 steroid 反應不錯，但減量容易復發；PPFE 對免疫抑制沒有反應，而且常在移植多年後出現。另外約四分之一的 ILD 合併 BOS，PFT 就會變成混合型。",
+          "兩者的長期存活其實相近，五年都在七成上下，但呼吸功能障礙和反覆感染很常見。考題常給 PFT 和 CT 要你分辨，記住 BOS 看肺功能、ILD 看影像就不會錯。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Lung · BOS diagnosis and treatment",
+      "title": "Only budesonide/formoterol has randomized evidence in BOS",
+      "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
+      "root": "BOS: FEV1/VC < 0.7, FEV1 < 75% (≥ 10% fall), RV > 120%",
+      "branches": [
+        {
+          "label": "Inhaled",
+          "box": "Budesonide/ formoterol",
+          "out": "FEV1 improved in RCT (Bergeron 2015)"
+        },
+        {
+          "label": "Combination",
+          "box": "FAM: fluticasone, azithromycin, montelukast",
+          "out": "FEV1 stabilised, single arm (Williams 2016)"
+        },
+        {
+          "label": "Caution",
+          "box": "Azithromycin, mainly early after HCT",
+          "out": "Possible increased cancer risk"
+        },
+        {
+          "label": "End stage",
+          "box": "Lung transplantation",
+          "out": "If GVHD inactive and relapse risk very low"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "NIH 的 BOS 診斷需要其他部位有 cGVHD，再加上新出現、對支氣管擴張劑沒反應的阻塞型缺損，FEV1/VC 小於 0.7、FEV1 小於預測值 75% 且比基準下降 10% 以上、RV 大於 120%。如果肺是唯一的 cGVHD 器官，就需要切片。最新的 NIH 共識不要求切片，所以叫 BOS，而不是需要病理的 BO。",
+          "因為早期可以完全沒症狀，書上建議移植前做基準 PFT，第一年每三個月追蹤，有其他部位 GVHD 或剛得過呼吸道病毒感染的人要更密集。",
+          "治療的證據都很弱。唯一有 double-blind RCT 支持、能改善 FEV1 的是吸入型 budesonide/formoterol。常用的 FAM 組合只有單臂研究，能讓 FEV1 穩定。Azithromycin 要注意，移植後早期使用可能增加癌症風險。全身性 steroid 對 BOS 效果很差，要先衡量利弊。",
+          "末期 BOS，如果沒有活動性 GVHD、復發風險很低，可以考慮肺移植。另外要配合肺復健、治療胃食道逆流、疫苗、感染預防，低丙種球蛋白合併感染時補 IVIG。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Nervous system",
+      "eyebrow": "CNS · Drug neurotoxicity",
+      "title": "PRES is reversible if the calcineurin inhibitor is stopped early",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "",
+        "PRES (CSA or TAC)",
+        "Fludarabine leukoencephalopathy"
+      ],
+      "rows": [
+        [
+          "Frequency or risk",
+          "1.6–7.2%; BP swings, renal failure",
+          "Older age, renal impairment, high dose"
+        ],
+        [
+          "Symptoms",
+          "Headache, visual loss, seizures,\nencephalopathy",
+          "Visual disturbance, sensory deficits,\ncognitive impairment"
+        ],
+        [
+          "MRI (T2)",
+          "Subcortical, parieto-occipital\nwhite matter",
+          "Periventricular white matter"
+        ],
+        [
+          "Outcome",
+          "Reversible after CNI withdrawal",
+          "Irreversible; median OS 2 months"
+        ],
+        [
+          "Clue",
+          "Voriconazole raises CSA/TAC levels",
+          "Prior FLU conditioning or CNS disease"
+        ]
+      ],
+      "colW": [
+        2.6,
+        4.6,
+        4.6
+      ],
+      "fontSize": 16,
+      "caption": "Busulfan: benzodiazepine seizure prophylaxis · Imipenem + ganciclovir: seizures",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "藥物是移植後神經併發症最常見的原因之一，主角是 CNI、抗感染藥物和 conditioning 的化療藥。CNI 相關的神經毒性在 25 到 59% 的病人出現，從單純手抖到 TMA 和 PRES 都有。",
+          "PRES 是可逆的皮質下血管性腦水腫，來自血壓劇烈變化或細胞激素對內皮的傷害，發生率 1.6 到 7.2%。頭痛、視覺異常、癲癇、意識改變或局部神經缺損，再加上腎衰竭或血壓波動，就高度懷疑。MRI 比 CT 敏感，T2 看到雙側多處高訊號，以頂枕葉皮質下白質為主，也有 superior frontal sulcus 或 watershed 的變異型。早期診斷、停掉 CNI 就能恢復，拖延則可能留下永久後遺症。",
+          "右邊的 fludarabine toxic leukoencephalopathy 是很重要的鑑別。症狀相似，有視覺異常、感覺缺損和認知障礙，但 MRI 的病灶在腦室周圍白質，危險因子是腎功能差、年紀大、高劑量，以及之前用過 fludarabine 或有 CNS 疾病。預後很差，多半不可逆，中位存活只有兩個月。",
+          "藥物交互作用也常考。開 voriconazole 會讓 cyclosporine 或 tacrolimus 濃度上升而誘發 PRES；imipenem 加 ganciclovir 可能引發全身性癲癇。Busulfan 則要用 benzodiazepine 預防癲癇，腎功能差時抗感染藥物也要調整劑量。",
+          "在病房，CNI 病人只要出現新的頭痛或視力模糊，先量血壓、抽 CNI 濃度，再安排 MRI，不要等到癲癇才處理。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CNS · Immune-mediated disease",
+      "title": "Immune-mediated neurological disease is rare but treatable",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "Disorder",
+        "Frequency, timing",
+        "Clues",
+        "Treatment"
+      ],
+      "rows": [
+        [
+          "Guillain-Barré, demyelinating PNP",
+          "1–4%; first 3 months",
+          "Ascending weakness, hyporeflexia",
+          "IVIG; then PLEX or rituximab"
+        ],
+        [
+          "Myositis",
+          "2–3%; with cGVHD",
+          "Proximal weakness, high CK, myopathic EMG",
+          "Steroids (response in 1–6 weeks)"
+        ],
+        [
+          "Myasthenia gravis",
+          "< 1%; after GVHD",
+          "Ptosis, diplopia, dysphagia; jitter on EMG",
+          "Cholinesterase inhibitor + steroids"
+        ],
+        [
+          "CNS chronic GVHD",
+          "Rare; 3 NIH types",
+          "Demyelination, vasculitis, encephalitis",
+          "Steroid pulses; + CY for vasculitis"
+        ],
+        [
+          "CRS after haplo-HCT",
+          "Up to 90%, first days",
+          "Fever, headache; encephalopathy < 10%",
+          "Tocilizumab or anakinra"
+        ]
+      ],
+      "colW": [
+        3.0,
+        2.5,
+        3.5,
+        3.2
+      ],
+      "fontSize": 14,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "免疫相關的神經疾病少見，但認出來就有藥可治。Guillain-Barré 和其他脫髓鞘神經病變發生在 1 到 4% 的病人，多在前三個月，表現為對稱性上行性無力、麻木、反射消失，嚴重時呼吸衰竭。要盡快做 MRI、腰椎穿刺和神經傳導，治療用 IVIG，無效再考慮 plasma exchange 或 rituximab。",
+          "Myositis 是近端肌無力，發生率 2 到 3%，常伴隨 chronic GVHD，之前用過 checkpoint inhibitor 風險更高。CK 上升、EMG 是 myopathic pattern，切片可以確診，steroid 一到六週內有反應。Myasthenia gravis 不到 1%，通常在 GVHD 之後，表現為眼瞼下垂、複視、吞嚥困難，用 cholinesterase inhibitor 加 steroid。",
+          "CNS chronic GVHD 依 NIH 分為脫髓鞘、腦血管炎和免疫性腦炎三型，以 steroid 脈衝為主，血管炎加 CY，難治的脫髓鞘可以考慮 fingolimod。最後一列是 haplo 移植，特別是用 PBSC 時，前幾天 CRS 可達九成，但嚴重神經症狀不到 10%，可以用 tocilizumab 或 anakinra。",
+          "這些病的共同點是時間點，多半發生在 GVHD 出現之後，或免疫抑制正在減量的時候。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "CNS · Diagnostic approach",
+      "title": "A stepwise work-up finds the cause of post-HCT neurotoxicity",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "steps": [
+        "Drugs and metabolic causes",
+        "Generalized or focal; timing",
+        "MRI or CT, then CSF",
+        "EEG or EMG if indicated",
+        "Repeat; biopsy; neurologist"
+      ],
+      "invert": 2,
+      "caption": "Speaker's summary of the ten steps in §53.3. Aspergillus: voriconazole or isavuconazole; HHV-6 encephalitis: foscarnet or ganciclovir. Subdural haematoma 2.6%; CT misses 20–25% of CNS bleeds.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "書上給了十個步驟，我把它濃縮成五格，這是 speaker's summary。先查用藥和代謝問題，再分全面性或局部、對照移植後的時間，早期多是藥物，後期多是感染。接著做 MRI 或 CT，然後腰椎穿刺。必要時做腦波或肌電圖，早期檢查陰性就要重複，最後考慮切片，每一步都請神經科參與。",
+          "感染方面，最常見的是 Aspergillus 這類黴菌，以及 EBV、HHV-6 這類病毒。麴菌用 voriconazole 或 isavuconazole，HHV-6 腦炎用 foscarnet 或 ganciclovir。硬腦膜下出血佔 2.6%，CT 有兩到三成會漏掉。",
+          "重複檢查這一步最常被忽略，因為早期的 MRI 和 CSF 可能都是陰性，症狀還在變化時，要再做一次。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: haematuria four weeks after haplo-HCT",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "stem": "A 35-year-old man is 28 days after haploidentical PBSC HCT with post-transplant cyclophosphamide and mesna. Neutrophils engrafted on day 18. He now has macroscopic haematuria with clots, dysuria and suprapubic pain. Urine BKPyV DNA is 10⁹ copies/mL and plasma BKPyV DNA 10⁴ copies/mL. Which statement is correct?",
+      "options": [
+        "This is early-onset HC from acrolein; mesna failed",
+        "This is late-onset BKPyV-HC; hydrate and consider cidofovir",
+        "Ciprofloxacin prophylaxis would have prevented it",
+        "Continuous bladder irrigation beats hyperhydration as prevention",
+        "Weekly BK monitoring should guide pre-emptive therapy"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: late-onset HC around engraftment is BK-driven",
+      "explanation": "Onset at engraftment, cystitis symptoms and viruria > 10⁷ copies/mL define BKPyV-HC. Treat with hyperhydration and forced diuresis, with IV (plus probenecid) or intravesical cidofovir. Early HC occurs within 48 h of conditioning. Fluoroquinolones, bladder irrigation and routine BK monitoring are not recommended.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。35 歲男性，haplo PBSC 移植，用 PTCy 和 mesna，day 18 engraftment，day 28 出現帶血塊的肉眼血尿、解尿疼痛和恥骨上疼痛。尿液 BK 是 10 的 9 次方，血漿 10 的 4 次方。五個敘述選一個正確的。",
+          "A 說這是 acrolein 造成的早發型，B 說是晚發型 BK-HC，C 說 ciprofloxacin 預防可以避免，D 說膀胱灌洗比 hyperhydration 好，E 說應該每週監測 BK 做 pre-emptive 治療。",
+          "提示一下，先判斷時間點，再看病毒量。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。發生在 engraftment 前後，加上膀胱炎症狀和大於 10 的 7 次方的 viruria，就是晚發型 BK-HC，治療是 hyperhydration、利尿，必要時用 cidofovir，靜脈給要配 probenecid，或改膀胱內灌注。",
+          "A 是主要陷阱，題目刻意寫 PTCy，讓人想到 acrolein，但早發型發生在 conditioning 或 PTCy 後 48 小時內，不是第四週。C 的 fluoroquinolone 臨床上沒有降低 HC，書上不建議。D 的膀胱灌洗沒有比 hyperhydration 好。E 也錯，因為沒有確立的 pre-emptive 治療，所以不建議常規監測 BK。",
+          "這題的關鍵是時間點。PTCy 和 mesna 是用來混淆的資訊，engraftment 前後的血尿，第一個要想到的就是 BK virus。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: breathlessness 14 months after allo-HCT",
+      "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
+      "stem": "A 48-year-old woman with oral and skin chronic GVHD has progressive dyspnoea 14 months after allo-HCT. FEV1/VC is 0.62, FEV1 58% of predicted (25% below baseline), RV 140% of predicted, with no bronchodilator response. CT shows mosaic attenuation and air trapping without parenchymal opacities. BAL is negative. Which statement is correct?",
+      "options": [
+        "A lung biopsy is required to confirm the diagnosis",
+        "Systemic steroids are highly effective for this condition",
+        "Inhaled budesonide/formoterol improved FEV1 in a randomized trial",
+        "The CT pattern indicates organizing pneumonia",
+        "Early azithromycin is safe and lowers cancer risk"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: BOS, where only budesonide/formoterol has RCT data",
+      "explanation": "Obstruction (FEV1/VC < 0.7, FEV1 < 75% with ≥ 10% fall, RV > 120%) plus cGVHD elsewhere meets NIH BOS criteria; biopsy is needed only when the lung is the sole cGVHD organ. Steroids have low efficacy in BOS. Organizing pneumonia is an ILD with parenchymal opacities. Azithromycin may raise cancer risk.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。48 歲女性，口腔和皮膚有 chronic GVHD，移植後 14 個月漸進性喘。FEV1/VC 0.62，FEV1 是預測值 58%，比基準掉了 25%，RV 140%，對支氣管擴張劑沒反應。CT 有 mosaic 和 air trapping，沒有實質浸潤，BAL 陰性。",
+          "選項 A 是需要肺切片，B 是全身 steroid 很有效，C 是吸入型 budesonide/formoterol 在 RCT 改善 FEV1，D 是 organizing pneumonia，E 是早期 azithromycin 安全又降低癌症風險。",
+          "提示一下，先決定這是 BOS 還是 ILD，再想治療證據。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C。這位病人符合 NIH 的 BOS 診斷，FEV1/VC 小於 0.7、FEV1 小於 75% 且下降超過 10%、RV 大於 120%，加上其他部位有 cGVHD。唯一有 double-blind RCT 證明能改善 FEV1 的就是吸入型 budesonide/formoterol。",
+          "A 是最常見的錯誤，只有肺是唯一 cGVHD 器官時才需要切片，這位病人有口腔和皮膚 GVHD。B 錯，steroid 對 BOS 效果很差。D 的 organizing pneumonia 屬於 ILD，CT 會有實質浸潤。E 剛好相反，azithromycin 可能增加癌症風險。",
+          "這題考的是 BOS 和 ILD 的分辨，以及治療證據的強度。看到阻塞型 PFT、air trapping、沒有實質浸潤，就是 BOS。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: seizure and blindness on day 20",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "stem": "A 55-year-old man is 20 days after busulfan-cyclophosphamide MAC and matched unrelated HCT on cyclosporine and methotrexate. Voriconazole was started on day 14 for probable aspergillosis. He develops headache, cortical blindness and a generalized seizure. BP is 182/104 mmHg and creatinine has doubled. MRI shows bilateral subcortical parieto-occipital T2 hyperintensity. Best next step?",
+      "options": [
+        "Stop cyclosporine, control blood pressure and treat seizures",
+        "Start foscarnet for presumed HHV-6 encephalitis",
+        "Give methylprednisolone pulses for CNS chronic GVHD",
+        "Diagnose toxic leukoencephalopathy; supportive care only",
+        "Perform a brain biopsy before any change in therapy"
+      ],
+      "answer": "A",
+      "answerTitle": "Answer A: PRES reverses when the CNI is withdrawn early",
+      "explanation": "Headache, visual loss and seizures with hypertension and renal failure, plus subcortical parieto-occipital T2 lesions, are typical of PRES. Voriconazole raises CSA levels. PRES is reversible after CNI withdrawal if diagnosed early. Fludarabine toxic leukoencephalopathy is periventricular and follows FLU, which he did not receive.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。55 歲男性，Bu/Cy 的 MAC 加 matched unrelated 移植，用 cyclosporine 和 MTX，day 14 因疑似麴菌開始 voriconazole。Day 20 出現頭痛、皮質盲和全身性癲癇，血壓 182/104，肌酸酐加倍，MRI 雙側頂枕葉皮質下 T2 高訊號。",
+          "選項 A 停 cyclosporine、控制血壓和癲癇，B 用 foscarnet 治 HHV-6，C 是 CNS GVHD 的 steroid 脈衝，D 是 toxic leukoencephalopathy 只做支持，E 是先做腦切片。",
+          "提示一下，先看用藥史，再看影像的位置。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 A。頭痛、視覺喪失、癲癇，加上高血壓和腎衰竭，MRI 又是頂枕葉皮質下病灶，這是典型的 PRES。早期停掉 CNI 就能恢復，同時控制血壓和癲癇。Voriconazole 讓 cyclosporine 濃度上升，就是這次的誘因，用藥史永遠是第一步。",
+          "D 是主要陷阱。Fludarabine 的 toxic leukoencephalopathy 病灶在腦室周圍，而且這位病人的 conditioning 是 Bu/Cy，沒有用 fludarabine。B 的 HHV-6 腦炎和 C 的 CNS GVHD 都和這個影像與時間點不符，E 的切片在 PRES 不需要。",
+          "這類題目的解題順序和前面的流程圖一樣，先看藥物，再看影像位置，皮質下頂枕葉指向 PRES，腦室周圍指向 fludarabine。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Haemostasis · VTE risk scores",
+      "title": "Two scores estimate VTE risk after allogeneic HCT",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": [
+        "",
+        "HIGH-2-LOW (Martens 2021)",
+        "HiGHS2 (Gangaraju 2021)"
+      ],
+      "rows": [
+        [
+          "Assessed",
+          "Day 30, for VTE day 30–100",
+          "Survivors, for late VTE"
+        ],
+        [
+          "Points",
+          "1 each: prior CRT, inpatient day 30,\nGVHD 3–4, prior PE/DVT",
+          "Stroke 3, PBSC 3, hypertension 2,\nmale 2, chronic GVHD 1"
+        ],
+        [
+          "",
+          "Lymphoma, BMI ≥ 35, WBC ≥ 11 × 10⁹/L",
+          ""
+        ],
+        [
+          "High risk",
+          "≥ 2 points: 10.3%",
+          "≥ 5 points: 9.3% at 10 years"
+        ],
+        [
+          "Intermediate",
+          "1 point: 3.6%",
+          "—"
+        ],
+        [
+          "Low risk",
+          "0 points: 1.5%",
+          "< 5 points: 2.4% at 10 years"
+        ]
+      ],
+      "colW": [
+        2.4,
+        4.8,
+        4.6
+      ],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "HIGH-2-LOW 在 day 30 評估七個各一分的因子，兩分以上的病人 day 30 到 100 的 VTE 是 10.3%。HiGHS2 預測長期 VTE，五分以上十年風險 9.3%。這兩個分數目前用來挑選 engraftment 後可能受益於預防的病人。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Kidney · Causes of AKI",
+      "title": "AKI after HCT arises at every level of the kidney",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": [
+        "Level",
+        "Causes after HCT"
+      ],
+      "rows": [
+        [
+          "Prerenal",
+          "Sepsis, engraftment syndrome, SOS/VOD"
+        ],
+        [
+          "Glomerular",
+          "Transplant-associated microangiopathy"
+        ],
+        [
+          "Tubular",
+          "ATN (dehydration, sepsis, shock), drugs, tumour lysis"
+        ],
+        [
+          "Interstitial",
+          "Acute GVHD; BKPyV or adenovirus"
+        ],
+        [
+          "Post-renal",
+          "BKPyV or adenovirus cystitis, retroperitoneal fibrosis, nodes"
+        ]
+      ],
+      "colW": [
+        2.6,
+        9.2
+      ],
+      "fontSize": 18,
+      "notes": {
+        "script": [
+          "AKI 可以發生在腎臟每一層。腎前性來自 sepsis、engraftment syndrome 和 SOS；腎絲球是 TMA；腎小管是 ATN 和藥物；間質是 aGVHD 和病毒；腎後性是 BK 或腺病毒膀胱炎造成的阻塞。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Haemostasis · CAR-T",
+      "title": "VTE and bleeding are also common after CAR-T therapy",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": [
+        "Study",
+        "Population",
+        "Findings"
+      ],
+      "rows": [
+        [
+          "Hashmi 2020",
+          "148, CD19 CAR-T for LBCL",
+          "VTE 11% by day 100; no major bleeding"
+        ],
+        [
+          "Parks 2021",
+          "91, NHL or myeloma",
+          "VTE 9% by day 60"
+        ],
+        [
+          "Johnsrud 2021",
+          "127",
+          "VTE 6.3%, bleeding 9.4% in 3 months"
+        ],
+        [
+          "Associations",
+          "ICANS grade ≥ 3",
+          "Linked to both bleeding and thrombosis"
+        ]
+      ],
+      "colW": [
+        2.8,
+        4.0,
+        5.0
+      ],
+      "fontSize": 18,
+      "captionY": 4.9,
+      "caption": "Anticoagulation for VTE may be safe when platelets are > 50 × 10⁹/L",
+      "notes": {
+        "script": [
+          "CAR-T 後的 VTE 在三個回溯研究是 6 到 11%，出血約 9%。Grade 3 以上的 ICANS 和出血、血栓都有關，CRS 則沒有。血小板大於 50 時抗凝治療大致安全。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "backup": true,
+      "eyebrow": "Lung · Work-up",
+      "title": "Early bronchoscopy anchors the pulmonary work-up",
+      "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
+      "steps": [
+        "SpO₂ (hall walk if late onset)",
+        "CT; echo if cardiac doubt",
+        "Blood, swabs, GM, β-D-glucan",
+        "FOB/BAL within 5 days",
+        "Biopsy in selected cases"
+      ],
+      "invert": 3,
+      "caption": "BAL gives a diagnosis in up to 78%; a pathogen in ~50% of suspected IPS; FOB complications < 5%. Fluid overload, the most frequent cause, affects up to 60%.",
+      "notes": {
+        "script": [
+          "肺部問題的檢查順序是血氧、CT、感染檢查，然後盡早做支氣管鏡，五天內做的陽性率較高。BAL 可以在 78% 的病例找到原因，併發症少於 5%。最常見的其實是 fluid overload，所以利尿也是第一步。"
+        ]
+      }
+    }
+  ]
+}

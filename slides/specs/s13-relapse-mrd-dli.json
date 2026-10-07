@@ -1,0 +1,1081 @@
+{
+  "id": "s13",
+  "slug": "relapse-mrd-dli",
+  "week": 13,
+  "title": "Relapse: MRD, maintenance and donor lymphocyte infusion",
+  "subtitle": "Week 13 · EBMT Handbook Ch. 57, 58 and 59",
+  "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57 · Kröger N, et al. Ch. 58 · Falkenburg JHF, et al. Ch. 59",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，第十三週的主題是移植後的 relapse，對應 EBMT Handbook 第 57、58、59 章。Relapse 現在是 allo-HCT 之後治療失敗最常見的原因，而且復發之後的結果仍然很差，所以今天的重點放在兩件事，怎麼提早看到它，以及怎麼預防它。順序是 MRD、藥物 maintenance、DLI，最後三題 board-style 題目。"
+    ]
+  },
+  "references": [
+    "1. Bader P, Kreyenberg H, Ossenkoppele G. Monitoring measurable residual disease in ALL and AML. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 513–21. https://doi.org/10.1007/978-3-031-44080-9_57",
+    "2. Kröger N, Gagelmann N. Prevention and treatment of relapse by drugs. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 523–9. https://doi.org/10.1007/978-3-031-44080-9_58",
+    "3. Falkenburg JHF, Schmid C, Kolb HJ, Kuball J. Delayed transfer of immune cells or the art of donor lymphocyte infusion (DLI) 2.0. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 531–9. https://doi.org/10.1007/978-3-031-44080-9_59",
+    "4. Eckert C, von Stackelberg A, Seeger K, et al. Minimal residual disease after induction is the strongest predictor of prognosis in intermediate risk relapsed acute lymphoblastic leukaemia—long-term results of trial ALL-REZ BFM P95/96. Eur J Cancer. 2013;49:1346–55.",
+    "5. Bader P, Kreyenberg H, Henze G, et al. Prognostic value of minimal residual disease quantification before allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia: the ALL-REZ BFM study group. J Clin Oncol. 2009;27:377–84.",
+    "6. Spinelli O, Peruta B, Tosi M, et al. Clearance of minimal residual disease after allogeneic stem cell transplantation and the prediction of the clinical outcome of adult patients with high-risk acute lymphoblastic leukemia. Haematologica. 2007;92:612–8.",
+    "7. Bader P, Kreyenberg H, Stackelberg A, et al. Monitoring of minimal residual disease after allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia allows for the identification of impending relapse: results of the ALL-BFM-SCT 2003 trial. J Clin Oncol. 2015;33:1275–84.",
+    "8. Short NJ, Zhou S, Fu C, et al. Association of measurable residual disease with survival outcomes in patients with acute myeloid leukemia: a systematic review and meta-analysis. JAMA Oncol. 2020;6:1890–9.",
+    "9. Araki D, Wood BL, Othus M, et al. Allogeneic hematopoietic cell transplantation for acute myeloid leukemia: time to move toward a minimal residual disease-based definition of complete remission? J Clin Oncol. 2016;34:329–36.",
+    "10. Hourigan CS, Dillon LW, Gui G, et al. Impact of conditioning intensity of allogeneic transplantation for acute myeloid leukemia with genomic evidence of residual disease. J Clin Oncol. 2020;38:1273–83.",
+    "11. Tettero JM, Ngai LL, Bachas C, et al. Measurable residual disease-guided therapy in intermediate-risk acute myeloid leukemia patients is a valuable strategy in reducing allogeneic transplantation without negatively affecting survival. Haematologica. 2023;108:2794–8. https://doi.org/10.3324/haematol.2022.282639.",
+    "12. Platzbecker U, Middeke JM, Sockel K, et al. Measurable residual disease-guided treatment with azacitidine to prevent haematological relapse in patients with myelodysplastic syndrome and acute myeloid leukaemia (RELAZA2): an open-label, multicentre, phase 2 trial. Lancet Oncol. 2018;19(12):1668–79.",
+    "13. Maziarz RT, Patnaik MM, Scott BL, Deol A, Rowley SD. Radius: a phase 2 randomized trial investigating standard of care ± midostaurin after allogeneic stem cell transplant in FLT3-ITD-mutated AML. Blood. 2018;132:662.",
+    "14. Burchert A, Bug G, Fritz LV, Finke J, Stelljes M, Röllig C, et al. Sorafenib maintenance after allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia with FLT3-internal tandem duplication mutation (SORMAIN). J Clin Oncol. 2020;38:2993–3002. https://doi.org/10.1200/JCO.19.03345.",
+    "15. Xuan L, Wang Y, Huang F, et al. Sorafenib maintenance in patients with FLT3-ITD acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation: an open-label, multicentre, randomised phase 3 trial. Lancet Oncol. 2020;21:1201. https://doi.org/10.1016/S1470-2045(20)30455-1.",
+    "16. Gagelmann N, Wolschke C, Klyuchnikov E, et al. TKI maintenance after stem-cell transplantation for FLT3-ITD positive acute myeloid leukemia: a systematic review and meta-analysis. Front Immunol. 2021;12:630429.",
+    "17. Mathew NR, Baumgartner F, Braun L, et al. Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD-mutant leukemia cells. Nat Med. 2018a;24:282–91.",
+    "18. Pfeifer H, Wassmann B, Bethge W, et al. Randomized comparison of prophylactic and minimal residual disease-triggered imatinib after allogeneic stem cell transplantation for BCR-ABL1-positive acute lymphoblastic leukemia. Leukemia. 2013;27:1254–62.",
+    "19. Giebel S, Czyz A, Ottmann O, et al. Use of tyrosine kinase inhibitors to prevent relapse after allogeneic hematopoietic stem cell transplantation for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: a position statement of the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. Cancer. 2016;122:2941–51.",
+    "20. Oran B, de Lima M, Garcia-Manero G, et al. A phase 3 randomized study of 5-azacitidine maintenance vs observation after transplant in high-risk AML and MDS patients. Blood Adv. 2020;4(21):5580–8.",
+    "21. Gao L, Zhang Y, Wang S, et al. Effect of rhG-CSF combined with decitabine prophylaxis on relapse of patients with high-risk MRD-negative AML after HSCT: an open-label, multicenter, randomized controlled trial. J Clin Oncol. 2020;38(36):4249–59.",
+    "22. Davids MS, Kim HT, Bachireddy P, et al. Ipilimumab for patients with relapse after allogeneic transplantation. N Engl J Med. 2016;375:143–53.",
+    "23. Haverkos BM, Abbott D, Hamadani M, et al. PD-1 blockade for relapsed lymphoma post-allogeneic hematopoietic cell transplant: high response rate but frequent GVHD. Blood. 2017;130:221–8.",
+    "24. Wolschke C, Stubig T, Hegenbart U, et al. Postallograft lenalidomide induces strong NK cell-mediated antimyeloma activity and risk for T cell-mediated GvHD: results from a phase I/II dose-finding study. Exp Hematol. 2013;41:134–142.e3.",
+    "25. Kantarjian HM, DeAngelo DJ, Stelljes M, et al. Inotuzumab ozogamicin versus standard therapy for acute lymphoblastic leukemia. N Engl J Med. 2016;375:740–53.",
+    "26. Alyea EP, DeAngelo DJ, Moldrem J, Pagel JM, Przepiorka D, Sadelin M, Young JW, Giralt S, Bishop M, Riddell S. NCI first international workshop on the biology, prevention and treatment of relapse after allogeneic hematopoietic cell transplantation: report from the committee on prevention of relapse following allogeneic cell transplantation for hematologic malignancies. Biol Blood Marrow Transplant. 2010;16:1037–69.",
+    "27. Kirkham AM, Bailey AJM, Masurekar A, Shorr R, Bredeson C, Sabloff M, Allan DS. Can GCSF-stimulated donor lymphocyte infusions improve outcomes for relapsed disease following allogeneic hematopoietic cell transplantation? A systematic review and meta-analysis. Leuk Lymphoma. 2022;63:3276–87.",
+    "28. Moskowitz CH, Nademanee A, Masszi T, et al. Brentuximab vedotin as consolidation therapy after autologous stem-cell transplantation in patients with Hodgkin’s lymphoma at risk of relapse or progression (AETHERA): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2015;385:1853–62.",
+    "29. Le Gouill S, Thieblemont C, Oberic L, et al. Rituximab after autologous stem-cell transplantation in mantle-cell lymphoma. N Engl J Med. 2017;377:1250–60."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Relapse · Outline",
+      "title": "Four parts, from detecting relapse to preventing it",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57 · Kröger N, et al. Ch. 58 · Falkenburg JHF, et al. Ch. 59",
+      "rows": [
+        [
+          "MRD in ALL and AML",
+          "Methods and limits, markers to avoid, MRD before and after HCT",
+          "9 min"
+        ],
+        [
+          "Drugs to prevent and treat relapse",
+          "Three settings; FLT3 and BCR-ABL TKIs, HMAs, immune-active drugs",
+          "7 min"
+        ],
+        [
+          "Donor lymphocyte infusion",
+          "Host dendritic cells, Table 59.1 doses, disease sensitivity",
+          "5.5 min"
+        ],
+        [
+          "Board questions",
+          "Three vignettes: MRD markers, FLT3 maintenance, DLI dose",
+          "5.25 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是 MRD，ALL 和 AML 分開談，包括各種方法的偵測極限、哪些 marker 不能拿來追、移植前後的 MRD 各代表什麼，大約九分鐘。這一段數字最多，也是考題最集中的地方。",
+          "第二段是用藥物預防和治療 relapse。先把 prophylactic、pre-emptive 和 overt relapse 三種情境分清楚，再看 FLT3 和 BCR-ABL 的 TKI、hypomethylating agents，以及會把 GVHD 一起帶出來的免疫藥物。",
+          "第三段是 DLI，核心是 Table 59.1 的劑量表，再加上哪些疾病對 DLI 比較敏感、哪些移植平台會改變劑量。最後五分多鐘做三題練習，三題剛好各對應前面一段，大家可以邊聽邊留意哪些數字會變成選項。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "MRD",
+      "eyebrow": "MRD · ALL methods",
+      "title": "ALL MRD methods reach 1E-04 to 1E-06 by different targets",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57",
+      "head": [
+        "Method",
+        "Target",
+        "Detection limit",
+        "Comment"
+      ],
+      "rows": [
+        [
+          "IG/TCR real-time qPCR (ASO primers)",
+          "Patient-specific IG/TCR rearrangement",
+          "1E-05\n(quantitative 1E-04)",
+          "Most patients; highly standardized"
+        ],
+        [
+          "IG/TCR digital PCR",
+          "Same targets and primers",
+          "—",
+          "No reference sample;\nclinical value being verified"
+        ],
+        [
+          "Fusion transcript RT-qPCR",
+          "BCR-ABL1, ETV6-RUNX1, MLL-AFF1",
+          "1E-06",
+          "Standardized by EAC"
+        ],
+        [
+          "Flow cytometry (MFC)",
+          "LAIP: backbone plus illegitimate markers",
+          "1E-04\n(4–6 colours)",
+          "8–10 colours, EuroFlow:\nmore sensitive"
+        ],
+        [
+          "NGS of IG/TCR",
+          "Whole clonal repertoire",
+          "—",
+          "Sees subclones; centralized"
+        ]
+      ],
+      "colW": [
+        3.2,
+        3.4,
+        2.2,
+        3.2
+      ],
+      "fontSize": 16,
+      "caption": "~15% of B-ALL are oligoclonal at diagnosis: clonal evolution can hide relapse from one index target",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "ALL 的 MRD 是獨立的預後因子，有 randomized study 支持，所以現在幾乎所有 protocol 都用它來修正 risk stratification，甚至決定治療強度。這張整理五種方法，重點看 target 和偵測極限。",
+          "最經典的是 IG/TCR rearrangement 的 real-time qPCR。每個病人的白血病 clone 有自己獨特的 CDR3 序列，針對它設計 allele-specific primer，偵測極限 1E-05，可定量範圍 1E-04，標準化程度很高，大部分病人都能做。缺點是需要 reference sample。Digital PCR 用一樣的 target，可以克服這些問題，但臨床價值還在驗證。",
+          "Fusion transcript 最敏感，可到 1E-06。成人以 BCR-ABL1 為主，兒童是 ETV6-RUNX1，嬰兒是 MLL-AFF1。Flow 看 LAIP，四到六色穩定做到 1E-04，八到十色加上 EuroFlow 標準化之後更敏感，而且可以在各醫院分散做。NGS 一次看到整個 repertoire，連 subclone 都抓得到，但資料量大，適合集中檢驗。",
+          "最下面那行是限制。大約 15% 的 B-ALL 一開始就是 oligoclonal，加上治療中的 clonal evolution，追蹤的 index clone 可能漏掉復發的那一支。骨髓 aplastic 時細胞數不夠，偵測極限也會變差，所以 MRD 一定要多次測量。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "MRD · ALL and HCT",
+      "title": "In ALL, MRD at 1E-03 and 1E-04 shapes transplant decisions",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57",
+      "head": [
+        "Situation",
+        "What MRD shows",
+        "Source"
+      ],
+      "rows": [
+        [
+          "Adult ALL relapsing after chemotherapy",
+          "Absolute indication for allo-HCT, whatever the MRD",
+          "Ch. 57"
+        ],
+        [
+          "Child, intermediate-risk relapse",
+          "HCT if post-induction MRD > 1E-03",
+          "Eckert 2013"
+        ],
+        [
+          "Child, immediately before HCT",
+          "MRD ≥ 1E-04: far inferior outcome",
+          "Bader 2009"
+        ],
+        [
+          "High pre-HCT MRD, after HCT",
+          "Almost half are MRD-negative by day +100",
+          "Spinelli 2007"
+        ],
+        [
+          "Serial MRD after HCT",
+          "Predicts impending relapse; basis for intervention",
+          "Bader 2015"
+        ]
+      ],
+      "colW": [
+        3.8,
+        5.4,
+        2.2
+      ],
+      "fontSize": 18,
+      "caption": "High-risk childhood relapse (early BM, any T-ALL BM relapse) is a clear HCT indication",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張把 ALL 的 MRD 放回移植的情境。成人 ALL 只要化療後復發，就是 allo-HCT 的絕對適應症，不需要看 MRD。兒童則分層，early BM relapse 或任何 T-ALL 的 BM relapse 屬於 high risk，直接移植。",
+          "Intermediate risk 的兒童復發才需要 MRD 決定。Post-induction MRD 超過 1E-03 就有移植適應症，這個 1E-03 來自 ALL-REZ BFM P95/96。",
+          "移植前那一刻的 MRD 同樣重要。Bader 2009 在兒童復發 ALL 發現，移植前 MRD 大於等於 1E-04 的病人，預後遠比較低的病人差。1E-03 用來決定要不要移植，1E-04 用來預測移植後結果，兩個 cutoff 不要對調。",
+          "MRD 高也不代表放棄。Spinelli 的資料裡，移植前 MRD 高的病人，將近一半在 day +100 達到 molecular remission。移植後連續追蹤 MRD 可以預測即將發生的 relapse，這是後面 pre-emptive 治療的基礎。",
+          "在病房上，這代表移植後的骨髓追蹤不只看 chimerism，也要排 MRD。不同方法的檢體處理和單位都不一樣，最好固定同一種方法、同一個實驗室，前後數字才能互相比較。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "MRD · AML methods",
+      "title": "Flow covers over 90% of AML; PCR and NGS need a suitable marker",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57",
+      "head": [
+        "Method",
+        "Applicable",
+        "Principle",
+        "Caveat"
+      ],
+      "rows": [
+        [
+          "RT-qPCR",
+          "40–60% of patients",
+          "Fusion genes, mutated NPM1;\nEAC-standardized",
+          "NPM1 is the best-validated\nmolecular marker"
+        ],
+        [
+          "Multicolour flow (MFC)",
+          "> 90% of patients",
+          "LAIP at diagnosis plus\ndifferent-from-normal (DfN)",
+          "Background LAIP caps\nsensitivity near 1:10,000"
+        ],
+        [
+          "NGS, diagnostic mutations",
+          "Multigene panel",
+          "Patient-specific mutations;\nmostly exploratory",
+          "Exclude germline and\nDTA mutations"
+        ],
+        [
+          "NGS for FLT3-ITD",
+          "FLT3-ITD-positive AML",
+          "Bioinformatic ITD calling\nafter induction",
+          "MRD ≥ 0.01% clearly\nlinked to outcome"
+        ]
+      ],
+      "colW": [
+        2.8,
+        2.4,
+        3.6,
+        3.4
+      ],
+      "fontSize": 16,
+      "caption": "Morphology sees 1:20; MRD reaches 1:10³–1:10⁶. ELN 2022: CR, CRi and CRh can each be MRD-negative.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "換到 AML。形態學只能看到大約 1:20，也就是 5% blast；MRD 可以看到 1:10³ 到 1:10⁶。MRD 也因此被寫進 CR 的定義，ELN 2022 的 response criteria 除了 CR MRD-negative，還多了 CRi 和 CRh MRD-negative。ELN 在 2021 年另有 MRD consensus document，規範 flow 和分子 MRD 的做法和 threshold。",
+          "RT-qPCR 需要有 fusion gene 或 mutated NPM1 這類 marker，只有 40 到 60% 的病人做得到，方法已經由 Europe Against Cancer program 標準化。除了 t(15;17)、RUNX1-RUNX1T1 和 CBFB-MYH11，NPM1 是目前驗證最完整的分子 marker。",
+          "Flow 用兩種策略。一種是追診斷時的 LAIP，也就是正常就存在的 marker 以不正常的組合出現；另一種是 different-from-normal，用固定 panel 找跟正常造血不同的細胞，所以就算沒有診斷檢體也能做。超過 90% 的 AML 找得到 aberrancy。限制是正常和 regenerating marrow 本身就有少量類似的表現型，敏感度很難超過 1:10,000。",
+          "NGS 通常在診斷時用 multigene panel 找出 mutation，再挑病人特有的 mutation 追蹤，目前多半還是探索性使用。FLT3-ITD 是例外，用 bioinformatic 方法已能可靠偵測，三個研究一致顯示 induction 之後 FLT3-ITD MRD 大於等於 0.01% 和預後明顯相關。",
+          "考試最常出的是哪一種方法適用多少比例的病人，flow 超過 90%，PCR 40 到 60%，這組對比要記熟。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "eyebrow": "MRD · Pitfalls",
+      "title": "MRD results mislead when the marker or threshold is wrong",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57",
+      "blocks": [
+        {
+          "head": "Not a leukaemia marker",
+          "body": "Germline (DDX41, GATA2, RUNX1, TP53, CEBPA…) and DTA mutations (DNMT3A, TET2, ASXL1) persist in remission",
+          "extra": "Do not use them for NGS-MRD"
+        },
+        {
+          "head": "Low-level positivity",
+          "body": "CBF and NPM1 transcripts may persist at low level (CR MRD-LL) without predicting relapse",
+          "extra": "Called negative below the prognostic threshold"
+        },
+        {
+          "head": "Negative is not cured",
+          "body": "MRD-negative patients still relapse; a negative test means below the threshold in that sample",
+          "extra": "81-study meta-analysis: MRD predicts relapse and OS (Short 2020)"
+        }
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "左邊這格最常考。Germline mutation，例如 DDX41、GATA2、RUNX1、TP53、CEBPA，本來就存在每一個細胞，不能當 MRD marker。DNMT3A、TET2、ASXL1 合稱 DTA，常見於 age-related clonal hematopoiesis，緩解之後還是持續存在，代表的不是白血病 clone，同樣不能拿來追。臨床上看到 NGS 報告上 DNMT3A 還在，不要直接解讀成 MRD-positive，要先問這個 mutation 是不是 DTA 或 germline。",
+          "中間是 low-level positivity。CBF AML 和 NPM1 mutated AML 治療後，transcript 可能一直以很低的量存在，卻不預測 relapse。這種狀況叫 CR MRD-LL，低於與預後相關的 threshold 時，操作上就當作 negative。判讀時要對照該 marker 已知的 threshold，而不是只看有沒有測到。",
+          "右邊提醒 negative 不等於治癒。81 篇研究的 meta-analysis 證實 MRD 能預測 relapse 和 OS，但 MRD-negative 的病人仍然會復發，因為 negative 只代表這個檢體低於偵測 threshold。反過來，MRD-positive 的病人也不是每個都復發。到目前為止，MRD 也還沒有被證明是 survival 的 surrogate endpoint，所以它是機率，要和診斷時的 risk factor 一起看。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "MRD · AML before HCT",
+      "title": "Pre-transplant MRD predicts relapse and the benefit of MAC",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57",
+      "head": [
+        "Study",
+        "Outcome",
+        "MRD-positive",
+        "MRD-negative"
+      ],
+      "rows": [
+        [
+          "Araki 2016\n(n = 359 adults, MFC)",
+          "3-year relapse",
+          "67%",
+          "22%"
+        ],
+        [
+          "",
+          "3-year OS",
+          "26%",
+          "73%"
+        ],
+        [
+          "Hourigan 2020",
+          "3-year OS after RIC",
+          "34%",
+          "61%"
+        ],
+        [
+          "",
+          "3-year OS after MAC",
+          "59%",
+          "60%"
+        ]
+      ],
+      "colW": [
+        3.6,
+        3.6,
+        2.4,
+        2.4
+      ],
+      "fontSize": 20,
+      "captionY": 5.2,
+      "caption": "Speaker's summary: MAC helped only MRD-positive patients. MRD is prognostic after MAC and non-MAC, in CR1 and CR2.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "移植前用 flow 測到的 MRD，是移植後結果很強的獨立預測因子。Araki 2016 收了 359 位成人，MRD-positive 的三年 relapse 是 67%，negative 是 22%；三年 OS 分別是 26% 和 73%。不論 myeloablative 或 non-myeloablative 都成立，EBMT 的大型研究也得到一樣的結論，CR2 的病人同樣適用。NPM1-mutated AML 用 RT-PCR 測的分子 MRD，對移植後結果也有顯著影響。",
+          "下面兩列是 Hourigan 2020。MRD-positive 的病人，RIC 的三年 OS 只有 34%，MAC 是 59%；MRD-negative 的病人，RIC 61%、MAC 60%，幾乎沒差。MAC 的好處只出現在 MRD-positive 這一群，這行 summary 是我根據表上數字的歸納。",
+          "臨床上這張表最直接的用途，是決定 conditioning intensity。題目若給一位體能好、移植前 MRD 仍陽性的 AML 病人，問 conditioning，答案通常偏向 MAC。反過來，MRD-negative 的病人用 RIC 並沒有吃虧，這對年紀大、共病多的病人是很實用的資訊。",
+          "這張表的另一層意義是，移植前把 MRD 壓得越深越好，所以書上也鼓勵 MRD-guided 的研究，包括移植前讓 MRD 轉陰，以及依 MRD 調整 conditioning 強度。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "MRD · Post-remission choice",
+      "title": "MRD steers who receives an allograft in first remission",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57",
+      "root": "AML in CR1: ELN risk group plus MRD status",
+      "branches": [
+        {
+          "label": "Favourable",
+          "box": "MRD-negative",
+          "out": "Usually no allo-HCT in CR1"
+        },
+        {
+          "label": "Intermediate",
+          "box": "MRD-negative",
+          "out": "No allo-HCT in many centres; HCT in CR2"
+        },
+        {
+          "label": "Adverse",
+          "box": "Any MRD status",
+          "out": "Allo-HCT regardless of MRD"
+        }
+      ],
+      "invert": 1,
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "這是歐洲多數 trial group 的做法，MRD 不是取代 ELN risk，而是在 risk group 裡面再細分。Favourable risk 而 MRD-negative，CR1 通常不做 allo-HCT。Adverse risk 則不論 MRD 都移植。",
+          "中間這支最有討論空間。Intermediate risk 而 MRD-negative 的病人，很多中心先不移植，等到 CR2 才做。Tettero 2023 顯示這種 MRD-guided 策略可以減少移植數量，又不影響存活，但書上也提醒，仍需要 prospective 證實。",
+          "移植後的 MRD 資料比較少，多數研究顯示 post-transplant MRD 陽性是不良預後，其中一個研究顯示這和移植前的 MRD 無關。書上的結論很直接，任何臨床試驗，包括移植試驗，都應該納入 MRD 評估。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Drugs",
+      "eyebrow": "Relapse · Three settings",
+      "title": "Relapse prevention acts in three settings with rising intensity",
+      "cite": "Falkenburg JHF, et al. EBMT Handbook 8th ed. 2024; Ch. 59 · Bader P, et al. Ch. 57",
+      "root": "After allo-HCT: is there evidence of disease?",
+      "branches": [
+        {
+          "label": "No, but high risk",
+          "box": "Prophylactic",
+          "out": "From day +90–100, off IS, GVHD-free ~1 month"
+        },
+        {
+          "label": "MRD+ or falling chimerism",
+          "box": "Pre-emptive",
+          "out": "Escalating DLI; azacitidine (RELAZA2)"
+        },
+        {
+          "label": "Overt relapse",
+          "box": "Treatment",
+          "out": "Chemotherapy plus DLI about 1 × 10⁷/kg"
+        }
+      ],
+      "invert": 1,
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "進入第二段之前，先把三種情境分清楚，因為藥物和 DLI 的證據都依情境而不同。",
+          "Prophylactic 是沒有任何疾病證據、但復發風險高的病人，條件很具體，day +90 到 +100 以後，已停掉 immunosuppression，而且沒有 GVHD 大約一個月。Pre-emptive 是已經出現 MRD positivity 或 donor chimerism 下降，但還沒有血液學復發。RELAZA2 就是在 MRD-positive 的 MDS 和 AML 用 azacitidine，可以預防或延後血液學復發。Overt relapse 則需要化療加上 DLI，劑量高一個 log。",
+          "這三種情境的 DLI 劑量也依序升高，prophylactic 最低，relapse 最高，後面 Table 59.1 會再看到。",
+          "考題的 vignette 常常只差在這一點，先判斷病人在哪一支，再選藥和劑量。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Drugs · FLT3-ITD",
+      "title": "Sorafenib maintenance improves survival in FLT3-ITD AML",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 58",
+      "head": [
+        "Agent or study",
+        "Design",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Baseline risk",
+          "Allo-HCT in CR1",
+          "Relapse 30% if FLT3-ITD+ vs 16%"
+        ],
+        [
+          "Midostaurin (Maziarz 2018)",
+          "Phase II; randomized trial",
+          "12-month relapse 9.2%;\nno survival benefit"
+        ],
+        [
+          "Sorafenib (Burchert 2020, SORMAIN)",
+          "Randomized",
+          "Better EFS and OS"
+        ],
+        [
+          "Sorafenib (Xuan 2020)",
+          "Randomized phase III",
+          "Better EFS and OS"
+        ],
+        [
+          "TKI meta-analysis (Gagelmann 2021)",
+          "Post-allograft TKI",
+          "Clear benefit, favouring sorafenib"
+        ],
+        [
+          "Sorafenib at relapse",
+          "Retrospective",
+          "Long CRs; with DLI better than DLI alone"
+        ]
+      ],
+      "colW": [
+        4.2,
+        3.0,
+        4.6
+      ],
+      "fontSize": 16,
+      "caption": "Sorafenib induces IL-15 in FLT3-ITD cells and boosts GVL (Mathew 2018). Quizartinib, gilteritinib, crenolanib: in trials.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "FLT3-ITD 是 maintenance 證據最強的領域。FLT3-ITD 陽性的病人在 CR1 移植，relapse 是 30%，陰性只有 16%，所以這群人特別需要預防復發。",
+          "Midostaurin 已經核准用於 FLT3-positive AML，移植後的 phase II 看起來也不錯，12 個月 relapse 只有 9.2%，但隨機分配的 RADIUS 沒有看到 survival benefit。Sorafenib 則有兩個 prospective randomized trial，德國的 SORMAIN 和中國 Xuan 的 phase III，都顯示 EFS 和 OS 顯著改善，meta-analysis 也偏向 sorafenib。這兩個藥最容易混淆，考題問哪一個 maintenance 有 OS 的 randomized 證據，答案是 sorafenib。",
+          "Sorafenib 不只是殺腫瘤。動物實驗顯示它讓 FLT3-ITD 白血病細胞產生 IL-15，增強 T cell 活化和 GVL。復發時 sorafenib 也能誘發持久的 CR，retrospective 資料顯示合併 DLI 比單用 DLI 好，兩者都在加強 GVL，合併起來合理。",
+          "Quizartinib、gilteritinib 和 crenolanib 的移植後 randomized trial 正在進行，目前證據最完整的仍是 sorafenib。",
+          "病房上要記的是，FLT3-ITD 移植後有 randomized OS 證據的只有 sorafenib。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Drugs · BCR-ABL",
+      "title": "BCR-ABL TKIs work in CML; Ph+ ALL maintenance data are mixed",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 58",
+      "head": [
+        "Setting",
+        "Evidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "CML relapse after allograft",
+          "Imatinib",
+          "> 60% molecular remission"
+        ],
+        [
+          "CML maintenance",
+          "2nd-generation TKI, small studies",
+          "Successful; blast phase may gain"
+        ],
+        [
+          "Ph+ ALL, CIBMTR",
+          "Post-HCT TKI vs none",
+          "No difference in 3-year relapse"
+        ],
+        [
+          "Ph+ ALL, EBMT",
+          "Post-HCT TKI vs none",
+          "Lower relapse, better LFS"
+        ],
+        [
+          "Ph+ ALL (Pfeifer 2013)",
+          "Randomized: prophylactic vs\nMRD-triggered imatinib",
+          "No survival difference"
+        ],
+        [
+          "EBMT position (Giebel 2016)",
+          "MRD-negative after allo-HCT",
+          "Prophylactic or pre-emptive TKI"
+        ]
+      ],
+      "colW": [
+        3.8,
+        4.2,
+        3.8
+      ],
+      "fontSize": 16,
+      "caption": "TKIs also modulate immunity: better T-cell cytolysis, less PD-1, fewer MDSCs",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "BCR-ABL 的 TKI 除了直接抗腫瘤，也有免疫調節作用，可增強 T cell 的 cytolytic function、降低 PD-1、減少 myeloid-derived suppressor cells。",
+          "CML 的資料最一致。移植後復發的 CML 用 imatinib，超過 60% 達到 molecular remission；第二代 TKI 做 maintenance 的小型研究也成功，blast phase 移植後加 TKI 似乎改善結果。",
+          "Ph-positive ALL 就沒有結論。CIBMTR 看三年 relapse 沒有差異，EBMT 的資料則是 relapse 較低、LFS 較好，兩大資料庫結果互相矛盾。Pfeifer 的小型 randomized study 比較 prophylactic 和 MRD-triggered imatinib，存活沒有差別。所以 EBMT 的 position statement 說，移植後 MRD-negative 的病人，prophylactic 或 pre-emptive 兩種策略都可以。",
+          "這裡的 prophylactic 指移植後不論 MRD 都給 TKI，pre-emptive 指 MRD 轉陽才開始給。兩者存活相同，我的理解是 pre-emptive 能讓一部分病人免於長期服藥，但前提是 MRD 追蹤要規律。考題常把 CML 和 Ph+ ALL 的證據混在一起，這兩者要分開記。",
+          "在病房上，Ph-positive ALL 移植後無論選哪一種策略，BCR-ABL 的定量都要規律追蹤。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Drugs · Hypomethylating agents",
+      "title": "Hypomethylating agents rescue few relapses and fail as prophylaxis",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 58 · Bader P, et al. Ch. 57",
+      "head": [
+        "Setting",
+        "Regimen",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Pre-emptive, MRD+ MDS/AML\n(RELAZA2)",
+          "Azacitidine",
+          "Prevents or delays\nhaematological relapse"
+        ],
+        [
+          "Falling donor chimerism",
+          "Azacitidine",
+          "Can restore full donor chimerism"
+        ],
+        [
+          "Overt relapse, EBMT study",
+          "Azacitidine ± DLI",
+          "ORR 25%, CR 15%, 2-year OS 12%;\nDLI added nothing"
+        ],
+        [
+          "Overt relapse, other series",
+          "Aza or decitabine ± DLI",
+          "Up to 28% CR, some durable"
+        ],
+        [
+          "Prophylaxis (Oran 2020)",
+          "Azacitidine vs observation",
+          "No EFS or OS benefit"
+        ],
+        [
+          "Prophylaxis (Gao 2020)",
+          "Decitabine + G-CSF",
+          "Significantly less relapse"
+        ]
+      ],
+      "colW": [
+        4.0,
+        3.4,
+        4.6
+      ],
+      "fontSize": 16,
+      "caption": "HMAs upregulate HLA and tumour antigens for donor T cells; acute GVHD is uncommon",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Azacitidine 和 decitabine 毒性可以接受，移植後用得上，還會上調 HLA 和 tumor-associated antigen，讓 donor T cell 比較容易辨認。另一方面，HMA 會抑制 CD4 和 CD8 T cell、增加 regulatory T cell，這或許也是 acute GVHD 發生率低的原因之一。",
+          "效果依情境差很多。Pre-emptive 最好，RELAZA2 在 MRD-positive 的 MDS 和 AML 預防或延後血液學復發；donor chimerism 下降時，azacitidine 也能把它拉回 full donor。",
+          "到了 overt relapse 就不理想。EBMT 的大型研究，azacitidine 的 ORR 25%、CR 15%，兩年 OS 只有 12%，加 DLI 並沒有改善反應或存活。其他系列單用或合併 DLI，CR 最多到 28%，少數病人可以長期緩解，所以它是可用的選項，但不要期待高 CR rate。",
+          "Prophylactic azacitidine 在 Oran 2020 的 randomized trial 沒有 EFS 或 OS 好處，oral azacitidine CC-486 則還在 randomized trial 中。反倒是 decitabine 加 G-CSF 在 randomized trial 顯著降低 relapse。Prophylactic azacitidine 無效，這點常被拿來當錯誤選項。",
+          "使用時機上，越早介入、疾病負擔越低，效果越好。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Drugs · Immune-active agents",
+      "title": "Immune-active drugs after allo-HCT trade responses for GVHD",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 58",
+      "head": [
+        "Drug",
+        "Setting",
+        "Response",
+        "GVHD or toxicity"
+      ],
+      "rows": [
+        [
+          "Ipilimumab (Davids 2016)",
+          "Relapse after allo",
+          "ORR < 30%",
+          "GVHD not frequent"
+        ],
+        [
+          "PD-1 blockade",
+          "HL after allo, n = 20",
+          "95%",
+          "GVHD 30%; 1 fatal"
+        ],
+        [
+          "PD-1 blockade (Haverkos 2017)",
+          "Lymphoma after allo, n = 31",
+          "77%",
+          "aGVHD 54%; 8 GVHD deaths"
+        ],
+        [
+          "Lenalidomide",
+          "Early after allo",
+          "—",
+          "Severe GVHD; 5 mg after IS stops"
+        ],
+        [
+          "Thalidomide",
+          "With DLI",
+          "—",
+          "No added GVHD risk"
+        ],
+        [
+          "Inotuzumab ozogamicin",
+          "ALL relapse after HCT",
+          "Active",
+          "SOS/VOD ~11%; 22% if HCT follows"
+        ],
+        [
+          "Blinatumomab",
+          "ALL relapse after HCT",
+          "Active, also with DLI",
+          "Maintenance feasible"
+        ]
+      ],
+      "colW": [
+        3.6,
+        3.2,
+        2.0,
+        3.6
+      ],
+      "fontSize": 15,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張的共同主題是，藥物越能活化 T cell，GVHD 風險就越高。",
+          "Checkpoint inhibitor 最明顯。它逆轉 T cell exhaustion，增強 graft-versus-malignancy，但同時也把 alloreactive T cell 放出來。Ipilimumab 的 GVHD 不多，但反應率不到 30%。PD-1 blockade 在移植後復發的 Hodgkin，反應率 95%，GVHD 30%，一例死亡；31 位淋巴瘤病人的系列反應率 77%，acute GVHD 卻高達 54%，八位死於 GVHD 相關併發症。",
+          "IMiD 也一樣。自體移植後 lenalidomide 是 myeloma 的標準 maintenance，但 allo 之後太早給會造成嚴重 GVHD；從 5 mg 低劑量開始、等 immunosuppression 停掉之後才給，風險明顯下降。Thalidomide 即使合併 DLI，也沒有增加 GVHD。",
+          "ALL 方面，inotuzumab ozogamicin 對移植後復發有效，但 SOS/VOD 大約 11%，之後再做 allo-HCT 的病人可達 22%，這部分可以對照第十週的 SOS 內容。Blinatumomab 可以合併 DLI，移植後當 maintenance 也可行，但效果可能取決於當時的免疫環境。",
+          "這些藥的效果和 GVHD 是同一個機轉的兩面，使用前要先確認病人目前沒有活動性 GVHD。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "section": "Donor lymphocyte infusion",
+      "eyebrow": "DLI · Biology",
+      "title": "DLI potency falls as donor dendritic cells replace host cells",
+      "cite": "Falkenburg JHF, et al. EBMT Handbook 8th ed. 2024; Ch. 59",
+      "steps": [
+        "Tissue damage activates host DCs",
+        "Naive donor αβT cells respond to host DCs",
+        "GVL, plus GVHD if tissue antigens are shared",
+        "Donor DCs replace host DCs within ~6 months"
+      ],
+      "invert": 3,
+      "caption": "Dose tolerated without severe GVHD: < 10⁵ αβT cells/kg at 3 months, > 10⁶/kg at 6 months. Prerequisite: no GVHD, no uncontrolled infection.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "DLI 的效果和毒性都來自 αβT cell。在 HLA-matched 移植，alloreactive T cell 大多在 naive repertoire 裡，需要 recipient 的 dendritic cell 去啟動。DC 是造血來源，所以 donor T cell 打 host DC，等於打 host 的造血細胞，包括白血病，這就是 GVL。若同時辨認到非造血組織的抗原，就變成 GVHD。移植當下組織受損、有感染時，DC 被活化，GVL 和 GVHD 就很難分開。",
+          "這也是很多平台先把 graft 裡的 T cell 去掉，例如 CD34 selection、ATG 或 alemtuzumab，之後再補 DLI 的理由。移植後 host DC 逐漸被 donor DC 取代，組織傷害也慢慢修復，免疫反應的強度跟著下降。結果是可以安全給的劑量隨時間上升，三個月時不到 10⁵/kg，六個月時超過 10⁶/kg。",
+          "DLI 的前提因此是沒有 tissue damage 和發炎，也就是沒有 GVHD、沒有控制不住的感染。這個機轉也說明，為什麼 PTCY 或 GVHD 緩解之後，host DC 已經被清掉，可能需要較高的劑量。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "DLI · Dosing (Table 59.1)",
+      "title": "Table 59.1 sets the first DLI dose by indication, timing and donor",
+      "cite": "Falkenburg JHF, et al. EBMT Handbook 8th ed. 2024; Ch. 59",
+      "head": [
+        "Indication, timing",
+        "Matched related",
+        "MUD",
+        "MMUD / haplo",
+        "Number"
+      ],
+      "rows": [
+        [
+          "Prophylactic, 3 months",
+          "1 × 10⁵/kg",
+          "1 × 10⁵/kg",
+          "1 × 10⁵/kg",
+          "1–3"
+        ],
+        [
+          "Prophylactic, 6 months",
+          "1 × 10⁶/kg",
+          "1 × 10⁶/kg",
+          "5 × 10⁵/kg",
+          "1–3"
+        ],
+        [
+          "Pre-emptive, 3 months",
+          "1–5 × 10⁵/kg",
+          "1 × 10⁵/kg",
+          "1 × 10⁵/kg",
+          "1–4"
+        ],
+        [
+          "Pre-emptive, 6 months",
+          "1–3 × 10⁶/kg",
+          "1 × 10⁶/kg",
+          "5 × 10⁵/kg",
+          "1–4"
+        ],
+        [
+          "Relapse, after chemotherapy",
+          "1 × 10⁷/kg",
+          "1 × 10⁷/kg",
+          "1 × 10⁶/kg",
+          "1–4"
+        ]
+      ],
+      "colW": [
+        3.8,
+        2.4,
+        2.0,
+        2.4,
+        1.2
+      ],
+      "fontSize": 18,
+      "caption": "CD3+ cells/kg; level C. Interval ≥ 4–6 weeks. Escalate 0.5–1 log; relapse 1 log to max 1 × 10⁸/kg. (‘MRD’ in Table 59.1 = matched related donor.)",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這是 Table 59.1，今天最需要背的一張。單位是 CD3+ cells/kg，證據等級是 level C。前提是 non-manipulated DLI，接在沒有或只有 in vivo T-cell depletion 的 sibling 或 unrelated 移植後，對象是 acute leukemia 或 MDS，這是研究最多的情境。",
+          "Prophylactic 在三個月給，不分 donor 都是 1 × 10⁵/kg；適用對象是 ex vivo T-cell depletion 的任何風險病人，或沒有做 T-cell depletion 的高風險病人。六個月給的話，related 和 MUD 提高到 1 × 10⁶/kg，mismatched 或 haplo 是 5 × 10⁵/kg。",
+          "Pre-emptive 的起始劑量大致相同，三個月 related donor 可以到 1 到 5 × 10⁵/kg，六個月到 1 到 3 × 10⁶/kg。另一種做法是一開始就用高 5 到 10 倍的劑量。後續劑量通常從第一次 apheresis 分裝冷凍，次數依 MRD 或 chimerism 決定。Overt relapse 要先化療，再給 1 × 10⁷/kg，haplo 則是 1 × 10⁶/kg。",
+          "增加劑量的規則在下方。兩次 DLI 至少間隔 4 到 6 週，prophylactic 每次增加 0.5 到 1 個 log，relapse 每次增加 1 個 log，上限 1 × 10⁸/kg。一旦出現 GVHD，就不再給下一次；在 MRD monitoring 的時代，也不再把 GVHD 當作重複 DLI 的終點。",
+          "原表把 matched related donor 縮寫成 MRD，和 measurable residual disease 同一個縮寫，讀表時不要看錯。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "DLI · Modifiers",
+      "title": "Disease, platform and drugs modify the DLI dose and its effect",
+      "cite": "Falkenburg JHF, et al. EBMT Handbook 8th ed. 2024; Ch. 59",
+      "head": [
+        "Factor",
+        "Effect on DLI"
+      ],
+      "rows": [
+        [
+          "High sensitivity to DLI",
+          "CML, myelofibrosis, low-grade NHL"
+        ],
+        [
+          "Intermediate sensitivity",
+          "AML, MDS, multiple myeloma, Hodgkin's disease"
+        ],
+        [
+          "Low sensitivity",
+          "ALL, DLBCL"
+        ],
+        [
+          "After PTCY or resolved GVHD",
+          "Host DCs depleted: earlier DLI, may need a higher dose"
+        ],
+        [
+          "Haplo or mismatched donor",
+          "Memory alloreactive T cells: stronger response"
+        ],
+        [
+          "Product",
+          "Fresh beats frozen; G-CSF-mobilized: same mortality"
+        ],
+        [
+          "Immune escape",
+          "Loss of mismatched HLA after haplo; HLA downregulation"
+        ],
+        [
+          "Co-administered drugs",
+          "Early lenalidomide raises GVHD; TKI, HMA, HDACi under study"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "最上面三列是 NCI relapse workshop 對疾病敏感度的分類，考試最愛問。高敏感是 CML、myelofibrosis 和 low-grade NHL；中等是 AML、MDS、multiple myeloma 和 Hodgkin；低敏感是 ALL 和 DLBCL。ALL 對 DLI 反應差，這也是移植後 ALL 復發時會考慮 blinatumomab 合併 DLI 的原因。對 acute leukemia 的 overt relapse，書上明白寫 DLI 單獨使用不是首選，必須合併化療。",
+          "接下來是移植平台。PTCY 已經把參與早期反應的 host DC 一起清掉，所以可以較早給 DLI 而不引起嚴重 GVHD，但可能需要較高劑量；GVHD 緩解之後也是同樣道理。Haplo 或 mismatched 的情況，alloreactive T cell 也在 memory repertoire，不需要 professional host DC 就能活化，反應更強。αβ T cell depletion 這類平台沒有傷到 host DC，需要的 DLI 劑量可能比 PTCY 低。",
+          "產品本身也有差，新鮮的 DLI 比冷凍的強，G-CSF-mobilized 的 DLI 在 meta-analysis 和傳統 DLI 的全死因死亡率沒有差異，只是死因不同。",
+          "最後兩列是 immune escape 和合併用藥。Haplo 移植後白血病可能丟掉 mismatched HLA，這時再給 DLI 效果有限；早期給 lenalidomide 會讓 GVHD 明顯增加，DLI 的劑量要跟著調整。",
+          "把這張和上一張合起來看，DLI 的劑量不是一個固定數字，而是疾病、時間、donor 和移植平台共同決定的結果。書上也承認目前很難給出精確的指引，建議各中心訂定自己的規範，並把 DLI 的處理、時間、劑量和間隔詳細登錄到 EBMT 的 cellular therapy registry。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: interpret this post-induction NGS result",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57",
+      "stem": "A 58-year-old man has NPM1-mutated AML with DNMT3A and FLT3-ITD mutations at diagnosis. After two cycles of intensive chemotherapy he is in CR. Marrow NGS shows the DNMT3A mutation at VAF 38%; FLT3-ITD is undetectable and NPM1 RT-qPCR is negative. Which interpretation is most appropriate?",
+      "options": [
+        "He is MRD-positive and needs MRD-directed intensification",
+        "Persistent DNMT3A reflects clonal haematopoiesis, not MRD",
+        "Flow MRD is impossible without a stored diagnostic LAIP",
+        "The negative NPM1 result proves the leukaemia is eradicated",
+        "Germline DDX41 would be a better marker for NGS-MRD"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: DTA mutations are not markers of residual leukaemia",
+      "explanation": "DNMT3A, TET2 and ASXL1 (DTA) mutations occur in age-related clonal haematopoiesis, persist in remission and usually do not represent the leukaemic clone; like germline mutations they are not NGS-MRD markers. NPM1 is the best-validated marker. Flow can use a different-from-normal panel. Negative MRD means below threshold, not eradication.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。58 歲男性，NPM1-mutated AML，診斷時還有 DNMT3A 和 FLT3-ITD。兩個 cycle 之後 CR，骨髓 NGS 看到 DNMT3A VAF 38%，FLT3-ITD 測不到，NPM1 RT-qPCR 陰性。問哪一個解讀最恰當。",
+          "選項有 MRD-positive 要加強治療、DNMT3A 代表 clonal hematopoiesis、沒有存下 LAIP 就不能做 flow、NPM1 陰性代表根除，以及改用 germline DDX41 當 marker。可以先想每個 mutation 的來源是什麼。",
+          "這題的關鍵在於分辨哪些 mutation 來自白血病 clone，哪些不是，答案不需要背任何數字。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。DNMT3A、TET2、ASXL1 合稱 DTA，常見於 age-related clonal hematopoiesis，緩解後持續存在，通常不是白血病 clone。VAF 38% 這麼高，更像是背景的 clonal hematopoiesis，不能據此說他 MRD-positive，所以 A 錯，照 A 去加強治療只會增加毒性。",
+          "E 也錯，germline mutation 存在每個細胞，同樣不能當 MRD marker。C 錯在 flow 還有 different-from-normal 的方法，用固定 panel 就能做，不一定需要診斷時的 LAIP。D 錯在 MRD-negative 只代表低於這個檢體的偵測 threshold，不等於根除。這位病人真正該追的是 NPM1，它是 AML 驗證最完整的分子 marker，而且要連續追蹤。",
+          "在臨床上，NGS 報告越來越常見，這種情況每個月都會遇到。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose post-transplant maintenance",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 58",
+      "stem": "A 45-year-old woman with FLT3-ITD-positive AML received myeloablative allo-HCT from a matched sibling in CR1. On day +60 she has full donor chimerism, negative MRD and no GVHD. Which post-transplant strategy has randomized evidence of improved overall survival?",
+      "options": [
+        "Sorafenib maintenance",
+        "Midostaurin maintenance",
+        "Azacitidine maintenance",
+        "Prophylactic DLI 1 × 10⁷ CD3+ cells/kg on day +60",
+        "Lenalidomide 25 mg daily from day +60"
+      ],
+      "answer": "A",
+      "answerTitle": "Answer A: sorafenib improved EFS and OS in two randomized trials",
+      "explanation": "SORMAIN (Burchert 2020) and Xuan 2020 both showed better EFS and OS with sorafenib maintenance, and a meta-analysis favoured sorafenib. Midostaurin's randomized trial showed no survival benefit; prophylactic azacitidine gave no EFS or OS benefit (Oran 2020). 1 × 10⁷/kg is a relapse dose; early lenalidomide causes severe GVHD.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。45 歲女性，FLT3-ITD 陽性 AML，CR1 接受 matched sibling 的 myeloablative 移植。Day +60 full donor chimerism，MRD 陰性，沒有 GVHD。問哪一種移植後策略有 randomized 證據改善 overall survival。",
+          "選項是 sorafenib、midostaurin、azacitidine、day +60 給 1 × 10⁷/kg 的 prophylactic DLI，以及 lenalidomide 每天 25 mg。注意題目要的是 overall survival，而且是 randomized 證據，不是 phase II 的 relapse rate。",
+          "題目特別給了 MRD 陰性和沒有 GVHD，代表病人現在處於 prophylactic 的情境，而不是 pre-emptive 或 relapse。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 A。SORMAIN 和 Xuan 的 phase III 兩個 randomized trial 都顯示 sorafenib 改善 EFS 和 OS，meta-analysis 也偏向 sorafenib。FLT3-ITD 陽性在 CR1 移植後的 relapse 是 30%，所以值得 maintenance。",
+          "最容易被選的是 B。Midostaurin 的 phase II relapse 很低，但隨機分配的 RADIUS 沒有 survival benefit。C 的 prophylactic azacitidine 在 Oran 2020 沒有好處。D 的劑量是 overt relapse 合併化療時用的，prophylactic DLI 最早也要 day 90 到 100 之後、停掉免疫抑制才給，起始劑量 1 × 10⁵/kg。E 的 lenalidomide 太早、劑量太高，會引發嚴重 GVHD。",
+          "這題的教訓是，phase II 的低 relapse rate 不等於 randomized 的存活好處。考題常用 midostaurin 當陷阱，因為它在初始治療確實有核准。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: choose the first DLI dose",
+      "cite": "Falkenburg JHF, et al. EBMT Handbook 8th ed. 2024; Ch. 59",
+      "stem": "A 52-year-old man had a 10/10 matched unrelated donor allo-HCT for AML. At 6 months he is off immunosuppression without GVHD or infection, but NPM1 MRD has turned positive and is rising; the marrow shows no morphological relapse. Per Table 59.1, what first DLI dose (CD3+ cells/kg) is appropriate?",
+      "options": [
+        "1 × 10⁵/kg",
+        "1 × 10⁶/kg",
+        "1 × 10⁷/kg after chemotherapy",
+        "1 × 10⁸/kg as a single infusion",
+        "No DLI until haematological relapse"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: pre-emptive DLI for an unrelated donor at 6 months",
+      "explanation": "Rising MRD without morphological relapse is the pre-emptive setting. Table 59.1 gives 1 × 10⁶/kg for an unrelated donor at 6 months (1 × 10⁵/kg at 3 months). 1 × 10⁷/kg with chemotherapy is for overt relapse; 1 × 10⁸/kg is the ceiling after escalation. Repeat after ≥ 4–6 weeks if MRD persists and there is no GVHD.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。52 歲男性，AML，接受 10/10 matched unrelated donor 移植。六個月後已停免疫抑制，沒有 GVHD 也沒有感染，但 NPM1 MRD 轉陽而且持續上升，骨髓形態學沒有復發。依照 Table 59.1，第一次 DLI 該給多少 CD3+ cells/kg。",
+          "選項是 10⁵、10⁶、化療後 10⁷、單次 10⁸，以及等到血液學復發再說。先判斷這是哪一種情境，再找對應的時間和 donor 類型。",
+          "題目刻意給了停藥、沒有 GVHD 和沒有感染，代表 DLI 的前提都已滿足。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B，1 × 10⁶/kg。先判斷情境，MRD 上升但沒有形態學復發，是 pre-emptive。再看時間和 donor，六個月、unrelated donor，表上是 1 × 10⁶/kg。如果是 haplo，同一時間點會降到 5 × 10⁵/kg。",
+          "A 是三個月時的劑量，六個月已經可以安全地給高一個 log。C 是 overt relapse 合併化療的劑量，這位病人還沒到那一步。D 是逐步升高後的上限，不是起始劑量。E 放棄了 pre-emptive 介入的時間窗。之後若 MRD 持續、沒有 GVHD，至少隔 4 到 6 週再給下一劑，劑量逐步增加；一旦出現 GVHD 就停止。",
+          "若同一位病人是在三個月時 MRD 轉陽，答案就會變成 A。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Drugs · Table 58.1 (selected)",
+      "title": "Table 58.1 grades each drug by disease and setting",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 58",
+      "head": [
+        "Drug",
+        "Disease",
+        "Setting",
+        "Impact in Table 58.1"
+      ],
+      "rows": [
+        [
+          "Sorafenib",
+          "FLT3-ITD AML",
+          "Maintenance",
+          "Beneficial"
+        ],
+        [
+          "Midostaurin",
+          "FLT3-ITD AML",
+          "Maintenance",
+          "May be beneficial"
+        ],
+        [
+          "Gilteritinib",
+          "FLT3-ITD AML",
+          "Maintenance",
+          "No benefit [verify: text says under trial]"
+        ],
+        [
+          "Decitabine + G-CSF",
+          "AML",
+          "Prophylactic",
+          "Beneficial"
+        ],
+        [
+          "Azacitidine",
+          "AML/MDS",
+          "Prophylactic",
+          "No benefit"
+        ],
+        [
+          "Blinatumomab (+DLI)",
+          "ALL",
+          "Treatment",
+          "Beneficial"
+        ],
+        [
+          "Panobinostat",
+          "AML/MDS",
+          "Maintenance",
+          "1-y RFS 66% with DLI; 2-y RFS 74% alone"
+        ],
+        [
+          "Venetoclax; ivosidenib/enasidenib",
+          "AML",
+          "Prophylactic / maintenance",
+          "Unclear; use in trials"
+        ]
+      ],
+      "colW": [
+        3.4,
+        2.4,
+        2.6,
+        4.0
+      ],
+      "fontSize": 15,
+      "notes": {
+        "script": [
+          "這是書上 Table 58.1 的節錄。Sorafenib 和 decitabine 加 G-CSF 標為 beneficial，prophylactic azacitidine 標為 no benefit。Panobinostat 的數字來自正文，venetoclax 和 IDH inhibitor 建議只在 trial 中使用。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Table 58.1 lists gilteritinib maintenance as 'No benefit', while the Ch. 58 text says gilteritinib trials are still under investigation. Check the published randomized post-HCT gilteritinib trial before quoting.",
+          "Table 58.1 calls midostaurin 'May be beneficial', but the text says the randomized trial (Maziarz 2018) found no survival benefit."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Drugs · After autologous HCT",
+      "title": "After autologous HCT, maintenance benefit depends on drug and disease",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 58",
+      "head": [
+        "Drug",
+        "Disease",
+        "Result after auto-HCT"
+      ],
+      "rows": [
+        [
+          "Lenalidomide",
+          "Myeloma",
+          "Approved: PFS gain in 2 RCTs, OS in 1;\nmore second cancers"
+        ],
+        [
+          "Thalidomide",
+          "Myeloma",
+          "Better PFS/EFS; toxicity, not standard"
+        ],
+        [
+          "Bortezomib",
+          "Myeloma",
+          "Beat thalidomide, mainly in renal\nfailure or high-risk cytogenetics"
+        ],
+        [
+          "Brentuximab vedotin (AETHERA)",
+          "Hodgkin lymphoma",
+          "Better PFS, not OS"
+        ],
+        [
+          "Rituximab",
+          "DLBCL / follicular",
+          "No RFS or OS gain / PFS only"
+        ],
+        [
+          "Rituximab (Le Gouill 2017)",
+          "Mantle cell lymphoma",
+          "Better PFS and OS"
+        ]
+      ],
+      "colW": [
+        3.8,
+        3.0,
+        5.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "自體移植後的 maintenance 在 myeloma 和淋巴瘤證據比較多。Lenalidomide 已經核准用於 myeloma maintenance，但會增加第二原發癌；mantle cell lymphoma 用 rituximab maintenance 同時改善 PFS 和 OS。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "backup": true,
+      "eyebrow": "DLI · Lymphocyte subsets",
+      "title": "Not every donor lymphocyte subset sustains anti-leukaemia activity",
+      "cite": "Falkenburg JHF, et al. EBMT Handbook 8th ed. 2024; Ch. 59",
+      "blocks": [
+        {
+          "head": "NK cells",
+          "body": "Early control of leukaemia and CMV, but rapidly educated and lose antileukaemia activity",
+          "extra": "Unmodified NK transfer is obsolete"
+        },
+        {
+          "head": "γδT cells",
+          "body": "Longer antileukaemia effect; help control CMV; first T cells to reach normal numbers",
+          "extra": "Can still lose activity over time"
+        },
+        {
+          "head": "NKT and Tregs",
+          "body": "More graft NKT cells: less GVHD. Treg-depleted DLI: more GVL but more GVHD",
+          "extra": "CD4+ T cells stay low through year 1"
+        }
+      ],
+      "notes": {
+        "script": [
+          "DLI 的主角是 αβT cell，其他細胞群各有角色。NK cell 早期有效但很快失去抗白血病活性，所以未經修飾的 NK 輸注已經不用；γδT cell 效果較久，也幫助控制 CMV；Treg 去除會增加 GVL，但 GVHD 也增加。"
+        ]
+      }
+    }
+  ]
+}

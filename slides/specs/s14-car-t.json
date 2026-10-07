@@ -1,0 +1,947 @@
+{
+  "id": "s14",
+  "slug": "car-t",
+  "week": 14,
+  "title": "CAR-T and engineered T cells",
+  "subtitle": "Week 14 · Ch. 60, with Ch. 61, 72, 81, 86",
+  "cite": "Bonini C, et al. EBMT Handbook 8th ed. 2024; Ch. 60",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第十四週講 CAR-T 和 engineered T cells，主軸是 EBMT Handbook 第 60 章，再加上第 61 章的 immune resistance，以及 ALL、myeloma、large B-cell lymphoma 三章裡的 CAR-T 段落。最後一樣是三題 board-style 題目。CAR-T 已經從最後一線的 salvage，走到 lymphoma 和 myeloma 的較前線治療，CRS 和 neurotoxicity 的處理也變成病房日常，所以這一章的考點逐年增加。"
+    ]
+  },
+  "refsPerSlide": 7,
+  "references": [
+    "1. Bonini C, Cavazzana M, Ciceri F, Fehse B, Hudecek M. Cellular therapy with engineered T cells, efficacy, and side effects: gene editing/gene therapy. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 541–549. doi:10.1007/978-3-031-44080-9_60",
+    "2. Vago L, Dazzi F. Mechanisms of immune resistance. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 551–554. doi:10.1007/978-3-031-44080-9_61",
+    "3. Stelljes M, Marks DI, Giebel S. Acute lymphoblastic leukemia in adults. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 649–657. doi:10.1007/978-3-031-44080-9_72",
+    "4. Mohty M, Bruno B, Gagelmann N, Mateos M-V. Multiple myeloma. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 741–749. doi:10.1007/978-3-031-44080-9_81",
+    "5. Bento L, Glass B, Schmitz N. Large B-cell lymphoma. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 777–785. doi:10.1007/978-3-031-44080-9_86",
+    "6. Ciceri F, et al. Infusion of suicide-gene-engineered donor lymphocytes after family haploidentical haemopoietic stem-cell transplantation for leukaemia (the TK007 trial): a non-randomised phase I–II study. Lancet Oncol. 2009;10:489–500.",
+    "7. Maude SL, et al. Chimeric antigen receptor T cells for sustained remissions in leukemia. N Engl J Med. 2014;371:1507–17.",
+    "8. Maude 2018: N Engl J Med. 2018;378(5):439–48. https://doi.org/10.1056/NEJMoa1709866.",
+    "9. Shah BD, Ghobadi A, Oluwole OO, et al. KTE-X19 for relapsed or refractory adult B-cell acute lymphoblastic leukaemia: phase 2 results of the single-arm, open-label, multicentre ZUMA-3 study. Lanccet. 2021;398:491–502.",
+    "10. Locke FL, Miklos DB, Jacobson CA, Perales M-A, Kersten M-J, Oluwole OO, Ghobadi A, Rapoport AP, McGuirk J, Pagel JM, Muñoz J, Farooq U, van Meerten T, Reagan PM, Sureda A, Flinn IW, Vandenberghe P, Song KW, Dickinson M, Minnema MC, et al. Axicabtagene ciloleucel as second-line therapy for large B-cell lymphoma. N Engl J Med. 2022;386:640–54.",
+    "11. Kamdar M, Solomon SR, Arnason JE, Johnston PB, Glass B, Bachanova V, Ibrahimi S, Mielke S, Mutsaers PGNJ, Hernandez-Ilizaliturri FJ, Izutsu K, Morschhauser F, Lunning MA, Maloney DG, Crotta A, Montheard S, Previtali A, Stepan L, Ogasawara K, Mack T, et al. Lisocabtagene maraleucel (liso-cel), a CD19-directed chimeric antigen receptor (CAR) T cell therapy, versus standard of care (SOC) with salvage chemotherapy (CT) followed by autologous stem cell transplantation (ASCT) as second-line (2L) treatment in patients (Pts) with relapsed or refractory (R/R) large B-cell lymphoma (LBCL): results from the randomized phase 3 transform study. Blood. 2021;138:91.",
+    "12. Rejeski K, et al. CAR-HEMATOTOX: a model for CAR T-cell related hematological toxicity in relapsed/refractory large B-cell lymphoma. Blood. 2021;138:2499–513.",
+    "13. Berger et al. Molecular monitoring of T-cell kinetics and migration in severe neurotoxicity after real-world CD19-specific chimeric antigen receptor-T cell therapy. Haematologica 2023;108:444−56.",
+    "14. Gardner R, et al. Acquisition of a CD19-negative myeloid phenotype allows immune escape of MLL-rearranged B-ALL from CD19 CAR-T-cell therapy. Blood. 2016;127:2406–10.",
+    "15. Fry TJ, et al. CD22-targeted CAR T cells induce remission in B-ALL that is naive or resistant to CD19-targeted CAR immunotherapy. Nat Med. 2018;24:20–8.",
+    "16. Vago L, Perna SK, Zanussi M, et al. Loss of mismatched HLA in leukemia after stem-cell transplantation. N Engl J Med. 2009;361:478–88.",
+    "17. Crucitti L, Crocchiolo R, Toffalori C, et al. Incidence, risk factors and clinical outcome of leukemia relapses with loss of the mismatched HLA after partially incompatible hematopoietic stem cell transplantation. Leukemia. 2015;29:1143–52.",
+    "18. Eyquem J, et al. Targeting a CAR to the TRAC locus with CRISPR/Cas9 enhances tumour rejection. Nature. 2017;543:113. https://doi.org/10.1038/nature21405.",
+    "19. Provasi E, et al. Editing T cell specificity towards leukemia by zinc finger nucleases and lentiviral gene transfer. Nat Med. 2012;18:807–15."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "CAR-T · Outline",
+      "title": "Four parts, from donor T cells to CAR-T resistance",
+      "rows": [
+        [
+          "Engineered T cells beyond DLI",
+          "Table 60.1 strategies; suicide genes HSV-TK and iCasp9",
+          "3 min"
+        ],
+        [
+          "CAR-T design, results and indications",
+          "CAR structure, first trials, manufacture; ALL, LBCL and myeloma",
+          "8.5 min"
+        ],
+        [
+          "Toxicity: CRS, neurotoxicity, cytopenia",
+          "On-target effects, IL-6 and tocilizumab, three CRS grading scales",
+          "5.5 min"
+        ],
+        [
+          "Resistance, TCR-T and board questions",
+          "CD19 escape, HLA loss after HCT, TCR versus CAR, 3 MCQs",
+          "9.75 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段從 DLI 出發，看 Table 60.1 列的各種 T cell manipulation，重點放在 suicide gene，也就是 HSV-TK 和 iCasp9，大約三分鐘。",
+          "第二段是 CAR-T 本身，包括 CAR 的結構、最早的 CD19 trial、製程，以及 ALL、large B-cell lymphoma、myeloma 三個疾病各自的 indication。這段最長，因為考題多半落在適應症和 trial 數字。",
+          "第三段是毒性，CRS 和 neurotoxicity 的機轉、tocilizumab 為什麼有效，以及書上並列的三套 CRS grading。最後一段看 CD19 escape、移植後的 HLA loss、TCR 和 CAR 的差別，再做三題練習。每一題都對應前面某一張投影片，答錯的話可以直接回頭找出處。第 60 章本身篇幅不長，CRS 的處理細節也不多，書上沒寫到的地方我會在投影片上標 verify。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Engineered T cells",
+      "eyebrow": "T-cell therapy · Strategies",
+      "title": "Engineered T cells aim to keep GVL while taming GVHD",
+      "head": [
+        "Strategy",
+        "How it works",
+        "Aim"
+      ],
+      "rows": [
+        [
+          "Pathogen-specific T cells (CMV, EBV)",
+          "Isolate and infuse virus-specific T cells",
+          "Control post-HCT infection"
+        ],
+        [
+          "Allodepleted T cells",
+          "Activate host-reactive T cells in vitro, then deplete",
+          "Immune recovery, less GVHD"
+        ],
+        [
+          "Regulatory T cells",
+          "Isolate and/or expand Tregs",
+          "Immune recovery, less GVHD"
+        ],
+        [
+          "αβ-depleted graft",
+          "Remove αβ T cells; graft enriched in γδ T cells",
+          "Antitumor effect, low GVHD"
+        ],
+        [
+          "Leukemia-specific T cells",
+          "Select T cells for leukemia-associated antigens",
+          "Boost GVL of DLI"
+        ],
+        [
+          "Suicide gene-modified T cells",
+          "Donor T cells carry HSV-TK or iCasp9",
+          "GVL with an off switch for GVHD"
+        ],
+        [
+          "CAR or TCR T cells",
+          "Gene transfer of a CAR or tumor-specific TCR",
+          "New specificity for cancer cells"
+        ]
+      ],
+      "colW": [
+        3.6,
+        4.8,
+        3.4
+      ],
+      "fontSize": 16,
+      "caption": "Selected rows of Table 60.1; also naïve-depleted T cells, Treg-depleted DLI, CIK cells",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Allo-HCT 證明了免疫可以控制癌症。1979 年 Weiden 發現 GVHD 帶有 antileukemic effect，1990 年 Kolb 第一次用 donor leukocyte infusion 治療復發。問題是 allogeneic T cell 同時帶來 GVHD，所以後來發展出這張表上的各種 T cell manipulation。",
+          "這些策略大致分兩類。一類是把會造成 GVHD 的部分拿掉或壓住，例如 allodepletion、regulatory T cells、αβ depletion 之後留下 γδ T cells，目標都是 immune reconstitution 但 GVHD 少一點。另一類是加強想要的 specificity，例如 CMV、EBV-specific T cells 控制感染，leukemia-specific T cells 加強 DLI 的 GVL。",
+          "其中有兩行需要 gene transfer。Suicide gene 是讓 donor T cell 帶一個開關，出問題時可以關掉；CAR 和 TCR 則是直接給 T cell 一個新的 specificity。後面整堂課就是沿著這兩行展開。在病房最常見到的其實是第一行，CMV 或 EBV-specific T cells，用在抗病毒藥失敗的移植後病毒感染。表上其他像 Treg 輸注或 CIK cells，目前多半還在臨床試驗階段。",
+          "考試若問哪一種策略是為了減少 GVHD，哪一種是為了增加 GVL，用這張表的最右欄就能回答。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "T-cell therapy · Suicide gene",
+      "title": "HSV-TK lets ganciclovir switch off alloreactive donor T cells",
+      "steps": [
+        "Donor T cells transduced with HSV-TK",
+        "Infused after HCT: GVL and immune recovery",
+        "GVHD: alloreactive TK cells proliferate",
+        "Ganciclovir kills the dividing TK cells"
+      ],
+      "invert": 3,
+      "caption": "After T-cell-depleted haplo-HCT, TK cells abrogated late TRM (Ciceri 2009). EMA conditional approval 2016. iCasp9 is built from human components, so it is less immunogenic.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Suicide gene therapy 在 1990 年代設計出來，想法是把 donor 整個 T cell repertoire 都給病人，包括抗腫瘤和抗感染的 specificity，但保留一個開關。最早、也是臨床上測最多的是 herpes simplex virus 的 thymidine kinase，HSV-TK。",
+          "HSV-TK 用 retrovirus 送進 donor T cell，平常不影響功能。發生 GVHD 時，alloreactive 的 TK cells 正在大量增殖，這時給 ganciclovir，只有正在分裂、表現 HSV-TK 的細胞會死，而且是 dose-dependent。書上寫得很明確，所有 GVHD 都被 suicide gene 加 prodrug 完全控制。",
+          "臨床上，T-cell-depleted haplo-HCT 後輸 TK cells，免疫重建又快又廣，加上 GVHD 可控，late transplant-related mortality 幾乎消失，這是 Ciceri 2009 的 TK007 trial。2016 年 EMA conditional approval，是歐洲第一個核准給癌症病人的 genetically engineered product。",
+          "缺點是 HSV-TK 來自病毒，在免疫正常的病人身上會被排斥。iCasp9 用人類成分做成，immunogenicity 比較低。整體來說，超過一半接受 suicide gene T cells 的病人在 immune reconstitution 和 GVL 上得到好處。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "section": "CAR-T efficacy",
+      "eyebrow": "CAR-T · Design",
+      "title": "A CAR joins antibody binding to T-cell signalling in one molecule",
+      "steps": [
+        "scFv binds the antigen (VL + VH)",
+        "Spacer and transmembrane anchor",
+        "CD3ζ plus costimulatory domain",
+        "T-cell proliferation and tumor killing"
+      ],
+      "invert": 2,
+      "caption": "First CD19 trials used a 4-1BB or a CD28 costimulatory domain (Table 60.2). CARs bind surface molecules only.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "CAR 是一個設計出來的分子，從外到內有三段。最外面是 antigen-binding domain，通常是 monoclonal antibody 的 light chain 和 heavy chain variable region 組成的 scFv。中間是 spacer 和 transmembrane region，把 receptor 固定在 T cell 表面，並提供足夠的長度和彈性去碰到 epitope。",
+          "最裡面是 signaling module，最常見的是 CD3 zeta 加上一個或多個 costimulatory domain。結合抗原之後，T cell 活化、大量增殖，選擇性殺死腫瘤細胞。早期 CD19 trial 的 costimulatory domain 不是 4-1BB 就是 CD28，下一張表可以看到。",
+          "因為 binding 來自抗體，CAR 只能認得細胞表面的分子，這點最後比較 TCR 時會再回來。考試常把 CAR 的三段結構拆開問，記住由外到內是 scFv、spacer 加 transmembrane、再到 CD3 zeta 加 costimulation。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CAR-T · First trials",
+      "title": "CD19 CAR-T cells gave 88–93% CR in the first ALL trials",
+      "head": [
+        "Disease",
+        "n",
+        "Response",
+        "Costim / vector",
+        "Safety tool"
+      ],
+      "rows": [
+        [
+          "ALL (Maude 2014)",
+          "30",
+          "90% CR, 79% MRD",
+          "4-1BB / lentivirus",
+          "None"
+        ],
+        [
+          "ALL",
+          "16",
+          "88% CR, 75% MRD",
+          "CD28 / γ-retrovirus",
+          "None"
+        ],
+        [
+          "ALL",
+          "29",
+          "93% CR, 86% MRD",
+          "4-1BB / lentivirus",
+          "EGFRt marker"
+        ],
+        [
+          "NHL/CLL",
+          "15",
+          "53% CR, 26% PR",
+          "CD28 / γ-retrovirus",
+          "None"
+        ],
+        [
+          "NHL/CLL",
+          "32",
+          "50% CR, 72% ORR",
+          "4-1BB / lentivirus",
+          "EGFRt marker"
+        ],
+        [
+          "CLL",
+          "20",
+          "21% CR, 53% PR",
+          "4-1BB / lentivirus",
+          "EGFRt marker"
+        ],
+        [
+          "Myeloma (BCMA)",
+          "12",
+          "1 CR, 1 PR, 2 VGPR",
+          "CD28 / γ-retrovirus",
+          "None"
+        ]
+      ],
+      "colW": [
+        2.8,
+        0.8,
+        3.0,
+        3.2,
+        2.2
+      ],
+      "fontSize": 16,
+      "caption": "All CD19 trials: B-cell aplasia, CRS and neurotoxicity (Table 60.2)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 Table 60.2 的一部分，最早一批 CAR-T trial。三個 CD19 的 ALL trial，CR 都在 88% 到 93%，MRD negativity 75% 到 86%，對象是 chemotherapy 和 radiotherapy 都 refractory 的病人。Maude 2014 的 30 位病人，用的是 4-1BB costimulation 和 lentivirus。",
+          "NHL 和 CLL 的 CR 低一些，大約 50%；ibrutinib 失敗後的 CLL 只有 21% CR。最下面那一行是 BCMA CAR-T 用在 myeloma 的第一個 trial，12 個病人，反應還很零星，毒性則多了 cytopenia。最下面那一行是 BCMA CAR-T 用在 myeloma 的第一個 trial，劑量是每公斤 0.3 到 3 乘 10 的 6 次方，用 CD28 和 γ-retrovirus。",
+          "設計上，這些 trial 的 scFv 多半是 FMC63，costimulation 分成 4-1BB 和 CD28 兩派，vector 分成 lentivirus 和 γ-retrovirus。",
+          "毒性欄位每一行幾乎都一樣，B-cell aplasia、CRS、neurotoxicity，等一下的毒性段落就從這三個出發。另外有一欄 safety technology，部分 trial 放了 EGFRt 當 depletion marker，概念跟前面的 suicide gene 類似。",
+          "考試比較少考個別 trial 的 n，但 ALL 的 CR 大約九成、高於 lymphoma 這個對比要記得。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "CAR-T · Manufacture",
+      "title": "Approved CAR-T products depend on a centralised supply chain",
+      "steps": [
+        "Leukapheresis at the centre",
+        "Ship T cells to central plant",
+        "Viral CAR gene transfer",
+        "Expansion, cryopreservation",
+        "Ship back and infuse"
+      ],
+      "invert": 2,
+      "caption": "Six FDA/EMA-approved products since 2017: four CD19 (B-cell lymphoma, ALL), two BCMA (myeloma). On-site GMP devices may cut cost and waiting time.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "從 2017 年開始，FDA 和 EMA 核准了六個 CAR-T 產品。四個打 CD19，用在 B-cell lymphoma 和 ALL；兩個打 BCMA，用在 multiple myeloma。全部都是用 γ-retrovirus 或 lentivirus 做 gene transfer。",
+          "流程是先在移植中心做 leukapheresis，把病人的 T cell 送到中央工廠做 CAR gene transfer 和 expansion，冷凍之後再運回來輸注。價格和這條物流鏈是 CAR-T 最常被討論的問題，病人在等待製程的這段時間仍可能惡化。我把 gene transfer 那一步反白，因為它決定產品品質，而且目前只能在中央工廠完成。",
+          "現在有可攜式、GMP-certified 的機器可以在醫院端 point-of-care 製造，希望降低成本和等待時間，這也是後面 myeloma 那張 academic product 的背景。",
+          "考試偶爾會問為什麼 CAR-T 需要幾週等待期，答案就在這條物流鏈，每一步都要時間，病人在空窗期可能惡化，常需要 bridging therapy。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CAR-T · Indications",
+      "title": "Each disease chapter sets its own CAR-T indication",
+      "head": [
+        "Disease",
+        "Product (target)",
+        "Indication in the Handbook",
+        "Key result"
+      ],
+      "rows": [
+        [
+          "B-ALL, ≤ 25 y",
+          "Tisagenlecleucel (CD19)",
+          "R/R B-ALL, children and young adults",
+          "CR 80–90%, RFS ≈ 50% (Maude 2018)"
+        ],
+        [
+          "B-ALL, ≥ 26 y",
+          "Brexucabtagene autoleucel (CD19)",
+          "R/R B-ALL; EU approval from 26 years",
+          "CR ≈ 71%, median OS > 2 y (Shah 2021)"
+        ],
+        [
+          "LBCL",
+          "Axi-cel, liso-cel (CD19)",
+          "Refractory, or relapse < 12 mo after first line",
+          "Better PFS than salvage + auto-HCT (Locke 2022; Kamdar 2021)"
+        ],
+        [
+          "LBCL",
+          "CD19 CAR-T",
+          "Relapse after auto-HCT",
+          "Standard of care (evidence grade I)"
+        ],
+        [
+          "Myeloma",
+          "Ide-cel, cilta-cel (BCMA)",
+          "> 3 prior lines incl. IMiD, PI, anti-CD38",
+          "Phase III gains in earlier lines (next slide)"
+        ]
+      ],
+      "colW": [
+        1.9,
+        3.0,
+        3.4,
+        3.6
+      ],
+      "fontSize": 15,
+      "caption": "B-ALL: consider allo-HCT consolidation after CAR-T if no previous HCT (Ch. 72)",
+      "cite": "Stelljes M, et al. Ch. 72 · Mohty M, et al. Ch. 81 · Bento L, et al. Ch. 86; EBMT Handbook 8th ed. 2024",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張把三個疾病章節的 CAR-T 段落放在一起，每一格都是各章自己的寫法。ALL 看年紀。Tisagenlecleucel 核准給兒童和 25 歲以下的年輕成人，CR 80% 到 90%，RFS 大約 50%。Brexucabtagene autoleucel 在歐洲核准給 26 歲以上，ZUMA-3 的 CR 大約 71%，median OS 超過兩年。",
+          "ALL 做完 CAR-T 要不要接 allo-HCT，第 72 章說仍有爭議。因為 CAR-T 後復發率高、失敗後選擇又少，沒有做過移植的病人應該考慮 allo-HCT consolidation。T-ALL 方面，anti-CD7 和 anti-CD5 CAR-T 還在研究階段。",
+          "Large B-cell lymphoma 的關鍵是 12 個月。Primary refractory 或 first line 結束後 12 個月內復發，axi-cel 和 liso-cel 在兩個 phase III 都比 salvage 加 auto-HCT 有更好的 PFS，OS 也有強烈趨勢，所以變成 second line 的 standard of care。Auto-HCT 之後復發，CAR-T 是 grade I evidence 的 standard。另外，CAR-T 不需要 chemosensitivity，這是它和 auto-HCT 最大的差別。",
+          "Myeloma 的兩個 BCMA 產品，原始適應症是超過三線、而且用過 IMiD、proteasome inhibitor 和 anti-CD38 的病人。考題最常考的就是這幾個 cutoff，25 和 26 歲、12 個月、三類藥都用過。",
+          "Myeloma 後來的 phase III 已經把 CAR-T 往前推到 1 到 4 線，細節放在下下張。表上每一行引用的 trial，都是該疾病章節參考文獻裡的原文，不是我自己加的。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "CAR-T · Large B-cell lymphoma",
+      "title": "In LBCL, the timing of relapse decides CAR-T versus autograft",
+      "root": "R/R large B-cell lymphoma after first-line therapy",
+      "branches": [
+        {
+          "label": "Refractory or < 12 mo",
+          "box": "CAR-T: axi-cel or liso-cel",
+          "out": "Standard of care in second line"
+        },
+        {
+          "label": "> 12 mo, CR/PR to salvage",
+          "box": "Salvage chemo, then auto-HCT",
+          "out": "Standard for chemosensitive late relapse"
+        },
+        {
+          "label": "> 12 mo, SD or PD",
+          "box": "CAR-T cells",
+          "out": "Chemosensitivity is not required"
+        },
+        {
+          "label": "Relapse after CAR-T",
+          "box": "Allo-HCT if fit and ≥ SD",
+          "out": "Curative option for fit patients"
+        }
+      ],
+      "invert": 0,
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86 (Fig. 86.1)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是第 86 章 Fig. 86.1 的簡化版。First line 之後 refractory 或 12 個月內復發，直接走 CAR-T，書上寫 axi-cel 或 liso-cel。超過 12 個月的晚期復發，先給 R-ICE、R-DHAP 或 R-GDP 這類 salvage；有 CR 或 PR，代表 chemosensitive，就接 auto-HCT。",
+          "Salvage 之後只有 SD 或惡化，一樣轉向 CAR-T。CAR-T 的優勢是不需要 chemosensitivity，年紀大或有 comorbidity、不適合移植的人也有機會。Real-world 資料顯示 axi-cel 比 tisa-cel 效果高，毒性也高。",
+          "CAR-T 之後再復發，如果病人 fit、而且對最後一線治療至少 stable disease，allo-HCT 仍然是書上說的 curative option，不 fit 的話就是 clinical trial 或 supportive care。",
+          "書上也強調，復發時要重新切片，core biopsy 可以接受，並用 PET/CT 評估。Salvage 之後 PET 轉陰，是 chemosensitivity 的替代指標，可以預測 auto-HCT 的結果。三種 salvage regimen 在 randomized trial 中沒有顯著差別，選擇時主要看年齡、共病，以及能不能收集到幹細胞。",
+          "臨床題目通常會給 R-CHOP 結束後第幾個月復發，算出是不是在 12 個月內，就能決定答案。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CAR-T · Multiple myeloma",
+      "title": "BCMA CAR-T cells now reach earlier lines of myeloma therapy",
+      "head": [
+        "Product",
+        "N / median prior lines",
+        "ORR",
+        "Median PFS, mo",
+        "G3–4 CRS / ICANS"
+      ],
+      "rows": [
+        [
+          "Ide-cel",
+          "128 / 6",
+          "73%",
+          "9",
+          "5% / 3%"
+        ],
+        [
+          "Ide-cel (KarMMa-3)",
+          "386 / 3",
+          "71%",
+          "13 (vs 4 SOC)",
+          "4% / 3%"
+        ],
+        [
+          "Cilta-cel",
+          "97 / 6",
+          "98%",
+          "35",
+          "4% / 9%"
+        ],
+        [
+          "Cilta-cel (CARTITUDE-4)",
+          "419 / 2",
+          "85%",
+          "NR (vs 12 SOC)",
+          "1% / 3%"
+        ],
+        [
+          "ARI0002h (academic)",
+          "30 / 4",
+          "100%",
+          "15",
+          "0% / 0%"
+        ]
+      ],
+      "colW": [
+        3.4,
+        2.6,
+        1.4,
+        2.4,
+        2.4
+      ],
+      "fontSize": 18,
+      "caption": "Table 81.3; trial names on rows 2 and 4 matched from §81.9 text (speaker's summary)",
+      "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是第 81 章的 Table 81.3。兩個 BCMA 產品，ide-cel 和 cilta-cel，第一批資料都是中位數六線治療之後的病人。Ide-cel 的 ORR 73%，median PFS 9 個月；cilta-cel 的 ORR 98%，median PFS 35 個月。Cilta-cel 的反應率和 PFS 在數字上比 ide-cel 亮眼，但這是跨 trial 比較，不能當成頭對頭結論。",
+          "第二和第四行是 phase III。表上沒有寫 trial 名稱，是我依照內文的收案條件和 PFS 對上去的。KarMMa-3 收 2 到 4 線的病人，ide-cel 的 median PFS 13 個月，對照的 standard regimen 只有 4 個月。CARTITUDE-4 收 lenalidomide-refractory、1 到 3 線的病人，cilta-cel 的 PFS 還沒到，對照組 12 個月。高風險 cytogenetics 和 extramedullary disease 的病人也有深度反應。",
+          "最後一欄看 grade 3 到 4 的 CRS 和 ICANS，都在個位數。最下面的 ARI0002h 是西班牙的 academic product，分次給藥、三個月後補一劑 booster，ORR 100%，毒性很低，代表 point-of-care 製造的可能性。",
+          "第 81 章的結論也提到，中期來看 myeloma 的 AHCT 角色可能被 CAR-T 挑戰，不過現在 AHCT 仍是年輕、體能好病人的標準治療。這種趨勢敘述比較會出現在是非型選項裡。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Toxicity",
+      "eyebrow": "CAR-T · Toxicity classes",
+      "title": "CAR-T toxicity follows the target, on and off the tumor",
+      "head": [
+        "Class",
+        "Example",
+        "Mechanism",
+        "Handling in Ch. 60"
+      ],
+      "rows": [
+        [
+          "On-target, off-tumor",
+          "B-cell aplasia (CD19);\nplasma-cell ablation (BCMA)",
+          "Normal cells carry the target",
+          "Immunoglobulin replacement"
+        ],
+        [
+          "On-target, on-tumor",
+          "Cytokine release syndrome",
+          "Tumor recognition triggers cytokine release; IL-6 is central",
+          "Tocilizumab (anti-IL-6R)"
+        ],
+        [
+          "On-target, on-tumor",
+          "Neurotoxicity (ICANS)",
+          "Unclear; independent of CNS disease",
+          "Tocilizumab does not work"
+        ],
+        [
+          "Haematological",
+          "CAR-HEMATOTOX",
+          "Long-lasting leukopenia, many infections",
+          "Named by Rejeski 2021"
+        ]
+      ],
+      "colW": [
+        2.6,
+        3.2,
+        3.6,
+        2.6
+      ],
+      "fontSize": 16,
+      "caption": "Severe, sometimes fatal reactions were frequent in the pioneering studies",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "CAR-T 的毒性可以用 target 來整理。第一類是 on-target、off-tumor，最明顯的就是把帶有同一個抗原的正常細胞也清掉。CD19 CAR-T 之後，ALL、NHL、CLL 的病人都會出現嚴重、有時非常長期的 B-cell aplasia；BCMA CAR-T 則預期會清掉 plasma cell。結果是 hypogammaglobulinemia，書上寫需要持續補充 immunoglobulin。",
+          "第二類是 on-target、on-tumor，也就是 CAR-T 認到腫瘤之後引起的反應，包括 CRS 和 neurotoxicity，現在多半稱為 ICANS。CRS 的機轉相對清楚，IL-6 是 master cytokine，所以 tocilizumab 有效。Neurotoxicity 的機轉還不清楚，而且和 CNS 有沒有白血病無關，tocilizumab 也沒有效。",
+          "第三類是血液毒性。相當比例的病人在 CD19 CAR-T 之後有很長的 leukopenia，感染率高，書上稱為 CAR-HEMATOTOX，引用 Rejeski 2021。",
+          "這些毒性在早期的 pioneering study 中很常見，而且有致命案例，所以 CAR-T 必須在有經驗、有 ICU 支援的中心執行。BCMA 產品還要特別記得，早期 BCMA trial 的毒性第一個列的就是 cytopenia，表示血液毒性在 myeloma 一樣明顯。",
+          "病房上的實際影響是，CAR-T 後的病人要追 IgG、追血球、注意感染，而不是只盯第一週的發燒。考題常把 B-cell aplasia 寫成 off-target，正確說法是 on-target、off-tumor。考題常把 B-cell aplasia 寫成 off-target，正確說法是 on-target、off-tumor，因為被清掉的是帶同一個抗原的正常 B cell。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CAR-T · CRS grading",
+      "title": "Three CRS scales grade by the support the patient needs",
+      "head": [
+        "Grade",
+        "Penn scale",
+        "CTCAE",
+        "Lee et al. 2014"
+      ],
+      "rows": [
+        [
+          "1",
+          "Mild; antipyretics and/or antiemetics",
+          "Mild; no treatment needed",
+          "Not life-threatening; responds to symptomatic care"
+        ],
+        [
+          "2",
+          "Hospital and i.v. therapy; no fluid resuscitation",
+          "Responds to symptomatic care within 24 h",
+          "O2 < 40%, fluids or low-dose pressors; any G2 organ toxicity"
+        ],
+        [
+          "3",
+          "High-flow O2 or NIV, fluids or low-dose pressors",
+          "Prolonged; no response to symptomatic care",
+          "O2 > 40%, high-dose pressors; any G3 organ toxicity"
+        ],
+        [
+          "4",
+          "High-dose pressors and/or mechanical ventilation",
+          "Life-threatening; pressor or ventilator",
+          "Mechanical ventilation; any G4 organ toxicity"
+        ]
+      ],
+      "colW": [
+        1.0,
+        3.8,
+        3.4,
+        4.0
+      ],
+      "fontSize": 15,
+      "caption": "Different scales hamper cross-trial comparison [verify: ASTCT consensus grading]",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Table 60.3 把三套 CRS grading 並排。CRS 的症狀從高燒、頭痛、肌肉痛，一直到威脅生命的循環衰竭和腎衰竭。三套系統的差別主要在 grade 2 和 grade 3 的分界。",
+          "Penn scale 看治療強度，grade 2 是需要住院和靜脈治療，但不需要 fluid resuscitation；需要 high-flow oxygen、noninvasive ventilation、fluid resuscitation 或 low-dose pressor 就是 grade 3。Lee 2014 的切點不一樣，氧氣小於 40%、fluid resuscitation 或 low-dose pressor 還只算 grade 2，氧氣超過 40% 或 high-dose pressor 才是 grade 3，而且任何同級的器官毒性都算進去。",
+          "同一個需要 low-dose norepinephrine 的病人，Penn 給 grade 3，Lee 給 grade 2。因為各 trial 用的系統不同，書上說很難比較不同產品的 CRS 發生率。CTCAE 最模糊，只看對症狀治療有沒有反應。",
+          "實務上，評估 CRS 每天至少看三件事，體溫、血壓需不需要升壓劑、以及氧氣需求多少。記錄清楚，換哪一套系統都可以回推 grade。考題如果沒有指定系統，就要從選項描述判斷它用的是哪一套語言。",
+          "書上沒有提到 ASTCT consensus grading，所以我在投影片上標了 verify，報告前會確認。共識的風險因子有兩個，ALL 的 severe CRS 比 NHL 多，tumor burden 高的人風險高。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: whether the ASTCT (Lee 2019) consensus CRS/ICANS grading should be named as the current standard; Ch. 60 shows only Penn, CTCAE and Lee 2014.",
+          "Lee et al. 2014 appears as a column head in Table 60.3 but is not in the Ch. 60 reference list, so it is not in the references slide."
+        ]
+      }
+    },
+    {
+      "type": "columns",
+      "eyebrow": "CAR-T · CRS versus neurotoxicity",
+      "title": "CRS responds to IL-6 blockade; neurotoxicity does not",
+      "cols": [
+        {
+          "head": "Cytokine release syndrome",
+          "items": [
+            "Starts with CAR-T recognition of tumor",
+            "IL-6 is the master cytokine",
+            "Prompt, often complete tocilizumab response",
+            "Fever, myalgia → shock, renal failure",
+            "Risk: ALL > NHL; high tumor burden"
+          ]
+        },
+        {
+          "head": "Neurotoxicity (ICANS)",
+          "items": [
+            "Pathophysiology still uncharted",
+            "Independent of CNS leukemia",
+            "Unresponsive to tocilizumab",
+            "Lethal cerebral edema (Berger 2023)",
+            "[verify: steroids first-line for ICANS]"
+          ]
+        }
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "左右對照 CRS 和 neurotoxicity。CRS 由 CAR-T 認到腫瘤細胞開始，可能再招募 innate immunity，釋放大量 inflammatory cytokine。IL-6 是核心，證據就是 anti-IL-6 receptor 的 tocilizumab 常常讓病人很快、而且完全好轉。風險因子要記兩個，ALL 比 NHL 多，tumor burden 高。",
+          "Neurotoxicity 不一樣。一開始以為是 CAR-T 在腦內認到白血病細胞，現在知道和有沒有 CNS 侵犯無關。Tocilizumab 沒有效，代表單靠 IL-6 解釋不了，需要其他藥物。預後可以很差，Berger 2023 報告了致命的 cerebral edema。",
+          "時間上，第 60 章沒有寫兩者各自在第幾天出現，所以題目若問發生時間，要以題幹描述為準。病房上兩者常同時存在，CRS 用 tocilizumab 壓下去之後，意識或語言的變化仍要當成獨立問題處理，並排除感染和其他代謝原因。",
+          "書上沒有寫 ICANS 的第一線藥物，臨床常用 steroid，我在投影片上標成 verify。考試的對比題就是這兩欄，CRS 給 tocilizumab 會好，neurotoxicity 給 tocilizumab 不會好。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: corticosteroids as first-line treatment for ICANS (not stated in Ch. 60)."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Resistance and future",
+      "eyebrow": "CAR-T · Antigen escape",
+      "title": "CD19 loss drives relapse after CD19 CAR-T, above all in ALL",
+      "root": "CD19-low or CD19-negative relapse after CD19 CAR-T",
+      "branches": [
+        {
+          "label": "Lineage switch",
+          "box": "Lymphoid-to-myeloid transdifferentiation",
+          "out": "MLL-rearranged B-ALL (Gardner 2016)"
+        },
+        {
+          "label": "Clonal selection",
+          "box": "Preexisting CD19-low/negative clones",
+          "out": "Pressure selects resistant subclones"
+        },
+        {
+          "label": "Epitope loss",
+          "box": "Alternative splicing of CD19",
+          "out": "Clone loses the CAR's target epitope"
+        },
+        {
+          "label": "Rescue",
+          "box": "CD22 CAR-T, or CD19 + CD20/CD22/CD123",
+          "out": "CD22 CAR-T works; CD22-low relapse can follow"
+        }
+      ],
+      "invert": 3,
+      "cite": "Bonini C, et al. Ch. 60 (Fry 2018) · Vago L, Dazzi F. Ch. 61; EBMT Handbook 8th ed. 2024",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "有一部分病人對 CD19 CAR-T 產生抗藥性，最典型的是 leukemia 失去 CD19，ALL 特別常見。書上列三個機轉。第一是 lineage switch，lymphoid 轉成 myeloid，Gardner 2016 描述的是 MLL-rearranged B-ALL。第二是原本就存在的 CD19-low 或 CD19-negative clone 被選出來。第三是 alternative splicing，讓 CAR 認的那個 epitope 不見了。",
+          "這和第 61 章講的 immunoediting 是同一個邏輯，免疫壓力不完全清除時，抗免疫的 subclone 就會留下來。",
+          "救援方面，CD19 陰性的 ALL 細胞常常還有 CD20、CD22 或 CD123。Fry 2018 用 CD22 CAR-T 重新誘導緩解，可是 CD22 本身容易 internalize 和 downregulate，不少病人接著出現 CD22-low 的復發。所以現在研究同時打 CD19 加 CD20、CD22 或 CD123，可以是一個 bispecific CAR，也可以在同一個 T cell 表現兩個 CAR。",
+          "臨床上，復發時一定要重新做 flow，確認 CD19、CD22 這些抗原還在不在，這是決定下一步的前提。目標抗原不見了，再輸一次同一個 CD19 產品就沒有意義。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Immune resistance · After allo-HCT",
+      "title": "After allo-HCT, leukemia escapes GVL by intrinsic and extrinsic routes",
+      "head": [
+        "Mechanism",
+        "Key fact",
+        "Clinical consequence"
+      ],
+      "rows": [
+        [
+          "Loss of mismatched HLA haplotype",
+          "Up to 1/3 of haplo relapses (Vago 2009; Crucitti 2015)",
+          "IS withdrawal or DLI much less effective"
+        ],
+        [
+          "HLA class II silencing",
+          "Epigenetic downregulation",
+          "Escape from donor T cells"
+        ],
+        [
+          "PD-L1 overexpression",
+          "Inhibitory signal to donor T cells",
+          "Rationale for checkpoint blockade; GVHD risk"
+        ],
+        [
+          "Isolated extramedullary relapse",
+          "After HCT, even more after DLI; CNS",
+          "Possible link with chronic GVHD"
+        ],
+        [
+          "MDSC and macrophages",
+          "NOS-2, arginase-1, IL-10, TGF-β; recruit Tregs",
+          "Suppress CD8+ T and NK cells"
+        ],
+        [
+          "MSC / cancer-associated fibroblasts",
+          "CXCR4–CXCL12 axis shields AML and CML cells",
+          "CXCR4-armed CAR cells home to the niche"
+        ]
+      ],
+      "colW": [
+        3.4,
+        4.4,
+        4.2
+      ],
+      "fontSize": 16,
+      "cite": "Vago L, Dazzi F. EBMT Handbook 8th ed. 2024; Ch. 61",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "第 61 章把移植後復發看成 immunoediting。Intrinsic 的機轉裡，最重要的是 mismatched HLA haplotype 的 genomic loss。Haplo-HCT 時，donor T cell 主要攻擊不相合的 HLA，這同時是 GVHD 和 GVT 的來源；白血病只要丟掉那一套 HLA，就躲過去了。HLA loss 佔 haplo-HCT 後復發最多三分之一，partially mismatched unrelated donor 也看得到。",
+          "臨床意義很直接，HLA loss 的復發，停免疫抑制或給 DLI 的效果差很多，所以復發時要驗 HLA loss。其他 intrinsic 機轉還有 HLA class II 的 epigenetic silencing 和 PD-L1 上升，後者給 checkpoint blockade 一個理由，但要擔心誘發嚴重 GVHD。Isolated extramedullary relapse 在 DLI 之後更常見。",
+          "Extrinsic 的部分是 microenvironment，包括 MDSC、macrophage，以及 MSC 透過 CXCR4–CXCL12 保護 AML 和 CML 細胞。反過來利用這條軸，讓 CAR cell 帶上 CXCR4，可以更有效地回到 bone marrow niche。",
+          "Treg 的角色比較有爭議。動物模型顯示 Treg 可以只壓 GVHD 而不影響 GVL，臨床資料則建議解讀移植後的 Treg 數值要小心。這一章的重點是把復發看成免疫逃脫，而不是單純的抗藥性。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Engineered T cells · TCR versus CAR",
+      "title": "TCRs reach intracellular antigens but work with one HLA only",
+      "head": [
+        "Feature",
+        "CAR T cells",
+        "TCR T cells"
+      ],
+      "rows": [
+        [
+          "What is recognised",
+          "Surface molecules, via an antibody scFv",
+          "Peptides from any cellular protein, on MHC"
+        ],
+        [
+          "HLA",
+          "Not required for binding (speaker's summary)",
+          "One transgenic TCR works with one HLA only"
+        ],
+        [
+          "Typical targets",
+          "CD19, BCMA; CD33, CD70, CD123, FLT3 in trials",
+          "Cancer/testis antigens (NY-ESO1); MART-1"
+        ],
+        [
+          "Main hurdle",
+          "Antigen loss; solid-tumor access and TME",
+          "TCR sets for many HLA alleles; chain mispairing"
+        ],
+        [
+          "Role of gene editing",
+          "TRAC-locus CAR integration (Eyquem 2017)",
+          "Knock out endogenous TCR; needed for allogeneic products"
+        ],
+        [
+          "Toxicity",
+          "CRS, neurotoxicity, cytopenia",
+          "On- and off-target, including deaths"
+        ]
+      ],
+      "colW": [
+        2.6,
+        4.6,
+        4.8
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "最後比較 CAR 和 TCR。CAR 只認細胞表面的分子；TCR 認的是 MHC 呈現的小 peptide，來源可以是任何細胞內的蛋白。大部分腫瘤抗原和 driver mutation 都在細胞內，例如 signal transducer，這些只有 TCR 碰得到。",
+          "代價是 HLA restriction。一個 transgenic TCR 只能在一種 HLA 下作用，要讓大部分病人都能用，同一個抗原得準備一整套對應不同 HLA 的 TCR。CAR 不需要 HLA 這一點是我從書上的對比推論的，所以標成 speaker's summary。",
+          "TCR gene therapy 最早用在 melanoma 的 MART-1，cancer/testis antigen 例如 NY-ESO1 因為成人組織幾乎不表現，是很好的目標，但 on-target 和 off-target 毒性都曾造成死亡。",
+          "Gene editing 可以把內生的 TCR 剔除，提高 transgenic TCR 的表現、減少 mispairing，也是做 allogeneic off-the-shelf 產品的必要條件。CRISPR/Cas9 讓多重編輯變得可行，把 CAR 放進 TRAC locus 可以讓表現更穩定。",
+          "考試若問哪一種 engineered T cell 可以打細胞內的 driver mutation，答案是 TCR，而代價就是 HLA restriction，一個 transgenic TCR 只對應一種 HLA，這也是為什麼要替每個抗原準備一整套 TCR。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: treat this reaction on day 2 after CAR-T",
+      "stem": "A 21-year-old man with relapsed B-ALL (80% marrow blasts) receives CD19 CAR-T cells. On day 2 he has fever of 40.1 °C, hypotension needing fluid resuscitation and low-dose norepinephrine, and needs 3 L/min oxygen. MRI brain is normal and he is fully oriented. Which agent is most likely to produce a prompt response?",
+      "options": [
+        "Ganciclovir",
+        "Tocilizumab",
+        "Intravenous immunoglobulin",
+        "Rituximab",
+        "Intrathecal methotrexate"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: CRS is IL-6-driven and responds to tocilizumab",
+      "explanation": "This is CRS: on-target/on-tumor, with ALL and high tumor burden as risk factors. IL-6 is the master cytokine, shown by the prompt, often complete response to the anti-IL-6R antibody tocilizumab. Ganciclovir only kills HSV-TK-expressing cells. Immunoglobulin replaces antibodies lost to B-cell aplasia.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。21 歲男性，relapsed B-ALL，骨髓 80% blast，接受 CD19 CAR-T。第二天發燒到 40.1 度，低血壓需要輸液和 low-dose norepinephrine，鼻導管 3 升氧氣。腦部 MRI 正常，意識清楚。哪一個藥最可能讓他很快好轉？請注意題目沒有任何神經學症狀，這是刻意的設計。",
+          "選項是 A ganciclovir，B tocilizumab，C IVIG，D rituximab，E intrathecal methotrexate。其中有一個是前面 suicide gene 那張出現過的藥，有一個是處理長期副作用的藥，想一想哪一個才是針對機轉。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B，tocilizumab。第二天發燒、低血壓、缺氧，這是 cytokine release syndrome。題目刻意給了 ALL 和 80% blast，就是書上講的兩個風險因子。IL-6 是 CRS 的 master cytokine，anti-IL-6 receptor 抗體常常讓病人很快、而且完全緩解。",
+          "最大的陷阱是 A。Ganciclovir 只對帶 HSV-TK suicide gene 的細胞有作用，那是前面 suicide gene therapy 的情境，不能拿來關掉這個 CAR-T。C 的 immunoglobulin 是處理 B-cell aplasia 造成的 hypogammaglobulinemia，屬於長期問題。",
+          "順帶一提，如果他用 Lee 2014 分級，低流量氧氣加 low-dose pressor 是 grade 2；用 Penn scale 是 grade 3。",
+          "如果他接著出現意識改變，tocilizumab 就不夠了，那屬於 neurotoxicity，要另外處理。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose second-line therapy for relapsed LBCL",
+      "stem": "A 55-year-old woman with diffuse large B-cell lymphoma reached complete remission after six cycles of R-CHOP. Seven months after the last cycle, a biopsy confirms relapse. She has no major comorbidities. According to the EBMT Handbook, which is the preferred next treatment?",
+      "options": [
+        "R-ICE, then high-dose therapy and auto-HCT if chemosensitive",
+        "Anti-CD19 CAR-T cells (axi-cel or liso-cel)",
+        "Upfront allogeneic HCT from a matched sibling donor",
+        "R-DHAP plus polatuzumab, then auto-HCT",
+        "Involved-field radiotherapy alone"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: relapse within 12 months goes to CD19 CAR-T",
+      "explanation": "Relapse within 12 months of first-line therapy is early relapse. Axi-cel and liso-cel improved PFS over salvage plus auto-HCT in two phase III trials (Locke 2022; Kamdar 2021), so CAR-T is standard of care. Salvage plus auto-HCT stays standard for late (> 12 mo) chemosensitive relapse. Adding new drugs to salvage is not advised outside trials.",
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。55 歲女性，DLBCL，六個 R-CHOP 之後 complete remission。最後一個療程結束後七個月，切片證實復發，沒有重大共病。依照 EBMT Handbook，下一步首選是什麼？題目給了幾個數字，先算從 R-CHOP 結束到復發隔了多久，再看病人能不能接受移植。",
+          "A 是 R-ICE 之後接 auto-HCT，B 是 anti-CD19 CAR-T，C 是 matched sibling allo-HCT，D 是 R-DHAP 加 polatuzumab 再接 auto-HCT，E 是只做 radiotherapy。有兩個選項都會用到 auto-HCT，差別在 salvage 的內容。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案 B。First line 結束後七個月復發，落在 12 個月以內，屬於 early relapse。Axi-cel 和 liso-cel 在兩個 phase III 都比 salvage 加 auto-HCT 有更好的 PFS，所以書上把 CAR-T 當 second line 的 standard of care。",
+          "A 是主要陷阱。Salvage 加 auto-HCT 仍是標準，但對象是超過 12 個月的晚期復發而且 chemosensitive 的病人。D 把新藥加進 salvage，書上明講不建議在 trial 以外使用。C 的 allo-HCT 留給 CAR-T 失敗之後、仍然 fit 的病人。",
+          "如果同一位病人是 R-CHOP 結束後 18 個月才復發，答案就會變成 A；而 salvage 之後只有 SD，又會回到 CAR-T。",
+          "這題的關鍵只有一個數字，從 first line 結束算起的 12 個月。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: explain a CD19-negative relapse after CAR-T",
+      "stem": "A 19-year-old woman with B-ALL achieved MRD-negative CR after tisagenlecleucel. Six months later she relapses; flow cytometry shows CD19-negative blasts that express CD22. She has not had an allogeneic HCT. Which statement is correct?",
+      "options": [
+        "Reinfusion of the same CD19 CAR-T product is the most promising option",
+        "CD19 loss after CAR-T requires CNS involvement by leukemia",
+        "CD22 CAR-T can re-induce remission, but CD22-low relapse can follow",
+        "Tocilizumab before reinfusion prevents CD19 antigen loss",
+        "CD19-negative relapse arises only from newly acquired mutations"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: CD22 CAR-T can rescue, but CD22 also escapes",
+      "explanation": "CD19 loss arises from lineage switch, selection of preexisting CD19-low/negative clones, or alternative splicing. CD22 CAR-T re-induced remissions (Fry 2018), but CD22 internalises and downregulates, so CD22-low relapses followed. Dual targeting of CD19 with CD20, CD22 or CD123 is under study.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。19 歲女性，B-ALL，tisagenlecleucel 之後達到 MRD-negative CR。六個月後復發，flow 顯示 blast 是 CD19 陰性、CD22 陽性，之前沒有做過 allo-HCT。下列哪一個敘述正確？這題考的是抗藥機轉和下一步的觀念。",
+          "A 說再輸一次同樣的 CD19 CAR-T 最有希望；B 說 CD19 loss 一定要有 CNS 侵犯；C 說 CD22 CAR-T 可以再誘導緩解，但可能接著 CD22-low 復發；D 說輸注前給 tocilizumab 可以預防抗原流失；E 說只來自新的突變。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案 C。Fry 2018 用 CD22 CAR-T 讓 CD19 陰性復發的病人重新緩解，但 CD22 容易 internalize 和 downregulate，不少人接著出現 CD22-low 復發。",
+          "E 是最容易選錯的。書上的三個機轉裡，有一個就是原本就存在的 CD19-low 或 CD19-negative clone 被選出來，所以不是只有新突變，另外兩個是 lineage switch 和 alternative splicing。A 的 target 已經不見了，再打 CD19 沒有道理。B 把 neurotoxicity 和 CNS 的概念混進來，D 則把 CRS 的藥拿來處理抗藥性。",
+          "達到緩解之後，因為她沒有做過移植，依第 72 章要考慮 allo-HCT consolidation。",
+          "書上提到的長遠方向，是一開始就同時打兩個抗原，例如 CD19 加 CD22，用 bispecific CAR 或在同一個 T cell 表現兩個 CAR 來避免 antigen escape。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "backup": true,
+      "eyebrow": "Engineered T cells · Gene editing",
+      "title": "Gene editing makes engineered T cells safer and off-the-shelf",
+      "blocks": [
+        {
+          "head": "TCR knockout",
+          "body": "Raises transgenic TCR expression and lowers chain mispairing; required for allogeneic T-cell products",
+          "extra": "Provasi 2012"
+        },
+        {
+          "head": "CRISPR/Cas9",
+          "body": "Efficient disruption and HDR; several genes at once; TCR-edited T cells were safe in a pilot study",
+          "extra": "Multiplex editing"
+        },
+        {
+          "head": "Integration, base editing",
+          "body": "Targeted integration in the TCR locus stabilises TCR or CAR expression; deaminases replace nucleases",
+          "extra": "Eyquem 2017"
+        }
+      ],
+      "notes": {
+        "script": [
+          "Gene editing 的三個用途。剔除內生 TCR 減少 mispairing，也是 allogeneic 產品的必要條件；CRISPR/Cas9 讓多重編輯可行，pilot study 證實安全；把 TCR 或 CAR 定點放進 TCR locus 可以讓表現更持久，deaminase 這類 base editor 則取代 nuclease。"
+        ]
+      }
+    },
+    {
+      "type": "bullets",
+      "backup": true,
+      "eyebrow": "CAR-T · New targets",
+      "title": "New CAR targets are being tested beyond CD19 and BCMA",
+      "items": [
+        "Haematological targets in trials: SLAMF7, CD44v6, CD38, CD33, CD70, CD123, CLL-1, FLT3",
+        "Approved products are being tested in earlier lines of treatment",
+        "Solid tumors lag: few suitable antigens, poor access, suppressive TME, heterogeneity",
+        "T-ALL: anti-CD7 and anti-CD5 CAR-T cells show promising early results (Ch. 72)",
+        "Point-of-care GMP manufacture aims to cut cost and waiting time"
+      ],
+      "notes": {
+        "script": [
+          "CD19 和 BCMA 之外，研究中的血液目標有 SLAMF7、CD44v6、CD38、CD33、CD70、CD123、CLL-1 和 FLT3。實體腫瘤進展較慢，除了找抗原，還要克服進入腫瘤、免疫抑制的微環境和異質性。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "CAR-T · LBCL algorithm",
+      "title": "The Ch. 86 algorithm places CAR-T at early relapse and after autograft",
+      "fig": "ch86-fig1",
+      "alt": "Flowchart for relapsed or refractory LBCL: CAR-T for primary refractory or relapse within 12 months; salvage then auto-HCT for chemosensitive late relapse; allo-HCT after relapse if fit.",
+      "caption": "Fig. 86.1. HCT and CAR T cells in R/R LBCL: treatment decision",
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86",
+      "notes": {
+        "script": [
+          "這是第 86 章的原圖，主線投影片的 tree 就是由它簡化。注意 auto-HCT 之後復發，箭頭也指向 CAR-T。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "backup": true,
+      "eyebrow": "Engineered T cells · Outlook",
+      "title": "Broad use of engineered T cells needs four advances",
+      "steps": [
+        "Identify additional targets",
+        "TCRs for many HLA molecules",
+        "New gene transfer and editing tools",
+        "Large-scale GMP production"
+      ],
+      "invert": 1,
+      "caption": "Conclusion of Ch. 60",
+      "notes": {
+        "script": [
+          "第 60 章的結論列出四個條件，更多 target、對應多種 HLA 的 TCR、新的 gene transfer 和 editing 工具，以及大規模 GMP 生產。"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+{
+  "id": "s07",
+  "slug": "chronic-gvhd-ecp",
+  "week": 7,
+  "title": "Chronic GVHD and extracorporeal photopheresis",
+  "subtitle": "Week 7 · Ch. 44 and Ch. 66",
+  "cite": "Wolff D, et al. EBMT Handbook 8th ed. 2024; Ch. 44",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安。第七週接著上週的 acute GVHD，今天講 chronic GVHD 和 extracorporeal photopheresis，簡稱 ECP，對應 EBMT Handbook 第 44 章和第 66 章。Chronic GVHD 是移植後長期存活者最主要的晚期併發症，診斷規則和分級細節很多，治療選項又一直在增加，所以專科考試幾乎每年都會出一題。"
+    ]
+  },
+  "references": [
+    "1. Wolff D, Peric Z, Lawitschka A. Chronic graft-versus-host disease. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 395–410. doi:10.1007/978-3-031-44080-9_44",
+    "2. Greinix H. Photopheresis in adults and pediatrics. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 587–593. doi:10.1007/978-3-031-44080-9_66",
+    "3. Grube M, Holler E, Weber D, et al. Risk factors and outcome of chronic graft-versus-host disease after allogeneic stem cell transplantation-results from a single-center observational study. Biol Blood Marrow Transplant. 2016;22:1781–91.",
+    "4. Kuzmina Z, Eder S, Bohm A, et al. Significantly worse survival of patients with NIH-defined chronic graft-versus-host disease and thrombocytopenia or progressive onset type: results of a prospective study. Leukemia. 2012;26:746–56.",
+    "5. Jagasia MH, Greinix HT, Arora M, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. The 2014 diagnosis and staging working group report. Biol Blood Marrow Transplant. 2015;21:389.e1–401.e1.",
+    "6. Carpenter PA, Logan BR, Lee SJ, et al. A phase II/III randomized, multicenter trial of prednisone/sirolimus versus prednisone/ sirolimus/calcineurin inhibitor for the treatment of chronic graft- versus-host disease: BMT CTN 0801. Haematologica. 2018;103(11):1915–24.",
+    "7. Ruutu T, Juvonen E, Remberger M, et al. Improved survival with ursodeoxycholic acid prophylaxis in allogeneic stem cell transplantation: long-term follow-up of a randomized study. Biol Blood Marrow Transplant. 2014;20:135–8.",
+    "8. Wolff D, Fatobene G, Rocha V, et al. Steroid-refractory chronic graft-versus-host disease: treatment options and patient management. Bone Marrow Transplant. 2021;56(9):2079–87.",
+    "9. Greinix HT, Volc-Platzer B, Rabitsch W, et al. Successful use of extracorporeal photochemotherapy in the treatment of severe acute and chronic graft-versus-host disease. Blood. 1998;92:3098–104.",
+    "10. Flowers MED, Apperley J, von Besien K, et al. A multicenter prospective phase 2 randomized study of extracorporeal photopheresis for treatment of chronic graft-versus-host disease. Blood. 2008;112:2667–74.",
+    "11. Abu-Dalle I, Reljic T, Nishihori T, et al. Extracorporeal photopheresis in steroid-refractory acute or chronic graft-versus-host disease: results of a systematic review of prospective studies. Biol Blood Marrow Transplant. 2014;20:1677–86.",
+    "12. Del Fante C, Galasso T, Bernasconi P, et al. Extracorporeal photopheresis as a new supportive therapy for bronchiolitis obliterans syndrome after allogeneic stem cell transplantation. Bone Marrow Transplant. 2016;51:728–31.",
+    "13. Jagasia M, Greinix H, Scheid C, et al. A randomized controlled study of extracorporeal photopheresis (ECP) therapy with UVADEX (methoxsalen) for National Institutes of Health (NIH)-graded moderate to severe chronic graft-versus-host disease (cGvHD). Blood. 2017;130:1970.",
+    "14. Malik MI, Litzow M, Hogan W, et al. Extracorporeal photopheresis for chronic graft-versus-host disease: a systematic review and meta-analysis. Blood Res. 2014;49:100–6.",
+    "15. Messina C, Locatelli F, Lanino E, et al. Extracorporeal photochemotherapy for paediatric patients with graft-versus-host disease after haematopoietic stem cell transplantation. Br J Haematol. 2003;122:118–27.",
+    "16. Maas-Bauer K, Kiote-Schmidt C, Bertz H, et al. Ruxolitinib-ECP combination treatment for refractory severe chronic graft-versus-host disease. Bone Marrow Transplant. 2021;56:909–16.",
+    "17. Jagasia M, Greinix H, Robin M, et al. Extracorporeal photopheresis versus anticytokine therapy as a second-line treatment for steroid-refractory acute GVHD: a multicentre comparative analysis. Biol Blood Marrow Transplant. 2013;19:1124–33.",
+    "18. Greinix HT, Knobler RM, Worel N, et al. The effect of intensified extracorporeal photochemotherapy on long-term survival in patients with severe acute graft-versus-host disease. Haematologica. 2006;91:405–8.",
+    "19. Modemann F, Ayuk F, Wolschke C, et al. Ruxolitinib plus extracorporeal photopheresis (ECP) for steroid refractory acute graft-versus-host disease of lower GI-tract after allogeneic stem cell transplantation leads to increased regulatory T cell level. Bone Marrow Transplant. 2020;55(12):2286–93."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "cGVHD · Outline",
+      "title": "Four parts, from diagnosis to photopheresis",
+      "rows": [
+        [
+          "Burden, diagnosis and global severity",
+          "Incidence, predictors, diagnostic signs, mimics, NIH severity",
+          "7.5 min"
+        ],
+        [
+          "First-line therapy and supportive care",
+          "Steroid dose by severity, response timing, infection care",
+          "6 min"
+        ],
+        [
+          "Second line and photopheresis",
+          "Table 44.2, organ-guided choices, ECP technique and evidence",
+          "8 min"
+        ],
+        [
+          "Board-style questions",
+          "Diagnosis, severity and first line, ECP",
+          "5 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段，時間大約是七分半、六分、八分和五分鐘。第一段講 chronic GVHD 有多常見、誰容易得，以及怎麼用 NIH 的規則診斷、評估 global severity。這段的重點是 diagnostic sign 和 distinctive sign 的差別，考題最愛拿來設陷阱。",
+          "第二段是 first-line，steroid 劑量怎麼依嚴重度決定，多久才能判斷沒效，以及感染預防和疫苗這些 supportive care，這些都是病房每天會遇到的問題。",
+          "第三段看 second-line，從 Table 44.2 挑出考試會問的藥，再把 ECP 的原理、證據和實際排程講清楚。最後五分鐘做三題 board-style 題目，每一題都對應前面某一張投影片。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "section": "Burden and diagnosis",
+      "eyebrow": "cGVHD · Burden",
+      "title": "Chronic GVHD is the main cause of late non-relapse morbidity",
+      "items": [
+        {
+          "num": "~50%",
+          "label": "Incidence among all allo-HCT recipients; 6–40% in children"
+        },
+        {
+          "num": "~25%",
+          "label": "Late mortality associated with cGVHD (Grube 2016)"
+        },
+        {
+          "num": "3m–2y",
+          "label": "Usual onset after HCT; as early as 1 month is possible"
+        }
+      ],
+      "caption": "Incidence has risen with older patients, unrelated or mismatched donors, RIC, and PBSC grafts given with standard CNI + MMF or MTX prophylaxis only.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "先看三個數字。所有 allo-HCT 病人裡，大約一半會發生 chronic GVHD；小孩比較低，6 到 40%，但年紀越大越高，可以到 60%。跟 chronic GVHD 相關的晚期死亡大約 25%，它是移植後晚期 non-relapse morbidity 最主要的原因。",
+          "發生時間通常在移植後 3 個月到 2 年，但最早移植後 1 個月就可能出現，所以不能用 day 100 來排除，這和上週 acute GVHD 的分類原則一致。",
+          "下面這行解釋為什麼過去二十年發生率一直上升。病人年紀變大，unrelated 或 mismatched donor 變多，RIC 變普遍，PBSC 又只配標準的 CNI 加 MMF 或 MTX 預防。這些趨勢在國內的移植中心也一樣看得到。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cGVHD · Risk and prognosis",
+      "title": "Prior acute GVHD predicts cGVHD; onset type and platelets predict death",
+      "head": [
+        "Question",
+        "What Ch. 44 says"
+      ],
+      "rows": [
+        [
+          "Donor and graft",
+          "Unrelated or mismatched donor; PBSC; older donor"
+        ],
+        [
+          "Recipient",
+          "Age > 12 years; female donor → male recipient"
+        ],
+        [
+          "Strongest predictor",
+          "History and severity of acute GVHD"
+        ],
+        [
+          "Children < 12 years",
+          "Rarely develop de novo cGVHD"
+        ],
+        [
+          "Benefit",
+          "Less relapse: mild cGVHD has better OS than no cGVHD"
+        ],
+        [
+          "Moderate cGVHD",
+          "OS not different from patients without cGVHD"
+        ],
+        [
+          "Severe cGVHD",
+          "Long-term mortality up to 50%"
+        ],
+        [
+          "Mortality risk factors",
+          "Low platelets, progressive onset,\nlung/GI/cholestatic liver"
+        ]
+      ],
+      "colW": [
+        3.2,
+        8.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張整理風險和預後。Risk factor 和 acute GVHD 很像，unrelated 或 mismatched donor、PBSC、donor 年紀大、病人超過 12 歲，以及 female donor 給 male recipient。書上特別強調，最強的 predictor 是之前有沒有 acute GVHD、以及它有多嚴重；12 歲以下的小孩很少直接發生 de novo chronic GVHD。",
+          "Chronic GVHD 也有好處。它帶來 graft-versus-malignancy effect，復發比較少，所以 mild chronic GVHD 病人的 OS 反而比沒有 chronic GVHD 好；moderate 的 OS 跟沒有的人差不多，多出來的死亡被較少的復發抵銷掉。",
+          "Severe 的長期死亡率可以到 50%。不過書上說，比起 severity，幾個特定因素更能預測死亡：診斷時血小板低、progressive onset，也就是 acute 直接延續成 chronic，以及肺、腸胃道或 cholestatic liver 侵犯。Progressive onset 和低血小板這兩個，考題常常寫進 vignette 裡。",
+          "在病房，這張表的用途是決定追蹤強度。有 grade II 以上 acute GVHD 病史、用 PBSC、female donor 給男性的病人，減 CNI 的時候要更頻繁地檢查皮膚、口腔和肺功能。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cGVHD · NIH diagnostic signs",
+      "title": "Diagnostic signs establish chronic GVHD without a biopsy",
+      "head": [
+        "Site",
+        "Diagnostic: no biopsy needed",
+        "Distinctive: needs histology"
+      ],
+      "rows": [
+        [
+          "Skin",
+          "Poikiloderma;\nlichen planus-like",
+          "Depigmentation; papulosquamous\nlesions; ichthyosis"
+        ],
+        [
+          "Skin, cont.",
+          "Lichen sclerosus-like; morphea-like;\ndeep sclerotic features",
+          "Keratosis pilaris; pigment change;\nappendage or sweat loss"
+        ],
+        [
+          "Mouth",
+          "Lichenoid changes",
+          "Erythema, ulcers, mucoceles; sicca"
+        ],
+        [
+          "Fasciae and joints",
+          "Fasciitis",
+          "Myositis, rheumatoid complaints"
+        ]
+      ],
+      "colW": [
+        2.4,
+        4.4,
+        5.0
+      ],
+      "fontSize": 17,
+      "caption": "No diagnostic sign in any organ: confirm by histology to exclude toxic and infectious mimics",
+      "captionY": 5.65,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張是 NIH 2014 診斷規則的核心。Chronic GVHD 的徵象分兩類。Diagnostic sign 只要出現就可以診斷，不需要切片；distinctive 或其他常見的表現，單獨出現不夠，要有病理佐證，或是在別的器官找到 diagnostic sign。",
+          "皮膚是最常侵犯的器官。Diagnostic 的有五種：poikiloderma、lichen planus-like、lichen sclerosus-like、morphea-like，以及 deep sclerotic 的變化。右邊這欄，像 depigmentation、papulosquamous lesion、ichthyosis、keratosis pilaris、色素變化、毛髮汗腺消失、不會流汗，都不夠，需要切片。早期的紅斑、maculopapular rash 和癢，則可能跟 acute GVHD 重疊。",
+          "口腔的 lichenoid change 是 diagnostic，單純紅斑、潰瘍、mucocele 和口乾都不是。Fasciitis 也是 diagnostic，會限制關節活動，書上建議用 photographic range-of-motion 量表追蹤。",
+          "Distinctive 不代表不重要。它們常常更早出現，只是特異性不夠，可能是藥物疹、病毒疹或其他自體免疫疾病。小孩的病毒性皮膚感染還會誘發或加重 chronic GVHD，所以要先排除感染。長期的皮膚 chronic GVHD 也是續發皮膚癌的危險因子，追蹤時別漏掉。",
+          "最下面這行很實用。如果全身都找不到 diagnostic sign，就要靠病理排除藥物毒性和感染。書上引用的 clinicopathologic series 顯示，只靠臨床表現、沒有病理確認，誤診和過度治療的風險明顯偏高。考題常給一個只有 depigmentation 的病人，問下一步，答案就是切片。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cGVHD · Other organs",
+      "title": "Liver, gut and lung need infections and drugs excluded first",
+      "head": [
+        "Organ",
+        "Typical cGVHD picture",
+        "Rule out or check"
+      ],
+      "rows": [
+        [
+          "Eyes",
+          "Keratitis sicca, blepharitis,\nconjunctival fibrosis",
+          "Infection; in children, photophobia"
+        ],
+        [
+          "Liver",
+          "Cholestasis (PBC-like);\nhepatitic form possible",
+          "Hepatitis A–E, CMV, EBV, ADV, HHV6/7;\ndrugs; TPN"
+        ],
+        [
+          "Upper GI",
+          "Dysphagia (oesophagus);\nnausea, vomiting",
+          "ADV or CMV; drug effects (e.g. MMF)"
+        ],
+        [
+          "Lower GI",
+          "Chronic diarrhoea, malabsorption",
+          "CMV/ADV; gluten/lactose intolerance;\npancreatic insufficiency"
+        ],
+        [
+          "Lung",
+          "Obstruction (BOS); less often\nrestriction (BOOP)",
+          "Infection: CT scan and BAL"
+        ]
+      ],
+      "colW": [
+        1.8,
+        4.6,
+        5.4
+      ],
+      "fontSize": 15,
+      "caption": "Intestinal involvement counts as acute GVHD: with chronic features this is overlap syndrome",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "其他器官最大的共同點，是要先排除感染和藥物。眼睛通常是 keratitis sicca 加上 blepharitis，小孩不太會說眼睛乾，比較常表現為怕光、一直揉眼睛。",
+          "肝臟典型是 cholestasis，像 primary biliary cirrhosis，但也可以是 hepatitic form，transaminase 很高。要排除 hepatitis A 到 E、CMV、EBV、ADV、HHV6/7、藥物和 TPN。如果病人沒有其他 chronic GVHD 症狀，或治療沒反應，就應該做肝切片。",
+          "腸胃道的規則考試常考。食道侵犯算 chronic GVHD，造成吞嚥困難；但小腸、大腸的侵犯被視為 acute GVHD 的表現，同時有 chronic 特徵時就歸為 overlap syndrome。腹瀉時也要想到 CMV、ADV、乳糖不耐和 MMF 的副作用。",
+          "肺以阻塞性的 bronchiolitis obliterans syndrome 為主，常常沒症狀就已經不可逆，所以要定期做 PFT，診斷前做 CT 和 BAL 排除感染。生殖器侵犯常和口腔一起出現，病人很少主動提，女性要定期婦科追蹤，包括次發癌症篩檢；癒合後的沾黏在女孩青春期可能造成 hematocolpos，男孩則可能 phimosis。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cGVHD · Global severity (NIH 2014)",
+      "title": "Global severity counts involved organs and the worst organ score",
+      "head": [
+        "Overall severity",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "rows": [
+        [
+          "Number of involved organs",
+          "1–2",
+          "> 3 [verify: ≥ 3]",
+          "> 3"
+        ],
+        [
+          "Severity of involved organs",
+          "Mild\n(excluding lung)",
+          "Mild–moderate\n(lung only mild)",
+          "Severe\n(lung moderate or severe)"
+        ],
+        [
+          "Speaker's summary: lung",
+          "Any lung involvement\nexcludes mild",
+          "Lung mild",
+          "Lung moderate\nor severe"
+        ]
+      ],
+      "colW": [
+        3.4,
+        2.6,
+        2.8,
+        3.0
+      ],
+      "fontSize": 18,
+      "caption": "Eight organs scored 0–3 (liver by labs, lung by PFT); non-GVHD impairment is not scored",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "診斷之後要評估 global severity。NIH 2014 的做法是把八個器官各自打 0 到 3 分，肝臟看抽血數值，肺看 PFT；如果功能受損完全是其他原因造成，就不計分。再依照受侵犯的器官數目和最嚴重的分數，分成 mild、moderate、severe。",
+          "Mild 是一到兩個器官，而且都只有 mild，肺不能有。Moderate 是多個器官、mild 到 moderate，肺只能是 mild。Severe 是任何器官 severe，或肺到 moderate 以上。",
+          "最下面一列是我自己整理的重點。肺只要有侵犯，就不可能是 mild；肺到 moderate，就直接是 severe。這是考題最常用的捷徑，因為肺侵犯的預後最差。",
+          "這個 severity 不只是描述，它直接決定第一線用局部治療還是全身治療，下一段就會看到。Biomarker 目前還在研究階段，書上說需要驗證之後才能用在臨床。",
+          "書上表格 moderate 的器官數印的是大於 3，跟 mild 的 1 到 2 中間少了 3 這個數字，原始 NIH 定義我在投影片上標了待確認。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 44 §44.3.1.1 prints '>3' organs for both moderate and severe, leaving exactly 3 organs undefined. Check the NIH 2014 table (Jagasia 2015) for the moderate organ-count threshold (believed to be ≥ 3 organs) and whether any single organ score 2 also defines moderate."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "First-line therapy",
+      "eyebrow": "cGVHD · First-line options (Table 44.1)",
+      "title": "Steroids remain the backbone of first-line therapy",
+      "head": [
+        "Regimen",
+        "Grade / evidence",
+        "Response",
+        "Key point"
+      ],
+      "rows": [
+        [
+          "Steroids",
+          "A / I",
+          "~30–50% CR",
+          "Main drug; bone and diabetes toxicity"
+        ],
+        [
+          "CNI + steroids",
+          "C-1 / II",
+          "~30–50%",
+          "Steroid-sparing; less osteonecrosis"
+        ],
+        [
+          "Rituximab + steroids/CNI",
+          "C-1 / III-1",
+          "~75%",
+          "Late infections; no randomized data"
+        ],
+        [
+          "Sirolimus + steroids",
+          "C-1 / II",
+          "~50%",
+          "Equal to CNI combination (Carpenter 2018)"
+        ],
+        [
+          "MMF + CNI/steroids",
+          "D / II",
+          "—",
+          "No gain; more relapse of malignancy"
+        ],
+        [
+          "Azathioprine",
+          "D / II",
+          "—",
+          "Increased mortality"
+        ],
+        [
+          "Thalidomide",
+          "D / II",
+          "—",
+          "Very little effect in first line"
+        ]
+      ],
+      "colW": [
+        3.4,
+        2.0,
+        1.9,
+        4.5
+      ],
+      "fontSize": 15,
+      "caption": "A = always use; C-1 = first-line use justified; D = should generally not be offered (NIH 2005 grading)",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "First-line 治療是少數有 randomized trial 支持的部分。Steroid 是唯一 grade A、evidence I 的藥，CR 大約 30 到 50%，但骨質疏鬆、osteonecrosis 和糖尿病都很常見，所以減少 steroid 用量一直是治療策略的核心。長期使用的話，這些副作用在超過四分之一的病人身上都會出現。",
+          "C-1 的組合有三個。CNI 加 steroid，主要好處是省 steroid、osteonecrosis 比較少。Rituximab 加 steroid 和 CNI，反應率大約 75%，代價是晚期感染和 B cell 恢復變慢，而且沒有 randomized data。Sirolimus 加 prednisone，在 BMT CTN 0801 這個 randomized trial 裡，反應率和 CNI 組合一樣，副作用是高膽固醇和血球低下。",
+          "下面三個是 grade D，意思是一般不該使用。MMF 加 CNI 和 steroid 沒有比較好，還增加惡性疾病復發；azathioprine 增加死亡率；thalidomide 在第一線幾乎沒效。",
+          "表格的分級沿用 2005 年 NIH consensus。A 代表應該一律使用，C-1 代表第一線使用有理由，D 代表有中度證據顯示無效或風險過高，一般不應提供。選項裡出現 grade D 的藥，通常就是錯誤答案。",
+          "另外，ECP、itacitinib 和 ibrutinib 都在第一線做過 randomized trial，加上去之後反應率並沒有比單用 steroid 顯著提高。考試如果問 first-line 該加什麼，MMF 是最常見的錯誤選項。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "cGVHD · First-line by severity",
+      "title": "Global severity decides between topical and systemic therapy",
+      "root": "Newly diagnosed cGVHD: grade global severity",
+      "branches": [
+        {
+          "label": "Mild",
+          "box": "Topical steroid, CNI or phototherapy",
+          "out": "Not feasible: PRD 0.5–1 mg/kg/day"
+        },
+        {
+          "label": "Moderate",
+          "box": "PRD or methylPRD 1 mg/kg/day",
+          "out": "0.5–1 mg/kg in individual cases"
+        },
+        {
+          "label": "Severe",
+          "box": "PRD 1 mg/kg/day ± CSA or TAC",
+          "out": "Topical IS can spare systemic IS"
+        }
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "治療強度跟著 global severity 走。Mild chronic GVHD 不影響器官功能，所以先考慮局部治療，包括 topical steroid、topical CNI 或 phototherapy。如果局部治療做不到，才用 prednisone，起始劑量每公斤 0.5 到 1 mg。",
+          "Moderate 或 severe 就要全身治療，prednisone 或 methylprednisolone 每天每公斤 1 mg，個別病人可以用 0.5 到 1 mg。注意這個劑量是 acute GVHD 的一半，acute 是 2 mg/kg，兩個數字考試常常放在一起混淆。",
+          "Severe 的病人特別值得加上 CNI，也就是 cyclosporine 或 tacrolimus。局部治療可以跟全身治療一起用，提高療效或幫忙減少全身用藥，但它本身沒有全身效果。",
+          "實務上，mild 的病灶先用 topical steroid、topical CNI 或 phototherapy；小小孩要考慮局部藥物被全身吸收的風險。皮膚汗腺被破壞的病人做 phototherapy 時無法排汗，要小心體溫過高。開始全身治療之前，先確認嚴重度真的到 moderate 以上，因為一旦開始，通常就是三到六個月以上的療程，steroid 的骨骼、血糖和感染副作用會一路累積。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "cGVHD · Response assessment",
+      "title": "Give first-line therapy at least 8 weeks before judging it",
+      "steps": [
+        "Start steroids ± CNI",
+        "Weeks 0–4: progression → second line",
+        "Week 8 or later: first response check",
+        "Weeks 8–12: no improvement → second line"
+      ],
+      "invert": 3,
+      "caption": "Deep cutaneous sclerosis: wait 3–6 months. IS usually lasts ≥ 3–6 months and is tapered stepwise. First-line CR: about 20% in adults, 50% in children.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Chronic GVHD 反應慢，不能像 acute 那樣幾天就判斷。書上說至少要等 8 週再評估，如果是 deep cutaneous sclerosis，要等 3 到 6 個月。",
+          "轉 second-line 有兩個時間點。前 4 週內惡化就換；或者 8 到 12 週還沒有改善，也要換。免疫抑制通常要用 3 到 6 個月以上，減量要一步一步來。",
+          "這張圖的第二和第四格是考試重點。題目若寫用 steroid 六週、症狀穩定但還沒明顯改善，正確做法是繼續，不是換藥；若第三週就明顯惡化，則直接進 second-line。",
+          "First-line 的 CR 在成人大約 20%，小孩大約 50%，所以大多數成人遲早會需要 second-line。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cGVHD · Supportive care",
+      "title": "Chronic GVHD and its treatment demand infection prevention",
+      "head": [
+        "Issue",
+        "What Ch. 44 recommends"
+      ],
+      "rows": [
+        [
+          "Immune deficit",
+          "Itself immunosuppressive; worse with high-dose steroids"
+        ],
+        [
+          "Viral and fungal risk",
+          "CMV, ADV and EBV reactivation; candida and aspergillosis"
+        ],
+        [
+          "Functional asplenia",
+          "Howell-Jolly bodies; higher risk of pneumococcal sepsis"
+        ],
+        [
+          "Low IgG",
+          "IG replacement if IgG < 400 mg/dL or recurrent infections"
+        ],
+        [
+          "Vaccination",
+          "Inactivated after cGVHD consolidates; avoid live vaccines"
+        ],
+        [
+          "Liver",
+          "Ursodeoxycholic acid reduced liver GVHD, improved survival"
+        ],
+        [
+          "Children",
+          "Steroids harm growth and bone: favour topical therapy"
+        ]
+      ],
+      "colW": [
+        3.2,
+        8.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Chronic GVHD 本身就是一種免疫缺陷，再加上高劑量 steroid，感染風險非常高。病毒方面要注意 CMV、ADV 和 EBV 再活化，黴菌方面是 candida 和 aspergillus。皮膚和黏膜屏障破損，又讓風險再往上加。",
+          "Functional asplenia 是一個常被忽略的點。周邊血抹片看到 Howell-Jolly bodies，就要想到 pneumococcal sepsis 的風險比較高。",
+          "IgG 低於 400 mg/dL，或反覆感染，建議補充 immunoglobulin，小孩特別重要，成人也適用。疫苗的時程細節在第 29 章，這裡只看兩個原則，等 chronic GVHD 穩定才開始 inactivated vaccine，活性疫苗一律避免。IgG 400 的 cutoff、Howell-Jolly bodies 代表的 functional asplenia，以及活性疫苗的禁忌，這三點常常出現在同一題。",
+          "Ursodeoxycholic acid 在 Ruutu 的隨機研究中減少肝臟 GVHD 並改善存活。小孩長期用 steroid 會影響生長、骨密度和器官發育，所以局部治療和年齡相關的 supportive care 更重要，常常可以因此省掉全身治療。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Second line and ECP",
+      "eyebrow": "cGVHD · Second line (Table 44.2)",
+      "title": "Ruxolitinib, ibrutinib and ECP lead the second-line options",
+      "head": [
+        "Agent",
+        "Grade / evidence",
+        "Response",
+        "Toxicity in > 25%",
+        "Comment"
+      ],
+      "rows": [
+        [
+          "Ruxolitinib",
+          "C-1 / II",
+          "~50%",
+          "Infections, cytopenia",
+          "FDA/EMA approved, second line"
+        ],
+        [
+          "Ibrutinib",
+          "C-1 / III-1",
+          "~50–75%;\nCR 16–25%",
+          "Bruising, diarrhoea,\ninfections",
+          "FDA approved, second line"
+        ],
+        [
+          "ECP",
+          "C-1 / II",
+          "~60–70%;\nCR ~30%",
+          "CVC infection\n(if used)",
+          "Steroid-sparing;\nneeds venous access"
+        ],
+        [
+          "mTOR inhibitors",
+          "C-1 / III-1",
+          "~60%;\nCR ~20%",
+          "TMA, hyperlipidaemia,\ncytopenia",
+          "More TMA with a CNI;\nmonitor levels"
+        ],
+        [
+          "MMF",
+          "C-1 / III-1",
+          "~50%;\nCR ~10%",
+          "GI, viral infection,\nrelapse",
+          "Steroid-sparing"
+        ],
+        [
+          "Belumosudil",
+          "C-2",
+          "~75%",
+          "Liver toxicity",
+          "FDA approved, third line"
+        ]
+      ],
+      "colW": [
+        2.4,
+        1.9,
+        1.9,
+        2.8,
+        3.2
+      ],
+      "fontSize": 14,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Second-line 的資料大多來自 phase II 和回溯性研究，只有 ruxolitinib 做過 phase III。這張只挑 Table 44.2 裡 grade C-1 的主要選項，再加上 belumosudil。",
+          "這些反應率來自年齡、治療線數、conditioning 和 stem cell source 都很不一樣的族群，而且很多藥幾乎都和 steroid 一起用，所以不能直接互相比較，也不能完全套用到眼前的病人。個別藥物的反應率大約落在 20 到 70% 之間。Ch. 66 補充，ibrutinib 在 2017 年 8 月、ruxolitinib 在 2021 年 9 月獲 FDA 核准，用在一線以上系統治療失敗的 chronic GVHD。",
+          "Ruxolitinib 反應率大約 50%，主要副作用是感染和血球低下，FDA 和 EMA 都核准用在 second-line。Ibrutinib 反應率 50 到 75%，CR 16 到 25%，副作用是瘀青、腹瀉和感染，FDA 核准 second-line。",
+          "ECP 反應率 60 到 70%，CR 大約 30%，最大的負擔是需要 venous access，如果放 central line 就有導管感染的風險；優點是省 steroid、耐受性好。mTOR inhibitor 要注意，和 CNI 合用時 TMA 風險上升，而且要監測血中濃度。MMF 有省 steroid 的效果，但會增加病毒感染和復發。",
+          "Belumosudil 反應率大約 75%，主要是肝毒性，FDA 核准在 third-line，書上列為 C-2。挑藥的依據是副作用、可近性和核准狀態、證據，以及是 overlap 還是 classic，因為目前沒有任何指標能預測哪個病人對哪個藥有反應。"
+        ],
+        "reminders": [
+          "Table 44.2 prints belumosudil evidence as 'IIII-1' (apparent typo); only the grade C-2 is shown on the slide."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cGVHD · Organ-guided choices",
+      "title": "Beyond the first options, match the agent to the dominant organ",
+      "head": [
+        "Dominant manifestation",
+        "Agents with their best reported results (C-2)"
+      ],
+      "rows": [
+        [
+          "Mucocutaneous",
+          "MTX; total nodal irradiation; abatacept; hydroxychloroquine"
+        ],
+        [
+          "Sclerodermoid skin",
+          "Imatinib; rituximab; IL-2"
+        ],
+        [
+          "Fasciitis",
+          "Total nodal irradiation"
+        ],
+        [
+          "Lung / bronchiolitis obliterans",
+          "Abatacept; imatinib"
+        ],
+        [
+          "Hepatic",
+          "Hydroxychloroquine"
+        ],
+        [
+          "Children",
+          "Pentostatin"
+        ],
+        [
+          "Caution",
+          "MTX contraindicated with pleural effusion or ascites"
+        ]
+      ],
+      "colW": [
+        3.8,
+        7.6
+      ],
+      "fontSize": 16,
+      "caption": "Speaker's summary of Table 44.2. Combine ≤ 3 IS agents; change one drug at a time.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "C-2 的藥是在 second-line 失敗之後才考慮，書上在備註欄寫了各自效果最好的器官，我依器官重新排列。黏膜和皮膚為主的病人，MTX、total nodal irradiation、abatacept 和 hydroxychloroquine 都有不錯的結果。Sclerodermoid 皮膚可以考慮 imatinib、rituximab 或低劑量 IL-2。Fasciitis 對 total nodal irradiation 反應最好。",
+          "肺和 bronchiolitis obliterans 有 abatacept 和 imatinib 的資料。肝臟是 hydroxychloroquine，pentostatin 則在小孩效果最好。MTX 有一個禁忌，病人有肋膜積水或腹水時不能用。",
+          "下面兩個原則在題目和病房都很常用。同時使用的免疫抑制劑不要超過三種，再加只會增加副作用和感染，不會更有效。無效的藥要逐步停掉，而且一次只換一個藥，才能判斷新藥到底有沒有效。",
+          "Table 44.2 另外列了 C-3 和 C-4。C-3 只在特殊情況使用，例如 thalidomide 適合同時有 chronic GVHD 和復發 myeloma 的病人；C-4 是實驗性的，像 regulatory T cell 和 MSC，應該只在臨床試驗或個案中使用。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "ECP · Technique",
+      "title": "ECP treats mononuclear cells ex vivo with 8-MOP and UV-A light",
+      "steps": [
+        "Leukapheresis via vein or CVC",
+        "Centrifuge to collect MNCs",
+        "Add 8-MOP to buffy coat",
+        "UV-A light (offline: 2 J/cm²)",
+        "Reinfuse treated cells"
+      ],
+      "invert": 3,
+      "caption": "Closed system: one machine, used in almost all trials. Offline: standard separator plus separate irradiator; the two are rarely compared.",
+      "cite": "Greinix H. EBMT Handbook 8th ed. 2024; Ch. 66",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "ECP 是以 leukapheresis 為基礎的治療，1988 年 FDA 先核准用在 cutaneous T-cell lymphoma。流程是從周邊靜脈或導管抽血，離心收集 mononuclear cells，在體外加入 8-methoxypsoralen，也就是 8-MOP，照 UV-A，再把處理過的細胞輸回病人身上。",
+          "Closed system 在同一台機器完成全部步驟，幾乎所有臨床研究都用這種。Offline 是先用一般的 cell separator 收集，再用另一台機器以 2 J/cm² 照光，兩者很少直接比較。",
+          "作用機轉到現在仍不完全清楚，已知包括降低發炎性 cytokine、增加抗發炎 cytokine，以及調節免疫細胞族群。它不是全身性的免疫抑制，這是後面安全性優勢的基礎。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "ECP · Evidence in chronic GVHD",
+      "title": "ECP gives organ responses of 45–71% in steroid-refractory cGVHD",
+      "head": [
+        "Study",
+        "Population",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Randomized phase II\n[verify: Ch. 66 cites Greinix 1998]",
+          "95 patients, steroid-refractory,\n-dependent or -intolerant",
+          "More skin CR/PR by week 12\n(p < 0.001)"
+        ],
+        [
+          "Same trial",
+          "Week 12",
+          "Steroid −50% plus skin score −25%\nmore often (p = 0.04)"
+        ],
+        [
+          "Systematic review\n(Abu-Dalle 2014)",
+          "Prospective studies",
+          "ORR skin 71%, GI 62%, liver 58%,\noral 63%, MSK 45%"
+        ],
+        [
+          "Meta-analysis\n(Del Fante 2016)",
+          "Lung involvement",
+          "Response in 48%"
+        ],
+        [
+          "Randomized\n(Jagasia 2017)",
+          "NIH moderate/severe,\nwith standard IS",
+          "ORR 74%; safe and well tolerated"
+        ]
+      ],
+      "colW": [
+        3.6,
+        3.4,
+        4.8
+      ],
+      "fontSize": 15,
+      "caption": "Earlier ECP in the disease course gave higher response rates (Malik 2014; Messina 2003)",
+      "cite": "Greinix H. EBMT Handbook 8th ed. 2024; Ch. 66",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "ECP 在 chronic GVHD 的經驗大多來自回溯性研究，皮膚的反應率可以到 80%，sclerodermatous 皮膚也會明顯改善。這張挑出前瞻性和整合性的資料。",
+          "第一列是 95 位 steroid-refractory、dependent 或 intolerant 病人的 randomized phase II。到第 12 週，ECP 組皮膚 CR 或 PR 明顯較多，p 小於 0.001；同時達到 steroid 減半和皮膚分數下降 25% 的比例也較高，p 是 0.04。書上把這個研究標成 Greinix 1998，但參考文獻裡符合描述的是 Flowers 2008，我標了待確認。",
+          "Abu-Dalle 2014 的 systematic review 整理前瞻性研究，ORR 皮膚 71%、GI 62%、肝 58%、口腔 63%、肌肉骨骼 45%；23% 的病人可以停掉免疫抑制，耐受性很好。另一篇 meta-analysis 顯示肺侵犯也有 48% 反應。",
+          "Jagasia 2017 是 NIH moderate 到 severe 病人合併標準免疫抑制的 randomized study，ORR 74%。最下面那行很重要，越早開始 ECP，反應率越高，不要拖到最後才用。",
+          "ECP 有反應的病人，生活品質和存活都有改善的報告。不過這些研究族群差異很大，書上也說需要更多前瞻性研究，在定義清楚、病程較早的病人身上評估。考試問 ECP 的效果，最常考的是皮膚反應最好、肌肉骨骼和肺較低但仍接近一半，以及省 steroid。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 66 attributes the 95-patient randomized phase II (week-12 skin response, p < 0.001; steroid −50% plus skin score −25%, p = 0.04) to 'Greinix et al. 1998'. The Ch. 66 reference list title that matches this trial is Flowers MED et al., Blood 2008;112:2667–74 (reference 10). Check which paper the data come from before naming it."
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "eyebrow": "ECP · In practice",
+      "title": "ECP schedules are empirical; tolerability is its main advantage",
+      "blocks": [
+        {
+          "head": "Schedule",
+          "body": "From several sessions a week to two sessions every 2 weeks; stretch to every 4–6 weeks once responding",
+          "extra": "No clear dose–response link"
+        },
+        {
+          "head": "Safety",
+          "body": "Transient hypotension, mild anaemia or thrombocytopenia; no documented drug interactions",
+          "extra": "Steroid-sparing in many studies"
+        },
+        {
+          "head": "With ruxolitinib",
+          "body": "23 heavily pretreated SR-cGVHD patients; ruxolitinib 5–10 mg bid plus ECP: best ORR 74% (Maas-Bauer 2021)",
+          "extra": "CR 9%, PR 65%; 2-y OS 75%"
+        }
+      ],
+      "cite": "Greinix H. EBMT Handbook 8th ed. 2024; Ch. 66",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "ECP 在 chronic GVHD 的排程沒有標準，從每週好幾次，到每兩週連續兩天各一次都有；有反應之後，可以把間隔拉長到 4 到 6 週。目前沒有看到劑量強度和反應之間有明確關係。",
+          "它最大的優點是安全。副作用主要是治療中暫時性低血壓，以及輕微的貧血或血小板低下；不會跟其他藥物交互作用，也不增加病毒再活化的疑慮，對已經有反覆 CMV 的病人很有吸引力。",
+          "右邊是和 ruxolitinib 合併的經驗。Maas-Bauer 2021 收了 23 位重度預治療的 steroid-refractory 病人，九成以上已經超過 second-line。單用 ECP 時最佳反應只有 43% PR，單用 ruxolitinib 是 62.5% PR；兩者合併，ruxolitinib 5 到 10 mg 一天兩次加 ECP，最佳 ORR 74%，CR 9%、PR 65%，兩年 OS 75%。",
+          "書上的結論是，排程因為缺乏證據無法給一般性建議，但一旦確定適應症，應該越早開始越好；有反應後再逐步拉長間隔。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: which skin finding is diagnostic?",
+      "stem": "A 48-year-old woman is 9 months after a PBSC allo-HCT from an unrelated donor for AML. She is tapering cyclosporine. She has new skin changes and no other organ symptoms. Which single skin finding is sufficient to diagnose chronic GVHD without a biopsy?",
+      "options": [
+        "Patchy depigmentation of the trunk",
+        "Morphea-like sclerotic plaques",
+        "Ichthyosis of both lower legs",
+        "Keratosis pilaris-like papules",
+        "Pruritic maculopapular erythema"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: morphea-like sclerosis is an NIH diagnostic sign",
+      "explanation": "Diagnostic skin signs (no biopsy needed): poikiloderma, lichen planus-like, lichen sclerosus-like, morphea-like and deep sclerotic features. Depigmentation, ichthyosis and keratosis pilaris are distinctive: they need histology unless a diagnostic sign is present elsewhere. Erythema, maculopapular rash and pruritus may overlap with acute GVHD.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題考診斷。48 歲女性，AML，unrelated donor PBSC 移植後 9 個月，正在減 cyclosporine，皮膚出現新的變化，其他器官沒有症狀。",
+          "問哪一個皮膚表現單獨存在，就足以診斷 chronic GVHD，不需要切片。五個選項都是移植後皮膚常見的變化，請想一下前面那張 diagnostic 和 distinctive 的表。",
+          "選項 A 是軀幹的片狀 depigmentation，B 是 morphea-like 硬化斑塊，C 是雙小腿 ichthyosis，D 是 keratosis pilaris 樣丘疹，E 是會癢的 maculopapular 紅斑。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B，morphea-like 的硬化斑塊。NIH 的皮膚 diagnostic sign 有五種，poikiloderma、lichen planus-like、lichen sclerosus-like、morphea-like 和 deep sclerotic，只要出現一個就能診斷。",
+          "A、C、D 都是 distinctive 的表現，depigmentation、ichthyosis 和 keratosis pilaris 單獨出現不夠，需要病理確認，除非其他器官已經有 diagnostic sign。E 最容易選錯，紅斑、maculopapular rash 和癢可以跟 acute GVHD 重疊，不能拿來診斷 chronic。這也是為什麼皮膚表現模糊時，要去口腔、眼睛和關節找找看有沒有其他 diagnostic sign。",
+          "臨床上遇到只有 distinctive 表現的病人，先切片，再決定要不要開始全身治療。如果是 morphea-like 這類 diagnostic sign，下一步就是評估其他器官、算 global severity，再決定治療強度。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: grade severity and choose first-line therapy",
+      "stem": "A 55-year-old man is 14 months after allo-HCT. He has lichen planus-like oral lesions (mild) and new dyspnoea. PFT shows new obstruction scored as moderate lung involvement; CT and BAL show no infection. No other organ is involved. What is his NIH global severity and the most appropriate initial therapy?",
+      "options": [
+        "Mild; topical steroids alone",
+        "Moderate; prednisone 0.5 mg/kg/day alone",
+        "Severe; prednisone 1 mg/kg/day plus MMF",
+        "Severe; prednisone 1 mg/kg/day, considering an added CNI",
+        "Moderate; methylprednisolone 2 mg/kg/day"
+      ],
+      "answer": "D",
+      "answerTitle": "Answer D: moderate lung involvement makes cGVHD severe",
+      "explanation": "Only two organs are involved, but lung of moderate or severe score defines severe global cGVHD. Moderate or severe cGVHD is treated with prednisone 1 mg/kg/day, and adding CSA or TAC is particularly worth considering when severe. MMF added to CNI/steroids is grade D: no added efficacy and more relapse. 2 mg/kg is the acute GVHD dose.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題結合分級和治療。55 歲男性，移植後 14 個月，口腔有 mild 的 lichen planus-like 病灶，加上新的喘。PFT 顯示新的阻塞，評為 moderate 的肺侵犯，CT 和 BAL 都排除感染，其他器官沒有問題。",
+          "問他的 NIH global severity，以及最適合的起始治療。選項同時給了嚴重度和藥物，兩個都要對。",
+          "A 是 mild 加局部 steroid，B 是 moderate 加低劑量 prednisone，C 是 severe 加 prednisone 和 MMF，D 是 severe 加 prednisone 並考慮 CNI，E 是 moderate 加高劑量 methylprednisolone。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 D。雖然只有兩個器官，但肺到 moderate，global severity 就是 severe，這是前面那張表最重要的捷徑。Severe 的病人用 prednisone 每公斤 1 mg，而且書上說 severe 特別值得加 CNI。這裡的 1 mg/kg 是 chronic GVHD 的標準起始劑量。",
+          "C 是最主要的陷阱。MMF 加在 CNI 和 steroid 上面是 grade D，沒有增加療效，還增加惡性疾病復發。E 的 2 mg/kg 是 acute GVHD 的劑量；A 和 B 則低估了肺的分量。",
+          "肺侵犯本身也是死亡的危險因子，這位病人要定期追 PFT。如果 4 週內惡化，或 8 到 12 週沒有改善，就要進入 second-line。如果病人只有口腔病灶、沒有肺，那就是 mild，局部治療就夠了。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: pick the correct statement about ECP",
+      "stem": "A 38-year-old woman has steroid-dependent chronic GVHD with sclerotic skin 18 months after allo-HCT. She has had two CMV reactivations and takes several interacting drugs. The team considers extracorporeal photopheresis (ECP). Which statement about ECP is correct according to the EBMT Handbook?",
+      "options": [
+        "8-MOP is given orally to the patient before each session",
+        "Response clearly rises with a higher number of sessions",
+        "ECP raises the risk of viral reactivation like other IS agents",
+        "ECP has no reported activity in lung involvement",
+        "ECP is steroid-sparing and has no documented drug interactions"
+      ],
+      "answer": "E",
+      "answerTitle": "Answer E: ECP spares steroids without drug interactions",
+      "explanation": "ECP has a confirmed corticosteroid-sparing effect, no documented interactions and no added concern for viral reactivation; side effects are transient hypotension and mild cytopenias. 8-MOP is added ex vivo to the buffy coat. No clear dose–response link has been shown. A meta-analysis reported 48% responses in lung involvement.",
+      "cite": "Greinix H. EBMT Handbook 8th ed. 2024; Ch. 66",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "最後一題是 ECP。38 歲女性，移植後 18 個月，steroid-dependent 的 chronic GVHD，皮膚有硬化。她已經有兩次 CMV 再活化，又吃了好幾種會互相作用的藥，團隊考慮 ECP。",
+          "問哪一個關於 ECP 的敘述正確。選項涵蓋操作方式、排程、安全性和肺的效果。",
+          "A 講 8-MOP 的給法，B 講排程次數和反應，C 講病毒再活化，D 講肺侵犯，E 講省 steroid 和交互作用。這題可以用刪去法，一個一個對照前面兩張 ECP 的投影片。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 E。ECP 的省 steroid 效果在很多前瞻和回溯研究都得到確認，也沒有已知的藥物交互作用，對這位病人特別合適。",
+          "C 最容易被選，因為大家直覺認為所有免疫治療都會增加感染。書上明確說 ECP 沒有增加病毒再活化的疑慮，副作用只有暫時性低血壓和輕微血球低下。A 錯在 8-MOP 是在體外加進 buffy coat；B 錯在目前沒有看到劑量和反應的明確關係；D 錯在 meta-analysis 顯示肺侵犯有 48% 反應。",
+          "有反覆病毒感染、又有多重用藥的病人，正是 ECP 最能發揮優勢的族群。排程方面，有反應之後可以把間隔拉長到 4 到 6 週。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "backup": true,
+      "eyebrow": "cGVHD · Lung",
+      "title": "Lung cGVHD is obstructive, restrictive or mixed",
+      "root": "Lung cGVHD: serial PFT even without symptoms",
+      "branches": [
+        {
+          "label": "Obstructive",
+          "box": "Bronchiolitis obliterans syndrome",
+          "out": "Progressive and irreversible"
+        },
+        {
+          "label": "Restrictive",
+          "box": "BOOP",
+          "out": "May progress to NSIP-pattern fibrosis"
+        },
+        {
+          "label": "Mixed picture",
+          "box": "Muscle loss, chest-wall sclerosis",
+          "out": "Or poor chest growth after TBI"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "script": [
+          "肺的 chronic GVHD 以阻塞性的 BOS 為主，進展且不可逆；少數是限制性的 BOOP，可能進展成 NSIP pattern 的纖維化。Steroid 造成的肌肉萎縮、胸壁皮膚硬化，以及 TBI 後胸廓發育不良，會讓限制性的成分混進來。小孩從 4 到 6 歲開始做 body plethysmography，8 到 10 歲開始測 diffusion capacity。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "ECP · Acute GVHD",
+      "title": "ECP is also active in steroid-refractory aGVHD",
+      "head": [
+        "Study",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Systematic review, 6 studies, 103 patients\n(Abu-Dalle 2014)",
+          "ORR 69%; skin 84%, liver 55%, GI 65%"
+        ],
+        [
+          "ECP vs anticytokine therapy\n(Jagasia 2013)",
+          "ORR 66% vs 32%; CR 54% vs 20%;\nlower NRM in grade II"
+        ],
+        [
+          "Intensified schedule\n(Greinix 2006)",
+          "2–3 sessions/week improved GI\nand grade IV responses"
+        ],
+        [
+          "Ruxolitinib + ECP, 18 patients\n(Modemann 2020)",
+          "Best ORR 55% (CR 44%); steroids\n< 20 mg by day 21"
+        ]
+      ],
+      "colW": [
+        5.2,
+        6.2
+      ],
+      "fontSize": 17,
+      "cite": "Greinix H. EBMT Handbook 8th ed. 2024; Ch. 66",
+      "notes": {
+        "script": [
+          "這張是 ECP 在 steroid-refractory acute GVHD 的資料。和 anticytokine 治療相比，ORR 66% 比 32%，CR 54% 比 20%，grade II 的 NRM 也比較低；加強排程對 GI 和 grade IV 反應更好。Ruxolitinib 加 ECP 可以讓 steroid 在 21 天內降到每天 20 mg 以下。"
+        ]
+      }
+    },
+    {
+      "type": "columns",
+      "backup": true,
+      "eyebrow": "cGVHD · Children",
+      "title": "Children differ in incidence, presentation and priorities",
+      "cols": [
+        {
+          "head": "Incidence",
+          "items": [
+            "Incidence 6–40%",
+            "De novo cGVHD rare < 12 y",
+            "Up to 50% nonmalignant",
+            "No GVL benefit if nonmalignant"
+          ]
+        },
+        {
+          "head": "Presentation",
+          "items": [
+            "Photophobia, eye rubbing",
+            "Drinking a lot while eating",
+            "Premature graying of hair",
+            "Myositis, cramps, oedema"
+          ]
+        },
+        {
+          "head": "Management",
+          "items": [
+            "First-line CR ~50%",
+            "Spare steroids: growth, bone",
+            "PFT from age 4–6 years",
+            "Pentostatin: best in children"
+          ]
+        }
+      ],
+      "notes": {
+        "script": [
+          "小孩的 chronic GVHD 發生率較低，12 歲以下很少 de novo 發生，而且多達一半是非惡性疾病，GVHD 對他們只有壞處。表現上常是怕光、吃飯一直喝水；first-line CR 大約 50%，比成人好，但長期 steroid 對生長和骨骼的傷害更大。"
+        ]
+      }
+    }
+  ],
+  "refsPerSlide": 10
+}

@@ -1,0 +1,946 @@
+{
+  "id": "s04",
+  "slug": "collection-engraftment-transfusion",
+  "week": 4,
+  "title": "Mobilisation, engraftment, chimerism, graft failure and transfusion",
+  "subtitle": "Week 4 · Ch. 16, 21, 41, 24 (with Ch. 15, 20)",
+  "cite": "EBMT Handbook 8th ed. 2024; Ch. 16, 21, 41, 24",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第四週談幹細胞從採集到移植後的整段過程，包括 mobilisation、engraftment、chimerism、graft failure 和 transfusion，對應 EBMT Handbook 第 16、21、41 和 24 章。第 15 章的 bone marrow harvest 和第 20 章的 cryopreservation 只挑考試會用到的部分。這一週幾乎都是數字和切點，考題也最常直接考這些。最後一樣用三題 board-style 題目收尾。"
+    ]
+  },
+  "refsPerSlide": 8,
+  "references": [
+    "1. Worel N, Bilgin YM, Wuchter P. Mobilization and collection of HSC. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 151–157. doi:10.1007/978-3-031-44080-9_16",
+    "2. Bader P, Kreyenberg H, Bacigalupo A. Documentation of engraftment and chimerism after HCT. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 183–188. doi:10.1007/978-3-031-44080-9_21",
+    "3. Valcárcel D, Sánchez-Ortega I, Sureda A. Graft failure. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 365–372. doi:10.1007/978-3-031-44080-9_41",
+    "4. Schrezenmeier H, Körper S, Höchsmann B, Weinstock C. Transfusion support. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 203–210. doi:10.1007/978-3-031-44080-9_24",
+    "5. Gorin NC, Carreras E, Fernández-Sojo J, Villa J. Bone marrow harvesting for HCT. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 143–149. doi:10.1007/978-3-031-44080-9_15",
+    "6. Wuchter P. Processing, cryopreserving, and controlling the quality of HSC. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 179–182. doi:10.1007/978-3-031-44080-9_20",
+    "7. Mohty M, Hubel K, Kroger N, et al. Autologous haematopoietic stem cell mobilisation in multiple myeloma and lymphoma patients: a position statement from the European group for blood and marrow transplantation. Bone Marrow Transplant. 2014;49:865–72.",
+    "8. Mohty M, Bilger K, Jourdan E, et al. Higher doses of CD34+ peripheral blood stem cells are associated with increased mortality from chronic graft-versus-host disease after allogeneic HLA-identical sibling transplantation. Leukemia. 2003;17:869–75.",
+    "9. Fitzhugh CD, Abraham A, Hsieh MM. Alternative donor/unrelated donor transplants for the β-thalassemia and sickle cell disease. Adv Exp Med Biol. 2017;1013:123–53.",
+    "10. Kharfan-Dabaja MA, Kumar A, Ayala E, Aljurf M, Nishihori T, Marsh R, et al. Standardizing definitions of hematopoietic recovery, graft rejection, graft failure, poor graft function, and donor Chimerism in allogeneic hematopoietic cell transplantation: a report on behalf of the American Society for Transplantation and Cellular Therapy. Transplant Cell Therapy. 2021;27(8):642–9. https://doi.org/10.1016/j.jtct.2021.04.007.",
+    "11. Olsson RF, Logan BR, Chaudhury S, et al. Primary graft failure after myeloablative allogeneic hematopoietic cell transplantation for hematologic malignancies. Leukemia. 2015;29:1754–62.",
+    "12. Ciurea SO, Cao K, Fernadez-Vina M, et al. The European Society for Blood and Marrow Transplantation (EBMT) consensus guidelines for the detection and treatment of donor-specific anti-HLA antibodies (DSA) in haploidentical hematopoietic cell transplantation. Bone Marrow Transplant. 2018;53:521–34.",
+    "13. Tay J, Allan DS, Chatelain E, Coyle D, Elemary M, Fulford A, Petrcich W, Ramsay T, Walker I, Xenocostas A, Tinmouth A, Fergusson D. Liberal versus restrictive red Blood cell transfusion thresholds in hematopoietic cell transplantation: a randomized, open label, phase III, noninferiority trial. J Clin Oncol. 2020;38:1463–73.",
+    "14. Slichter SJ, Kaufman RM, Assmann SF, et al. Dose of prophylactic platelet transfusions and prevention of hemorrhage. N Engl J Med. 2010;362:600–13.",
+    "15. Nagler A, Labopin M, Swoboda R, et al. Long-term outcome of second allogeneic hematopoietic stem cell transplantation (HCT2) for primary graft failure in patients with acute leukemia in remission: a study on behalf of the acute leukemia working Party of the European Society for Blood And Marrow Transplantation. Bone Marrow Transplant. 2023;58:1008. https://doi.org/10.1038/s41409-023-02012-5."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Week 4 · Outline",
+      "title": "From the apheresis bag to the blood bank",
+      "cite": "EBMT Handbook 8th ed. 2024; Ch. 15, 16, 20, 21, 24, 41",
+      "rows": [
+        [
+          "Mobilisation and collection",
+          "G-CSF with or without chemotherapy, CD34+ targets, plerixafor, poor mobilisers",
+          "6.5 min"
+        ],
+        [
+          "Engraftment and chimerism",
+          "Recovery definitions, chimerism categories, mixed chimerism by disease",
+          "3.5 min"
+        ],
+        [
+          "Graft failure",
+          "Primary, secondary, poor graft function; risk factors, DSA, salvage",
+          "6.5 min"
+        ],
+        [
+          "Transfusion support and board questions",
+          "Irradiation, thresholds, ABO-mismatched HCT, 3 MCQs",
+          "10.75 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段，順序跟幹細胞走的路一樣。第一段是 mobilisation 和 collection，包括 G-CSF 單用或合併化療、CD34 的收集目標、什麼時候加 plerixafor，大約六分半。",
+          "第二段很短，只講 engraftment 的定義和 chimerism 的分類，以及 mixed chimerism 在良性和惡性疾病代表的意義完全不同。第三段是 graft failure，定義、risk factor、donor-specific antibody，到後續怎麼救。",
+          "最後一段是輸血，irradiation、輸血門檻，以及 ABO 不合的移植要怎麼處理 graft、輸什麼血型。接著三題練習，分別對應 mobilisation、graft failure 和 ABO。",
+          "Bone marrow harvest 和 cryopreservation 的細節放在 backup，有人問到再叫出來。建議把 CD34 門檻、chimerism 百分比、graft failure 天數和輸血 threshold 整理成同一張表，考前複習最省時間。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Mobilisation and collection",
+      "eyebrow": "Mobilisation · Strategies",
+      "title": "Steady-state G-CSF is simpler; chemo-mobilisation yields more CD34+",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "head": [
+        "",
+        "Steady state (G-CSF only)",
+        "Chemotherapy + G-CSF"
+      ],
+      "rows": [
+        [
+          "G-CSF dose",
+          "Filgrastim 10 µg/kg/d × 5–7 d\nLenograstim 10 µg/kg/d × 4–6 d",
+          "Filgrastim 5 (to 10) µg/kg/d\nLenograstim 150 (to 300) µg/m²"
+        ],
+        [
+          "Timing",
+          "Apheresis day 5; CD34+ check day 4–5",
+          "G-CSF 1–5 d post-chemo\nCD34+ checks from WBC ~1000/µL"
+        ],
+        [
+          "Typical regimen",
+          "—",
+          "CY 2 g/m² (4 g/m² adds toxicity)"
+        ],
+        [
+          "Advantages",
+          "Outpatient, predictable, cheaper, less toxic",
+          "Tumour control; higher yield, fewer aphereses"
+        ],
+        [
+          "Disadvantages",
+          "Variable failure rate, lower CD34+ yield",
+          "Toxicity, admission, marrow damage, cost"
+        ],
+        [
+          "Best suited to",
+          "Myeloma; stable remission",
+          "Need for further tumour reduction"
+        ]
+      ],
+      "colW": [
+        2.2,
+        4.2,
+        4.6
+      ],
+      "fontSize": 16,
+      "caption": "Relapse rates are comparable between strategies. Apheresis starts when PB CD34+ > 20/µL",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Mobilisation 有兩條路。左邊是 steady state，只打 G-CSF。核准劑量是 filgrastim 每天 10 µg/kg 皮下注射五到七天，或 lenograstim 10 µg/kg 四到六天。不管用哪一種，apheresis 通常在第 5 天開始，第 4 到 5 天就要測周邊血 CD34。如果量不夠，可以多打一到兩天，但第三次 apheresis 還收不到目標，大概就不會成功了。Biosimilar G-CSF 的效果相同。",
+          "右邊是化療加 G-CSF。最常用的是 cyclophosphamide 2 g/m²；用到 4 g/m² 毒性增加，在 myeloma 收集效果也沒有比較好。也可以直接搭配疾病本身的化療，例如 lymphoma 的 salvage regimen。這時 G-CSF 的核准劑量比較低，filgrastim 5 µg/kg，實務上常拉到 5 到 10；化療結束後一到五天內開始打，最晚在白血球 nadir 時開始。白血球回升到大約 1000/µL 時，就開始每天追 CD34。",
+          "優缺點很直觀。Steady state 可以門診做、時間好預測、便宜、毒性低，代價是失敗率變動大、收得比較少。化療加 G-CSF 收得多、apheresis 次數少，還順便壓腫瘤，但要住院、有毒性，也傷骨髓，影響以後再收。兩種策略的 relapse rate 差不多。",
+          "選擇的原則是看病人還需不需要化療。Myeloma 或穩定緩解的病人用 steady state；還需要降腫瘤量的，例如 lymphoma，就用化療一起 mobilise。下面那行的 20/µL 是開始 apheresis 的門檻，下一張會用到。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Mobilisation · Cell dose",
+      "title": "Collect at least 2 × 10⁶ CD34+/kg for an autograft and 4 × 10⁶ for allo",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16 · Gorin NC, et al. Ch. 15",
+      "head": [
+        "CD34+ cells/kg recipient",
+        "Autologous",
+        "Allogeneic"
+      ],
+      "rows": [
+        [
+          "Minimum per transplant",
+          "2 × 10⁶",
+          "4 × 10⁶"
+        ],
+        [
+          "Optimal per transplant",
+          "2.5–5 × 10⁶",
+          "5–8 × 10⁶ (more if processing planned)"
+        ],
+        [
+          "Tandem or repeat autografts",
+          "≥ 2 × 10⁶ each, all collected before first HDT",
+          "—"
+        ],
+        [
+          "Upper limit",
+          "—",
+          "> 8.3 × 10⁶: extensive cGVHD 62% vs 34% at 4 y"
+        ],
+        [
+          "Bone marrow graft (TNC/kg)",
+          "—",
+          "Aim > 3 × 10⁸; harvest ≤ 20 mL/kg donor"
+        ]
+      ],
+      "colW": [
+        3.4,
+        3.8,
+        4.4
+      ],
+      "fontSize": 17,
+      "caption": "Ch. 41 (Table 41.2) sets autologous PB at minimum > 1 × 10⁶, optimum > 2 × 10⁶ CD34+/kg",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張的兩個數字一定要背。Autologous 每次移植最少 2 × 10⁶ CD34+/kg，allogeneic 最少 4 × 10⁶。CD34 是目前唯一被認可、能預測穩定 engraftment 的 graft 品質指標。Auto 收到 2.5 到 5 × 10⁶ 比較理想，血球恢復快、住院短、輸血和抗生素都比較少。",
+          "Myeloma 常需要 tandem 移植，每一次都要 2 × 10⁶，而且必須在第一次 high-dose therapy 之前一次收齊，因為 high-dose 之後再 mobilise，失敗率高很多。",
+          "CD34 劑量也決定 engraftment 的速度。Auto-HCT 之後 neutrophil 和 platelet 恢復的快慢，跟輸入的 CD34+/kg 直接相關，所以收集時寧可在不增加 apheresis 次數的前提下多收一些。",
+          "Allo 這邊，如果之後要做 T-cell depletion 或 cryopreservation，要收到 8 × 10⁶ 甚至更多。但上限也要注意，HLA-identical sibling 的研究顯示 CD34 超過 8.3 × 10⁶/kg，四年 extensive cGVHD 是 62%，低於這個量是 34%。",
+          "Bone marrow graft 看的是 TNC，目標大於 3 × 10⁸/kg，抽的總量不超過 donor 體重每公斤 20 mL。下面的 caption 提醒，第 41 章的表把 auto PB 最低值寫成 1 × 10⁶，考題通常以 2 × 10⁶ 為準。"
+        ],
+        "reminders": [
+          "Ch. 16 and Ch. 20 give 2 × 10⁶/kg as the autologous minimum; Ch. 41 Table 41.2 gives > 1 × 10⁶ minimum and > 2 × 10⁶ optimum. Present 2 × 10⁶ as the working number."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Mobilisation · Plerixafor",
+      "title": "The peripheral CD34+ count decides when to add plerixafor",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "root": "PB CD34+ on G-CSF day 4–5 or in chemo recovery",
+      "branches": [
+        {
+          "label": "> 20/µL",
+          "box": "Start apheresis",
+          "out": "Day 1 < 1/3 of goal: rescue plerixafor"
+        },
+        {
+          "label": "10–20/µL",
+          "box": "Grey zone",
+          "out": "Decide by disease and prior therapy"
+        },
+        {
+          "label": "< 10/µL",
+          "box": "Add plerixafor",
+          "out": "0.24 mg/kg SC (20 mg if ≤ 83 kg)"
+        }
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Plerixafor 是 CXCR4 antagonist，阻斷 CXCR4 和 SDF-1 的結合，把幹細胞放到周邊血。決定要不要加，看的是周邊血 CD34。",
+          "超過 20/µL 就開始 apheresis。但如果第一次 apheresis 收不到目標的三分之一，失敗風險很高，要用 plerixafor 當 rescue。10 到 20 之間是灰色地帶，依疾病和之前的治療來決定。低於 10/µL 就明確要加，劑量 0.24 mg/kg 皮下，83 公斤以下的成人也可以直接給 20 mg。",
+          "這三個數字，20、10 和三分之一，是這張圖的重點。考題常給第 5 天的 CD34 數值，問下一步，只要把數字放進這棵樹就能作答。實務上要每天抽周邊血測 CD34，才能抓到 peak 和正確的 apheresis 時機。",
+          "化療 mobilisation 的病人時間比較長。如果第 12 到 14 天 CD34 仍低於 10/µL，而白血球正在上升，也建議加 plerixafor。",
+          "加了 plerixafor 之後，apheresis 時間短、處理的血量少、第一次就收得多，總成本反而下降。第一次失敗後用 plerixafor 再 mobilise 也可能有效。Allogeneic donor 沒有核准，但個案報告加上去 CD34 大約增加三倍。2023 年 EMA 也核准了第一個 plerixafor biosimilar。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Mobilisation · Poor mobilisers",
+      "title": "Poor mobilisers are predicted by age, prior therapy and low counts",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "head": [
+        "Predictive factor (Table 16.3)",
+        "What the chapter adds"
+      ],
+      "rows": [
+        [
+          "Age > 60 years",
+          "Age > 65 predicts failure even with plerixafor"
+        ],
+        [
+          "Refractory or advanced disease",
+          "—"
+        ],
+        [
+          "Many prior treatment lines",
+          "Marrow damage impairs later mobilisation"
+        ],
+        [
+          "Fludarabine, melphalan, lenalidomide, daratumumab",
+          "Daratumumab induction: plerixafor needed more often"
+        ],
+        [
+          "Low platelets before mobilisation",
+          "< 140 × 10⁹/L predicts failure with plerixafor"
+        ],
+        [
+          "Low CD34+ count before apheresis",
+          "The most robust single predictor"
+        ]
+      ],
+      "colW": [
+        5,
+        5.4
+      ],
+      "fontSize": 16,
+      "caption": "Proven poor mobiliser: < 2 × 10⁶ CD34+/kg collected or < 20 CD34+/µL; about 15% of patients",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Poor mobiliser 有明確定義。收集不到 2 × 10⁶ CD34+/kg，或周邊血 CD34 不到 20/µL，就屬於 poor mobiliser，大約占 auto 病人的 15%。分成兩群，一群是事前就能預測的 predicted poor mobiliser，另一群是實際收過才證實的 proven poor mobiliser。",
+          "左欄是 Table 16.3 的預測因子。年紀大於 60、疾病 refractory 或晚期、之前治療線數多、用過 fludarabine、melphalan、lenalidomide 或 daratumumab、mobilisation 前血小板低，以及 apheresis 前 CD34 低。最可靠的單一預測因子是 apheresis 前周邊血的 CD34。",
+          "右欄是書上補充的細節。即使加了 plerixafor，血小板低於 140 × 10⁹/L、年紀超過 65 歲、以前做過放射治療，仍然預測 mobilisation 失敗。現在 transplant-eligible 的 myeloma 幾乎都用 daratumumab 為基礎的 induction，這些病人需要 plerixafor 的比例明顯較高。",
+          "有一個以上 risk factor 的病人，書上建議考慮 preemptive plerixafor。用 G-CSF 單獨再試一次的成功率比較低。Healthy donor 的 mobilisation 失敗少見，大約 5 到 10%。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Engraftment and chimerism",
+      "eyebrow": "Engraftment · Definitions",
+      "title": "Engraftment and chimerism have fixed numeric definitions",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41 · Bader P, et al. Ch. 21",
+      "head": [
+        "Term",
+        "Definition"
+      ],
+      "rows": [
+        [
+          "Neutrophil recovery",
+          "First of 3 consecutive days with ANC ≥ 0.5 × 10⁹/L"
+        ],
+        [
+          "Platelet recovery",
+          "≥ 20 × 10⁹/L without transfusion for 7 consecutive days"
+        ],
+        [
+          "Complete donor chimerism",
+          "> 95% donor cells in myeloid and lymphoid compartments"
+        ],
+        [
+          "Mixed chimerism",
+          "5–95% donor cells"
+        ],
+        [
+          "Absent donor chimerism",
+          "< 5% donor cells"
+        ],
+        [
+          "Split chimerism",
+          "Different donor levels in myeloid vs lymphoid cells"
+        ]
+      ],
+      "colW": [
+        3.6,
+        7
+      ],
+      "fontSize": 17,
+      "caption": "Ch. 41: complete chimerism ≥ 95% (90–97.5% across centres); test T cells and granulocytes",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "上面兩行是 hematological recovery 的標準定義。Neutrophil recovery 是 ANC ≥ 0.5 × 10⁹/L 連續三天的第一天。Platelet recovery 是不輸血的情況下，血小板 ≥ 20 × 10⁹/L 連續七天。考題常把「三天」和「七天」對調，或把血小板的門檻寫成 50，要看清楚。",
+          "下面四行是 chimerism 的分類。Donor 細胞超過 95% 是 complete chimerism，5 到 95% 是 mixed，低於 5% 是 absent。Myeloid 和 lymphoid 兩邊程度不同，叫 split chimerism。第 41 章把 complete chimerism 寫成 ≥ 95%，各中心介於 90 到 97.5%，並建議盡量分開測 T cell 和 granulocyte。",
+          "為什麼要測 chimerism？Allo 移植後血球回來，不代表是 donor 的血球，尤其是 RIC 和 non-myeloablative conditioning，recipient 造血可能自己恢復。所以 engraftment 要靠 chimerism 確認是 donor 來源，第 41 章特別強調這一點。",
+          "Chimerism 是動態的，報告時要寫清楚是 increasing mixed donor 還是 increasing mixed recipient chimerism，避免誤會。方法上，fluorescent STR-PCR 加 capillary electrophoresis 仍是 gold standard，敏感度大約 1%。qPCR、digital PCR 和 NGS 更敏感，但大部分樣本都會測到一點 recipient 細胞，要放回臨床情境解讀。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Chimerism · Clinical meaning",
+      "title": "Mixed chimerism signals rejection risk or relapse risk, by disease",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21",
+      "head": [
+        "Setting",
+        "Finding",
+        "Response"
+      ],
+      "rows": [
+        [
+          "Thalassaemia",
+          "Recipient cells > 30%: likely rejection",
+          "DLI can convert MC; no general rule"
+        ],
+        [
+          "Sickle cell disease",
+          "≥ 20% donor myeloid cells reverse phenotype",
+          "Consider DLI if donor < 30%"
+        ],
+        [
+          "Nonmalignant, RIC",
+          "Early full donor NK and T cells aid engraftment",
+          "Weigh DLI against GVHD risk"
+        ],
+        [
+          "Malignant disease",
+          "MC in mononuclear cells predicts relapse",
+          "Withdraw IS or give DLI"
+        ],
+        [
+          "AML or MDS, no marker",
+          "MC in CD34+ cells anticipates relapse",
+          "Frequent serial tests plus MRD"
+        ]
+      ],
+      "colW": [
+        2.8,
+        4.6,
+        3.8
+      ],
+      "fontSize": 17,
+      "caption": "Whole-blood STR-PCR detects about 1% recipient cells, so it is not an MRD tool",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Mixed chimerism 的意義看疾病。良性疾病的目標是改善造血、矯正免疫或補足酵素，不一定要把 recipient 造血全部換掉，穩定的 mixed chimerism 常常就夠了。這些病人常用強度較低的 conditioning，MC 多，主要的失敗原因是 rejection。",
+          "Thalassaemia 是 Pesaro 團隊的資料，recipient 細胞增加到超過 30%，之後 rejection、回到輸血依賴的機會高很多，但也有長期高比例 MC 仍然不用輸血的病人。DLI 可以把 MC 轉成 complete chimerism，不過目前沒有通用建議。Sickle cell disease 的數字是 myeloid donor chimerism 20% 就足以逆轉 sickle 表現型；donor 若是 HbAS carrier，需要 30 到 40%。Donor 低於 30% 可以考慮 DLI。良性疾病給 DLI 時，GVHD 是要盡全力避免的代價。",
+          "惡性疾病則不同。Mononuclear cell 的 MC 會削弱 GvL，預示 relapse。這時的處理是減停 immunosuppression 或給 DLI，把 MC 轉成 complete chimerism，很多病人因此避免了 hematological relapse。",
+          "Whole-blood STR-PCR 只能測到約 1%，不能當 MRD。沒有疾病特異 marker 的 AML 或 MDS，可以測 CD34+ 細胞的 chimerism，提早看出 relapse。從 MC 出現到 relapse 的間隔常很短，所以要密集追蹤，並和 MRD 一起判讀。",
+          "這張的對比很適合出題。同樣是 30% 左右的 recipient 細胞，在 thalassaemia 代表可能 rejection，在 AML 代表可能 relapse，處理方向雖然都可能用到 DLI，但目的和可接受的 GVHD 風險完全不同。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Graft failure",
+      "eyebrow": "Graft failure · Definitions",
+      "title": "Graft failure, poor graft function and rejection are distinct",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": [
+        "Entity",
+        "Definition (Kharfan-Dabaja 2021)",
+        "Chimerism"
+      ],
+      "rows": [
+        [
+          "Primary GF",
+          "ANC < 0.5 × 10⁹/L by day +30 and pancytopenia\n(CBT: day +42)",
+          "Tested to confirm"
+        ],
+        [
+          "Secondary GF",
+          "Counts fall after full recovery; needs products or G-CSF",
+          "Tested to confirm"
+        ],
+        [
+          "Poor graft function",
+          "Transfusion or G-CSF dependence, no other cause",
+          "Donor at target level"
+        ],
+        [
+          "Graft rejection",
+          "GF from immune rejection of donor cells by host cells",
+          "—"
+        ]
+      ],
+      "colW": [
+        2.6,
+        5.8,
+        2.6
+      ],
+      "fontSize": 17,
+      "caption": "GF: < 3–5% after auto or matched allo-HCT, up to 10% after haplo or CBT; OS 20–30% at 3–5 y",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張是 ASTCT 2021 的標準化定義，第 41 章直接採用。Primary graft failure 是 day +30 時 ANC 仍低於 0.5 × 10⁹/L，合併 pancytopenia；cord blood 放寬到 day +42。Secondary graft failure 是已經達到 neutrophil 和 platelet recovery 之後，血球又掉下來，需要輸血或 growth factor。這兩者都要做 donor chimerism 來確認。",
+          "Poor graft function 最容易和 secondary GF 混淆。它也是輸血或 growth factor 依賴，但前提是 donor 的 myeloid 和 lymphoid chimerism 都在目標範圍，而且排除了 relapse、藥物和感染。所以分辨兩者，關鍵就是 chimerism。Graft rejection 則是 graft failure 的一種，原因是 host 細胞對 donor 細胞的免疫排斥。",
+          "為什麼要這麼嚴格分？因為處理完全不同。Poor graft function 的 donor 細胞還在，只是功能不夠，可以用 TPO agonist 或 CD34 boost 補強，不需要再做 conditioning。Secondary GF 和 rejection 是 donor 造血不見了，常常要走到二次移植。如果把 poor graft function 當成 GF 去做二次移植，就是過度治療。",
+          "下面是發生率。Auto 和 matched allo 低於 3 到 5%，haploidentical 和 cord blood 可到 10%。預後很差，多數死於感染或出血，診斷後 3 到 5 年的 OS 只有 20 到 30%。",
+          "臨床上看到 day +21 還沒有起來的病人，就要開始找原因、送 chimerism，不必等到 day +30 才動作。第三題就是這張的應用。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft failure · Risk factors",
+      "title": "Donor type, graft source and ABO mismatch raise the risk of graft failure",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": [
+        "Factor",
+        "Effect on graft failure"
+      ],
+      "rows": [
+        [
+          "Unrelated donor vs HLA-identical sibling",
+          "HR 1.38; HR 1.79 with ≥ 2 mismatches"
+        ],
+        [
+          "BM vs PB graft, unrelated donor",
+          "9% vs 3%; BM only factor after RIC (HR 2.3)"
+        ],
+        [
+          "Major ABO mismatch",
+          "Primary GF HR 1.24"
+        ],
+        [
+          "Cryopreserved graft",
+          "Primary GF HR 1.43"
+        ],
+        [
+          "Female donor to male recipient",
+          "Primary GF HR 1.28"
+        ],
+        [
+          "Splenomegaly",
+          "MPN HR 3.92; MDS HR 2.24"
+        ],
+        [
+          "Post-transplant G-CSF",
+          "Primary GF HR 0.36 (protective)"
+        ],
+        [
+          "Ex vivo TCD, RIC, nonmalignant disease",
+          "Higher risk"
+        ]
+      ],
+      "colW": [
+        5.2,
+        5.4
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Graft failure 的原因多半是多重的。Table 41.1 把 risk factor 分成三類。不容易改的有 HLA mismatch、良性疾病、晚期疾病、骨髓纖維化、donor 年紀和脾臟腫大；容易改的是 graft source、conditioning 和 T-cell depletion；移植期間的則是 CD34 劑量、病毒感染、GVHD 和藥物毒性。",
+          "表上是有數字的部分。Unrelated donor 相對於 sibling，HR 1.38，兩個以上 mismatch 升到 1.79。Unrelated donor 用 BM，GF 9% 對 PB 的 3%；RIC 時，BM 是唯一相關因素，HR 2.3。Major ABO mismatch、cryopreservation、female 給 male 都會增加 primary GF。脾臟腫大在 MPN 的 HR 接近 4。反過來，移植後用 G-CSF 是保護因子，HR 0.36。",
+          "HLA 方面要注意一個細節。用高解析度、10 到 12 個 locus 配對的研究，在 MAC 和 RIC 都沒有看到 0 個和 1 個 mismatch 之間的 GF 差異。Haploidentical 的 GF 大約 10%，比 matched 的 3 到 5% 高。",
+          "另外，Olsson 在 day +21 有一個預測分數，包括年紀、KPS、疾病、HLA、graft、conditioning 有沒有 TBI 和 GVHD prophylaxis。分數大於 6 的 PPV 只有 28 到 36%，小於 7 的 NPV 是 81%，比較適合用來排除。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft failure · Anti-HLA antibodies",
+      "title": "Screen for donor-specific anti-HLA antibodies before mismatched HCT",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": [
+        "Issue",
+        "EBMT advice (Ciurea 2018)"
+      ],
+      "rows": [
+        [
+          "Prevalence",
+          "Anti-HLA 10–40%; DSA 10–20%, higher with each pregnancy"
+        ],
+        [
+          "Test",
+          "Solid-phase assay; C4d or C1q assay if positive"
+        ],
+        [
+          "Positive threshold",
+          "MFI > 1000, especially > 5000 (not well validated)"
+        ],
+        [
+          "When to test",
+          "At donor selection and within the month before HCT"
+        ],
+        [
+          "Remove antibody",
+          "Plasmapheresis, 1–4 sessions, days −17 to −10"
+        ],
+        [
+          "Block or neutralise",
+          "Rituximab 375 mg/m²; donor-antigen platelets; IVIg"
+        ],
+        [
+          "Block complement",
+          "IVIg, eculizumab"
+        ]
+      ],
+      "colW": [
+        3.2,
+        7.4
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Donor-specific anti-HLA antibody，簡稱 DSA，在 haploidentical、cord blood 和 unrelated 移植都會增加 graft failure，甚至降低 OS。Anti-HLA 抗體的盛行率 10 到 40%，DSA 10 到 20%，女性較高，每懷孕一次就增加。",
+          "現在常用 solid-phase assay，只要病人血清，快又簡單；陽性時再做 C4d 或 C1q 這類 complement-binding assay，因為會結合補體的抗體最容易造成 GF。MFI 超過 1000，尤其超過 5000 算陽性，不過這個切點還沒有完整驗證。測的時機是選 donor 的時候，以及移植前一個月內再測一次。",
+          "另一種檢測是 cell-based 的 direct test，要 donor 活的淋巴球和病人血清，費時又複雜，特異性低，現在比較少用。Female 病人、懷孕多次、輸過很多血的病人，DSA 的機會最高，找 haploidentical donor 時，常見的情況就是母親或子女當 donor，病人又是經產婦，這時一定要先測。",
+          "能換 donor 的話，避開 DSA 陽性的 donor 最簡單。沒得選時就做 desensitisation，沒有標準方案，常見組合包括 plasmapheresis、rituximab 375 mg/m²、輸帶 donor 抗原的血小板或 buffy coat 來中和抗體，以及 IVIg。Eculizumab 和 IVIg 用來阻斷補體活化。"
+        ],
+        "reminders": [
+          "Ch. 41 writes 'Cq1'; the slide uses the standard name C1q. Ch. 41 says 'avoid donors if positive DSA' explicitly only for second transplants (Table 41.5); the spoken advice for first HCT is phrased as preference."
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Graft failure · Management",
+      "title": "Manage graft failure stepwise, from supportive care to a second HCT",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "steps": [
+        "Stop toxic drugs\nTreat infection\nTry G-CSF",
+        "Adjust IS to chimerism\nTrial a TPO agonist",
+        "DLI if chimerism falls\nCD34 boost if PGF",
+        "Second allo-HCT\nRIC, PB or BM\nNo DSA+ donor"
+      ],
+      "invert": 3,
+      "caption": "Prevention when risk is high: PB graft, low-dose TBI and/or ATG, post-transplant G-CSF, marrow chimerism on day +14",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "GF 一旦懷疑就要開始處理。最左邊是基本步驟，停掉能停的骨髓毒性藥物、治療感染，G-CSF 效果有限，但值得一試。",
+          "第二步是調整 immunosuppression。早期維持正確濃度；三到六個月後若有 mixed chimerism，尤其是 RIC，可以加快減量。Aplastic anaemia 反而常建議加強 IST。TPO agonist 的資料不多，但 eltrombopag 在 aplastic anaemia 的經驗和低毒性，支持在 DLI 或二次移植之前先試。",
+          "第三步分兩種情況。Donor chimerism 下降時考慮 DLI，但 GVHD 風險高。Poor graft function 則可以給 CD34 boost，大約在初步處置兩到三個月沒有改善時。MSC 也有安全性資料。",
+          "最後是二次 allo-HCT。Conditioning 一定要有，以 RIC 較好；PB 或 BM 優於 cord blood；同一個或不同 donor 結果相近，可考慮 haplo，但 DSA 陽性的 donor 一律避開。Acute leukaemia 的 primary GF 做二次移植，5 年 OS 約 30%。事先凍存 autologous 幹細胞備用，書上不建議。",
+          "Cord blood 有一個參考數字，day +14 骨髓 donor chimerism 低於 65% 時 GF 風險較高，但不能直接套用到其他移植。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Transfusion support",
+      "eyebrow": "Transfusion · Products and thresholds",
+      "title": "All cellular blood products for HCT are irradiated and leukocyte-reduced",
+      "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
+      "head": [
+        "Topic",
+        "Recommendation"
+      ],
+      "rows": [
+        [
+          "Leukocyte reduction",
+          "< 1 × 10⁶ leukocytes per unit (RBC, platelets, FFP)"
+        ],
+        [
+          "Irradiation dose",
+          "25–50 Gy to every part of the component"
+        ],
+        [
+          "Irradiation, auto-HCT",
+          "From ≥ 2 weeks before collection to ≥ 3 months after"
+        ],
+        [
+          "Irradiation, allo-HCT",
+          "From conditioning to ≥ 6 months or immune recovery"
+        ],
+        [
+          "RBC threshold",
+          "Hb 7–8 g/dL; 8 g/dL with cardiovascular disease"
+        ],
+        [
+          "Platelet threshold",
+          "≤ 10 × 10⁹/L; 20 × 10⁹/L if fever, bleeding, infection"
+        ],
+        [
+          "Granulocytes",
+          "Irradiated, CMV-negative donor; ≥ 0.6 × 10⁹/kg"
+        ]
+      ],
+      "colW": [
+        3.4,
+        7.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "移植病人的血品有兩個基本要求。第一個是 leukocyte reduction，每單位白血球少於 1 × 10⁶，減少 febrile non-haemolytic reaction、HLA alloimmunisation 和 CMV 傳播。另一個是所有 cellular product 都要照射，預防 transfusion-associated GVHD，這個併發症死亡率超過 90%。劑量是每個部位都在 25 到 50 Gy 之間。",
+          "照射多久沒有共識。標準做法是 auto 從收集前至少兩週到移植後至少三個月；allo 最晚從 conditioning 開始，到移植後至少六個月或免疫重建，有些中心終身照射。Donor 在採集前七天內輸過的血也要照射。CMV 方面，風險最高的是 CMV 陰性 recipient 加 CMV 陰性 donor，leukoreduced 或 CMV 陰性血品都能降低風險。",
+          "RBC 用 restrictive threshold，血紅素 7 到 8 g/dL，有心血管疾病用 8。移植專屬的 TRIST trial 收 300 人，比較 7 和 9 g/dL，生活品質和臨床結果都沒有差別。成人一單位大約升 1 g/dL。",
+          "有些 pathogen-reduction technology 也能讓淋巴球失去活性，這時不必再照射。CMV 方面要知道沒有國際共識，用 CMV 陰性血品要持續多久也沒有定論，各中心從 day 100 到終身都有。",
+          "血小板在沒出血、沒發燒時，≤ 10 × 10⁹/L 就預防性輸；發燒、出血、感染，或有 mucositis、hemorrhagic cystitis、aGVHD 時提高到 20。PLADO trial 顯示劑量高低不影響出血。Allo-HCT 仍以 prophylactic platelet transfusion 為標準。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "ABO-mismatched HCT · Graft",
+      "title": "The direction of ABO mismatch decides graft processing",
+      "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
+      "root": "40–50% of allo-HCTs are ABO-mismatched",
+      "branches": [
+        {
+          "label": "Major: anti-donor ≥ 32",
+          "box": "Remove red cells",
+          "out": "PRCA, delayed engraftment"
+        },
+        {
+          "label": "Minor: donor titre ≥ 256",
+          "box": "Remove plasma",
+          "out": "Delayed haemolysis (B cells)"
+        },
+        {
+          "label": "Bidirectional, high titre",
+          "box": "Remove red cells and plasma",
+          "out": "PRCA risk as in major"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "ABO 不合大約占 allo 移植的 40 到 50%，不影響能不能移植，但要處理 graft，也要預期併發症。",
+          "Major mismatch 是 recipient 有對抗 donor 紅血球的 isoagglutinin，例如 O 型病人接受 A 型 donor。Recipient anti-donor titre ≥ 32 時，PBSC graft 的紅血球要控制在 20 mL 以下，BM graft 一定要做 RBC depletion。Titre ≤ 16 時 PBSC 不用處理，BM 可做可不做。Major 的長期問題是 pure red cell aplasia、紅血球 engraftment 延遲和輸血量增加，O 型病人帶高 titre anti-A、接受 A 型 graft 的風險最高。Major mismatch 也和 primary GF 有關，HR 1.24。",
+          "Minor mismatch 方向相反，是 donor 血漿裡的抗體對抗 recipient 紅血球。Donor titre ≥ 1:256 時，PBSC 和 BM 都要做 plasma depletion；≤ 128 時 PBSC 不必處理。Minor 的特徵併發症是延遲性溶血，來源是 donor B lymphocyte 製造的 isoagglutinin 攻擊殘存的 recipient 紅血球，RIC 之後尤其常見。",
+          "PRCA 如果沒有自行緩解，而 anti-donor isoagglutinin 持續存在，可以用移除抗體、減少抗體製造或刺激紅血球生成的方法處理，書上沒有指定單一方案。延遲性溶血則要在移植後追蹤 haemoglobin、LDH 和 bilirubin，minor mismatch 的病人尤其如此。",
+          "Bidirectional 兩個方向都有，例如 A 給 B，titre 高時紅血球和血漿都要移除。這三種的方向和對應併發症，是 ABO 題最常考的地方。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "ABO-mismatched HCT · Blood bank",
+      "title": "Transfused red cells must suit both the donor and the recipient",
+      "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
+      "head": [
+        "Mismatch",
+        "Recipient → donor",
+        "RBC",
+        "Platelets, 1st",
+        "Plasma, 1st"
+      ],
+      "rows": [
+        [
+          "Major",
+          "O → A",
+          "O",
+          "A",
+          "A"
+        ],
+        [
+          "Major",
+          "A → AB",
+          "A, O",
+          "AB",
+          "AB"
+        ],
+        [
+          "Minor",
+          "A → O",
+          "O",
+          "A",
+          "A"
+        ],
+        [
+          "Minor",
+          "AB → A",
+          "A, O",
+          "AB",
+          "AB"
+        ],
+        [
+          "Bidirectional",
+          "A → B",
+          "O",
+          "AB",
+          "AB"
+        ]
+      ],
+      "colW": [
+        2.6,
+        2.8,
+        1.6,
+        2.2,
+        2.2
+      ],
+      "fontSize": 18,
+      "caption": "Phases II–III shown (Table 24.1). Phase I, before conditioning: recipient group for every product",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 Table 24.1 的節錄。原則是 RBC 一定要同時和 donor、recipient 相容；血小板和血漿也盡量兩邊都相容。原因是殘留的 isoagglutinin 會攻擊新長出來的前驅細胞和輸進去的血小板，而且病人的非造血組織和體液會一直保有原本的 ABO 抗原。",
+          "Phase I 是 conditioning 之前，所有血品都用 recipient 血型。Phase II 到完全 engraftment，phase III 是之後。以 O 型病人接受 A 型 graft 為例，RBC 一律 O，血小板和血漿第一選擇 A。A 型病人接受 O 型 graft，RBC 也是 O，血漿用 A。Bidirectional 的 A 給 B，RBC 用 O，血漿和血小板用 AB。",
+          "血小板常常拿不到理想血型，比較好的做法是用 plasma-reduced PC，懸浮在 additive solution 裡，只剩約 30% 血漿。RhD 方面，除非 donor 和 recipient 都是 RhD 陽性，否則 RBC 和 PC 都用 RhD 陰性；donor 陽性、recipient 陰性時，等 RhD 陽性紅血球出現後，血小板可以改用 RhD 陽性。K 抗原也一樣，兩邊都陽性才不用 K-negative RBC。"
+        ]
+      },
+      "captionY": 5.25
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: choose the next step in a poor mobiliser",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "stem": "A 58-year-old man with myeloma in VGPR after daratumumab-based induction starts mobilisation with filgrastim 10 µg/kg/day alone. On day 5, before apheresis, his blood CD34+ count is 8/µL. The goal is 4 × 10⁶ CD34+/kg for two autografts. What is the best next step?",
+      "options": [
+        "Start apheresis now and accept whatever is collected",
+        "Add plerixafor 0.24 mg/kg SC, then start apheresis",
+        "Continue filgrastim alone for 7 more days",
+        "Stop now and remobilise in a month with G-CSF alone",
+        "Abandon autologous HCT and search for an allogeneic donor"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: CD34+ below 10/µL on day 5 calls for plerixafor",
+      "explanation": "PB CD34+ < 10/µL on day 4–5 of G-CSF alone is a clear indication for plerixafor; daratumumab induction predicts poor mobilisation. Apheresis normally starts above 20/µL. G-CSF may be extended only 1–2 days, and a second G-CSF-only attempt is less effective.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。58 歲男性 myeloma，daratumumab 為基礎的 induction 後達到 VGPR。單用 filgrastim 10 µg/kg 做 mobilisation，第 5 天第一次 apheresis 前，周邊血 CD34 只有 8/µL。目標是兩次 autograft 共 4 × 10⁶/kg。",
+          "選項有直接收、加 plerixafor、再打七天 G-CSF、一個月後用 G-CSF 重來，或放棄 auto 改找 allo donor。",
+          "這題考的是 plerixafor 的使用時機，請先看 CD34 的數值落在哪一區，再想病人有沒有 predicted poor mobiliser 的因素。",
+          "注意題目給的是第 5 天、apheresis 之前的數值。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。G-CSF 單用第 4 到 5 天，CD34 低於 10/µL，書上說這是明確要加 plerixafor 的情況。這位病人還有 daratumumab induction，本來就是 predicted poor mobiliser，需要 plerixafor 的機會更高。劑量 0.24 mg/kg 皮下，加完再開始 apheresis。",
+          "A 不對，8/µL 遠低於開始 apheresis 的 20/µL，直接收很可能連一次移植的量都不夠，而他需要兩次的量，而且要在第一次 high-dose therapy 前收齊。C 的問題是 G-CSF 只能多打一到兩天。D 單用 G-CSF 再試一次成功率更低。E 太早放棄，plerixafor 救回來的機會很高。",
+          "這題也提醒，plerixafor 是讓 mobilisation 成功、減少 apheresis 次數的工具，越早在對的時間點加，總成本反而越低。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: name the cause of late cytopenia",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "stem": "A 50-year-old woman with AML received a matched unrelated PBSC graft. Neutrophils recovered on day +16 and platelets on day +24. At day +100 she needs platelets twice weekly and G-CSF. Marrow shows no leukaemia; CMV PCR negative; no myelotoxic drugs. Donor chimerism is 99% in T cells and granulocytes. Which is correct?",
+      "options": [
+        "Secondary graft failure; proceed to a second allo-HCT",
+        "Graft rejection; give donor lymphocyte infusion",
+        "Poor graft function; CD34 boost if initial measures fail",
+        "Mixed chimerism; taper immunosuppression rapidly",
+        "Primary graft failure; reinfuse cryopreserved autologous cells"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: full donor chimerism makes this poor graft function",
+      "explanation": "Transfusion or growth-factor dependence with donor chimerism at target and no relapse, drug or infection defines poor graft function. Secondary GF and rejection require loss of donor haematopoiesis. After initial measures (TPO agonist trial), a CD34 boost after about 2–3 months without improvement is supported.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。50 歲女性 AML，matched unrelated PBSC 移植。Neutrophil 在 day +16 恢復，血小板 day +24 恢復。到了 day +100，每週要輸兩次血小板，也需要 G-CSF。骨髓沒有 leukaemia，CMV PCR 陰性，沒有骨髓毒性藥物。T cell 和 granulocyte 的 donor chimerism 都是 99%。哪一個敘述正確？",
+          "選項分別是 secondary graft failure、graft rejection、poor graft function、mixed chimerism 和 primary graft failure，每個都附了一個處置。這題的關鍵是哪一個檢查結果最能區分這些診斷。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C，poor graft function。她曾經達到 neutrophil 和 platelet recovery，後來變成輸血和 G-CSF 依賴，但 donor chimerism 在 T cell 和 granulocyte 都是 99%，又排除了 relapse、藥物和感染，完全符合 poor graft function 的定義。",
+          "最常被選的是 A。Secondary GF 的前提是 chimerism 確認 donor 造血流失，這位病人沒有，所以不需要二次移植。B 的 rejection 是 host 細胞排斥 donor，chimerism 也會下降。D 的 chimerism 不是 mixed。E 的 primary GF 時間點不對，自體備份也不是書上建議的做法。",
+          "處理上先做初步措施，可以試 TPO agonist；兩到三個月沒有改善，就考慮 CD34 boost。",
+          "考試時看到移植後血球低，先問三件事，有沒有恢復過、chimerism 多少、有沒有其他原因。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: plan an ABO-mismatched transplant",
+      "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
+      "stem": "A 35-year-old group O man with ALL will receive a PBSC graft from his HLA-identical group A sister. His anti-A isoagglutinin titre is 1:128. Which statement about graft handling and transfusion support is correct?",
+      "options": [
+        "No graft manipulation is needed because the graft is PBSC",
+        "Plasma-deplete the graft to remove donor anti-recipient antibody",
+        "Keep graft red cells < 20 mL; give group O RBC after conditioning",
+        "Switch red cell transfusions to group A once conditioning starts",
+        "His main early risk is haemolysis from donor B lymphocytes"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: a high anti-donor titre requires red cell reduction",
+      "explanation": "Group O recipient and group A donor is a major mismatch. With an anti-donor titre ≥ 32, PBSC red cell content must stay < 20 mL (BM must be RBC-depleted). RBC must suit both, so group O; platelets and plasma group A first. O to A with high anti-A carries the highest PRCA risk. Donor B-cell haemolysis belongs to minor mismatch.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "最後一題。35 歲 O 型男性 ALL，donor 是 HLA-identical 的 A 型姊姊，用 PBSC。病人的 anti-A isoagglutinin titre 是 1:128。問關於 graft 處理和輸血支持，哪一個正確。",
+          "選項 A 說 PBSC 不用處理；B 說做 plasma depletion；C 說 graft 紅血球控制在 20 mL 以下，conditioning 後輸 O 型 RBC；D 說 conditioning 開始就改輸 A 型紅血球；E 說主要的早期風險是 donor B lymphocyte 造成的溶血。",
+          "先判斷是 major 還是 minor，再看 titre 有沒有超過門檻。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C。O 型病人接受 A 型 graft，病人的 anti-A 對著 donor 紅血球，是 major mismatch。Titre 1:128 超過 32，所以 PBSC 的紅血球要控制在 20 mL 以下。輸血方面，RBC 要兩邊都相容，只能用 O；血小板和血漿第一選擇是 A。",
+          "A 錯在 PBSC 只有在 titre ≤ 16 時才不用處理。B 和 E 都是 minor mismatch 的處理和併發症，方向反了。D 的 A 型紅血球會被病人殘存的 anti-A 破壞。",
+          "這位病人之後要注意的是 PRCA，O 型高 titre anti-A 接受 A 型 graft 正是風險最高的組合。",
+          "Phase I，也就是 conditioning 之前，所有血品都用 recipient 的 O 型。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Processing · Cryopreservation",
+      "title": "Cryopreserved autografts must meet fixed release criteria",
+      "cite": "Wuchter P. EBMT Handbook 8th ed. 2024; Ch. 20 · Gorin NC, et al. Ch. 15",
+      "head": [
+        "Step",
+        "Standard"
+      ],
+      "rows": [
+        [
+          "Storage before freezing",
+          "≤ 72 h at 2–6 °C; preferably freeze within 48 h"
+        ],
+        [
+          "Cell concentration",
+          "NC ≤ 4 × 10⁸/mL (≤ 2 × 10⁸/mL if held > 24 h)"
+        ],
+        [
+          "Cryoprotectant and rate",
+          "DMSO 5–10%; controlled cooling 1–2 °C/min"
+        ],
+        [
+          "Storage",
+          "Vapour-phase nitrogen ≤ −140 °C; viable up to 19 years"
+        ],
+        [
+          "Release criteria",
+          "CD34+ ≥ 2 × 10⁶/kg; NC viability > 70% after thaw"
+        ],
+        [
+          "Infusion",
+          "Within 20 min of thawing; no routine DMSO washing"
+        ],
+        [
+          "BM harvest (Ch. 15)",
+          "≤ 20 mL/kg donor; small aspirates to avoid dilution"
+        ]
+      ],
+      "colW": [
+        3.4,
+        7.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "這張是 cryopreservation 的數字。收集後最多放 72 小時，最好 48 小時內冷凍；DMSO 5 到 10%，每分鐘降 1 到 2 度，存在 −140 度以下。解凍後 20 分鐘內輸完，釋出標準包括 CD34 ≥ 2 × 10⁶/kg 和解凍後 viability 超過 70%。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Graft failure · Second HCT",
+      "title": "A second allo-HCT for graft failure needs RIC and immunosuppression",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": [
+        "Item",
+        "Recommendation (Table 41.5)"
+      ],
+      "rows": [
+        [
+          "Donor",
+          "Same or different donor alike; consider haplo; avoid DSA+"
+        ],
+        [
+          "Conditioning",
+          "Always required; RIC preferred"
+        ],
+        [
+          "Post-transplant IS",
+          "Required; CNI-based schemes most common"
+        ],
+        [
+          "Stem cell source",
+          "PB or BM, preferred to cord blood"
+        ],
+        [
+          "T-cell depletion",
+          "Avoid ex vivo TCD after immune rejection"
+        ]
+      ],
+      "colW": [
+        3.2,
+        7.4
+      ],
+      "fontSize": 18,
+      "caption": "Nagler 2023: 243 primary GF in acute leukaemia; engraftment 77.3%, OS 30.7% at 5 years",
+      "notes": {
+        "script": [
+          "二次移植的建議。Conditioning 一定要，RIC 較好；PB 或 BM 優於 cord blood；DSA 陽性的 donor 一律避開。免疫排斥造成的 GF 不要做 ex vivo T-cell depletion。EBMT 243 位 acute leukaemia primary GF 的資料，5 年 OS 約 31%。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "Transfusion · Platelet refractoriness",
+      "title": "Most platelet refractoriness has non-immune causes",
+      "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24 (Fig. 24.1)",
+      "fig": "ch24-fig1",
+      "alt": "Platelet refractoriness: non-immune causes over 80%, immune causes under 20%, mostly HLA class I antibodies",
+      "caption": "Refractory: CCI < 5000/µL 1 h after two fresh ABO-identical transfusions. No non-immune cause: screen HLA antibodies and give HLA-matched apheresis platelets; test HPA if still refractory.",
+      "notes": {
+        "script": [
+          "Platelet refractoriness 是兩次新鮮、ABO 相同的血小板輸注後 1 小時 CCI 都低於 5000/µL。八成以上是非免疫原因，例如發燒、感染、SOS、脾臟腫大和藥物。找不到非免疫原因時才篩 HLA 抗體，陽性就給 HLA-matched apheresis platelets。"
+        ]
+      }
+    }
+  ]
+}

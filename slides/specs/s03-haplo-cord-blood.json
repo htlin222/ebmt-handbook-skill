@@ -1,0 +1,1031 @@
+{
+  "id": "s03",
+  "slug": "haplo-cord-blood",
+  "week": 3,
+  "title": "Alternative donors: haploidentical and cord blood HCT",
+  "subtitle": "Week 3 · Ch. 65, 64, 18",
+  "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65 · Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，第三週談 alternative donor，就是沒有 matched sibling、也沒有 matched unrelated donor 時的選擇。核心是 Handbook 第 65 章 haplo 和第 64 章 cord blood，再加第 18 章挑 cord unit 的標準，最後三題考題。",
+      "兩章篇幅都不長，但數字密度很高，像 PTCy 的劑量和時程、cord unit 的 TNC 門檻，都是很好出題的地方。"
+    ]
+  },
+  "references": [
+    "1. Bacigalupo A, Lankester A, Ciceri F, Bertaina A. Haploidentical HCT. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 577–585. doi:10.1007/978-3-031-44080-9_65",
+    "2. Sanz J, Rocha V. Role of umbilical cord blood transplantation. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 571–576. doi:10.1007/978-3-031-44080-9_64",
+    "3. Querol S, Rocha V, Ruggeri A. Procurement and management of cord blood unit for allogeneic transplantation. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 165–170. doi:10.1007/978-3-031-44080-9_18",
+    "4. Aversa F, Tabilio A, Velardi A, et al. Treatment of high risk acute leukemia with T-cell-depleted stem cells from related donors with one fully mismatched HLA haplotype. N Engl J Med. 1998;339:1186–93.",
+    "5. Lu D-P, Dong L, Wu T, et al. Conditioning including antithymocyte globulin followed by unmanipulated HLA-mismatched/haploidentical blood and marrow transplantation can achieve comparable outcomes with HLA-identical sibling transplantation. Blood. 2006;107:3065–73.",
+    "6. Luznik L, O’Donnell PV, Symons HJ. HLA-haploidentical bone marrow transplantation for hematologic malignancies using nonmyeloablative conditioning and high-dose, posttransplantation cyclophosphamide. Biol Blood Marrow Transplant. 2008;14(6):641–50.",
+    "7. DeZern AE, Zahurak M, Symons H, et al. Alternative donor transplantation with high-dose post-transplantation cyclophosphamide for refractory severe aplastic anemia. Biol Blood Marrow Transplant. 2017;23(3):498–504.",
+    "8. DeZern AE, Zahurak ML, Symons HJ, et al. Haploidentical BMT for severe aplastic anemia with intensive GVHD prophylaxis including posttransplant cyclophosphamide. Blood Adv. 2020;4(8):1770–9. https://doi.org/10.1182/bloodadvances.2020001729. PMID: 32343796; PMCID: PMC7189283",
+    "9. Duléry R, Ménard AL, Chantepie S, et al. Sequential conditioning with thiotepa in T cell- replete hematopoietic stem cell transplantation for the treatment of refractory hematologic malignancies: comparison with matched related, haplo-mismatched, and unrelated donors. Biol Blood Marrow Transplant. 2018;24(5):1013–21.",
+    "10. Duléry R, Mohty R, Labopin M, et al. Early cardiac toxicity associated with post-transplant cyclophosphamide in allogeneic stem cell transplantation. JACC CardioOncol. 2021;3(2):250–9.",
+    "11. Sugita J, Kamimura T, Ishikawa T, et al. Reduced dose of posttransplant cyclophosphamide in HLA-haploidentical peripheral blood stem cell transplantation. Bone Marrow Transplant. 2021;56(3):596–604.",
+    "12. McAdams MJ, Hyder M, Dimitrova D, et al. Phase I/II study of reduced dosing of post-transplantation cyclophosphamide (PTCy) after HLA-haploidentical bone marrow transplantation. Blood. 2021;138:101.",
+    "13. Raiola AM, Dominietto A, Ghiso A, et al. Unmanipulated haploidentical bone marrow transplantation and posttransplantation cyclophosphamide for hematologic malignancies after myeloablative conditioning. Biol Blood Marrow Transplant. 2013;19(1):117–22.",
+    "14. Chiusolo P, Bug G, Olivieri A, et al. A modified post-transplant cyclophosphamide regimen, for unmanipulated haploidentical marrow transplantation, in acute myeloid leukemia: a multicenter study. Biol Blood Marrow Transplant. 2018;24:1243–9.",
+    "15. Ruggeri A, Labopin M, Battipaglia G, et al. Timing of post-transplantation cyclophosphamide administration in haploidentical transplantation: a comparative study on behalf of the acute leukemia working party of the European society for blood and marrow transplantation. Biol Blood Marrow Transplant. 2020;26(10):1915–22.",
+    "16. Ruggeri A, Sun Y, Labopin M, et al. Post-transplant cyclophosphamide versus anti-thymocyte globulin as graft- versus-host disease prophylaxis in haploidentical transplant. Haematologica. 2017;102:401–10.",
+    "17. Ruggeri A, Labopin M, Bacigalupo A, et al. Bone marrow versus mobilized peripheral blood stem cells in haploidentical transplants using posttransplantation cyclophosphamide. Cancer. 2018;124:1428–37.",
+    "18. Bashey A, Zhang MJ, McCurdy SR, et al. Mobilized peripheral blood stem cells versus unstimulated bone marrow as a graft source for T-cell–replete haploidentical donor transplantation using post-transplant cyclophosphamide. J Clin Oncol. 2017;35:3002–9.",
+    "19. Canaani J, Savani BN, Labopin M, et al. Donor age determines outcome in acute leukemia patients over 40 undergoing haploidentical hematopoietic cell transplantation. Am J Hematol. 2018;93:246–53.",
+    "20. Wang Y, Chang YJ, Xu LP, et al. Who is the best donor for a related HLA haplotype-mismatched transplant? Blood. 2014;124:843–50.",
+    "21. Solomon SR, Aubrey MT, Zhang X, et al. Selecting the best donor for haploidentical transplant: impact of HLA killer cell immunoglobulin like receptor genotyping. Biol Blood Marrow Transp. 2018;24:789–98.",
+    "22. Fuchs EJ, O’Donnell PV, Eapen M, et al. Double unrelated umbilical cord blood versus HLA-haploidentical bone marrow transplantation (BMT CTN 1101). Blood. 2020;137(3):420–8.",
+    "23. Sanz J, Montoro J, Solano C, et al. Prospective randomized study comparing myeloablative unrelated umbilical cord blood transplantation versus HLA-haploidentical related stem cell transplantation for adults with hematologic malignancies. Biol Blood Marrow Transplant. 2020;26(2):358–66.",
+    "24. Wagner JE, Eapen M, Carter S, et al. One-unit versus two-unit cord-blood transplantation for hematologic cancers. N Engl J Med. 2014;371(18):1685–94.",
+    "25. Michel G, Galambrun C, Sirvent A, et al. Single- vs double-unit cord blood transplantation for children and young adults with acute leukemia or myelodysplastic syndrome. Blood. 2016;127(26):3450–7.",
+    "26. Scaradavou A, Brunstein CG, Eapen M, et al. Double unit grafts successfully extend the application of umbilical cord blood transplantation in adults with acute leukemia. Blood. 2013;121(5):752–8.",
+    "27. Horwitz ME, Stiff PJ, Cutler CS, et al. Omidubicel versus standard myeloablative umbilical cord blood transplantation: results of a phase III randomized study. Blood. 2021;138(16):1429–40.",
+    "28. Cohen S, Roy J, Lachance S, et al. Hematopoietic stem cell transplantation using single UM171-expanded cord blood: a single-arm, phase 1–2 safety and feasibility study. Lancet Haematol. 2020;7(2):e134–45.",
+    "29. Sanz J, Boluda JCH, Martín C, et al. Single-unit umbilical cord blood transplantation from unrelated donors in patients with hematological malignancy using busulfan, thiotepa, fludarabine and ATG as myeloablative conditioning regimen. Bone Marrow Transplant. 2012;47(10):1287–93.",
+    "30. Barker JN, Fei M, Karanes C, et al. Results of a prospective multicentre myeloablative double-unit cord blood transplantation trial in adult patients with acute leukaemia and myelodysplasia. Br J Haematol. 2015;168(3):405–12.",
+    "31. Barker JN, Devlin SM, Naputo KA, et al. High progression-free survival after intermediate intensity double unit cord blood transplantation in adults. Blood Adv. 2020;4(23):6064–76."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Alternative donors · Outline",
+      "title": "Four parts, from donor choice to cord unit selection",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65 · Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "rows": [
+        [
+          "Why alternative donors, and which one",
+          "UCBT versus haplo trade-offs; the randomized evidence",
+          "2.5 min"
+        ],
+        [
+          "Haplo platforms: ex vivo TCD and PTCy",
+          "CD34+ selection to TCRαβ depletion; Beijing, Baltimore, ATG + PTCy",
+          "9.5 min"
+        ],
+        [
+          "Haplo choices: platform, graft, donor",
+          "ATG vs PTCy, bone marrow vs blood, donor age and kinship",
+          "4.5 min"
+        ],
+        [
+          "Cord unit selection and board questions",
+          "HLA match, cell dose, expansion; three MCQs",
+          "10.75 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。先比較 cord blood 和 haplo 各自的優缺點，以及兩個 randomized trial 的結論。接著是 haplo 的兩大平台，一個是 ex vivo T-cell depletion，從 CD34+ selection 一路演進到 TCRαβ depletion；另一個是不處理 graft 的 unmanipulated haplo，包括北京的 ATG 和 Baltimore 的 PTCy。",
+          "第三段處理實務上的三個選擇，ATG 還是 PTCy、bone marrow 還是 peripheral blood、家裡好幾個 haplo 親屬要選誰。最後回到 cord blood，講 unit 怎麼挑、cell dose 的門檻和 expansion，再用三題收尾。",
+          "每一段結束前會點出考試常見的陷阱。最後三題分別對應 haplo 的 protocol、cord unit 的挑選，以及兩種 donor 的比較證據，剛好把前面三段串起來複習一次。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Alternative donors",
+      "eyebrow": "Alternative donors · UCBT vs haplo",
+      "title": "Haplo-HCT shares most cord blood advantages and adds DLI",
+      "cite": "Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "head": [
+        "",
+        "UCBT compared with BM/PB HCT",
+        "Haplo-HCT"
+      ],
+      "rows": [
+        [
+          "Advantage",
+          "Higher donor availability, faster search",
+          "Shared"
+        ],
+        [
+          "Advantage",
+          "Greater HLA disparity allowed, low GVHD",
+          "Shared"
+        ],
+        [
+          "Advantage",
+          "More versatile transplant planning",
+          "Shared"
+        ],
+        [
+          "Advantage",
+          "Less viral transmission; no donor risk or refusal",
+          "Not marked as shared"
+        ],
+        [
+          "Disadvantage",
+          "Slower engraftment; more non-immune graft failure",
+          "Not marked as cord-only"
+        ],
+        [
+          "Disadvantage",
+          "Greater delay in immune reconstitution",
+          "Not marked as cord-only"
+        ],
+        [
+          "Disadvantage",
+          "No donor lymphocyte infusion",
+          "Cord-only: haplo allows DLI"
+        ],
+        [
+          "Disadvantage",
+          "Remote risk of passing on a genetic disease",
+          "Cord-only"
+        ]
+      ],
+      "colW": [
+        2.2,
+        5.8,
+        3.6
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張表改寫自第 64 章的 UCBT 優缺點表。原表用星號標出哪些優點 haplo 也有、哪些缺點是 cord blood 獨有，所以同一張表其實就在比較這兩種 alternative donor。",
+          "上半部是優點。Donor 好找、search 快、可以容許比較大的 HLA disparity 而 GVHD 不高、移植時程容易安排，這幾項 haplo 都有。Cord blood 自己的優點是病毒傳染風險低，也沒有 donor 拒絕或 donor 受傷的問題。",
+          "下半部是缺點。Engraftment 慢、graft failure 多、免疫重建延遲，是 cord 的老問題。讓 haplo 勝出的是最後兩列，cord blood 沒辦法做 DLI，也有極少數傳遞遺傳疾病的可能；haplo 的 donor 還在，復發時可以再收 DLI。",
+          "書上特別寫，haplo 和 UCBT 一樣可以緊急安排，幾乎每個病人都找得到 donor。考題問 haplo 有、cord 沒有的優勢，通常就是 DLI。",
+          "這張表也是和家屬溝通的架構。Haplo donor 從家族裡找，父母、兄弟姊妹、子女都可能有一半相合；cord 從公立 bank 搜尋，現成冷凍好的 unit。兩者的搜尋都比 unrelated donor 快，差別在移植後還能不能回頭找 donor。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "eyebrow": "Alternative donors · Current role",
+      "title": "Haplo-HCT has overtaken cord blood, but cord keeps a niche",
+      "cite": "Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "blocks": [
+        {
+          "head": "Activity shift",
+          "body": "UCBT activity has fallen sharply in favour of haplo-HCT with PTCy: effective, cheaper, relatively simple",
+          "extra": "Passweg 2021"
+        },
+        {
+          "head": "Randomized trials",
+          "body": "Two randomized trials showed haplo-HCT superior to UCBT",
+          "extra": "Fuchs 2020 (BMT CTN 1101); Sanz 2020"
+        },
+        {
+          "head": "Where cord still fits",
+          "body": "No relative available in time, or donor-specific antibodies; possibly very high-risk leukaemia and some genetic disorders in children",
+          "extra": "Comparative data lacking"
+        }
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Cord blood 的移植量這幾年大幅下降，被 PTCy 為基礎的 haplo 取代。第 64 章給的理由是效果好、花費低、做起來相對簡單。兩個 randomized trial，BMT CTN 1101 的 Fuchs 2020 和 Sanz 2020，都顯示 haplo 優於 UCBT。",
+          "Cord blood 並沒有消失。沒有親屬能及時捐，或病人有 donor-specific antibody 時，cord 仍是選項。兒童 very high-risk leukemia 和部分遺傳代謝疾病可能偏好 cord，只是缺少直接比較。",
+          "兩個 trial 的設計不同。BMT CTN 1101 比的是 reduced-intensity 的 double cord 和 haplo bone marrow；Sanz 2020 比的是 myeloablative 的 cord 和 haplo。不同強度得到同樣方向的結論，這是 cord 移植量下降最有力的證據，也是今天第一個要記住的 trial 組合。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "section": "Ex vivo T-cell depletion",
+      "eyebrow": "Haplo · Ex vivo TCD",
+      "title": "Ex vivo T-cell depletion evolved toward more selective grafts",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "steps": [
+        "CD34+ positive selection",
+        "CD3/CD19 depletion",
+        "TCRαβ/CD19 depletion",
+        "Treg, then Tcon co-infusion",
+        "CD45RA+ (naïve T) depletion"
+      ],
+      "invert": 2,
+      "caption": "Perugia, late 1990s (Aversa 1998): CD34-enriched graft with T cells < 1 × 10⁴/kg. Later methods keep NK, γδ T or memory T cells in the graft.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Haplo 的第一條路是把 T cell 從 graft 裡拿掉。Perugia 團隊在 1990 年代後期開始，Aversa 1998 發表在 NEJM，概念是給大劑量 CD34-enriched graft，T cell 含量低於每公斤 1 × 10⁴。",
+          "之後的演進方向很一致。CD34+ positive selection 只留幹細胞；第二代改成 CD3/CD19 negative selection，幹細胞不碰，NK 這類 effector 留下來。第三代是 TCRαβ/CD19 depletion，只拿掉會造成 GVHD 的 αβ T cell，保留有抗白血病和抗病原體能力的 γδ T cell 和 NK cell。",
+          "再往後有兩個方向。Perugia 先輸 regulatory T cell，再輸 conventional T cell；另外有中心做 CD45RA+ depletion，拿掉 naïve T cell、留下 memory T cell，因為小鼠模型裡 naïve T cell 才會造成嚴重 GVHD。",
+          "考試要記每一代拿掉什麼、留下什麼。反黑的 TCRαβ depletion 是目前證據最多的一代。",
+          "TCRαβ depletion 的適用範圍，書上提到兒童和成人、惡性和非惡性疾病都有資料，包括 severe combined immunodeficiency 的嬰兒，可以作為 HLA-matched unrelated donor 之外安全的選擇。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haplo · Ex vivo TCD outcomes",
+      "title": "Ex vivo T-cell depletion trades GVHD for slow immune recovery",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "head": [
+        "Platform",
+        "Feature",
+        "Finding in Ch. 65"
+      ],
+      "rows": [
+        [
+          "CD34+ selection",
+          "Graft failure or rejection",
+          "10–15% needed a second HCT"
+        ],
+        [
+          "CD34+ selection",
+          "Immune reconstitution",
+          "Delayed: opportunistic infection, relapse"
+        ],
+        [
+          "CD3/CD19 depletion",
+          "Keeps progenitors and effector cells",
+          "Better CD4 T-cell recovery than CD34+"
+        ],
+        [
+          "TCRαβ/CD19 depletion",
+          "Keeps γδ T and NK cells",
+          "Low TRM and relapse; fast engraftment"
+        ],
+        [
+          "TCRαβ/CD19 depletion",
+          "Viral reactivation",
+          "About 50% in the first 2–3 months"
+        ],
+        [
+          "Treg + Tcon",
+          "Tregs home to lymph nodes",
+          "Extremely low leukaemia relapse"
+        ],
+        [
+          "Add-back therapy",
+          "HSV-TK suicide-gene donor T cells",
+          "Zalmoxis, registered by EMA"
+        ]
+      ],
+      "colW": [
+        3.2,
+        4.2,
+        4.4
+      ],
+      "fontSize": 16,
+      "caption": "CD34+ megadose grafts needed MAC plus ATG, TBI, fludarabine and thiotepa",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張整理每一代的代價。CD34+ selection 要配合非常強的 myeloablative 加 immunoablative conditioning，包括 ATG、TBI、fludarabine 和 thiotepa；即使如此，10 到 15% 的病人因為 primary graft failure 或 rejection 需要第二次移植。Graft 裡 T cell 太少，免疫重建很慢，致命的伺機性感染和復發都偏高。",
+          "CD3/CD19 depletion 和 CD34+ selection 相比，CD4 T cell 恢復好一些，其他臨床結果差異不明顯。TCRαβ/CD19 depletion 在兒童和成人、惡性和非惡性疾病都有正面結果，TRM 低、復發低、血球恢復快；和 unmanipulated mismatched unrelated HCT 比，chronic GVHD-free relapse-free survival 也比較好。弱點是前兩三個月病毒再活化大約 50%。",
+          "Treg 加 Tcon 的設計，讓 Treg 優先跑到 lymph node 擋 GVHD，骨髓裡的 Tcon 負責 GvL，復發率極低。補免疫空窗的方法還有 virus-specific T cell，以及 EMA 核准的 HSV-TK suicide gene 修飾 donor T cell，也就是 Zalmoxis。",
+          "Ex vivo 平台的共同結論是 GVHD 控制得很好，代價是感染和免疫重建，所以後面的研究幾乎都在想辦法把有用的細胞補回去。",
+          "記法很簡單，T cell 拿得越乾淨，GVHD 越少，但 graft failure、感染和復發就越多。CD34+ selection 站在最極端，TCRαβ depletion 試著在中間取得平衡。病毒再活化約 50% 這個數字，也說明為什麼這些病人前三個月的病毒監測特別重要，考題常把各平台的弱點對調，要對得起來。"
+        ],
+        "reminders": [
+          "The CD34+ megadose figure in Ch. 65 is garbled in the source text ('>1010⁶/Kg'), so no number is shown on the slide."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Unmanipulated haplo",
+      "eyebrow": "Haplo · Unmanipulated platforms",
+      "title": "Three platforms make unmanipulated haplo-HCT feasible",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "head": [
+        "Platform",
+        "Prototype",
+        "Conditioning and graft",
+        "GVHD prophylaxis"
+      ],
+      "rows": [
+        [
+          "ATG based",
+          "Beijing\n(Lu 2006)",
+          "MAC: Ara-C, Bu × 4 d, Cy × 2 d;\nG-BM + G-PB",
+          "Rabbit ATG 2.5 mg/kg/day\n+ CSA, MTX, MMF"
+        ],
+        [
+          "PTCy based",
+          "Baltimore\n(Luznik 2008)",
+          "NMA: Flu, Cy, TBI 2 Gy;\nunmanipulated BM",
+          "Cy 50 mg/kg days +3, +4,\nthen CNI + MMF"
+        ],
+        [
+          "ATG + PTCy",
+          "Baltimore SAA (DeZern);\nParis (Duléry 2018)",
+          "ATG on days −9 to −7,\nbefore conditioning",
+          "ATG + PTCy + CNI + MMF\n(4 drugs)"
+        ]
+      ],
+      "colW": [
+        2.0,
+        2.9,
+        3.6,
+        3.4
+      ],
+      "fontSize": 16,
+      "caption": "Variants: TBF conditioning, basiliximab, G-PB, sirolimus instead of a CNI, MAC instead of NMA",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "第二條路是不處理 graft，直接用 unmanipulated haplo，靠藥物在體內控制 alloreactivity。過去十五年數量快速增加，因為解決了兩個大問題，致命的 GVHD 和 graft rejection。目前有三個平台。",
+          "ATG 平台來自北京陸道培團隊，Lu 2006。Myeloablative conditioning 用 Ara-C、busulfan 四天、cyclophosphamide 兩天，加 rabbit ATG 每天 2.5 mg/kg；GVHD prophylaxis 是 ATG、CSA、MTX、MMF 四種藥，幹細胞是 G-CSF 刺激過的 bone marrow 加 G-PB。變化版有加 anti-CD25 的 basiliximab，或改用 thiotepa、busulfan、fludarabine，也就是 TBF。",
+          "PTCy 平台來自 Baltimore，Luznik 2008。原始版本是 nonmyeloablative 的 Flu、Cy 加 TBI 2 Gy，接 unmanipulated bone marrow，day +3、+4 給高劑量 Cy，再接 CNI 和 MMF。",
+          "第三種把兩者合併。Baltimore 用在 severe aplastic anemia，conditioning 前 day −9 到 −7 先給 ATG，再配 PTCy、CNI、MMF，希望完全避免 GVHD；巴黎 Saint-Antoine 則把 ATG 2.5 mg/kg 加進 acute leukemia 的 MAC haplo。考試常問各平台的 prophylaxis 組合。",
+          "三個平台的差別，可以用 T cell 在哪裡、什麼時候被處理來記。北京平台在移植前用 ATG 在體內清 T cell，再用四種藥壓住；Baltimore 讓 T cell 先被活化，再用 PTCy 選擇性殺掉；合併平台兩種都用，免疫抑制最強，書上說目前主要在非惡性疾病測試，例如 aplastic anemia。北京的長期追蹤顯示 ATG 平台的結果可以和 HLA-matched 移植相當，這也是 Wang 2013 的結論。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "eyebrow": "Haplo · Baltimore protocol",
+      "title": "The Baltimore protocol gives cyclophosphamide on days +3 and +4",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "fig": "ch65-fig2",
+      "alt": "Timeline of the Baltimore haplo protocol: fludarabine days -6 to -2, cyclophosphamide 14.5 mg/kg days -6 and -5, TBI 2 Gy day -1, bone marrow day 0, cyclophosphamide 50 mg/kg days +3 and +4, CNI and MMF from day +5.",
+      "caption": "Fig. 65.2. Flu 30 mg/m² days −6 to −2; Cy 14.5 mg/kg days −6, −5; TBI 2 Gy day −1; BM day 0. PTCy 50 mg/kg days +3, +4; CNI and MMF 30 mg/kg from day +5. Engraftment > 95%.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是書上的 Fig. 65.2，Baltimore protocol 的時間軸。Day −6 到 −2 每天 fludarabine 30 mg/m²，day −6 和 −5 加 cyclophosphamide 14.5 mg/kg，day −1 給 TBI 2 Gy，day 0 輸 bone marrow。",
+          "移植後 day +3 和 +4 各給一次 cyclophosphamide 50 mg/kg。這個劑量和 conditioning 裡的 14.5 mg/kg 差很多，題目會拿兩個數字混淆。Day +5 才開始 CNI 加 MMF，CNI 可以是 cyclosporine 或 tacrolimus，MMF 30 mg/kg。免疫抑制劑等 PTCy 打完才上，因為 CSA 會保護一部分 T cell 不被 PTCy 清掉。",
+          "後來有很多變化版，用 G-PB 取代 BM、用 rapamycin 取代 CNI、改成 MAC，都可行。Engraftment 超過 95%，acute 和 chronic GVHD 都控制得不錯。",
+          "Baltimore 原始方案是 nonmyeloablative，後來 Raiola 2013 和 Bashey 2017 用 MAC 也可行，顯示 PTCy 平台有相當的彈性。看這張圖時，把 day 0 當中心，左邊是 conditioning，右邊是 GVHD prophylaxis，考題給的天數和劑量就容易對應。CNI 和 MMF 都是持續給藥，所以箭頭一直延伸到右邊。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Haplo · How PTCy works",
+      "title": "PTCy kills dividing alloreactive T cells and spares stem cells",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "steps": [
+        "Day 0: unmanipulated haplo graft",
+        "Days +3, +4: alloreactive T cells proliferate",
+        "High-dose Cy 50 mg/kg kills dividing T cells",
+        "Stem cells spared: quiescent, high ALDH"
+      ],
+      "invert": 2,
+      "caption": "Luznik 2008: PTCy prevented GVHD after haplo-HCT, and GvL seemed superior, at least in Hodgkin lymphoma.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "PTCy 的原理用這四格說明。Day 0 輸入沒處理過的 haplo graft，donor 的 alloreactive T cell 遇到 host 抗原，在 day +3、+4 大量增生。這時給高劑量 Cy 50 mg/kg，正在分裂的 T cell 被殺掉。幹細胞不在增生期，又有高濃度的 aldehyde dehydrogenase，所以被保留下來。",
+          "Luznik 2008 第一個臨床研究證明 PTCy 能保護 haplo 病人不得 GVHD，GvL 看起來還更好，至少在 Hodgkin lymphoma。ALDH 這個機轉是常見考點。",
+          "這個機轉也說明為什麼 PTCy 的時間點那麼講究。我的理解是，T cell 要先被 host 抗原活化、進入增生，Cy 才殺得到；CNI 如果太早上，會壓住增生，讓一部分 T cell 躲過 Cy，這正是下一張要談的時程爭議。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haplo · PTCy dose and timing",
+      "title": "PTCy dose and timing remain open questions",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "head": [
+        "Issue",
+        "Schedule",
+        "Finding in Ch. 65"
+      ],
+      "rows": [
+        [
+          "Standard dose",
+          "50 mg/kg on days +3, +4",
+          "Cardiac toxicity: AF, heart failure, death"
+        ],
+        [
+          "Reduced dose",
+          "40 mg/kg × 2 (Sugita 2021)",
+          "Reported effective"
+        ],
+        [
+          "Reduced dose",
+          "25 mg/kg × 2 (McAdams 2021)",
+          "Reported effective"
+        ],
+        [
+          "Standard timing",
+          "Days +3, +4; CNI and MMF start after",
+          "Baltimore protocol"
+        ],
+        [
+          "Alternative timing",
+          "Days +3, +5; CSA and MMF start before",
+          "Raiola 2013; Chiusolo 2018"
+        ],
+        [
+          "EBMT comparison, AML",
+          "Days +3/+5 vs +3/+4 (Ruggeri 2020)",
+          "Less relapse, better DFS with +3/+5"
+        ],
+        [
+          "Days +3/+5 with BM",
+          "Grade III–IV aGVHD 3%",
+          "Unknown with PB: CSA may shield T cells"
+        ]
+      ],
+      "colW": [
+        3.0,
+        4.4,
+        4.4
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "PTCy 還有兩個未解決的問題，劑量和時機。50 mg/kg 兩天的標準劑量有心臟毒性，Duléry 2021 報告了 atrial fibrillation、heart failure，甚至死亡。降到 40 mg/kg 兩天，或 25 mg/kg 兩天，都有報告仍然有效。目標是找出最低有效劑量，減少心毒性、加快 neutrophil 恢復，同時保住 GVHD 預防。",
+          "時機方面，Baltimore 是 day +3、+4，CNI 和 MMF 在 PTCy 之後才開始。Raiola 2013 的單一中心改成 day +3、+5，CSA 和 MMF 在 PTCy 之前就開始。EBMT 在 AML 比較兩種時程，day +3、+5 復發較少、DFS 較好。",
+          "這個做法用 bone marrow 時很安全，grade III–IV aGVHD 只有 3%；換成 PB 則結果未知。",
+          "心臟毒性在病房很實際。PTCy 打完後幾天內如果出現心律不整或心衰竭，要想到 cyclophosphamide 的心毒性，尤其年紀大、本來就有心臟病的病人。Day +3、+5 的時程有另一層意義，CSA 先上，部分 T cell 被保護下來，可能帶來較強的 GvL；同樣的機轉在 PB graft 可能變成更多 GVHD，所以書上特別提醒 PB 的結果還不知道。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "section": "Haplo choices",
+      "eyebrow": "Haplo · ATG vs PTCy",
+      "title": "ATG-based haplo did worse than PTCy-based haplo in EBMT data",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "items": [
+        {
+          "num": "RR 1.48",
+          "label": "Leukaemia-free survival failure with ATG (p = 0.03)"
+        },
+        {
+          "num": "RR 1.45",
+          "label": "GVHD-free, relapse-free survival failure (p = 0.03)"
+        },
+        {
+          "num": "HR 1.43",
+          "label": "Overall survival (p = 0.06)"
+        }
+      ],
+      "caption": "EBMT ALWP Cox analysis (Ruggeri 2017). Strong centre effect for every endpoint (p < 0.001): haplo-HCT needs a learning curve.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "ATG 和 PTCy 哪個好，EBMT Acute Leukemia Working Party 做過比較，Ruggeri 2017。Cox analysis 裡，ATG-based haplo 的 LFS failure 風險 RR 1.48，p = 0.03；GVHD-free relapse-free survival RR 1.45，p = 0.03；overall survival HR 1.43，p = 0.06，只是趨勢。",
+          "所有 endpoint 都有非常強的 center effect，p 小於 0.001，代表 haplo 需要 learning curve。這呼應第 65 章的 key point，haplo 終究是 alternative donor 程序，感染、GVHD 和毒性都常見，應該在有 MUD 或 cord blood 經驗的中心、依照 clinical protocol 執行。",
+          "這是 registry 回溯資料，不是 randomized trial。考題多半問方向，PTCy 在 EBMT 資料中表現較好。",
+          "判讀這三個數字時，RR 和 HR 大於 1 代表 ATG 組失敗的風險比較高。LFS 和 GRFS 的 p 值小於 0.05，OS 的 0.06 沒有達到統計顯著；題目若寫 ATG 顯著降低 overall survival，就是陷阱。另外，北京團隊自己的長期資料顯示 ATG 平台的結果可以和 HLA-matched 移植相當，所以這個比較裡中心經驗的影響可能和平台本身一樣大。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haplo · Graft source",
+      "title": "Blood grafts add acute GVHD, yet 2-year survival matches marrow",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "head": [
+        "PB vs BM, PTCy haplo",
+        "EBMT (Ruggeri 2018)",
+        "CIBMTR (Bashey 2017)"
+      ],
+      "rows": [
+        [
+          "Acute GVHD II–IV",
+          "Higher with PB",
+          "Higher with PB"
+        ],
+        [
+          "Acute GVHD III–IV",
+          "Higher with PB",
+          "No difference"
+        ],
+        [
+          "Chronic GVHD",
+          "Same",
+          "Higher with PB"
+        ],
+        [
+          "Relapse",
+          "Same",
+          "Lower with PB"
+        ],
+        [
+          "2-year OS",
+          "55% and 56%",
+          "54% and 57%"
+        ]
+      ],
+      "colW": [
+        3.8,
+        4,
+        4
+      ],
+      "fontSize": 18,
+      "caption": "Speaker's summary: both sources are usable; PB means more GVHD early, survival comparable",
+      "captionY": 5.4,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "PTCy haplo 用 bone marrow 還是 peripheral blood，有兩個大型 registry 研究。EBMT 的 Ruggeri 2018，PB 的 grade II–IV 和 III–IV aGVHD 都比較多，chronic GVHD 和 relapse 相同，2 年 OS 是 55% 和 56%。",
+          "CIBMTR 的 Bashey 2017，PB 一樣增加 II–IV，但 III–IV 沒差，chronic GVHD 增加，relapse 反而減少，2 年存活 54% 和 57%，也很接近。",
+          "兩個研究的共同點是 PB 短期多一些 GVHD，長期在 chronic GVHD 和復發上可能有差，但最後存活差不多，所以兩種來源都可以用。底下那行是我的整理。選來源時，我會一起考慮 donor 的意願、疾病的復發風險，以及中心處理 GVHD 的經驗。",
+          "兩個研究的差異主要在 relapse 和 chronic GVHD，方向不完全一致，所以結論只能說存活相當。題目常寫 PB 改善存活，或 BM 改善存活，兩個都不對。EBMT 看到 III–IV aGVHD 增加，CIBMTR 沒有，答題時要分清楚是哪一個 registry 的結果。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Haplo · Donor selection",
+      "title": "Donor age and kinship guide haplo donor choice; HLA count does not",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "root": "Several haploidentical relatives available",
+      "branches": [
+        {
+          "label": "EBMT ALWP",
+          "box": "Younger donor age, kinship",
+          "out": "Major determinant (Canaani 2018)"
+        },
+        {
+          "label": "Beijing, ATG",
+          "box": "Younger donor; NIMA mismatch",
+          "out": "Confirmed relevant (Wang 2014)"
+        },
+        {
+          "label": "Single report",
+          "box": "NK alloreactivity + HLA-DP",
+          "out": "Suggested (Solomon 2018)"
+        },
+        {
+          "label": "HLA disparity",
+          "box": "More mismatched loci",
+          "out": "No solid data to choose by it"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "病人常常有好幾個 haplo 親屬，父母、兄弟姊妹、子女都可能是半相合。要選誰，第 65 章整理了四種證據。",
+          "EBMT ALWP 的 Canaani 2018 指出，donor 年輕和親屬關係是 leukemia 病人 outcome 的主要決定因素。北京團隊在 ATG 平台也確認年輕 donor 比較好，另外 non-inherited maternal antigen，也就是 NIMA mismatch，也有關係。Solomon 2018 認為 NK alloreactivity 加上 HLA-DP disparity 可能找出最好的 donor，不過只是單一報告。",
+          "最右邊是常見的直覺陷阱。很多人以為 mismatch 越少越好，但其他報告否認 HLA disparity 增加會影響主要結果，書上的結論是目前沒有可靠資料能依 HLA disparity 挑 haplo donor。題目若給一個年輕的兒子和一個年長的兄弟，要往 donor 年齡去想。",
+          "第 64 章留了一個開放問題，cord blood 是否該優先於條件不好的 haplo donor，例如年紀大或性別不合，還在研究。",
+          "在家族會議上，這代表不必為了少一個 mismatch 去選年長的 donor。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Cord blood",
+      "eyebrow": "Cord blood · Unit selection",
+      "title": "Cord unit selection ranks HLA match first, then cell dose",
+      "cite": "Querol S, et al. EBMT Handbook 8th ed. 2024; Ch. 18",
+      "head": [
+        "Allele-level match\n(HLA-A, -B, -C, -DRB1)",
+        "Recommendation, malignant disease"
+      ],
+      "rows": [
+        [
+          "8/8",
+          "Preferred; TNC > 3 × 10⁷/kg"
+        ],
+        [
+          "7/8",
+          "Next; HLA-A or -B mismatch preferred to DRB1"
+        ],
+        [
+          "5–6/8",
+          "Consider; avoid DRB1 mismatch; TNC > 3 × 10⁷/kg"
+        ],
+        [
+          "4/8",
+          "Rarely, if no other option; TNC > 5 × 10⁷/kg"
+        ],
+        [
+          "3/8",
+          "Not recommended"
+        ],
+        [
+          "Any match",
+          "Avoid antigens targeted by recipient anti-HLA DSA"
+        ],
+        [
+          "Non-malignant",
+          "8/8 = 7/8; 6/8 and 5/8 give inferior survival"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8
+      ],
+      "fontSize": 16,
+      "caption": "Table 18.2 (Eurocord). KIR ligand and sex matching are not used; ABO data conflict.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "接下來回到 cord blood。第 18 章 Table 18.2 是 Eurocord 的建議，挑單一 unit 先看四件事，HLA match、冷凍時的 cell dose、疾病是惡性還是非惡性，以及避開病人 donor-specific anti-HLA antibody 所針對的抗原。",
+          "惡性疾病的 HLA match 用 allele level 的 HLA-A、B、C、DRB1，滿分 8 分。首選 8/8，TNC 要大於 3 × 10⁷/kg。沒有 8/8 就選 7/8，HLA-A 或 B 的 mismatch 比 DRB1 mismatch 好；5 到 7/8 的 unit，TNC 一樣要大於 3 × 10⁷/kg。再不行考慮 5 或 6/8，仍然避開 DRB1。4/8 只在別無選擇時少數考慮，TNC 要提高到 5 × 10⁷/kg 以上；3/8 不建議。",
+          "非惡性疾病，8/8 和 7/8 存活相同，6/8 和 5/8 存活較差，只能當替代選項。其他因素，ABO 相容的資料互相矛盾，KIR ligand matching 不建議用來挑 unit，性別配對也不需要，而且只用 accredited 的 cord bank。",
+          "考試最常考兩點，DRB1 mismatch 要避開，以及 4/8 時 TNC 門檻變高。",
+          "這裡的 8 分是 allele level 的 A、B、C、DRB1。第 18 章的 double cord 標準還在用 4/6，也就是 A、B 用抗原層級、DRB1 用 allele level 的 6 分制，看到這兩種寫法要知道是不同的系統，題目換算時不要混在一起。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Cord blood · Cell dose",
+      "title": "Minimum cord cell doses differ by disease and by unit number",
+      "cite": "Querol S, et al. EBMT Handbook 8th ed. 2024; Ch. 18 · Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "head": [
+        "Setting",
+        "TNC (× 10⁷/kg)",
+        "CD34+ (× 10⁵/kg)"
+      ],
+      "rows": [
+        [
+          "Malignant, single unit",
+          "≥ 3.0 frozen; 2.0–2.5 thawed",
+          "1.0–1.7 frozen; ~1.0–1.2 thawed"
+        ],
+        [
+          "Non-malignant, single unit",
+          "≥ 3.5 frozen; 3.0 thawed",
+          "> 1.7"
+        ],
+        [
+          "Marrow failure or haemoglobinopathy",
+          "> 5 frozen",
+          "—"
+        ],
+        [
+          "Double unit, malignant",
+          "Sum > 3.5; each unit > 1.5",
+          "Sum > 1.8"
+        ],
+        [
+          "Adults: double vs single",
+          "No gain if single unit > 2.5",
+          "Scaradavou 2013 (Ch. 64)"
+        ]
+      ],
+      "colW": [
+        4,
+        4,
+        3.8
+      ],
+      "fontSize": 16,
+      "caption": "Infused TNC 1–2 × 10⁷/kg with low CD34+: marrow and chimerism on days +20–28; no engraftment → second HCT",
+      "captionY": 5.6,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Cell dose 是 cord blood 成敗的第二個關鍵，因為 cord 的細胞數本來就少。惡性疾病單一 unit，冷凍時 TNC 最少 3.0 × 10⁷/kg，解凍後 2.0 到 2.5；CD34+ 冷凍時 1.0 到 1.7 × 10⁵/kg，解凍後大約 1.0 到 1.2。CD34 計數各實驗室差異大，這個數字要保守看待。",
+          "非惡性疾病門檻比較高，冷凍時 3.5、解凍後 3.0，CD34+ 大於 1.7 × 10⁵/kg。Aplastic anemia 這類 bone marrow failure，或 hemoglobinopathy，冷凍時 TNC 要大於 5 × 10⁷/kg。",
+          "單一 unit 不夠時，惡性疾病建議 double UCBT，兩個 unit 合計 TNC 大於 3.5，每個至少 1.5，合計 CD34+ 大於 1.8 × 10⁵/kg，兩個 unit 之間不需要 HLA match。第 64 章引用成人回溯資料，單一 unit TNC 大於 2.5 × 10⁷/kg 時，double 沒有額外好處。",
+          "底下這行是病房處置。輸入的 TNC 只有 1 到 2 × 10⁷/kg，CD34+ 也偏低時，day +20 到 28 做骨髓和 chimerism；沒有 engraftment 就準備第二次移植，初步資料支持 haplo 或 double cord。",
+          "TNC 和 CD34 都有冷凍時和解凍後兩組數字，題目通常只給一個，要看清楚是哪個時間點。冷凍時的數字由 bank 提供，搜尋時用來挑 unit；解凍後的數字是實際輸入的劑量，用來預測 neutrophil recovery。另外，如果解凍樣本的 CFU 培養長不出 colony，書上建議 day +30 之後考慮第二次移植。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Cord blood · Improving outcomes",
+      "title": "Ex vivo expansion, not a second unit, speeds cord engraftment",
+      "cite": "Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "head": [
+        "Strategy",
+        "Evidence in Ch. 64"
+      ],
+      "rows": [
+        [
+          "Double UCBT, children",
+          "Two RCTs: no benefit, more GVHD (Wagner 2014; Michel 2016)"
+        ],
+        [
+          "Third-party cell co-infusion",
+          "Faster count recovery; no NRM or survival benefit"
+        ],
+        [
+          "Omidubicel (expanded UCB)",
+          "Faster engraftment, fewer infections, lower NRM"
+        ],
+        [
+          "UM171 expansion",
+          "Phase 2 trials, encouraging (Cohen 2020)"
+        ],
+        [
+          "ATG in conditioning",
+          "Less GVHD but slow T-cell recovery; avoid in malignancy"
+        ],
+        [
+          "GVHD prophylaxis",
+          "CNI 6–9 months + MMF 2–6 months; MTX usually avoided"
+        ]
+      ],
+      "colW": [
+        3.8,
+        8
+      ],
+      "fontSize": 17,
+      "caption": "Omidubicel: first FDA-approved expanded UCB product (Horwitz 2021); standard of care, but costly",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "最後一張 cord blood 是改善 outcome 的策略。Double UCBT 在兒童兩個 randomized trial，Wagner 2014 和 Michel 2016，都沒有好處，反而 GVHD 增加。Third-party cell co-infusion 確實加快血球恢復，但 NRM 和存活沒有改善。",
+          "有 phase III 證據的是 ex vivo expansion。Omidubicel 是第一個 FDA 核准的 expanded cord blood 產品，和標準 cord blood 相比，engraftment 較快、感染較少、NRM 較低，書上認為應視為 standard of care，只是成本和物流限制了使用。UM171 還在 phase 2。",
+          "Conditioning 加 ATG 可以減少 GVHD，但 T cell 恢復延遲，惡性疾病一般不建議。GVHD prophylaxis 最常用 CNI 6 到 9 個月加 MMF 2 到 6 個月，MTX 因為骨髓毒性通常避免，不過在亞洲仍然常用。",
+          "Supportive care 也是 cord 的重點。第 64 章建議 CMV 用 letermovir 預防，前 100 天每週以 PCR 監測 CMV、adenovirus 和 EBV；EBV 用 preemptive rituximab 處理，而 RIC 和 ATG 都是 EBV-PTLD 的風險因子。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: match the PTCy schedule to the Baltimore protocol",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "stem": "A 48-year-old woman with AML in first complete remission has no matched sibling or unrelated donor. She will receive a haploidentical bone marrow graft from her son after fludarabine, cyclophosphamide and TBI 2 Gy. Which GVHD prophylaxis schedule matches the original Baltimore protocol?",
+      "options": [
+        "Cyclophosphamide 50 mg/kg on days +3 and +4, then CNI and MMF from day +5",
+        "Rabbit ATG 2.5 mg/kg/day before day 0 with CSA, MTX and MMF",
+        "Cyclophosphamide 50 mg/kg on days +3 and +5, CSA and MMF started before",
+        "Cyclophosphamide 14.5 mg/kg on days +3 and +4 without a CNI",
+        "CD34+ selected graft with no post-transplant immunosuppression"
+      ],
+      "answer": "A",
+      "answerTitle": "Answer A: PTCy on days +3 and +4, then CNI and MMF",
+      "explanation": "Baltimore (Luznik 2008): Cy 50 mg/kg on days +3 and +4; CNI and MMF start on day +5. Option C is the single-centre variant (Raiola 2013) with CSA and MMF given before PTCy. B is the Beijing ATG platform. 14.5 mg/kg is the conditioning Cy dose. E describes ex vivo T-cell depletion.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。48 歲女性，AML 在 first CR，沒有 matched sibling 也沒有 unrelated donor，準備接受兒子的 haplo bone marrow，conditioning 是 fludarabine、cyclophosphamide 加 TBI 2 Gy。哪一個 prophylaxis 時程符合原始的 Baltimore protocol？",
+          "選項有 day +3、+4 的 PTCy、北京的 ATG 四藥、day +3、+5 的變化版、低劑量 Cy，以及 CD34+ selection。",
+          "注意 conditioning 裡本來就有 cyclophosphamide，題目問的是移植後的部分，要把兩次 Cy 分開看。",
+          "劑量和日期兩個條件都要對才算。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "這題選 A。Baltimore 在 day +3、+4 各給 Cy 50 mg/kg，day +5 才開始 CNI 和 MMF。",
+          "C 是主要陷阱。Day +3、+5，而且 CSA 和 MMF 先上，是 Raiola 2013 的單一中心變化版，EBMT 在 AML 的比較中復發比較少，但它不是原始 Baltimore。B 是北京的 ATG 平台。D 的 14.5 mg/kg 是 conditioning 裡的 Cy 劑量，不是 PTCy。E 是 ex vivo T-cell depletion，和 unmanipulated haplo 是不同平台。",
+          "這題考的是時程和劑量的配對，兩個 Cy 劑量、兩種免疫抑制劑的起始時間都要分清楚。",
+          "如果題目改問哪個時程在 EBMT 的 AML 資料中復發較少，答案就換成 C，所以兩個時程的差別一定要記清楚。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose the most appropriate single cord unit",
+      "cite": "Querol S, et al. EBMT Handbook 8th ed. 2024; Ch. 18",
+      "stem": "A 32-year-old man with high-risk AML in first remission has no matched donor and has anti-HLA antibodies against all his haploidentical relatives. Single cord units typed at allele level for HLA-A, -B, -C and -DRB1 are available; none carries an antigen targeted by his antibodies. Which unit is most appropriate?",
+      "options": [
+        "8/8 match, TNC 2.5 × 10⁷/kg at cryopreservation",
+        "7/8 match with HLA-B mismatch, TNC 3.5 × 10⁷/kg at cryopreservation",
+        "7/8 match with HLA-DRB1 mismatch, TNC 3.5 × 10⁷/kg at cryopreservation",
+        "4/8 match, TNC 4.0 × 10⁷/kg at cryopreservation",
+        "3/8 match, TNC 8.0 × 10⁷/kg at cryopreservation"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: 7/8 with an HLA-B mismatch and adequate TNC",
+      "explanation": "Table 18.2: for malignant disease the TNC at freezing should be > 3 × 10⁷/kg, so the 8/8 unit (A) is below the minimum. Among 7/8 units, an HLA-A or -B mismatch is preferred to DRB1 (C). A 4/8 unit is a rare last resort needing TNC > 5 × 10⁷/kg (D); 3/8 units are not recommended (E).",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題換到 cord blood。32 歲男性，high-risk AML 在 first remission，沒有 matched donor，而且對所有 haplo 親屬都有 anti-HLA antibody，所以走 cord。可用的單一 unit 都做了 allele level 的 A、B、C、DRB1 typing，也都沒有他的抗體針對的抗原。五個 unit 的 HLA match 和冷凍時 TNC 列在上面，哪一個最適合？",
+          "提醒一下，這裡的 TNC 都是冷凍時的數字，以病人每公斤體重計算，而且病人是惡性疾病，請用惡性疾病的門檻來判斷。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "選 B。依 Table 18.2，惡性疾病冷凍時 TNC 要大於 3 × 10⁷/kg，B 是 7/8、HLA-B mismatch、TNC 3.5，符合條件。",
+          "A 是主要陷阱。8/8 看起來最好，但 TNC 只有 2.5，低於最低門檻，cord blood 的 engraftment 本來就慢，細胞不夠會增加 graft failure。C 同樣 7/8，但 mismatch 在 DRB1，書上明確寫 A 或 B mismatch 優於 DRB1。D 是 4/8，只能在沒有其他選擇時少數考慮，而且 TNC 要大於 5。E 的 3/8 不建議，細胞再多也不行。",
+          "HLA 和 cell dose 兩個條件要同時看，這是 cord 題的基本套路。",
+          "如果真的找不到合格的單一 unit，下一步是 double cord。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: pick the statement the evidence supports",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65 · Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "stem": "A 55-year-old man with AML in first complete remission has no matched sibling or unrelated donor. Candidates are his 28-year-old son and his 60-year-old brother, both haploidentical, and suitable cord units are listed. The team reviews the evidence summarised in the EBMT Handbook. Which statement is correct?",
+      "options": [
+        "Double-unit UCBT improved survival over single-unit UCBT in two RCTs",
+        "With PTCy, blood grafts gave clearly higher 2-year OS than marrow",
+        "ATG-based haplo carried a lower LFS failure risk than PTCy-based haplo",
+        "Two randomized trials showed haplo-HCT superior to UCBT",
+        "The donor with fewer HLA mismatches is the evidence-based choice"
+      ],
+      "answer": "D",
+      "answerTitle": "Answer D: two randomized trials favoured haplo over cord",
+      "explanation": "Fuchs 2020 (BMT CTN 1101) and Sanz 2020 showed haplo-HCT superior to UCBT. Double UCBT gave no benefit and more GVHD in children. BM and PB gave similar 2-year OS. ATG-based haplo had higher LFS failure (RR 1.48). Younger donor age and kinship matter; there are no solid data to choose by HLA disparity.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題是綜合題。55 歲男性，AML 在 first CR，沒有 matched sibling 或 unrelated donor。候選人有 28 歲的兒子、60 歲的哥哥，兩個都是 haplo，也有合適的 cord unit。團隊回顧 Handbook 的證據，五個敘述裡哪一個正確？",
+          "A 說 double cord 在兩個 RCT 改善存活；B 說 PTCy 下 PB 的兩年存活明顯較好；C 說 ATG 平台的 LFS failure 比 PTCy 低；D 說兩個 randomized trial 顯示 haplo 優於 UCBT；E 說選 mismatch 比較少的 donor 才有證據。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 D。Fuchs 2020 的 BMT CTN 1101 和 Sanz 2020，兩個 randomized trial 都顯示 haplo 優於 UCBT。",
+          "E 是最容易選錯的。直覺上 mismatch 越少越好，但書上明講沒有可靠資料能依 HLA disparity 挑 haplo donor，真正有影響的是 donor 年輕和親屬關係，這個病人應該偏向 28 歲的兒子。A 錯在兒童的兩個 RCT 裡 double cord 沒有好處、GVHD 還增加。B 錯在兩個 registry 的 2 年 OS 都很接近。C 方向相反，ATG 的 LFS failure RR 是 1.48。",
+          "這題把今天三段的重點各放了一個進去，B 和 C 的數字都在前面的表上，複習時可以用它當索引。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Haplo · Beijing protocol",
+      "title": "The Beijing protocol pairs myeloablation with four-drug prophylaxis",
+      "cite": "Bacigalupo A, et al. EBMT Handbook 8th ed. 2024; Ch. 65",
+      "head": [
+        "Component",
+        "Beijing protocol (Fig. 65.1; Lu 2006)"
+      ],
+      "rows": [
+        [
+          "Cytarabine",
+          "4 g/m², day −9"
+        ],
+        [
+          "Busulfan IV",
+          "3.2 mg/kg, 4 days"
+        ],
+        [
+          "Cyclophosphamide",
+          "60 mg/kg, 2 days"
+        ],
+        [
+          "Rabbit ATG",
+          "2.5 mg/kg/day, 4 days before day 0"
+        ],
+        [
+          "Graft",
+          "G-CSF-mobilized BM + G-CSF-mobilized PB"
+        ],
+        [
+          "Methotrexate",
+          "10 mg/m², days +1, +3, +6, +11"
+        ],
+        [
+          "Cyclosporine + MMF",
+          "CSA 2.5 mg/kg/day and MMF 30 mg/kg, from before day 0"
+        ]
+      ],
+      "colW": [
+        3.4,
+        8.4
+      ],
+      "fontSize": 17,
+      "notes": {
+        "script": [
+          "這是 Fig. 65.1 的北京方案細節。Ara-C、四天 busulfan、兩天 Cy，加四天 rabbit ATG，graft 是 G-BM 加 G-PB，之後 CSA、MMF 和四劑 MTX。北京團隊的長期追蹤顯示結果和 HLA-matched 移植相當。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Cord blood · Conditioning",
+      "title": "Cord blood conditioning spans myeloablative to reduced intensity",
+      "cite": "Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "head": [
+        "Intensity",
+        "Regimen",
+        "Doses"
+      ],
+      "rows": [
+        [
+          "MAC, chemotherapy",
+          "TBF (Sanz 2012)",
+          "TT 10 mg/kg + Bu IV 9.6 mg/kg + Flu 150 mg/m²"
+        ],
+        [
+          "MAC, TBI-based",
+          "TBI-Flu-Cy (Barker 2015)",
+          "TBI 13.2 Gy + Cy 120 mg/kg + Flu 75 mg/m²"
+        ],
+        [
+          "Intermediate",
+          "TBI-TT-Flu-Cy (Barker 2020)",
+          "TT 10 mg/kg + Cy 50 mg/kg + Flu 150 mg/m² + TBI 4 Gy"
+        ],
+        [
+          "RIC",
+          "rTBI-Flu-Cy (Fuchs 2020)",
+          "TBI 2 Gy + Cy 50 mg/kg + Flu 200 mg/m²"
+        ]
+      ],
+      "colW": [
+        2.8,
+        3.6,
+        5.4
+      ],
+      "fontSize": 17,
+      "notes": {
+        "script": [
+          "第 64 章列出的 cord blood conditioning。因為細胞數少又 HLA mismatched，graft failure 是主要顧慮，所以通常合併有加成免疫抑制效果的藥物。TBF 也被義大利拿去用在 ATG-based haplo。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Cord blood · Eurocord outcomes",
+      "title": "Cord blood survival depends on disease risk and age group",
+      "cite": "Sanz J, Rocha V. EBMT Handbook 8th ed. 2024; Ch. 64",
+      "head": [
+        "Group",
+        "2-year OS (%)"
+      ],
+      "rows": [
+        [
+          "Adults, DRI low",
+          "55 ± 3"
+        ],
+        [
+          "Adults, DRI intermediate",
+          "47 ± 1"
+        ],
+        [
+          "Adults, DRI high",
+          "27 ± 2"
+        ],
+        [
+          "Adults, DRI very high",
+          "19 ± 3"
+        ],
+        [
+          "Children, malignant disorders",
+          "49 ± 1"
+        ],
+        [
+          "Children, non-malignant disorders",
+          "63 ± 1"
+        ],
+        [
+          "Children, inborn errors of metabolism",
+          "70 ± 2"
+        ],
+        [
+          "Children, primary immunodeficiency",
+          "68 ± 2"
+        ]
+      ],
+      "colW": [
+        7,
+        3.5
+      ],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "Eurocord 的 2 年 OS。成人依 DRI 從 55% 降到 19%；兒童非惡性疾病比較好，inborn error of metabolism 70%。書上也提到 UCBT 對 MRD 陽性的病人可能有較強的抗白血病效果，仍待驗證。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Cord blood · Banking",
+      "title": "Unrelated cord units must meet release specifications",
+      "cite": "Querol S, et al. EBMT Handbook 8th ed. 2024; Ch. 18",
+      "head": [
+        "Test (unrelated unit)",
+        "Specification (Table 18.1, NetCord-FACT)"
+      ],
+      "rows": [
+        [
+          "TNC, fresh post-processing",
+          "≥ 5.0 × 10⁸; recovery should be ≥ 60%"
+        ],
+        [
+          "Total viability, fresh",
+          "≥ 85%"
+        ],
+        [
+          "Viable CD34+ count, fresh",
+          "≥ 1.25 × 10⁶"
+        ],
+        [
+          "CD34+ viability, post-thaw",
+          "≥ 70%"
+        ],
+        [
+          "Cryopreservation start",
+          "Within 48 h of collection (72 h related)"
+        ],
+        [
+          "Identity",
+          "HLA-A, -B, -C, -DRB1 by DNA; confirm before release"
+        ],
+        [
+          "Safety",
+          "Sterility; infectious markers; haemoglobinopathy screen"
+        ]
+      ],
+      "colW": [
+        4.4,
+        7.4
+      ],
+      "fontSize": 17,
+      "notes": {
+        "script": [
+          "第 18 章 Table 18.1 是 unrelated cord unit 的放行規格。公立 cord bank 超過 160 家、超過 80 萬個 unit 可透過 WMDA 搜尋。放行前一定要確認 HLA identity，最好用連在 unit 上的 segment。"
+        ]
+      }
+    }
+  ]
+}

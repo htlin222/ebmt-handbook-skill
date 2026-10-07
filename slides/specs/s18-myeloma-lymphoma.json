@@ -1,0 +1,1071 @@
+{
+  "id": "s18",
+  "slug": "myeloma-lymphoma",
+  "week": 18,
+  "title": "HCT for myeloma and lymphoma",
+  "subtitle": "Week 18 · Ch. 81–89",
+  "cite": "EBMT Handbook 8th ed. 2024; Ch. 81–89",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第十八週的主題是 myeloma 和 lymphoma 的移植，對應 EBMT Handbook 第 81 到 89 章。章節很多，所以今天用同一個問題貫穿全場，每個疾病誰做 auto、誰做 allo、誰改走 CAR-T。核心是 myeloma、large B-cell、Hodgkin、follicular 和 mantle cell 五章，amyloidosis、POEMS、CLL 和其他 aggressive lymphoma 只挑考點，最後用三題 board-style 題目收尾。"
+    ]
+  },
+  "references": [
+    "1. Mohty M, Bruno B, Gagelmann N, Mateos MV. Multiple myeloma. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 741–749. doi:10.1007/978-3-031-44080-9_81",
+    "2. Minnema M, Schönland S. Systemic light chain amyloidosis. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 751–755. doi:10.1007/978-3-031-44080-9_82",
+    "3. Cook G, Rovira M. POEMS syndrome and disease produced by other monoclonal immunoglobulins. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 757–761. doi:10.1007/978-3-031-44080-9_83",
+    "4. Serroukh Y, Montoto S. Indolent lymphoma. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 763–769. doi:10.1007/978-3-031-44080-9_84",
+    "5. Schetelig J, Dreger P. Chronic lymphocytic leukemia. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 771–775. doi:10.1007/978-3-031-44080-9_85",
+    "6. Bento L, Glass B, Schmitz N. Large B-cell lymphoma. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 777–785. doi:10.1007/978-3-031-44080-9_86",
+    "7. Baermann BN, Dietrich S. Mantle cell lymphoma. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 787–790. doi:10.1007/978-3-031-44080-9_87",
+    "8. Hübel K, Montoto S, Güven M, Duarte RF. Other B and T aggressive lymphomas and lymphomas associated with HIV. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 791–797. doi:10.1007/978-3-031-44080-9_88",
+    "9. Martínez C, Bazarbachi A, Sureda A. Classical Hodgkin's lymphoma. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 799–808. doi:10.1007/978-3-031-44080-9_89",
+    "10. McCarthy PL, Holstein SA, Petrucci MT, Richardson PG, Hulin C, Tosi P, et al. Lenalidomide maintenance after autologous stem-cell transplantation in newly diagnosed multiple myeloma: a meta-analysis. J Clin Oncol. 2017;35(29):3279–89.",
+    "11. Richardson PG, Jacobus SJ, Weller EA, Hassoun H, Lonial S, Raje NS, et al. Triplet therapy, transplantation, and maintenance until progression in myeloma. N Engl J Med. 2022;387(2):132–47.",
+    "12. Locke FL, Miklos DB, Jacobson CA, et al. Axicabtagene ciloleucel as second-line therapy for large B-cell lymphoma. N Engl J Med. 2022;386:640–54.",
+    "13. Kamdar M, Solomon SR, Arnason JE, et al. Lisocabtagene maraleucel (liso-cel), a CD19-directed chimeric antigen receptor (CAR) T cell therapy, versus standard of care (SOC) with salvage chemotherapy (CT) followed by autologous stem cell transplantation (ASCT) as second-line (2L) treatment in patients (Pts) with relapsed or refractory (R/R) large B-cell lymphoma (LBCL): results from the randomized phase 3 transform study. Blood. 2021;138:91.",
+    "14. Gisselbrecht C, Schmitz N, Mounier N, et al. Rituximab maintenance therapy after autologous stem-cell transplantation in patients with relapsed CD20(+) diffuse large B-cell lymphoma: final analysis of the collaborative trial in relapsed aggressive lymphoma. J Clin Oncol. 2012;30:4462–9.",
+    "15. Gisselbrecht C, Glass B, Mounier N, et al. Salvage regimens with autologous transplantation for relapsed large B-cell lymphoma in the rituximab era. J Clin Oncol. 2010;28:4184–90.",
+    "16. Crump M, Kuruvilla J, Couban S, et al. Randomized comparison of gemcitabine, dexamethasone, and cisplatin versus dexamethasone, cytarabine, and cisplatin chemotherapy before autologous stem-cell transplantation for relapsed and refractory aggressive lymphomas: NCIC-CTG LY.12. J Clin Oncol. 2014;32:3490–6.",
+    "17. Glass B, Hasenkamp J, Wulf G, et al. Rituximab after lymphoma-directed conditioning and allogeneic stem-cell transplantation for relapsed and refractory aggressive non-Hodgkin lymphoma (DSHNHL R3): an open-label, randomised, phase 2 trial. Lancet Oncol. 2014;15:757–66.",
+    "18. Fenske TS, Ahn KW, Graff TM, et al. Allogeneic transplantation provides durable remission in a subset of DLBCL patients relapsing after autologous transplantation. Br J Haematol. 2016;174:235–48.",
+    "19. Bento L, Gutiérrez A, Novelli S, et al. Allogeneic stem cell transplantation as a curative option in relapse/refractory diffuse large B cell lymphoma: Spanish multicenter GETH/GELTAMO study. Bone Marrow Transplant. 2021;56:1919–28.",
+    "20. Moskowitz CH, Nademanee A, Masszi T, et al. Brentuximab vedotin as consolidation therapy after autologous stem-cell transplantation in patients with Hodgkin's lymphoma at risk of relapse or progression (AETHERA): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2015;385:1853–62.",
+    "21. Robinson SP, Canals C, Luang JJ, et al. The outcome of reduced intensity allogeneic stem cell transplantation and autologous stem cell transplantation when performed as a first transplant strategy in relapsed follicular lymphoma: an analysis from the lymphoma working party of the EBMT. Bone Marrow Transplant. 2013;48(11):1409–14.",
+    "22. Sureda A, Zhang M-J, Dreger P, et al. Allogeneic hematopoietic stem cell transplantation for relapsed follicular lymphoma: a combined analysis on behalf of the lymphoma working party of the EBMT and the lymphoma committee of the CIBMTR. Cancer. 2018;124(8):1733–42.",
+    "23. Dreyling M, Doorduijn JK, Gine E, Jerkeman M, Walewski J, Hutchings M, Hoster E. Efficacy and safety of ibrutinib combined with standard first-line treatment or as substitute for autologous stem cell transplantation in younger patients with mantle cell lymphoma: results from the randomized triangle trial by the European MCL Network. Blood. 2022;140(Supplement 1):1–3.",
+    "24. Wang M, Munoz J, Goy A, Locke FL, Jacobson CA, Hill BT, Reagan PM. Three-year follow-up of KTE-X19 in patients with relapsed/refractory mantle cell lymphoma, including high-risk subgroups, in the ZUMA-2 study. J Clin Oncol. 2023b;41(3):555–67.",
+    "25. Robinson SP, Boumendil A, Finel H, et al. Long-term outcome analysis of reduced-intensity allogeneic stem cell transplantation in patients with mantle cell lymphoma: a retrospective study from the EBMT Lymphoma Working Party. Bone Marrow Transplant. 2018;53:617–24."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Myeloma and lymphoma · Outline",
+      "title": "Four parts, one question: auto, allo or CAR-T",
+      "rows": [
+        [
+          "Framework and multiple myeloma",
+          "One map for all diseases; AHCT trials, maintenance, tandem, BCMA CAR-T",
+          "7.5 min"
+        ],
+        [
+          "Large B-cell lymphoma",
+          "Early vs late relapse; CAR-T, auto-HCT and allo-HCT side by side",
+          "5.5 min"
+        ],
+        [
+          "Hodgkin, follicular, mantle cell and the rest",
+          "Auto then allo in cHL; FL and MCL lanes; AL, POEMS, CLL, PTCL, Burkitt",
+          "8.5 min"
+        ],
+        [
+          "Board questions",
+          "Three vignettes: LBCL relapse, high-risk myeloma, Hodgkin bridge to allo",
+          "5 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段先給一張總表，把每個疾病的 auto、allo、CAR-T 位置放在同一張圖上，接著用大約六分鐘講 multiple myeloma，包括 upfront AHCT 的 trial、maintenance、tandem，還有 BCMA CAR-T。",
+          "第二段是 large B-cell lymphoma，這是 CAR-T 改變最多的疾病，重點是 early relapse 和 late relapse 的分界，以及 allo 被推到 CAR-T 之後。",
+          "第三段把 Hodgkin、follicular、mantle cell 三章放在一起，最後用一張表帶過 amyloidosis、POEMS、CLL、PTCL 和 Burkitt。最後五分鐘做三題，每題都對應前面某一張表。",
+          "時間分配上，myeloma 和 Hodgkin 講得比較細，因為這兩個疾病的 trial 名稱和數字最常出題；follicular 和 mantle cell 各用一張圖表，抓住 auto 和 allo 的分工就夠了。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Framework",
+      "eyebrow": "Overview · Speaker's summary",
+      "title": "Auto-HCT, allo-HCT and CAR-T each have a lane in every disease",
+      "head": [
+        "Disease",
+        "Auto-HCT",
+        "Allo-HCT",
+        "CAR-T"
+      ],
+      "rows": [
+        [
+          "Multiple myeloma",
+          "First line, fit patients; MEL 200",
+          "Trials only: young, high risk",
+          "R/R after IMiD, PI, anti-CD38"
+        ],
+        [
+          "Large B-cell lymphoma",
+          "Chemosensitive relapse > 12 months",
+          "Relapse after CAR-T, fit",
+          "Refractory, relapse ≤ 12 mo, post-auto"
+        ],
+        [
+          "Classical Hodgkin",
+          "Chemosensitive first relapse",
+          "Relapse after auto-HCT",
+          "Listed among post-auto options"
+        ],
+        [
+          "Follicular lymphoma",
+          "First transplant at relapse",
+          "RIC after auto failure",
+          "Role defined by ongoing trials"
+        ],
+        [
+          "Mantle cell lymphoma",
+          "CR1 after HD-AraC; now questioned",
+          "Relapse after CAR-T",
+          "Relapse after BTK inhibitor"
+        ],
+        [
+          "CLL",
+          "No role, except Richter",
+          "Failure of 2 inhibitor classes",
+          "Clinical trials only"
+        ]
+      ],
+      "colW": [
+        2.6,
+        3.2,
+        3.0,
+        3.2
+      ],
+      "fontSize": 16,
+      "caption": "Speaker's summary of Ch. 81, 84–87 and 89; each row is unpacked on the slides that follow",
+      "cite": "EBMT Handbook 8th ed. 2024; Ch. 81, 84, 85, 86, 87, 89",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是我自己從六章整理出來的總表，屬於 speaker's summary。橫列是疾病，直欄是三種細胞治療，今天後面每一張投影片都在展開其中一格。",
+          "先看大方向。Myeloma 是唯一 auto-HCT 仍然放在 first line 的疾病，melphalan 200 是標準。Large B-cell 和 Hodgkin 的 auto 都放在 relapse 之後，而且要 chemosensitive。差別在 LBCL 要看復發時間，12 個月內復發或 refractory 的病人改走 CAR-T。",
+          "Allo 這一欄幾乎都寫著某一種治療失敗之後。Hodgkin 和 follicular 是 auto 之後，LBCL 和 mantle cell 是 CAR-T 之後，CLL 是兩類 pathway inhibitor 都失敗之後。Myeloma 的 allo 只建議在 clinical trial 裡做。",
+          "CAR-T 那一欄要注意 CLL，書上寫得很清楚，沒有 labelled product 之前只能在試驗裡用。考試問哪個疾病不該在 trial 外做 CAR-T，CLL 是標準答案。",
+          "這張表還有一個用法。考題常給一個疾病加一個時間點，例如 auto 後復發的 Hodgkin，或 BTK inhibitor 後復發的 mantle cell，要你選下一步。先找到對應的列，再看剛失敗的是哪一種治療，旁邊那一格通常就是答案。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Multiple myeloma",
+      "eyebrow": "Myeloma · Who gets AHCT",
+      "title": "AHCT remains the standard first-line consolidation for fit patients",
+      "head": [
+        "Question",
+        "What Ch. 81 says"
+      ],
+      "rows": [
+        [
+          "Age",
+          "Fit patients up to 70, even 75; trials capped age at 65"
+        ],
+        [
+          "Older patients",
+          "Median age 72 series: good results with MEL 140 mg/m²"
+        ],
+        [
+          "Renal impairment",
+          "Not a contraindication; use MEL 140 mg/m²"
+        ],
+        [
+          "Dialysis-dependent",
+          "More mucositis and infection; PFS and OS comparable"
+        ],
+        [
+          "Induction",
+          "≥ Triplet (VTD, VRD); ideally a quadruplet + anti-CD38"
+        ],
+        [
+          "Conditioning",
+          "IV melphalan 200 mg/m²; busulfan or added bortezomib failed"
+        ],
+        [
+          "Response target",
+          "MRD negativity outweighs high-risk cytogenetics"
+        ]
+      ],
+      "colW": [
+        3.0,
+        8.6
+      ],
+      "fontSize": 17,
+      "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Myeloma 的第一個問題是誰能做 AHCT。Randomized trial 把年齡限制在 65 歲，那是為了減少 selection bias，不代表 65 歲以上不能做。書上引用一個中位年齡 72 歲的研究，用 melphalan 140 mg/m² 結果很好，很多中心現在做到 70 歲，甚至 75 歲。",
+          "腎功能不好本身不是禁忌，劑量降到 140。洗腎的病人 mucositis 和感染比較多，但 PFS 和 OS 跟腎功能正常的配對病人差不多，部分病人移植後還能脫離洗腎。考題常把 renal failure 寫成禁忌，這是錯的。",
+          "Induction 至少要 triplet，例如 VTD 或 VRD，最好是加上 anti-CD38 抗體的 quadruplet。Conditioning 的標準是 IV melphalan 200 mg/m²，換成 busulfan 或加 bortezomib 都沒有勝出。",
+          "最後一列是 MRD。IFM 2009 和 DETERMINATION 都顯示，達到 MRD negativity 的 high-risk cytogenetics 病人，結果反而比沒達到的 standard-risk 病人好。",
+          "臨床上評估的重點因此是 fitness，而不是單看年齡。60 多歲、體能好、只有輕度腎功能不全的病人，在書上的框架下都應該轉介做移植評估。Induction 的長度也有取捨，VTD 給 6 個 cycle 比 3 到 4 個 cycle 反應更深，但 neuropathy 也更多。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Myeloma · AHCT vs no AHCT",
+      "title": "Upfront AHCT prolongs PFS, but overall survival gains are inconsistent",
+      "head": [
+        "Trial",
+        "Comparison",
+        "PFS",
+        "OS"
+      ],
+      "rows": [
+        [
+          "IFM 2009",
+          "VRD + AHCT vs VRD × 8; Len for 1 year",
+          "Median 50 vs 36 mo",
+          "3 y: 81% vs 82%"
+        ],
+        [
+          "DETERMINATION",
+          "VRD + AHCT vs VRD; Len until progression",
+          "Median 68 vs 46 mo",
+          "5 y: 81% vs 79%"
+        ],
+        [
+          "EMN02/HO95",
+          "Tandem AHCT vs single AHCT vs VMP; Len",
+          "Median 57 vs 42 mo\n(AHCT vs VMP)",
+          "5 y: 80% vs 73% vs 72%"
+        ],
+        [
+          "FORTE",
+          "KRd + AHCT vs KCd + AHCT vs KRd × 12",
+          "4 y: 69% vs 51% vs 56%",
+          "4 y: 86% vs 76% vs 85%"
+        ],
+        [
+          "Cardamon",
+          "KCd + AHCT vs KCd × 4",
+          "2 y: 75% vs 68%",
+          "2 y: 94% vs 91%"
+        ]
+      ],
+      "colW": [
+        2.1,
+        4.3,
+        2.8,
+        2.8
+      ],
+      "fontSize": 15,
+      "caption": "DETERMINATION: 29% of the control arm had AHCT at relapse vs 89% in IFM 2009 (Table 81.2)",
+      "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81 · Richardson PG, et al. NEJM 2022",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 Table 81.2 挑出的五個 trial，問題都一樣，novel agent 時代還需不需要 upfront AHCT。PFS 那一欄很一致，IFM 2009 中位數 50 比 36 個月，DETERMINATION 68 比 46 個月，EMN02 是 57 比 42 個月，移植組都比較長。",
+          "OS 那一欄就不同了。IFM 2009 三年 81% 比 82%，DETERMINATION 五年 81% 比 79%，都沒有差異。底下的 caption 是解釋之一，IFM 2009 的對照組有 89% 在復發時做了 AHCT，DETERMINATION 只有 29%，兩個研究的對照組都沒有因為延後移植而輸掉存活。",
+          "FORTE 和 Cardamon 用的是 carfilzomib，結論同樣是移植組 PFS 比較好。所以書上的立場是 AHCT 仍是 young and fit 病人的 standard of care，好處主要在 PFS，而 MIDAS 和 MASTER-2 正在測試 quadruplet 加 MRD 能不能取代它。",
+          "解讀這個表要注意對照組的設計。這幾個 trial 的非移植組都用了很強的 novel agent 組合，多數還有 lenalidomide maintenance，所以 AHCT 的增益是疊加在最好的藥物治療之上。考試如果問 upfront AHCT 證實了什麼，答案是 PFS，不是 OS。"
+        ],
+        "reminders": [
+          "Table 81.2 abbreviates carfilzomib regimens as CarLenDex and CarCyDex; the slide uses KRd and KCd for space. The DETERMINATION OS order (81% vs 79%) assumes the OS figures follow the same arm order as PFS in Table 81.2."
+        ]
+      },
+      "captionY": 5.05
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Myeloma · After AHCT",
+      "title": "Lenalidomide maintenance after AHCT is the standard of care",
+      "steps": [
+        "Triplet/quadruplet induction",
+        "MEL 200 mg/m² + AHCT",
+        "Second AHCT if high risk",
+        "Consolidation: optional",
+        "Lenalidomide maintenance"
+      ],
+      "invert": 4,
+      "caption": "Len meta-analysis: PFS 52.8 vs 23.5 months; risk of death −25%, median OS ~2.4 years longer. Tandem: del(17p), R-ISS 3 (EMN02 positive, StaMINA negative).",
+      "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81 · McCarthy PL, et al. JCO 2017",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "把 myeloma 的整條路串起來。Induction 之後收集幹細胞，melphalan 200 加 AHCT。High-risk 的病人，例如 del(17p) 或 R-ISS 3，可以考慮第二次 AHCT。EMN02 的 tandem 組 PFS 和 OS 都比較好，StaMINA 則沒有看到差異，而且超過 30% 的病人沒有真的做第二次移植。",
+          "Consolidation 的角色仍有爭議。EMN02 裡兩個 cycle 的 VRD consolidation 延長 PFS，但 high-risk cytogenetics 沒有受益，StaMINA 也是陰性。書上的實務建議是看移植後反應深度，已經 CR 而且 MRD 測不到的人可以省略。",
+          "最確定的是黑色那一格，lenalidomide maintenance。三個 randomized trial 的 meta-analysis，PFS 52.8 比 23.5 個月，死亡風險下降 25%，中位存活多大約 2.4 年。代價是 second primary malignancy 稍微增加，約 30% 提早停藥是因為毒性或第二癌。Thalidomide 有 neuropathy，沒有 OS 好處；ixazomib 只多 5 個月 PFS，沒有被核准。",
+          "Tandem 的概念來自只有傳統化療的年代，total therapy 3 把 induction、tandem AHCT、consolidation 和 maintenance 串起來，CR/nCR 83%，兩年 PFS 84%。Maintenance 用多久，目前 FDA 和 EMA 核准的是低劑量用到疾病惡化或出現毒性為止，最佳療程仍未確定。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Myeloma · Cellular therapy",
+      "title": "BCMA CAR-T, not allo-HCT, is the cellular option in myeloma",
+      "head": [
+        "Product, setting",
+        "Median prior lines",
+        "ORR",
+        "Median PFS",
+        "CRS / ICANS gr 3–4"
+      ],
+      "rows": [
+        [
+          "Ide-cel, n = 128",
+          "6",
+          "73%",
+          "9 mo",
+          "5% / 3%"
+        ],
+        [
+          "Ide-cel vs SOC (KarMMa-3), n = 386",
+          "3",
+          "71%",
+          "13 vs 4 mo",
+          "4% / 3%"
+        ],
+        [
+          "Cilta-cel, n = 97",
+          "6",
+          "98%",
+          "35 mo",
+          "4% / 9%"
+        ],
+        [
+          "Cilta-cel vs SOC (CARTITUDE-4), n = 419",
+          "2",
+          "85%",
+          "Not reached vs 12 mo",
+          "1% / 3%"
+        ],
+        [
+          "ARI0002h (academic), n = 30",
+          "4",
+          "100%",
+          "15 mo",
+          "0% / 0%"
+        ]
+      ],
+      "colW": [
+        4.5,
+        1.7,
+        1.0,
+        2.5,
+        2.7
+      ],
+      "fontSize": 16,
+      "caption": "Labelled after > 3 lines incl. IMiD, PI, anti-CD38 [verify: current label]. Allo-HCT: trials only.",
+      "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Myeloma 的 allo 書上只用一段帶過。Biologic assignment 的 trial 結果互相矛盾，meta-analysis 顯示好處被高 TRM 抵銷，所以 key point 寫明 allo 應該在 clinical trial 裡做，對象是年輕、high-risk、反應不好或早期復發的病人。",
+          "真正改變 relapsed myeloma 的是 BCMA CAR-T。兩個商業產品是 ide-cel 和 cilta-cel，書上寫的適應症是超過三線、而且用過 IMiD、PI 和 anti-CD38。後來的 phase 3 往前推，KarMMa-3 收 2 到 4 線，ide-cel 中位 PFS 13 個月，對照組 4 個月；CARTITUDE-4 收 lenalidomide-refractory、1 到 3 線，cilta-cel 中位 PFS 還沒到，對照組 12 個月。",
+          "看表的時候比較 cilta-cel 和 ide-cel，cilta-cel ORR 98%、PFS 35 個月，但 grade 3–4 ICANS 9% 比較高。ARI0002h 是西班牙的 academic product，分次給藥加 booster，毒性很低，代表 point-of-care CAR-T 可能降低成本。",
+          "還有兩個實務重點。CAR-T 在 high-risk cytogenetics 和 extramedullary disease 的病人也能達到深度反應，表上這兩類病人占了相當比例。書上的 key point 也預告，中期內 AHCT 的角色會被 CAR-T 挑戰，所以 CAR-T 往前線移動是這個領域最值得追蹤的方向。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: current EMA/FDA/TFDA labels for ide-cel and cilta-cel by number of prior lines; Ch. 81 states '>3 previous lines' and then reports KarMMa-3 and CARTITUDE-4 in earlier lines.",
+          "Table 81.3 lists the rows by product only; matching n = 386 to KarMMa-3 and n = 419 to CARTITUDE-4 is the speaker's inference from the PFS values given in the text."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Large B-cell lymphoma",
+      "eyebrow": "LBCL · Decision at relapse",
+      "title": "In relapsed LBCL, time to relapse decides CAR-T or auto-HCT",
+      "root": "R/R LBCL: new biopsy, PET-CT, fitness check",
+      "branches": [
+        {
+          "label": "Refractory or ≤ 12 mo",
+          "box": "Anti-CD19 CAR-T",
+          "out": "Axi-cel, liso-cel beat\nsalvage + auto"
+        },
+        {
+          "label": "Relapse > 12 mo",
+          "box": "Salvage, then auto-HCT if CR/PR",
+          "out": "Standard of care"
+        },
+        {
+          "label": "After auto-HCT",
+          "box": "Anti-CD19 CAR-T",
+          "out": "Standard of care (grade I)"
+        },
+        {
+          "label": "After CAR-T",
+          "box": "Allo-HCT if fit and chemosensitive",
+          "out": "Curative option"
+        }
+      ],
+      "invert": 0,
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Large B-cell 復發時，第一步是重新切片，core biopsy 可以接受，再做 PET-CT 評估。之後的分流看一個數字，從 first-line 治療結束到復發是不是超過 12 個月。",
+          "最左邊是 primary refractory，或 12 個月內復發。Axi-cel 和 liso-cel 兩個 phase III，對照組都是 salvage chemotherapy 接 auto-HCT，CAR-T 的 PFS 明顯比較好，OS 有強烈趨勢，所以這群人的 standard of care 變成 CAR-T。",
+          "第二欄是 late relapse，超過 12 個月。這群人仍然是 salvage 加 auto-HCT，前提是 salvage 後達到 PR 或 CR。Refractory、salvage 沒反應的人，書上明確不鼓勵做 auto。",
+          "第三欄，auto 之後復發的人，CAR-T 是 standard，grade of evidence I。最右邊是 CAR-T 之後又復發，fit 而且還對治療有反應的病人，allo-HCT 是書上認為剩下唯一有治癒可能的選項。",
+          "這張圖的考點就是 12 個月。題目會給一個 R-CHOP 結束後 8 個月或 18 個月復發的病人，答案隨之不同。",
+          "12 個月這條線背後有預後的理由。Auto-HCT 的不良預後因子裡，第一個就是 induction 後 12 個月內復發，其他還有 secondary age-adjusted IPI、performance status 差，以及復發時兩個以上的 extranodal site。這群人做 salvage 加 auto，結果本來就差，CAR-T 的 phase III 正是挑這群人來比。",
+          "拿不到 CAR-T 的時候，early relapse 的病人仍然可以做 salvage 加 auto，Table 86.3 把它列為 clinical option，下一張會看到。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "LBCL · Auto-HCT indications",
+      "title": "Auto-HCT in LBCL is standard only for chemosensitive late relapse",
+      "head": [
+        "Disease status",
+        "EBMT 2022",
+        "Evidence",
+        "Comment in Ch. 86"
+      ],
+      "rows": [
+        [
+          "First complete remission",
+          "Clinical option",
+          "I",
+          "Not routine; consider HGBL or CNS at diagnosis"
+        ],
+        [
+          "Chemosensitive early relapse, ≥ CR2",
+          "Clinical option",
+          "I",
+          "When CAR-T is not available"
+        ],
+        [
+          "Chemosensitive late relapse, ≥ CR2",
+          "Standard of care",
+          "II",
+          "PR or CR after salvage required"
+        ],
+        [
+          "Refractory disease",
+          "Generally not recommended",
+          "I",
+          "Discouraged; CAR-T instead"
+        ]
+      ],
+      "colW": [
+        4.4,
+        2.6,
+        1.2,
+        3.6
+      ],
+      "fontSize": 17,
+      "caption": "Salvage regimens are equivalent; PET negativity after salvage predicts outcome. BEAM preferred.",
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 Table 86.3，EBMT 2022 對 LBCL 做 auto 的建議。唯一寫 standard of care 的是 chemosensitive late relapse，也就是超過 12 個月復發、salvage 後在 CR2 以上。Early relapse 降成 clinical option，條件是拿不到 CAR-T。Refractory 是 generally not recommended。",
+          "First CR 雖然表上寫 clinical option，正文的立場是 first-line 不建議常規做 auto，只有 high-grade B-cell lymphoma 用 R-CHOP 類治療，或診斷時就有 CNS 侵犯、而且對化療有反應的病人可以考慮。",
+          "Salvage regimen 的選擇，R-DHAP、R-ICE、R-GDP 在 randomized trial 都沒有差異，所以依年齡、共病和能不能收集幹細胞決定。不論哪一種，10 到 20% 的病人會 mobilization 失敗。Salvage 後 PET 陰性是 chemosensitivity 的 surrogate，也預測移植後的結果。",
+          "Conditioning 在 EBMT 中心以 BEAM 為主。移植後的 rituximab maintenance，在 CORAL 沒有改善結果，所以不建議。",
+          "Auto 的晚期毒性也要知道。BEAM 之後，肺纖維化和 diffusion capacity 下降 21%，感染 30%，metabolic syndrome 17%，心血管 12%，第二癌 20%。NRM 最常見的原因是第二癌，風險是一般人的 12 倍。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "LBCL · Three cellular options",
+      "title": "CAR-T, auto-HCT and allo-HCT ask different things of the patient",
+      "head": [
+        "",
+        "Auto-HCT",
+        "CAR-T",
+        "Allo-HCT"
+      ],
+      "rows": [
+        [
+          "Main setting",
+          "Late relapse (> 12 mo)",
+          "Refractory, early relapse,\nafter auto-HCT",
+          "Relapse after CAR-T"
+        ],
+        [
+          "Chemosensitivity",
+          "Required (PR or CR)",
+          "Not required",
+          "Preferred; SD or minor\nresponse may still benefit"
+        ],
+        [
+          "Fitness",
+          "Transplant-eligible",
+          "Also older or comorbid",
+          "Younger, no comorbidities"
+        ],
+        [
+          "Key data",
+          "NRM 1.4%; 3-y OS 51%,\nEFS 35% (CORAL, DHAP)",
+          "PFS gain over salvage + auto\nin two phase III trials",
+          "NRM 30–35%;\n3-y OS 26–44%, PFS 25–38%"
+        ],
+        [
+          "Graft",
+          "PBSC in > 90%",
+          "Autologous anti-CD19",
+          "PBSC; haplo PTCy ≈ MSD/MUD"
+        ]
+      ],
+      "colW": [
+        1.9,
+        3.4,
+        3.2,
+        3.5
+      ],
+      "fontSize": 15,
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張把 LBCL 三種細胞治療並排。Auto 要求最嚴的是 chemosensitivity，salvage 後一定要 PR 或 CR。CAR-T 最大的優勢是不需要 chemosensitivity，年紀大或有共病、本來不能移植的病人也有機會被救回來。Allo 介於兩者之間，disease status 仍是最重要的預後因子，但和 auto 不同，salvage 後只有 minor response 或 stable disease 的人也可能受益。",
+          "Key data 那一列。CORAL 的 DHAP 組，NRM 1.4%，三年 OS 51%、EFS 35%；LY.12 兩組合併三年 OS 39%、EFS 26%，差異主要來自病人組成。Allo 的三個系列，NRM 30 到 35%，三年 OS 26 到 44%，PFS 25 到 38%。唯一的 prospective randomized 資料是 Glass 2014，用 MAC，三年 PFS 25%、OS 26%。",
+          "Donor 方面，haplo 加 PTCy 的 chronic GVHD 比 sibling 或 unrelated 少，retrospective 比較結果相當。Conditioning RIC 或 MAC 沒有定論，salvage 後沒有完全緩解、腫瘤量大的情況，書上建議考慮 MAC。",
+          "Real-world 資料也顯示 axi-cel 效果比 tisa-cel 好，但毒性也比較高，這個比較可以出成選項。",
+          "Allo 之後再復發，預後很差，書上建議積極考慮 clinical trial，例如 bispecific antibody、polatuzumab 或 lenalidomide，但很多病人最後只能走 palliative care。CAR-T 之後要做 allo，前提仍是 fit 和 chemosensitive，所以 bridging 的效果決定了病人能不能走到移植。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Hodgkin, indolent and mantle cell",
+      "eyebrow": "cHL · Indications and results",
+      "title": "In Hodgkin lymphoma, auto comes first and allo follows auto failure",
+      "head": [
+        "Setting",
+        "EBMT 2022",
+        "NRM",
+        "OS",
+        "PFS"
+      ],
+      "rows": [
+        [
+          "Auto, chemosensitive relapse",
+          "Standard (I)",
+          "0–18%",
+          "75% at 5 y",
+          "50% at 5 y"
+        ],
+        [
+          "Auto, primary refractory",
+          "Clinical option (III)",
+          "0–18%",
+          "30–36% at 5 y",
+          "15–38% at 5 y"
+        ],
+        [
+          "Allo, sensitive relapse after auto",
+          "Standard (II)",
+          "15–20%",
+          "60–70% at 3 y",
+          "40–50% at 3 y"
+        ],
+        [
+          "Allo, chemorefractory",
+          "Developmental (II)",
+          "20–30%",
+          "40–50% at 3 y",
+          "20–30% at 3 y"
+        ],
+        [
+          "Auto or allo in CR1",
+          "Not recommended",
+          "—",
+          "—",
+          "—"
+        ]
+      ],
+      "colW": [
+        4.0,
+        2.6,
+        1.4,
+        2.0,
+        2.0
+      ],
+      "fontSize": 16,
+      "caption": "BEAM preferred; TBI avoided (second cancers). > 50% of allo-HCT use RIC; haplo PTCy ≈ MSD/MUD.",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Hodgkin 的邏輯最單純，先 auto，auto 失敗再 allo。上面兩列是 auto。Chemosensitive relapse 是 standard of care，evidence level I，五年 OS 75%、PFS 50%。Primary refractory 仍是 clinical option，但五年 OS 只剩 30 到 36%。BNLI 和 GHSG/EBMT HD-R1 兩個 randomized trial 證明 auto 改善 EFS 和 FFTF，OS 沒有顯著差異，這點常被拿來出題。",
+          "中間兩列是 allo。Auto 之後 chemosensitive relapse，不論 sibling、unrelated 或 alternative donor，都是 standard，三年 OS 60 到 70%。Chemorefractory 是 developmental，三年 PFS 只有 20 到 30%。CR1 不論 auto 或 allo 都不建議。",
+          "Conditioning 有兩個考點。Auto 用 BEAM，不建議 TBI，因為 secondary malignancy 風險較高，而移植後 NRM 最常見的原因本來就是第二癌，風險是一般人的 12 倍。Allo 超過一半用 RIC，NRM 較低但復發較多；含 low-dose TBI 的方案復發較高、存活較差。近期 EBMT 資料顯示 MAC 的 NRM 已大幅下降，可以個別考慮。",
+          "Auto 的不良預後因子也常考，包括 primary induction failure、第一次緩解短於 3 個月、12 個月內復發、extranodal disease、B symptoms、復發時 advanced stage，以及 salvage 抗藥、移植時仍有病灶。這些因子越多，下一張的 BV consolidation 越有價值。Allo 的預後同樣以移植前 disease status 最重要，但 PET 陰性 CR 的意義不像 auto 那麼明確。"
+        ]
+      },
+      "captionY": 4.95
+    },
+    {
+      "type": "chain",
+      "eyebrow": "cHL · New drugs around HCT",
+      "title": "Brentuximab and PD-1 blockade now frame both transplants in cHL",
+      "steps": [
+        "Salvage to PET-negative CR",
+        "BEAM + auto-HCT",
+        "BV consolidation if high risk",
+        "Relapse: BV or anti-PD-1",
+        "Allo-HCT, PTCy prophylaxis"
+      ],
+      "invert": 2,
+      "caption": "AETHERA (n = 329): BV up to 16 cycles vs placebo, median PFS 43 vs 24 months. No BV washout needed; hold checkpoint inhibitors ≥ 6 weeks before allo.",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 · Moskowitz CH, et al. Lancet 2015",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "新藥現在包在兩次移植的前後。Salvage 的目標是 PET-negative CR，這是 chemosensitivity 的定義。Auto 之後，高復發風險的病人做 brentuximab vedotin consolidation，這是 AETHERA，329 位病人，最多 16 個 cycle，中位 PFS 43 比 24 個月，risk factor 越多受益越大。BV 是目前唯一核准做 post-auto consolidation 的藥。",
+          "Auto 之後復發，BV、nivolumab 或 pembrolizumab 都可以當 bridge。BV 和 allo 之間不需要 washout，通常給 4 到 6 個 cycle。Checkpoint inhibitor 就不一樣了，移植前用會增加 acute GVHD、SOS/VOD 和 hyperacute febrile syndrome，所以建議停藥至少 6 週，而且用 PTCy 做 GVHD prophylaxis。",
+          "這兩個數字，BV 不用 washout、PD-1 要停 6 週，是很典型的配對考題。",
+          "Tandem auto 是另一條路，對 poor-risk 病人可行，NRM 0 到 5%，五年 OS 54 到 84%，不過有了 BV 和 PD-1 之後，第二次 auto 的必要性要重新評估。EBMT 1781 位 auto 後復發的病人，四年 OS 從 2006 到 2008 年的 32%，進步到 2015 到 2017 年的 63%，新藥是主要原因。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Follicular lymphoma · Auto vs allo",
+      "title": "In follicular lymphoma, allo trades less relapse for more TRM",
+      "head": [
+        "Outcome",
+        "Auto-HCT (EBMT, n = 726)",
+        "Allo-HCT (EBMT/CIBMTR, n = 1567)"
+      ],
+      "rows": [
+        [
+          "TRM",
+          "3% at 1 year",
+          "19% at 5 years"
+        ],
+        [
+          "Relapse at 5 years",
+          "47%",
+          "29%"
+        ],
+        [
+          "OS at 5 years",
+          "72%",
+          "61%"
+        ],
+        [
+          "PFS at 5 years",
+          "48%",
+          "52%"
+        ],
+        [
+          "Usual place",
+          "First transplant; sensitive relapse",
+          "RIC, relapse after auto-HCT"
+        ]
+      ],
+      "colW": [
+        2.8,
+        4.4,
+        4.4
+      ],
+      "fontSize": 18,
+      "caption": "Consider HCT only for POD24, transformation or multiple relapses; no HCT in first line",
+      "cite": "Serroukh Y, et al. EBMT Handbook 8th ed. 2024; Ch. 84 · Robinson 2013; Sureda 2018",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Indolent lymphoma 以 follicular 為代表，first line 沒有任何移植的位置。考慮 HCT 的只有三種人，first-line 後兩年內復發，也就是 POD24，high-grade transformation，以及多次復發。",
+          "表上是 EBMT 的兩個大系列。Auto 一年 TRM 只有 3%，但五年復發 47%；allo 五年 TRM 19%，復發降到 29%。結果 OS 是 auto 比較高，PFS 兩者接近。Allo 的 GVL 效果確實存在，只是被 TRM 吃掉了。",
+          "所以多數歐洲專家把 auto 當第一次移植，allo 留給 auto 之後復發的人。EBMT 的 RIC allo 在 auto 失敗後，兩年 NRM 27%，五年 PFS 48%、OS 51%。另外要記得，relapsed FL 的中位年齡是 69 歲，60 歲以上做 auto 的 TRM 可能超過 10%，而且 TBI 的 auto 會增加 MDS/AML。",
+          "Auto 這一側還有兩組數據。CUP trial 是唯一的 randomized study，140 位 relapsed FL，兩年 PFS 化療組 26%，移植組 55 到 58%，OS 也較好。長期追蹤的十年 PFS 31 到 50%，代表一部分病人可能治癒。Purging 沒有好處，EBMT-LYM-1 則顯示移植後 rituximab maintenance 可以延長 PFS。"
+        ]
+      },
+      "captionY": 5.1
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Mantle cell lymphoma · Sequence",
+      "title": "Mantle cell lymphoma moves from auto-HCT to CAR-T to allo-HCT",
+      "root": "Mantle cell lymphoma, young and fit",
+      "branches": [
+        {
+          "label": "First line",
+          "box": "R + HD-AraC + ibrutinib (TRIANGLE)",
+          "out": "Auto questioned:\nlow-risk MIPI or TP53"
+        },
+        {
+          "label": "Relapse after BTKi",
+          "box": "Brexu-cel (anti-CD19 CAR-T)",
+          "out": "ORR 91%, CR 68%;\nmedian PFS 28.2 mo"
+        },
+        {
+          "label": "Relapse after CAR-T",
+          "box": "Allo-HCT (RIC)",
+          "out": "5-y OS 40%; relapse 40%"
+        }
+      ],
+      "invert": 1,
+      "cite": "Baermann BN, et al. EBMT Handbook 8th ed. 2024; Ch. 87",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Mantle cell 的 first line，HD-AraC 加 rituximab 再 auto，之後 rituximab maintenance，LyMa trial 證明 maintenance 改善 PFS 和 OS。TRIANGLE 加上 ibrutinib 又更好，而且 ibrutinib 加 HD-AraC 不做 auto 的組別，比傳統 HD-AraC 加 auto 好。MIPI low-risk 和 TP53 突變的病人，auto 的價值要重新討論。",
+          "BTK inhibitor 之後復發，標準是 brexu-cel。三年追蹤 ORR 91%、CR 68%，中位 PFS 28.2 個月。Grade 3 以上 CRS 15%，neurologic events 31%，一年 NRM 可到 9.1%。65 歲上下效果相近，但 ECOG 2 以上的病人 ICANS 比較多。",
+          "Auto 失敗後做第二次 auto 沒有意義。RIC allo 五年 OS 40%、復發 40%，有 chronic GVHD 的人復發較少，證明有 graft-versus-MCL effect。現在 allo 留給 CAR-T 之後復發的病人。",
+          "挑 allo 病人時還有一個細節。少數 relapsed MCL 不做 allo 也活超過五年，病程比較 indolent，Ki67 低的病人可能不需要 allo。另一方面，auto 後復發的 MCL 將近 40% 是 chemorefractory，TP53 突變比例高，這也是 CAR-T 取代 salvage 化療的原因。CARMAN trial 正在測試 first line 給 high-risk 病人 CAR-T。"
+        ],
+        "reminders": [
+          "Ch. 87 attributes the brexu-cel 3-year data (ORR 91%, CR 68%, PFS 28.2 months) and the age comparison to 'Wang et al. 2023a', but its reference list labels the ZUMA-2 3-year paper as 2023b and the US real-world consortium as 2023a. Reference 24 here is the ZUMA-2 paper."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Other diseases",
+      "eyebrow": "Support chapters · Exam points",
+      "title": "Rarer indications follow the same auto, allo and CAR-T logic",
+      "head": [
+        "Disease",
+        "Auto-HCT",
+        "Allo-HCT or CAR-T"
+      ],
+      "rows": [
+        [
+          "AL amyloidosis",
+          "MEL 200; low risk only (≤ 20%);\nTRM down from ~20% to 2%",
+          "Allo after auto relapse: < 60 y,\nHLA-identical donor"
+        ],
+        [
+          "POEMS syndrome",
+          "MEL 140–200; engraftment\nsyndrome in up to 50%",
+          "Not addressed in Ch. 83"
+        ],
+        [
+          "CLL",
+          "No role, except Richter",
+          "Allo: 2 classes failed or TP53/CK\n+ 1; CAR-T trials only"
+        ],
+        [
+          "Peripheral T-cell",
+          "CR1 if IPI > 1; CR ≥ 2",
+          "Allo: CR ≥ 2 or relapse after auto"
+        ],
+        [
+          "Burkitt",
+          "Feasible; no proven gain in CR1",
+          "Allo in CR ≥ 2; CAR-T often too slow"
+        ],
+        [
+          "HIV lymphoma",
+          "Same indications as HIV-negative",
+          "Allo: case series only"
+        ]
+      ],
+      "colW": [
+        2.4,
+        4.6,
+        4.8
+      ],
+      "fontSize": 15,
+      "cite": "EBMT Handbook 8th ed. 2024; Ch. 82 (Minnema) · 83 (Cook) · 85 (Schetelig) · 88 (Hübel)",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "最後一張把四個 support chapter 的考點壓在一起。AL amyloidosis 用 melphalan 200，但只有不到 20% 的 low-risk 病人適合。加入 cardiac biomarker 篩選之後，TRM 從大約 20% 降到 2%。Allo 只在 auto 後復發、60 歲以下、有 HLA-identical donor 的病人討論。",
+          "POEMS 的 auto 用 melphalan 140 到 200，特別的是 engraftment syndrome 高達 50%，要及早用 prednisone 處理，用 cyclophosphamide 加 G-CSF mobilization 可以降低發生率。",
+          "CLL 的 auto 除了 Richter 之外沒有角色。Allo 的適應症是兩類 pathway inhibitor 都失敗，或有 TP53 異常、complex karyotype、一類失敗，另外 Richter 病史也是。CAR-T 目前只能在試驗裡做。",
+          "PTCL 的 auto 可以放在 CR1，條件是 IPI 大於 1；allo 給 CR2 以上或 auto 後復發。Burkitt 進展太快，CAR-T 需要 4 到 6 週製造，常常等不及。HIV 相關淋巴瘤在 cART 下，auto 的適應症和一般病人相同。",
+          "AL amyloidosis 的 first line 現在偏向 daratumumab-CyBorD，Andromeda 之後 EMA 核准，但 stage IIIb 的病人排除在外；transplant-eligible 的病人如果反應不到 VGPR，仍可以做 auto。t(11;14) 的病人 auto 效果較好，復發時用 venetoclax 反應率也很高。",
+          "Aggressive lymphoma 的 allo 數字可以並排記。Burkitt 一年 TRM 30%，五年 OS 30 到 40%；PTCL 一年 TRM 20 到 25%，三年 OS 40 到 60%。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: choose second-line therapy for relapsed LBCL",
+      "stem": "After 6 cycles of R-CHOP, a 56-year-old man with DLBCL (IPI 3) reached complete metabolic response. Seven months after the last cycle, PET-CT and a core biopsy confirm relapse. ECOG is 1 and organ function is normal. What is the preferred next treatment?",
+      "options": [
+        "R-ICE salvage, then BEAM auto-HCT if chemosensitive",
+        "Anti-CD19 CAR-T cell therapy",
+        "Myeloablative allo-HCT from an unrelated donor",
+        "R-ICE salvage followed by rituximab maintenance",
+        "Tandem auto-HCT after R-DHAP salvage"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: relapse within 12 months of first line goes to CAR-T",
+      "explanation": "Relapse ≤ 12 months after first-line therapy is early relapse. Axi-cel and liso-cel improved PFS over salvage plus auto-HCT in two phase III trials, so CAR-T is the standard. Salvage plus auto-HCT is standard for relapse > 12 months. Allo-HCT is reserved for relapse after CAR-T; rituximab maintenance failed in CORAL.",
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題回到 LBCL。56 歲男性，IPI 3，R-CHOP 六個 cycle 後達到 complete metabolic response，最後一次治療後第 7 個月復發，PET-CT 和 core biopsy 都確認。ECOG 1，器官功能正常。問依照 EBMT Handbook，下一步首選是什麼。",
+          "A 是 R-ICE 後如果有反應就做 BEAM auto，B 是 anti-CD19 CAR-T，C 是 unrelated donor 的 MAC allo，D 是 R-ICE 加 rituximab maintenance，E 是 R-DHAP 後做 tandem auto。",
+          "注意題目沒有提 donor，也沒有說 salvage 之後的反應，這兩個資訊在這題都用不到。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。關鍵是第 7 個月，小於 12 個月，屬於 early relapse。Axi-cel 和 liso-cel 兩個 phase III 都跟 salvage 加 auto 直接比，CAR-T 的 PFS 比較好，所以這群人的 standard of care 是 CAR-T。",
+          "A 是最大的陷阱，salvage 加 auto 是正確的治療，但適用在超過 12 個月的 late relapse。如果題目把 7 個月改成 18 個月，答案就變成 A。C 的 allo 留給 CAR-T 之後復發；D 的 rituximab maintenance 在 CORAL 沒有好處；E 的 tandem 在 rituximab 時代沒有資料。",
+          "另外，這位病人 IPI 3、器官功能好，算是 fit。如果換成年紀大、有共病、不適合移植的病人，CAR-T 仍然可以考慮，因為 CAR-T 不需要 chemosensitivity，這是它相對 auto 的另一個優勢。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose the post-induction plan in high-risk myeloma",
+      "stem": "A 58-year-old woman has newly diagnosed IgG myeloma, ISS III, with del(17p) on FISH. After 4 cycles of daratumumab-VRD she is in VGPR; renal function is normal and she has an HLA-matched sister. Which post-induction plan best reflects the EBMT Handbook?",
+      "options": [
+        "Allo-HCT from her sister as standard consolidation",
+        "MEL 200 mg/m², tandem AHCT, then lenalidomide maintenance",
+        "Busulfan-melphalan conditioning to deepen the response",
+        "Single AHCT followed by thalidomide maintenance",
+        "Omit AHCT and stop therapy once MRD is negative"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: high-risk myeloma gets tandem AHCT and lenalidomide",
+      "explanation": "MEL 200 mg/m² is the standard conditioning; double AHCT can be considered for high-risk disease such as del(17p) (EMN02/HO95), and lenalidomide maintenance prolongs PFS and OS. Allo-HCT is controversial and belongs in a clinical trial. Busulfan failed to beat melphalan; thalidomide gave no OS benefit.",
+      "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題是 myeloma。58 歲女性，新診斷 IgG myeloma，ISS III，FISH 有 del(17p)。Daratumumab-VRD 四個 cycle 後 VGPR，腎功能正常，有一位 HLA 相合的姊姊。問 induction 之後的計畫，哪一個最符合書上的建議。",
+          "A 是用姊姊做 allo 當標準 consolidation，B 是 melphalan 200 做 tandem AHCT 再接 lenalidomide maintenance，C 是 busulfan-melphalan，D 是單次 AHCT 加 thalidomide maintenance，E 是不做 AHCT、MRD 陰性就停藥。",
+          "題目特別給了一位 HLA 相合的姊姊，這個資訊是刻意放進去的。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。Del(17p) 是 high-risk，書上的 key point 寫 double AHCT 可以考慮給這群病人，EMN02 的 tandem 組在 high-risk subgroup 也有 PFS 好處。Conditioning 是 melphalan 200，之後 lenalidomide maintenance。",
+          "A 是主要陷阱，有 matched sibling 不代表要做 allo。Myeloma 的 allo 被 TRM 抵銷，書上明說只在 clinical trial 裡做。C 的 busulfan 毒性較高且沒有勝出；D 的 thalidomide 沒有 OS 好處，又有 neuropathy；E 的停藥策略沒有被證實。",
+          "Del(17p) 的病人還要注意 consolidation。EMN02 的 VRD consolidation 在 high-risk cytogenetics 沒有改善 PFS，所以選項裡沒有放 consolidation。Lenalidomide maintenance 在 meta-analysis 的各個 subgroup 都改善 PFS，死亡風險下降 25%。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: bridge a Hodgkin relapse to allo-HCT",
+      "stem": "A 27-year-old woman with classical Hodgkin lymphoma relapses 5 months after BEAM auto-HCT. She reaches PET-negative complete response after 4 cycles of nivolumab. Her only donor is a haploidentical brother. Which plan is most appropriate?",
+      "options": [
+        "Proceed to allo-HCT one week after the last nivolumab dose",
+        "Hold nivolumab ≥ 6 weeks, then haplo allo-HCT with PTCy",
+        "Second auto-HCT with TBI-based conditioning",
+        "Avoid the haploidentical donor and wait for a matched unrelated donor",
+        "Low-dose TBI-based RIC to lower the relapse risk"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: wash out checkpoint inhibitors and use PTCy",
+      "explanation": "Allo-HCT is the curative option after auto-HCT failure. Checkpoint inhibitors before allo-HCT may raise acute GVHD, SOS/VOD and hyperacute febrile syndrome, so hold them ≥ 6 weeks and use PTCy. Haplo PTCy gives results similar to MSD/MUD. TBI is avoided in auto-HCT; low-dose TBI RIC had higher relapse.",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題是 Hodgkin。27 歲女性，classical Hodgkin，BEAM auto 之後 5 個月復發，四個 cycle 的 nivolumab 後達到 PET-negative CR。唯一的 donor 是 haploidentical 的哥哥。問最適當的計畫。",
+          "A 是最後一劑 nivolumab 一週後就做 allo，B 是停 nivolumab 至少 6 週、用 PTCy 做 haplo，C 是用 TBI 做第二次 auto，D 是放棄 haplo、等 unrelated donor，E 是用 low-dose TBI 的 RIC 降低復發。",
+          "題目給的時間點和 donor 類型都是線索，auto 後多久復發、用什麼藥 bridge，都會影響下一步。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。Auto 之後復發的 cHL，allo 是書上唯一的治癒選項。Checkpoint inhibitor 移植前使用，會增加 acute GVHD、SOS/VOD 和 hyperacute febrile syndrome，所以建議停藥至少 6 週，GVHD prophylaxis 用 PTCy。",
+          "A 是最主要的陷阱，把 BV 的規則套到 PD-1 上，BV 不需要 washout，PD-1 需要。D 也不對，haplo 加 PTCy 的結果和 MSD、MUD 相近，GVHD 甚至更少。C 和 E 都踩到 TBI，auto 不建議 TBI，而 low-dose TBI 的 RIC 復發反而較高。",
+          "這題也可以反過來出。如果 bridge 用的是 BV，就不需要 washout，BV 通常給 4 到 6 個 cycle，可能改善移植前的 performance status，甚至減少 chronic GVHD。Auto 後 5 個月就復發屬於早期復發，預後較差，更需要 allo 來鞏固。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Myeloma · Staging",
+      "title": "ISS, R-ISS and R2-ISS stage myeloma risk",
+      "head": [
+        "System",
+        "Definition (Table 81.1)"
+      ],
+      "rows": [
+        [
+          "ISS I",
+          "β2M < 3.5 mg/L and albumin > 3.3 g/dL"
+        ],
+        [
+          "ISS III",
+          "β2M > 5.5 mg/L (ISS II: all others)"
+        ],
+        [
+          "R-ISS I",
+          "ISS I, standard-risk cytogenetics and normal LDH"
+        ],
+        [
+          "R-ISS III",
+          "ISS III plus high-risk cytogenetics or high LDH"
+        ],
+        [
+          "R2-ISS points",
+          "ISS III 1.5; ISS II 1; del(17p) 1; high LDH 1; 1q+ 0.5"
+        ],
+        [
+          "R2-ISS groups",
+          "I: 0; II: 0.5–1; III: 1.5–2.5; IV: 3–5 points"
+        ],
+        [
+          "High-risk FISH",
+          "t(4;14), t(14;16) and/or del(17p)"
+        ]
+      ],
+      "colW": [
+        2.6,
+        9.0
+      ],
+      "fontSize": 18,
+      "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
+      "notes": {
+        "script": [
+          "這是 Table 81.1 的三套分期。ISS 看 β2-microglobulin 和 albumin，R-ISS 加上 cytogenetics 和 LDH，R2-ISS 改成計分，1q gain 給 0.5 分。High-risk FISH 是 t(4;14)、t(14;16) 和 del(17p)。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "LBCL · Salvage and BEAM",
+      "title": "Salvage regimens perform alike before auto-HCT in LBCL",
+      "head": [
+        "Item",
+        "Data in Ch. 86"
+      ],
+      "rows": [
+        [
+          "R-DHAP (CORAL)",
+          "ORR 62.8%, CR 28% (LY.12: ORR 44.1%, CR 14.3%)"
+        ],
+        [
+          "R-ICE (CORAL)",
+          "ORR 63.5%, CR 24%"
+        ],
+        [
+          "R-GDP (LY.12)",
+          "ORR 45.1%, CR 13.5% after 2 cycles"
+        ],
+        [
+          "BEAM",
+          "BCNU 300 d−6; VP, Ara-C d−5→−2; MEL 140 d−1 [verify: unit]"
+        ],
+        [
+          "Adverse factors",
+          "Relapse < 12 mo, 2nd aaIPI, poor PS, ≥ 2 extranodal sites"
+        ],
+        [
+          "BEAM late effects",
+          "Second cancers 20% (NRM leader, 12-fold); lung 21%"
+        ]
+      ],
+      "colW": [
+        2.8,
+        8.8
+      ],
+      "fontSize": 17,
+      "cite": "Bento L, et al. EBMT Handbook 8th ed. 2024; Ch. 86 · Gisselbrecht 2010; Crump 2014",
+      "notes": {
+        "script": [
+          "Salvage regimen 之間沒有療效差異，R-DHAP 和 R-ICE 的 ORR 都在 63% 左右。BEAM 的劑量照書上列出，melphalan 的單位書上印成 mg/kg，報告前要確認。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 86 and Ch. 89 both print BEAM melphalan as '140 mg/kg/day × 1, day −1'; the unit is almost certainly mg/m². Check before quoting a dose."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "cHL · Relapse after auto-HCT",
+      "title": "Brentuximab, PD-1 blockade and CAR-T can bridge cHL after auto-HCT",
+      "head": [
+        "Option",
+        "Result (Table 89.4)"
+      ],
+      "rows": [
+        [
+          "Brentuximab vedotin",
+          "ORR 75%, CR 34%; PFS 5.6 months"
+        ],
+        [
+          "Nivolumab (after auto and BV)",
+          "ORR 69%, CR 16%; median PFS 12–18 months"
+        ],
+        [
+          "Pembrolizumab",
+          "ORR 69%, CR 22%; PFS 72% at 6 months"
+        ],
+        [
+          "CAR-T cells",
+          "ORR 39–100%, CR 50%"
+        ],
+        [
+          "Second auto-HCT",
+          "NRM 15%; 5-year OS and PFS 30%"
+        ],
+        [
+          "Tandem auto-HCT (poor risk)",
+          "NRM 0–5%; 5-year OS 54–84%, PFS 49–55%"
+        ]
+      ],
+      "colW": [
+        4.2,
+        7.4
+      ],
+      "fontSize": 18,
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89",
+      "notes": {
+        "script": [
+          "Auto 後復發的選擇很多，BV、nivolumab、pembrolizumab 的 ORR 都在 70% 左右。EBMT 1781 位病人的分析顯示，auto 後復發的四年 OS 從 32% 進步到 63%。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "AL amyloidosis · Eligibility",
+      "title": "Strict selection keeps auto-HCT safe in AL amyloidosis",
+      "head": [
+        "Criterion",
+        "Usual threshold (Ch. 82)"
+      ],
+      "rows": [
+        [
+          "Age and performance status",
+          "≤ 70 years; PS 0–2"
+        ],
+        [
+          "Heart",
+          "NYHA I–II; NT-proBNP < 5000 ng/L; LVEF ≥ 45–50%"
+        ],
+        [
+          "Blood pressure",
+          "Systolic ≥ 90 mmHg (no severe orthostatic hypotension)"
+        ],
+        [
+          "Kidney",
+          "eGFR > 40 mL/min"
+        ],
+        [
+          "Mobilization",
+          "Reduced G-CSF, e.g. 10 μg/kg/day for 4–5 days"
+        ],
+        [
+          "Conditioning",
+          "MEL 200 mg/m²; lower doses give worse response and PFS"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8.0
+      ],
+      "fontSize": 18,
+      "cite": "Minnema M, et al. EBMT Handbook 8th ed. 2024; Ch. 82",
+      "notes": {
+        "script": [
+          "AL amyloidosis 做 auto 的條件幾乎都和心臟有關，NYHA I 到 II、NT-proBNP 小於 5000、收縮壓至少 90。G-CSF 要減量，因為可能誘發 capillary leak。Melphalan 用 200，降劑量反應較差。"
+        ]
+      }
+    }
+  ],
+  "refsPerSlide": 9
+}
