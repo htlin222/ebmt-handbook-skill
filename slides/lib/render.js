@@ -41,7 +41,7 @@ const L = {
     const sum = colW.reduce((a, b) => a + b, 0);
     colW = colW.map(c => +(c * W / sum).toFixed(2));
     d.table(s, o.head, o.rows, colW, X, y + 0.1, o.fontSize || (o.rows.length > 8 ? 14 : o.rows.length > 5 ? 16 : 18));
-    if (o.caption) d.tx(s, o.caption, X, BOTTOM - 0.45, W, 0.45, { fontSize: 16, bold: true });
+    if (o.caption) d.tx(s, o.caption, X, o.captionY || BOTTOM - 0.45, W, 0.45, { fontSize: 16, bold: true });
   },
 
   // Horizontal chain of 2-5 boxes joined by arrows; `invert` = index of the one emphasised box.
@@ -59,11 +59,11 @@ const L = {
   // Decision tree: one root, 2-4 branches (optional edge label), optional outcome box under each branch.
   tree(s, o, y) {
     const n = o.branches.length, gap = 0.4, w = (W - gap * (n - 1)) / n;
-    const rootW = Math.min(7.5, W), rootH = 0.85, rx = X + (W - rootW) / 2;
+    const rootW = Math.min(7.5, W), rootH = 0.75, rx = X + (W - rootW) / 2;
     d.box(s, boxText(o.root, 17, true), rx, y, rootW, rootH, { align: "center", invert: o.invert === "root" });
-    const busY = y + rootH + 0.3, hasLabel = o.branches.some(b => b.label);
-    const childY = busY + (hasLabel ? 0.75 : 0.4), hasOut = o.branches.some(b => b.out);
-    const childH = o.childH || (hasOut ? 1.05 : 1.6);
+    const busY = y + rootH + 0.25, hasLabel = o.branches.some(b => b.label);
+    const childY = busY + (hasLabel ? 0.65 : 0.35), hasOut = o.branches.some(b => b.out);
+    const childH = o.childH || (hasOut ? 0.9 : 1.5);
     seg(s, X + W / 2, y + rootH, X + W / 2, busY);
     const cx = (i) => X + i * (w + gap) + w / 2;
     seg(s, cx(0), busY, cx(n - 1), busY);
@@ -73,9 +73,9 @@ const L = {
       if (b.label) d.tx(s, b.label, x, busY + 0.08, w, 0.55, { fontSize: 14, italic: true, align: "center", valign: "middle", fill: { color: "FFFFFF" } });
       d.box(s, boxText(b.box, n > 3 ? 15 : 16, true), x, childY, w, childH, { align: "center", invert: o.invert === i });
       if (b.out) {
-        const oy = childY + childH + 0.35;
+        const oy = childY + childH + 0.3;
         arrow(s, cx(i), childY + childH, cx(i), oy - 0.02);
-        d.box(s, boxText(b.out, n > 3 ? 14 : 15, false), x, oy, w, Math.min(1.25, BOTTOM - oy), { align: "center" });
+        d.box(s, boxText(b.out, n > 3 ? 14 : 15, false), x, oy, w, Math.min(1.0, BOTTOM - oy), { align: "center" });
       }
     });
   },
@@ -144,7 +144,7 @@ let backupStarted = false, section = null;
 for (const o of spec.slides) {
   if (o.backup && !backupStarted) {
     d.section("References");
-    d.references(spec.references);
+    d.references(spec.references, spec.refsPerSlide || 8);
     d.startBackup();
     backupStarted = true;
   }
@@ -163,7 +163,7 @@ for (const o of spec.slides) {
   if (!L[o.type]) throw new Error("unknown slide type " + o.type);
   L[o.type](s, o, top(o.title));
 }
-if (!backupStarted) { d.section("References"); d.references(spec.references); }
+if (!backupStarted) { d.section("References"); d.references(spec.references, spec.refsPerSlide || 8); }
 
 const out = path.join(outDir, path.basename(specPath, ".json") + ".pptx");
 d.save(out, { minutes: 30 }).then(() => console.log("wrote " + out)).catch(e => { console.error(e); process.exit(1); });

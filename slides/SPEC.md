@@ -20,14 +20,16 @@ speaker script in Traditional Chinese (Taiwan clinical register).
   which donor), named trials and their results. Skip history and organisational detail.
 - Footer `cite` on every slide: short form of the chapter(s) the slide draws on, e.g.
   `Holler E, et al. EBMT Handbook 8th ed. 2024; Ch. 43`. Join two with ` · `.
+- `refsPerSlide` (optional, default 8): lower it if long references overflow.
 - `references`: the full form of each chapter used (authors, title, in: The EBMT Handbook,
   8th ed., Springer 2024, pages, DOI from the chapter header), then any primary paper you
   name on a slide, copied **verbatim** from that chapter's reference list, numbered.
 
 ## Time budget (30 minutes)
 
-- 17–20 spoken slides including the cover (0.5 min), outline (0.5–1), and **3 board-style
-  questions** at the end (each question + answer pair ≈ 1.5–2 min total).
+- 17–19 spoken items including the cover (0.5 min), outline (0.5–1), and **3 board-style
+  questions** at the end. Each `mcq` renders as two slides (question ≈ 0.75 min, answer ≈ 1 min),
+  so the render shows 20–22 spoken slides.
 - `notes.min` on every spoken slide; the sum over spoken slides must be 27–29 minutes.
   Tables, flowcharts and criteria slides 1.5–2 min; simple slides 1 min.
 - 2–4 backup slides (`"backup": true`) after the main line for detail that did not fit.
@@ -50,7 +52,7 @@ All slides take `eyebrow` (short CAPS-style label, e.g. "aGVHD · Grading"), `ti
 | type | fields | capacity |
 |---|---|---|
 | `outline` | `rows: [[head, desc, "x min"], …]` | ≤ 4 rows; head ≤ 50 chars, desc ≤ 80 |
-| `table` | `head: [...]`, `rows: [[...]]`, `colW` (relative widths), `caption`, `fontSize` | ≤ 5 columns, ≤ 8 rows; cells ≤ 60 chars; use `\n` for a deliberate break |
+| `table` | `head: [...]`, `rows: [[...]]`, `colW` (relative widths), `caption`, `captionY` (inches; place it just under a short table), `fontSize` | ≤ 5 columns, ≤ 8 rows; cells ≤ 60 chars; use `\n` for a deliberate break |
 | `chain` | `steps: [...]`, `invert` (index), `caption` | 3–5 steps, each ≤ 45 chars (≤ 30 with 5) |
 | `tree` | `root`, `branches: [{label, box, out}]`, `invert` (index or "root") | 2–4 branches; root ≤ 60, box ≤ 40, out ≤ 45, label ≤ 25 chars |
 | `bullets` | `items: [...]` | ≤ 6 items, ≤ 90 chars |
@@ -84,9 +86,13 @@ explains why the answer is right and why the main distractor is wrong.
 
 ## Speaker script (notes)
 
-`notes: {min, script: [paragraphs], reminders: [not read aloud]}`. Budget ≈ 220–240 Chinese
-characters per minute (English terms count as words at ~125/min), so a 1.5-min slide is
-about 300–350 characters. Whole deck ≈ 5,000–6,000 characters.
+`notes: {min, script: [paragraphs], reminders: [not read aloud]}`. The render estimates speaking
+time as Chinese characters ÷ 240 + English words ÷ 125 per minute. **Each spoken slide's
+script estimate must be 80–100% of its `min`, and the deck total 23–27 minutes** (pointing and
+pauses fill the rest). In practice a 1.5-min slide needs about 250–300 Chinese characters plus
+its English terms; the whole deck about 5,500–6,500 Chinese characters. A first draft is usually
+too short: check the timing table and lengthen with explanation, the reasoning behind each
+number, how it is tested, and how it is used on the ward — never with filler.
 
 Write it in Chinese from the start, in the mixed register Taiwanese clinicians speak:
 Chinese sentence frames, English for drug names, trials, endpoints and standard terms

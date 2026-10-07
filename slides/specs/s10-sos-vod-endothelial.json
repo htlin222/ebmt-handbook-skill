@@ -1,0 +1,1037 @@
+{
+  "title": "SOS/VOD and early endothelial complications",
+  "subtitle": "Week 10 · EBMT Handbook Ch. 49 and Ch. 42",
+  "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49 · Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安。今天是第十週，主題是 SOS/VOD，以及移植早期一群源自血管內皮的併發症。",
+      "內容來自 EBMT Handbook 第八版第 49 章的肝臟併發症，和第 42 章的 early complications of endothelial origin。這兩章的作者群重疊，觀點一致，最後留三題 board-style 題目給大家練習。"
+    ]
+  },
+  "references": [
+    "1. Carreras E, Ruutu T, Mohty M, Corbacioglu S, de la Cámara R. Hepatic complications. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 441–58. https://doi.org/10.1007/978-3-031-44080-9_49",
+    "2. Carreras E, Diaz-Ricart M, Jodele S, Penack O, Vasu S. Early complications of endothelial origin. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 373–83. https://doi.org/10.1007/978-3-031-44080-9_42",
+    "3. Mohty M, Malard F, Alaskar AS, et al. Diagnosis and severity criteria for sinusoidal obstruction syndrome/veno-occlusive disease in adult patients: a refined classification from the European society for blood and marrow transplantation (EBMT). Bone Marrow Transplant. 2023;58:749. https://doi.org/10.1038/s41409-023-01992-8.",
+    "4. Spitzer TR. Engraftment syndrome following hematopoietic stem cell transplantation. Bone Marrow Transplant. 2001;27:893–8.",
+    "5. Maiolino A, Biasoli I, Lima J, et al. Engraftment syndrome following autologous hematopoietic stem cell transplantation: definition of diagnostic criteria. Bone Marrow Transplant. 2003;31:393–7.",
+    "6. Szmit Z, Gorczynska E, Król A, et al. Introduction of new pediatric EBMT criteria for VOD diagnosis: is it time-saving or money-wasting? Prospective evaluation of pediatric EBMT criteria for VOD. Bone Marrow Transplant. 2020;55:2138–46.",
+    "7. Yoon JH, Yoo KH, Sung KW, et al. Validation of treatment outcomes according to revised severity criteria from European Society for Blood and Marrow Transplantation (EBMT) for sinusoidal obstruction syndrome/veno-occlusive disease (SOS/VOD). Bone Marrow Transplant. 2019;54:1361–8.",
+    "8. Ruutu T, Juvonen E, Remberger M, et al. Improved survival with ursodeoxycholic acid prophylaxis in allogeneic stem cell transplantation: long-term follow-up of a randomized study. Biol Blood Marrow Transplant. 2014;20:135–8.",
+    "9. Corbacioglu S, Cesaro S, Faraci M, et al. Defibrotide for prophylaxis of hepatic veno-occlusive disease in paediatric haemopoietic stem-cell transplantation: an open-label, phase 3, randomised controlled trial. Lancet. 2012a;379:1301–9.",
+    "10. Grupp SA, Corbacioglu S, Kang HJ, et al. A phase 3, randomized, adaptive study of defibrotide (DF) vs best supportive care (BSC) for the prevention of hepatic veno-occlusive disease/sinusoidal obstruction syndrome (VOD/SOS) in patients (pts) undergoing hematopoietic cell transplantation (HCT): preliminary results. Blood. 2021;138:749.",
+    "11. Grant A, Chapman LRM, Mitchell R, O’Brien TA. Engraftment syndrome following hematopoietic stem cell transplant: a review of the literature. Clin Transpl. 2020;34:e13875.",
+    "12. Schoettler ML, Carreras E, Cho B, et al. Harmonizing definitions for diagnostic criteria and prognostic assessment of transplantation-associated thrombotic Microangiopathy: a report on behalf of the European Society for Blood and Marrow Transplantation, American Society for Transplantation and Cellular Therapy, Asia-Pacific Blood and Marrow Transplantation Group, and Center for International Blood and Marrow Transplant Research. Transplant Cell Ther. 2023;29:151–63.",
+    "13. Jodele S, Dandoy CE, Lane A, et al. Complement blockade for TA-TMA: lessons learned from a large pediatric cohort treated with eculizumab. Blood. 2020;135:1049–57.",
+    "14. Khaled SK, Claes K, Goh YT, et al. Narsoplimab, a Mannan-binding lectin-associated serine Protease-2 inhibitor, for the treatment of adult hematopoietic stem-cell transplantation-associated thrombotic Microangiopathy. J Clin Oncol. 2022;40:2447–57."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Outline",
+      "title": "Four parts, from the liver to the whole endothelium",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49 · Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "rows": [
+        [
+          "SOS/VOD in adults",
+          "Mechanism, risk factors, EBMT 2023 criteria, severity grading, defibrotide",
+          "10.5 min"
+        ],
+        [
+          "SOS/VOD in children",
+          "Pediatric EBMT criteria, refractory thrombocytopenia, prophylaxis debate",
+          "2 min"
+        ],
+        [
+          "FOS, CLS, engraftment and pre-engraftment syndrome",
+          "Timing, triggers, diagnostic criteria, treatment",
+          "3.5 min"
+        ],
+        [
+          "TA-TMA, PRES and three board questions",
+          "Harmonized criteria, risk strata, complement blockade",
+          "10 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分成四段。第一段是成人的 SOS/VOD，從機轉和 risk factors 講起，接著是 EBMT 2023 的診斷分類、嚴重度分級，以及 defibrotide 什麼時候開始用。這一段份量最重，大約十分鐘。",
+          "第二段是兒童。兒童的 SOS/VOD 常常沒有黃疸，所以有自己的一套 pEBMT criteria；預防性 defibrotide 在兒童還有爭議，也會一併帶到。",
+          "第三段是 fluid overload、capillary leak、engraftment syndrome 和 pre-engraftment syndrome，這四個在病房很容易混在一起，重點放在怎麼分辨。",
+          "最後是 TA-TMA 和 PRES，再用三題考題收尾。B 型肝炎預防等內容放在 backup。",
+          "第 42 章的 EASIX 和 biomarker 不另開一段，會穿插在 SOS/VOD 和其他內皮症候群裡面。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "section": "SOS/VOD",
+      "eyebrow": "SOS/VOD · Pathophysiology",
+      "title": "SOS/VOD begins with injury to zone 3 sinusoidal endothelial cells",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "steps": [
+        "Conditioning generates toxic metabolites",
+        "Zone 3 sinusoidal cells swell and leave gaps",
+        "Blood cells and debris enter space of Disse",
+        "Narrowed outflow, postsinusoidal portal HTN"
+      ],
+      "invert": 3,
+      "caption": "Adults: incidence about 5–15%. Most cases resolve within weeks, but severe SOS/VOD carries a mortality above 80%. Day-0 EASIX is a promising marker of high risk.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "先從機轉開始。SOS/VOD 的起點在肝臟 zone 3 的 sinusoidal endothelial cells。Conditioning 產生的 toxic metabolites，一邊傷害肝細胞，一邊活化 sinusoidal 內皮。",
+          "活化的內皮細胞會腫起來，細胞之間出現縫隙。紅血球、白血球和細胞碎片從縫隙鑽進 space of Disse，把內皮層剝離。靜脈管腔越來越窄，血流出不去，最後形成 postsinusoidal portal hypertension。",
+          "第 42 章引用的動物模型也顯示，最早的形態變化就出現在肝竇內皮細胞，所以 SOS/VOD 被視為最典型的內皮症候群，後面講的 FOS、CLS、ES、TA-TMA 都屬於同一個家族。",
+          "臨床表現都能從這裡推出來，包括肝腫大、肝區疼痛、腹水、體重增加、黃疸，還有輸血也拉不上來的 refractory thrombocytopenia。",
+          "成人發生率大約 5 到 15%，實際數字要看 risk factors 多寡和 conditioning 強度。大多數病人幾週內慢慢緩解，但 severe 的死亡率超過 80%。",
+          "第 42 章提到的 EASIX 在 day 0 測量，可以找出 SOS/VOD 的高風險族群，只是還需要更多研究才能放進常規。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "SOS/VOD · Risk factors",
+      "title": "Five factors carry the highest SOS/VOD risk; many others are modifiable",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "Highest relative risk",
+        "Other unmodifiable",
+        "Modifiable"
+      ],
+      "colW": [
+        1.25,
+        1.25,
+        1.25
+      ],
+      "rows": [
+        [
+          "Older patient age",
+          "Second HCT; disease beyond CR2",
+          "Myeloablative conditioning"
+        ],
+        [
+          "Female receiving norethisterone",
+          "Karnofsky <90%; metabolic syndrome",
+          "Oral or high-dose busulfan"
+        ],
+        [
+          "Prior gemtuzumab or inotuzumab ozogamicin",
+          "Iron overload (>1,000 ng/mL)",
+          "High-dose treosulfan or TBI"
+        ],
+        [
+          "Serum bilirubin >26 μmol/L",
+          "Transaminases >2.5× ULN; hepatotoxic drugs",
+          "Unrelated or HLA-mismatched donor"
+        ],
+        [
+          "Fibrosis, cirrhosis, active viral hepatitis",
+          "Abdominal or hepatic irradiation",
+          "Sirolimus or MTX with a CNI; parenteral nutrition"
+        ]
+      ],
+      "caption": "Children add: age <2 years, HLH, osteopetrosis, JMML, neuroblastoma, prior SOS/VOD.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這張表把 risk factors 分成三欄，分類的用意在於哪些可以事先避開。",
+          "左邊是書上標粗體、relative risk 最高的五項。年紀大；女性正在使用 norethisterone；之前用過 gemtuzumab 或 inotuzumab ozogamicin；移植前 bilirubin 超過 26 μmol/L；以及原本就有肝病，像 fibrosis、cirrhosis 或 active viral hepatitis。",
+          "中間是其他無法改變的因子。Second HCT、疾病超過第二次 CR 或在復發、Karnofsky 低於 90%、metabolic syndrome、ferritin 超過 1,000 的 iron overload、transaminase 超過上限 2.5 倍、hepatotoxic drugs，以及腹部或肝臟照射。",
+          "右邊是可以調整的，也是預防的重點。MAC、口服或高劑量 busulfan、高劑量 treosulfan 或 TBI；unrelated 或 HLA-mismatched donor；sirolimus 加 MTX 加 tacrolimus，或 MTX 加 CNI 的 GVHD prophylaxis；還有 parenteral nutrition。",
+          "Ozogamicin 這一項考試很常出。兒童在嬰兒期以外，風險最高的就是先用過 ozogamicin、再接 MAC 移植的病人。兒童還要加上兩歲以下、HLH、osteopetrosis、JMML、neuroblastoma，以及之前發生過 SOS/VOD。",
+          "兒童的 iron overload 多見於長期輸血的 thalassemia、sickle cell 和 aplastic anemia；如果積極排鐵後鐵量仍降不下來，建議做肝切片看發炎程度，只有輕度發炎時風險相對有限。Busulfan 不論血中濃度如何都算 risk factor，treosulfan 對內皮的傷害則比較小。",
+          "Risk factor 的數目也會影響分級，兩個以上，mild 和 moderate 就往上升一級。"
+        ]
+      },
+      "fontSize": 14
+    },
+    {
+      "type": "table",
+      "eyebrow": "SOS/VOD · Diagnosis in adults",
+      "title": "EBMT 2023 adds a probable category so that treatment is not delayed",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "Finding",
+        "Probable",
+        "Clinical",
+        "Proven"
+      ],
+      "colW": [
+        2.2,
+        1.1,
+        1.3,
+        1.1
+      ],
+      "rows": [
+        [
+          "Bilirubin ≥2 mg/dL",
+          "Counts",
+          "Mandatory",
+          "—"
+        ],
+        [
+          "Painful hepatomegaly",
+          "Counts",
+          "Counts",
+          "—"
+        ],
+        [
+          "Weight gain >5%",
+          "Counts",
+          "Counts",
+          "—"
+        ],
+        [
+          "Ascites",
+          "Counts",
+          "Counts",
+          "—"
+        ],
+        [
+          "Ultrasound or elastography suggestive",
+          "Counts",
+          "—",
+          "—"
+        ],
+        [
+          "Histology, or HVPG ≥10 mmHg",
+          "—",
+          "—",
+          "Sufficient"
+        ],
+        [
+          "Rule",
+          "Any 2 of 5",
+          "Bilirubin + 2 of 3",
+          "Either one"
+        ]
+      ],
+      "caption": "Onset ≤ day 21 = classical; > day 21 = late-onset. Same criteria; exclude other causes.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "成人診斷原本有兩套標準並存，1984 年的 Seattle 和 1987 年的 Baltimore。差別在 bilirubin，Baltimore 規定至少 2 mg/dL，Seattle 沒有。兩套都不適合早期診斷，也會漏掉 late-onset，所以 EBMT 2016 年提出修訂版，classical SOS/VOD 保留 Baltimore 的 bilirubin 門檻。",
+          "可是有些病人還沒湊齊條件就已經很嚴重，治療因此延誤，所以 EBMT 2023 再加上 probable 這一類。",
+          "Probable 是五項裡任兩項，包括 bilirubin ≥2、painful hepatomegaly、體重增加超過 5%、腹水，以及超音波或 elastography 符合。Clinical 一定要有 bilirubin ≥2，再加後三項中的兩項。Proven 是病理證實，或 HVPG ≥10 mmHg。",
+          "Day 21 以內叫 classical，day 21 以後叫 late-onset，條件相同，只差時間。所有表現都要先排除其他原因。",
+          "經頸靜脈測 HVPG 最準確，但它是侵入性檢查，多數中心無法常規做。Elastography 測 liver stiffness，敏感度和特異度都很好，治療有效後數值也會下降，所以被放進診斷標準。CT 和 MRI 則沒有特異發現。",
+          "超音波可以看到肝脾腫大、膽囊壁增厚、腹水和門脈血流異常。門脈血流變慢或逆流比較特異，但不一定出現，而且通常很晚。Nishida 提出的 HokUS-10 是十項超音波評分，在 106 位病人中敏感度 100%、特異度 95.8%，還需要更大的驗證。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "SOS/VOD · Severity in adults",
+      "title": "Grade by the worst category with ≥2 criteria; ≥2 risk factors upgrade",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "Parameter",
+        "Mild",
+        "Moderate",
+        "Severe",
+        "Very severe (MOD)"
+      ],
+      "colW": [
+        1.75,
+        1.0,
+        1.1,
+        1.25,
+        1.4
+      ],
+      "rows": [
+        [
+          "Time since symptoms",
+          ">7 days",
+          "5–7 days",
+          "≤4 days",
+          "Any time"
+        ],
+        [
+          "Bilirubin, mg/dL",
+          "≥2 and <3",
+          "≥3 and <5",
+          "≥5 and <8",
+          "≥8"
+        ],
+        [
+          "Bilirubin kinetics",
+          "—",
+          "—",
+          "Doubling in 48 h",
+          "—"
+        ],
+        [
+          "Transaminases",
+          "≤2× normal",
+          ">2–5× normal",
+          ">5–8× normal",
+          ">8× normal"
+        ],
+        [
+          "Weight increase",
+          "—",
+          "—",
+          "≥5%",
+          "≥10%"
+        ],
+        [
+          "Creatinine vs baseline",
+          "Baseline",
+          "<1.5×",
+          "≥1.5 and <2×",
+          "≥2× or MOD"
+        ]
+      ],
+      "caption": "Validation (n=203, Yoon 2019): day +100 TRM 36.7% if very severe vs 2.7–8.3% in other grades.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "確診之後要馬上分級，因為分級直接決定什麼時候開始治療。EBMT 把成人 SOS/VOD 分成 mild、moderate、severe、very severe 四級，看五個參數，包括症狀出現多久、bilirubin 的數值和上升速度、transaminase、體重增加，以及和移植時相比的腎功能。",
+          "某一欄符合兩項以上，就歸到那一級；兩欄都符合時，取比較嚴重的那一級。有兩個以上 risk factors 的病人，mild 和 moderate 要往上升一級。出現 multiple organ dysfunction 一律算 very severe，2023 年版把 MOD 定義為 SOFA score 兩個以上器官達 2 分以上。",
+          "這些切點值得背起來。Bilirubin 是 2、3、5、8；48 小時內 doubling 算 severe；症狀出現四天以內算 severe；體重增加 5% 是 severe，10% 是 very severe；肌酸酐兩倍以上算 very severe。",
+          "Yoon 2019 用 203 位病人驗證這套分級。Very severe 的 day 100 TRM 是 36.7%，其他三級都在 8.3% 以下。報告時也要寫明用的是診斷當下的分級，還是病程中最高的分級。",
+          "分級要在確診之後使用，probable、clinical、proven 都適用。舉個例子，症狀第三天、體重增加 6%、bilirubin 4，severe 這一欄已經有兩項，即使 bilirubin 只到 moderate，也要歸在 severe。同一個研究裡，very severe 的 OS 是 58.6%，其他組是 89.3%。"
+        ]
+      },
+      "captionY": 5.5
+    },
+    {
+      "type": "tree",
+      "eyebrow": "SOS/VOD · Treatment",
+      "title": "Defibrotide is started early from moderate SOS/VOD upward",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "root": "SOS/VOD diagnosed: probable, clinical or proven",
+      "branches": [
+        {
+          "label": "Mild",
+          "box": "Supportive care, close monitoring",
+          "out": "Defibrotide at once if it worsens"
+        },
+        {
+          "label": "Moderate",
+          "box": "Early defibrotide",
+          "out": "Earlier start, higher day +100 OS"
+        },
+        {
+          "label": "Severe or very severe",
+          "box": "Defibrotide as soon as possible",
+          "out": "25 mg/kg/day for ≥14–21 days"
+        }
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "分級之後，治療就很清楚。Defibrotide 是書上唯一用來治療 severe SOS/VOD 的藥，severe 和 very severe 一確診就要盡快開始。",
+          "Moderate 也建議早點用。越早開始 day 100 OS 越好，而且 moderate 本身就有不小的死亡率。Mild 先做 supportive care，密切追蹤嚴重度指標，一旦變差就立刻開始 defibrotide。",
+          "Supportive care 包括平衡體液、避免 prerenal failure，避開 hepatotoxic drugs，並小心處理凝血。Moderate 要早治療的依據是 Kernan 2018 的 treatment-IND 研究，越早開始 defibrotide，day 100 存活越好，在多重器官衰竭的次族群也是如此。",
+          "開始的依據是嚴重度，和診斷屬於 probable、clinical 或 proven 無關。實務上，不必等到 HVPG 或切片證實才給藥。",
+          "劑量是每天 25 mg/kg，至少 14 到 21 天，一直用到所有症狀緩解為止。劑量和療程都是常見考點。",
+          "兒科章節也提到，defibrotide 是唯一被核准專門治療 SOS/VOD 的藥物，兒童和成人的用法差別不大。",
+          "這套做法來自 EBMT 2020 年的建議，書中認為到現在仍然適用。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "SOS/VOD · Prophylaxis",
+      "title": "UDCA is the recommended prophylaxis; defibrotide prophylaxis is disputed",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "Measure",
+        "Data in the chapter",
+        "Position"
+      ],
+      "colW": [
+        1.3,
+        2.9,
+        1.25
+      ],
+      "rows": [
+        [
+          "Avoid modifiable risk factors",
+          "Conditioning, donor, GVHD prophylaxis, nutrition",
+          "Crucial"
+        ],
+        [
+          "Ursodeoxycholic acid",
+          "From conditioning to day +90 (Ruutu 2014)",
+          "Recommended (adults)"
+        ],
+        [
+          "Defibrotide, pediatric RCT (2012)",
+          "360 high-risk children: 20% vs 12%, p=0.049",
+          "Effective"
+        ],
+        [
+          "Defibrotide, HARMONY (Grupp 2021)",
+          "372, half adults: SOS-free survival 67% vs 73%, p=0.85",
+          "Not effective"
+        ],
+        [
+          "Children, high risk",
+          "pEBMT criteria already allow earlier defibrotide",
+          "Open question"
+        ]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "預防分兩層。非藥物的部分，是盡量減少前面那張表右欄的可調整因子，例如 conditioning 強度、donor 選擇、GVHD prophylaxis 組合和 parenteral nutrition。",
+          "藥物方面，成人建議從 conditioning 開始給 ursodeoxycholic acid，一直到 day +90，依據是 Ruutu 2014 隨機試驗的長期追蹤。",
+          "兒童試驗的 per-protocol 分析 p 值是 0.022，結果比 intention-to-treat 更明顯。",
+          "Defibrotide 預防有兩個結果相反的 RCT。2012 年的兒童試驗收 360 位高風險病童，發生率從 20% 降到 12%，p 值 0.049。HARMONY 收 372 人，一半是成人，day +30 SOS/VOD-free survival 是 67% 對 73%，p 值 0.85，沒有差異，不良事件也相同。",
+          "兒科作者認為 HARMONY 的樣本數計算、endpoint 和設計都有問題。高風險兒童需不需要預防，書上的結論是仍然沒有定論。",
+          "另外，HCV RNA 陽性且有明顯纖維化的病人，第 49 章建議考慮 SOS-sparing regimen；poorly compensated cirrhosis 則是移植的禁忌症，因為 MAC 之後 SOS 風險非常高。"
+        ]
+      },
+      "fontSize": 16
+    },
+    {
+      "type": "table",
+      "eyebrow": "SOS/VOD · Children",
+      "title": "Children need pEBMT criteria: no bilirubin threshold and no time limit",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "pEBMT criterion (any 2 of 5)",
+        "Why it differs from adults"
+      ],
+      "colW": [
+        1.55,
+        1.25
+      ],
+      "rows": [
+        [
+          "Weight gain on 3 days despite diuretics, or >5% in 72 h",
+          "Replaces fixed 3% or 5% cut-offs"
+        ],
+        [
+          "Rising bilirubin on 3 days, or ≥2 mg/dL within 72 h",
+          "About 30% of pediatric SOS/VOD is anicteric"
+        ],
+        [
+          "Hepatomegaly above baseline, best on imaging",
+          "Baseline ultrasound before HCT"
+        ],
+        [
+          "Ascites above baseline, best on imaging",
+          "Often preexistent in HLH, osteopetrosis, TDT"
+        ],
+        [
+          "Unexplained transfusion-refractory thrombocytopenia*",
+          "Earliest and most sensitive sign"
+        ]
+      ],
+      "caption": "*≥1 weight-adjusted platelet transfusion/day. Szmit 2020: diagnosis 3 days earlier than Seattle.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "兒童的 SOS/VOD 和成人差很多，主要原因是嬰幼兒肝臟還不成熟。發生率大約是成人的兩倍，一般估 15%，高風險族群可到 60%。高峰在 day 12，八成在 21 天內出現。",
+          "最大的差別在黃疸。兒童 anicteric SOS/VOD 約佔 30%，是成人的兩倍；bilirubin 上升又常常很晚，一到 2 mg/dL，day 100 存活就變差。所以 2018 年的 pEBMT criteria 拿掉 bilirubin 門檻，也沒有時間限制，五項裡兩項就成立。",
+          "體重和 bilirubin 改看連續三天的變化，不再用固定的 3% 或 5%。肝大和腹水要跟移植前 baseline 比，因為 HLH、osteopetrosis、thalassemia 的小孩本來就常有，所以移植前要先做超音波。右上腹痛在嬰兒很難評估，沒有列入。",
+          "最敏感、也最早出現的是 refractory thrombocytopenia，定義是每天至少一次依體重計算的血小板輸注。Szmit 2020 發現，用 modified Seattle 會比 pEBMT 晚診斷，中位數 3 天，最多 11 天；用 pEBMT 觸發治療，TRM 低了五倍，住院中位數少 12 天。",
+          "診斷標準本身也會改變發生率。從 Baltimore 換成 Seattle，發生率加倍甚至四倍，從 Seattle 換成 pEBMT 再多大約 5%。另外，嚴重 anicteric 合併多重器官衰竭的比例，兒童是 74%，成人是 59%。幼兒有腹水時，要考慮早一點做 paracentesis，避免往胸腔擠壓影響呼吸。"
+        ]
+      },
+      "captionY": 5.3
+    },
+    {
+      "type": "table",
+      "section": "Endothelial syndromes",
+      "eyebrow": "Endothelial syndromes · Overview",
+      "title": "FOS, CLS, ES and pES overlap; timing and trigger separate them",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "head": [
+        "Syndrome",
+        "When and who",
+        "Defining features",
+        "Management"
+      ],
+      "colW": [
+        0.85,
+        1.45,
+        2.1,
+        1.85
+      ],
+      "fontSize": 14,
+      "rows": [
+        [
+          "FOS",
+          "Around day 0; up to 60%",
+          "Weight gain, dyspnoea, high CVP; no cardiac or renal failure",
+          "Diuretics; no impact on TRM"
+        ],
+        [
+          "CLS",
+          "Mainly children; 5.4%",
+          "Weight >3%/24 h, edema, no response to furosemide ≥1 mg/kg",
+          "Stop G-CSF; steroids; hemodynamic support"
+        ],
+        [
+          "ES",
+          "Peri-engraftment; auto 7–59%, allo 10–25%",
+          "Noninfectious fever, rash, hypoxia; CRP >6 mg/dL",
+          "Stop G-CSF, antibiotics; then methyl-PDN 1 mg/kg q12h × 3 d"
+        ],
+        [
+          "pES",
+          "Cord blood (MAC); about day +7; 20–70%",
+          "Like ES, 10–11 days before engraftment; more fluid retention",
+          "Same as ES"
+        ]
+      ],
+      "caption": "EASIX = LDH × creatinine / platelets. At day 0 it predicts SOS/VOD and early fluid retention.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "第 42 章把這些併發症歸成 vascular endothelial syndromes，都在 day 100 內出現，靠一組重疊的症狀診斷，沒處理好可能走向 MOF。",
+          "FOS 非常常見，day 0 前後最多六成，甚至在輸注幹細胞前就出現。體重增加、輕度喘、CVP 上升，但沒有心衰或腎衰。用 diuretics 處理，不影響 TRM。",
+          "FOS 的病人聽診兩側基底有濕囉音，胸部 X 光心胸比變大、有瀰漫性浸潤，day 0 的 EASIX 偏高可以預測它。",
+          "CLS 要符合三點，24 小時體重增加超過 3%、全身水腫，以及 furosemide 至少 1 mg/kg 給 24 小時沒有反應。主要見於兒童，最大宗報告是 5.4%。治療只有支持性的，立刻停 G-CSF、給 steroid、做血行動力學支持。",
+          "CLS 雖然沒有明確的 risk factor，但病人的 TRM 和 aGVHD 都比較高。ES 過去也被叫做 autologous GVHD 或 aseptic septic shock，延誤治療可能進展到 MOF。pES 則和較低的 graft failure、較多 GVHD 和早期細菌感染有關，TRM 和存活沒有差別。",
+          "ES 在 engraftment 前後出現，非感染性發燒、皮疹、缺氧。發燒時 CRP 大於 6 mg/dL，陽性和陰性預測值都是 90%。先停 G-CSF、抽培養、上廣效抗生素，48 小時後不停抗生素，加 methylprednisolone 1 mg/kg q12h 三天，一週內減完，超過九成很快緩解。",
+          "pES 主要見於 cord blood 移植，約 day 7，比 engraftment 早 10 到 11 天，治療同 ES。下方的 EASIX 在 day 0 可以預測 SOS 和早期水分滯留。"
+        ]
+      },
+      "captionY": 5.5
+    },
+    {
+      "type": "table",
+      "eyebrow": "Endothelial syndromes · ES criteria",
+      "title": "Use Maiolino criteria after auto-HCT and Spitzer criteria after allo-HCT",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "head": [
+        "Criterion",
+        "Spitzer 2001",
+        "Maiolino 2003",
+        "Grant 2020"
+      ],
+      "colW": [
+        2.2,
+        1.25,
+        1.25,
+        1.25
+      ],
+      "rows": [
+        [
+          "Required",
+          "3 M, or 2 M + ≥1 m",
+          "1 M + 1 m",
+          "2 M, or 1 M + ≥2 m"
+        ],
+        [
+          "Window around engraftment",
+          "96 h before to 96 h after",
+          "24 h before, any time after",
+          "96 h before to 24 h after"
+        ],
+        [
+          "Noninfectious fever",
+          "M",
+          "M",
+          "M"
+        ],
+        [
+          "Rash >25% of body surface",
+          "M",
+          "m",
+          "M"
+        ],
+        [
+          "Pulmonary edema or hypoxia",
+          "M",
+          "m",
+          "m"
+        ],
+        [
+          "Weight gain >2.5% (Maiolino >3%)",
+          "m",
+          "m",
+          "m"
+        ],
+        [
+          "Hepatic/renal dysfunction; encephalopathy",
+          "m",
+          "—",
+          "—"
+        ],
+        [
+          "Diarrhea, ≥2 episodes",
+          "—",
+          "m",
+          "m"
+        ]
+      ],
+      "fontSize": 14,
+      "caption": "M = major, m = minor. With Spitzer, up to 50% of ES after auto-HCT is missed.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "ES 目前有三套診斷標準，所以文獻上的發生率差很多，auto-HCT 從 7% 到 59%，allo-HCT 是 10% 到 25%。",
+          "三套都把非感染性發燒列為 major。Spitzer 最嚴格，要三個 major，或兩個 major 加一個 minor，而且皮疹不能有 aGVHD 的病理證據。Maiolino 最寬鬆，一個 major 加一個 minor 就夠。Grant 2020 介於兩者之間。",
+          "臨床上的選擇很固定。Auto-HCT 用 Maiolino，診斷單純、可以快速治療，改用 Spitzer 會漏掉多達一半。Allo-HCT 要和早期 aGVHD、感染、CNI 毒性鑑別，所以用比較嚴格的 Spitzer。",
+          "考題常給一個 auto-HCT 後第十天發燒、皮疹、CRP 升高、培養陰性的病人，問下一步。答案就是在抗生素之外加上 steroid，而不是一直換抗生素。",
+          "Risk factors 方面，過去懷疑和 PB 幹細胞、G-CSF、DMSO 有關，但證據不足；比較明確的是和先前治療的強度有關。",
+          "ES 治療時，CRP 是很好的反應指標。用了 steroid 沒有快速改善，就要回頭想其他診斷；停 steroid 後偶爾會復發。",
+          "Allo-HCT 的 ES 不包括 cord blood 移植，那一群要歸到 pre-engraftment syndrome 去看。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "TA-TMA and PRES",
+      "eyebrow": "TA-TMA · Diagnosis",
+      "title": "TA-TMA is diagnosed by biopsy or by ≥4 of 7 criteria at two time points",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "head": [
+        "Criterion",
+        "Definition (harmonized criteria, Schoettler 2023)"
+      ],
+      "colW": [
+        1.0,
+        3.0
+      ],
+      "rows": [
+        [
+          "Anemia",
+          "Hb fall of 1 g/dL, or new or persistent RBC transfusion need"
+        ],
+        [
+          "Thrombocytopenia",
+          "No platelet engraftment, refractoriness, or 50% fall"
+        ],
+        [
+          "Elevated LDH",
+          "Above the upper limit of normal for age"
+        ],
+        [
+          "Schistocytes",
+          "Present"
+        ],
+        [
+          "Hypertension",
+          "≥140/90 mmHg in adults; >99th percentile if <18 years"
+        ],
+        [
+          "Elevated sC5b-9",
+          "Above the upper limit of normal"
+        ],
+        [
+          "Proteinuria",
+          "Random urine protein/creatinine ratio ≥1 mg/mg"
+        ]
+      ],
+      "caption": "Clinical diagnosis: ≥4 of 7 within 14 days, at two consecutive time points.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "接下來是 TA-TMA，特徵是 microangiopathic hemolytic anemia 加上血小板低下，微血管裡的血小板聚集造成器官缺血。除了內皮受損，complement 失調也扮演重要角色。",
+          "Dvorak 2019 提出 three-hit hypothesis。第一擊是先天的 complement 易感性或原有的內皮傷害，第二擊是 conditioning 的毒性，第三擊是藥物、alloreactivity、感染或抗體。Risk factors 包括 CNI、sirolimus 合併 CNI、CMV、ADV、BK virus 或黴菌感染、active GVHD，以及 unrelated 或 mismatched 移植。",
+          "黃金標準是器官切片，但這些病人幾乎拿不到檢體，所以實務上是臨床診斷。2023 年 ASTCT、CIBMTR、APBMT 和 EBMT 共同提出這張表的 harmonized criteria。",
+          "七項裡，14 天內、連續兩個時間點符合四項就成立。前四項是溶血的表現，包括貧血、血小板低下、LDH 超過正常上限、schistocytes。後三項反映內皮和腎臟，成人血壓 140/90 以上，未滿 18 歲看第 99 百分位；sC5b-9 超過上限；rUPCR 至少 1 mg/mg。",
+          "貧血和血小板的定義包含輸血需求或無法 engraft，所以要先排除 AIHA、PRCA 等其他原因。",
+          "發病中位數在 day 32 到 40，超過 92% 在 day 100 以前。兒童 allo-HCT 的前瞻性研究發生率是 19%，成人大中心約 12 到 15%。",
+          "要注意很多 TA-TMA 的器官表現不在診斷標準裡，例如肺高壓、腸胃道出血、沒有全身水腫的多發性漿膜腔積液，臨床上要主動去找。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "TA-TMA · Risk and treatment",
+      "title": "Any high-risk feature makes TA-TMA a candidate for complement blockade",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "head": [
+        "Feature",
+        "Standard risk",
+        "High risk (any one)"
+      ],
+      "colW": [
+        1.3,
+        1.6,
+        2.0
+      ],
+      "rows": [
+        [
+          "Peak LDH",
+          "<2× ULN",
+          "≥2× ULN"
+        ],
+        [
+          "rUPCR",
+          "<1 mg/mg",
+          "≥1 mg/mg"
+        ],
+        [
+          "Organ injury",
+          "KDIGO stage I AKI only",
+          "Any other organ dysfunction"
+        ],
+        [
+          "Soluble C5b-9",
+          "Normal",
+          "Above ULN"
+        ],
+        [
+          "Concurrent aGVHD or infection",
+          "—",
+          "aGVHD II–IV, or systemic infection"
+        ],
+        [
+          "Management",
+          "Monitor closely; treat if cytopenia persists",
+          "Complement blockade (eculizumab, narsoplimab)"
+        ]
+      ],
+      "caption": "Survival: eculizumab ~70% (Jodele 2020); narsoplimab 68% at day 100 (Khaled 2022).",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "診斷之後要分成 standard risk 和 high risk，只要有一項 high-risk feature，就歸 high risk。",
+          "High risk 包括 LDH 高峰達正常上限兩倍、rUPCR 至少 1 mg/mg、KDIGO stage I 以外的任何器官功能異常、sC5b-9 上升。2023 年的共識又加了兩項，合併 grade II 到 IV 的 aGVHD，以及全身性細菌或病毒感染。",
+          "High risk 要考慮 complement blockade。Eculizumab 是目前最有希望的藥，高風險病人存活率提高到 70%，存活者器官功能也能恢復。Narsoplimab 是 MASP2 抑制劑，經驗主要在成人，day 100 存活 68%。Standard risk 密切追蹤，血球低下持續時再由醫師決定是否治療。",
+          "其他治療選擇放在 backup，包括 TPE、rituximab 和 defibrotide，證據都只有小型系列。",
+          "兩組都要積極處理 GVHD 和感染這些 trigger，控制血壓；調整免疫抑制劑時要小心，避免誘發 aGVHD。",
+          "篩檢對象是所有 allo-HCT，以及做 auto-HCT 的 neuroblastoma 病童，篩到 day 100。即使緩解，之後慢性腎病、高血壓和 TRM 的相對風險仍然上升。",
+          "Work-up 的流程是這樣，篩檢超過三項異常、或出現器官表現時，就做完整檢查。拿不到 sC5b-9 的中心，繼續追蹤尿液和器官功能，符合 high risk 就治療。預後方面，TA-TMA 緩解後，慢性腎病的相對風險是 4.3，高血壓是 9，TRM 是 5。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "PRES",
+      "title": "PRES is a reversible encephalopathy with posterior vasogenic edema",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "steps": [
+        "Hypertension, CNI, fludarabine, low Mg, aGVHD",
+        "Encephalopathy, seizures, visual disturbance",
+        "MRI: parieto-occipital edema; CSF normal",
+        "Treat BP, seizures, Mg; >80% resolve quickly"
+      ],
+      "invert": 2,
+      "caption": "About 8% after allo-HCT (1% after haplo-HCT, 25% in sickle cell disease). Stopping the CNI did not change the course in the few comparative studies.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "最後一個是 PRES。Allo-HCT 大約 8%，haplo-HCT 只有 1%，sickle cell 移植高達 25%。相關因素有高血壓、CNI、fludarabine、低血鎂和 aGVHD。",
+          "機轉有兩種假說，一種認為是血壓快速上升，但約 30% 的病人血壓正常或只是輕微上升；另一種認為是內皮功能失調造成滲漏。EEG 可以抓到 nonconvulsive seizure，用來評估腦病變。",
+          "表現是意識改變、癲癇、視覺異常和頭痛。MRI 看到雙側頂枕葉 vasogenic edema，T2 或 FLAIR 最明顯；CSF 正常。",
+          "治療是症狀性的，控制血壓、抗癲癇、補鎂。停 CNI 傳統上被認為最有效，但少數比較研究中，停用、換藥或繼續使用，病程並沒有不同。八成以上很快恢復，死亡多半是其他原因，PRES 本身不影響 TRM 和存活。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: SOS/VOD after allo-HCT",
+      "answerTitle": "Answer E: start defibrotide now",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "stem": "A 48-year-old woman with relapsed ALL received inotuzumab ozogamicin, then busulfan-based myeloablative allo-HCT. On day +14 she has painful hepatomegaly, ascites, 7% weight gain and bilirubin 4.2 mg/dL; symptoms began 3 days ago. Creatinine is 1.6× her baseline. What is the most appropriate management?",
+      "options": [
+        "Confirm HVPG ≥10 mmHg before any specific therapy",
+        "Supportive care; defibrotide only if bilirubin reaches 8 mg/dL",
+        "Ursodeoxycholic acid alone until day +90",
+        "Defibrotide for a fixed 5-day course",
+        "Defibrotide 25 mg/kg/day now, for ≥14–21 days until resolution"
+      ],
+      "answer": "E",
+      "explanation": "Bilirubin ≥2 mg/dL plus three findings = clinical SOS/VOD. Symptoms ≤4 days, weight gain ≥5% and creatinine 1.5–2× baseline put her in the severe category. Defibrotide is started as soon as the diagnosis is made, whatever the diagnostic category; HVPG is not required. UDCA is prophylaxis, not treatment.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。四十八歲女性，relapsed ALL，移植前用過 inotuzumab ozogamicin，接著做 busulfan-based 的 myeloablative allo-HCT。Day 14 出現疼痛的肝腫大、腹水、體重增加 7%，bilirubin 4.2 mg/dL，症狀是三天前開始的，肌酸酐是 baseline 的 1.6 倍。",
+          "選項有先做 HVPG 確認、等 bilirubin 到 8 再治療、單用 UDCA、五天固定療程，以及現在就開始 defibrotide。請先判斷診斷類別和嚴重度，再選最適當的處置。",
+          "題目裡藏了兩個 risk factor，留意一下。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "選 E，立刻開始 defibrotide。先看診斷，bilirubin ≥2 加上疼痛肝大、腹水、體重增加三項，符合 clinical SOS/VOD。",
+          "再看分級。症狀四天內、體重增加 ≥5%、肌酸酐在 1.5 到 2 倍之間，severe 這一欄符合三項；bilirubin 4.2 雖然只落在 moderate，仍以最嚴重、且符合兩項以上的那一欄為準，所以是 severe。",
+          "Defibrotide 依嚴重度一確診就給，不必先做 HVPG，所以 A 不對。B 等到 bilirubin 8 才治療，會錯過黃金時間。UDCA 是預防用藥，不是治療。D 的療程太短，書上寫至少 14 到 21 天，直到症狀緩解。",
+          "這題同時考了 risk factor，inotuzumab 加 busulfan MAC，本身就是高風險組合。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: SOS/VOD in an infant",
+      "answerTitle": "Answer C: pediatric EBMT criteria are met",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "stem": "A 10-month-old boy with HLH receives busulfan-based MAC. Pre-HCT ultrasound showed hepatomegaly and minimal ascites. On day +9 he needs ≥1 weight-adjusted platelet transfusion daily without bleeding and has gained weight on 3 consecutive days despite furosemide. Bilirubin is 1.1 mg/dL. Which statement is correct?",
+      "options": [
+        "SOS/VOD cannot be diagnosed while bilirubin is <2 mg/dL",
+        "Right upper quadrant pain is required for the diagnosis",
+        "He meets the pediatric EBMT criteria for SOS/VOD",
+        "Preexisting hepatomegaly excludes SOS/VOD",
+        "SOS/VOD can only be diagnosed after day +21"
+      ],
+      "answer": "C",
+      "explanation": "pEBMT needs any 2 of 5 criteria, with no bilirubin threshold and no time limit. Refractory thrombocytopenia (≥1 weight-adjusted platelet transfusion/day) plus weight gain on 3 days despite diuretics fulfil it. A applies Baltimore/adult EBMT logic and misses anicteric SOS/VOD (~30% in children). Preexisting hepatomegaly only sets the baseline.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題是兒科。十個月大的男嬰，診斷 HLH，接受 busulfan-based MAC。移植前的超音波已經看到肝腫大和少量腹水。Day 9 開始，每天都需要至少一次依體重計算的血小板輸注，沒有出血；連續三天體重上升，用了 furosemide 也沒有改善。Bilirubin 只有 1.1 mg/dL。",
+          "選項包括 bilirubin 不到 2 無法診斷、需要右上腹痛、符合 pEBMT、先前肝大可以排除，以及 day 21 後才能診斷。哪個敘述正確。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確的是 C。pEBMT 五項中兩項即成立，沒有 bilirubin 門檻，也沒有時間限制。這個小孩有 refractory thrombocytopenia，加上連續三天體重增加，已經符合。",
+          "A 是 Baltimore 和成人 EBMT 的邏輯，套在兒童會漏掉約三成的 anicteric SOS/VOD，而且 bilirubin 到 2 時預後已經變差。B 的右上腹痛在嬰兒無法評估，pEBMT 沒有列入。D 也不對，移植前已有肝大，只是拿來當 baseline，往上增加才算數。E 混淆了 late-onset 的定義，那只是分類，不是診斷的前提。",
+          "這個個案也提醒，嬰兒、HLH 加上 busulfan MAC，本身就是兒童的高風險組合，refractory thrombocytopenia 往往是第一個訊號。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: Microangiopathy after allo-HCT",
+      "answerTitle": "Answer C: complement blockade for high-risk TA-TMA",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "stem": "A 35-year-old man is on day +45 after matched unrelated donor allo-HCT, on tacrolimus plus sirolimus, with grade III gut aGVHD. Hb fell 2 g/dL, platelets are falling, LDH is 2.5× ULN, schistocytes are present, BP is 150/95 mmHg, rUPCR is 1.4 mg/mg and sC5b-9 is elevated. What is the best next step?",
+      "options": [
+        "Therapeutic plasma exchange as first-line therapy",
+        "Observation, because this is standard-risk TA-TMA",
+        "Complement blockade (e.g. eculizumab) and treatment of triggers",
+        "Stop all immunosuppression immediately",
+        "Withhold all platelet and red cell transfusions"
+      ],
+      "answer": "C",
+      "explanation": "He meets ≥4 of 7 harmonized criteria. LDH ≥2× ULN, rUPCR ≥1 mg/mg, elevated sC5b-9 and aGVHD II–IV are each high-risk features, so complement blockade is indicated, with aggressive treatment of GVHD. TPE is an alternative only when complement blockers are unavailable. Changes to immunosuppression must not provoke aGVHD.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "最後一題。三十五歲男性，matched unrelated donor 移植後 day 45，GVHD prophylaxis 是 tacrolimus 加 sirolimus，目前有 grade III 腸胃道 aGVHD。血紅素掉了 2 g/dL、血小板持續下降、LDH 是正常上限的 2.5 倍、周邊血有 schistocytes、血壓 150/95、rUPCR 1.4 mg/mg、sC5b-9 上升。",
+          "選項有 TPE 當第一線、觀察、complement blockade、停掉所有免疫抑制劑，以及停止輸血。下一步最好的處置是哪一個。",
+          "請先數診斷標準，再看有沒有 high-risk feature。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "選 C。先數診斷標準，貧血、血小板低下、LDH、schistocytes、高血壓、sC5b-9、蛋白尿，七項全部符合，TA-TMA 診斷成立。",
+          "再看風險。LDH 兩倍以上、rUPCR ≥1、sC5b-9 上升、合併 aGVHD grade III，任何一項就歸 high risk，所以應考慮 complement blockade，同時積極治療 GVHD 這個 trigger。",
+          "A 的 TPE 是拿不到 complement blocker 時的替代選擇，不是首選。B 錯在分層，這位病人有四個 high-risk feature。D 直接停掉所有免疫抑制劑，可能讓 aGVHD 更嚴重。E 也不對，紅血球和血小板輸注本來就是 supportive care 的一部分。",
+          "另外，tacrolimus 加 sirolimus 正是 TA-TMA 的 risk factor 之一。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "SOS/VOD · Children vs adults",
+      "title": "Children differ from adults in incidence, presentation and criteria",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "Feature",
+        "Children",
+        "Adults"
+      ],
+      "colW": [
+        1.4,
+        2.0,
+        1.6
+      ],
+      "rows": [
+        [
+          "Incidence",
+          "About 15–20%; up to 60% if high risk",
+          "About 5–10%"
+        ],
+        [
+          "Late-onset (after day 21)",
+          "About 20%",
+          "Rare"
+        ],
+        [
+          "Anicteric SOS/VOD",
+          "About 30%",
+          "About 15%"
+        ],
+        [
+          "Bilirubin",
+          "Often preexistent or late; ≥2 mg/dL means severe disease",
+          "≥2 mg/dL mandatory for diagnosis"
+        ],
+        [
+          "Hepatomegaly and ascites before HCT",
+          "Common; imaging baseline needed",
+          "—"
+        ],
+        [
+          "Diagnostic criteria",
+          "Pediatric EBMT; refractory thrombocytopenia",
+          "Adult EBMT, Baltimore, Seattle"
+        ]
+      ],
+      "caption": "Ch. 49 gives adult incidence as 5–15% in the text and 5–10% in Table 49.4.",
+      "notes": {
+        "script": [
+          "這張是第 49 章 Table 49.4 的兒童與成人比較。兒童發生率約為成人兩倍，late-onset 約 20%，anicteric 約 30%。",
+          "成人發生率書中正文寫 5 到 15%，表格寫 5 到 10%，引用時要註明出處。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Hepatotropic viruses",
+      "title": "HBV needs antiviral prophylaxis; HCV and HAV are treated or deferred",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "Situation",
+        "Recommendation in the chapter"
+      ],
+      "colW": [
+        1.4,
+        3.0
+      ],
+      "rows": [
+        [
+          "HBsAg+ or HBV-DNA+ recipient",
+          "Entecavir or tenofovir from before conditioning, ≥1 year"
+        ],
+        [
+          "After stopping prophylaxis",
+          "Monitor HBV every 3 months; lamivudine not recommended"
+        ],
+        [
+          "Anti-HBc+ only",
+          "ECIL: prophylaxis for all. EASL: only if risk >10%"
+        ],
+        [
+          "Pre-emptive strategy",
+          "HBsAg and HBV-DNA every 1–3 months; treat when detectable"
+        ],
+        [
+          "HBsAg+ donor",
+          "Transmits in 22–44%; treat donor, prophylaxis for recipient"
+        ],
+        [
+          "HCV-RNA+ recipient",
+          "Direct-acting antivirals (cure >90%), ideally before HCT"
+        ],
+        [
+          "HAV viremia, donor or recipient",
+          "Do not transplant: increased SOS/VOD risk"
+        ]
+      ],
+      "notes": {
+        "script": [
+          "HBsAg 或 HBV-DNA 陽性的病人，要在 conditioning 前開始 entecavir 或 tenofovir，至少一年，有 GVHD 或還在免疫抑制就更久；lamivudine 不建議。",
+          "只有 anti-HBc 陽性時，ECIL 建議全部預防，EASL 只在風險超過 10% 時預防，其餘做 pre-emptive monitoring。HAV viremia 時不要移植，因為 SOS/VOD 風險增加。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "TA-TMA · Other options",
+      "title": "Beyond complement blockade, TA-TMA options rest on small series",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "head": [
+        "Approach",
+        "Data in the chapter"
+      ],
+      "colW": [
+        1.3,
+        3.0
+      ],
+      "rows": [
+        [
+          "Supportive care",
+          "Transfusions, stop culprit drugs, treat GVHD/infection, BP"
+        ],
+        [
+          "Plasma exchange",
+          "Early TPE; option when complement blockers are unavailable"
+        ],
+        [
+          "Rituximab + TPE",
+          "12/15 responses; useful with anti-factor H antibodies"
+        ],
+        [
+          "Defibrotide",
+          "Responses in a retrospective multicenter review"
+        ],
+        [
+          "In clinical trials",
+          "Ravulizumab, nomacopan (C5); pegcetacoplan (C3)"
+        ],
+        [
+          "Prophylaxis",
+          "Defibrotide (high-risk children), N-acetylcysteine, statins"
+        ]
+      ],
+      "notes": {
+        "script": [
+          "如果被問到 eculizumab 以外的選擇，TPE 是拿不到 complement blocker 時的替代，有 anti-factor H 抗體時可合併 rituximab，報告 15 位中 12 位有反應。",
+          "預防方面，N-acetylcysteine 有一個隨機試驗，statin-based endothelial prophylaxis 在成人可減少 GVHD 和 TA-TMA。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Other hepatic complications",
+      "title": "Hepatic GVHD and autoimmune hepatitis look alike; GGT and antibodies help",
+      "cite": "Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 49",
+      "head": [
+        "Feature",
+        "Autoimmune hepatitis",
+        "Hepatic GVHD"
+      ],
+      "colW": [
+        1.3,
+        2.0,
+        2.0
+      ],
+      "rows": [
+        [
+          "Other organs",
+          "Often asymptomatic; fatigue",
+          "Almost always GVHD elsewhere"
+        ],
+        [
+          "AST rise",
+          "Moderate to severe",
+          "Minimal"
+        ],
+        [
+          "GGT",
+          "Marked rise",
+          "Normal or decreased"
+        ],
+        [
+          "Autoantibodies",
+          "AIH type 2 (anti-LKM, anti-LC1)",
+          "Usually type 1 pattern (ANA, ANCA)"
+        ],
+        [
+          "Pathology",
+          "Portal infiltrate penetrating lobules",
+          "Bile duct damage, ductal degeneration"
+        ],
+        [
+          "Steroid response",
+          "Excellent",
+          "Variable by severity"
+        ]
+      ],
+      "notes": {
+        "script": [
+          "肝臟 GVHD 和自體免疫肝炎的病理生理和表現幾乎一樣。最有幫助的鑑別是其他器官有沒有 GVHD、GGT 明顯上升，以及 type 2 自體抗體。"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "id": "s06",
+  "slug": "acute-gvhd",
+  "week": 6,
+  "title": "Acute GVHD",
+  "subtitle": "Week 6 · Ch. 43",
+  "cite": "Holler E, et al. EBMT Handbook 8th ed. 2024; Ch. 43",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，第六週的主題是 acute GVHD，對應 EBMT Handbook 第 43 章。這個併發症到今天仍然是移植後 day 100 和第一年死亡的主要原因之一，所以它在專科考試裡幾乎每年都會出現。接下來三十分鐘，從定義、分級、預防，一路講到 steroid-refractory 的處理，最後用三題 board-style 題目收尾。"
+    ]
+  },
+  "references": [
+    "1. Holler E, Greinix H, Zeiser R. Acute graft-versus-host disease. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 385–393. doi:10.1007/978-3-031-44080-9_43",
+    "2. Greinix H. Photopheresis in adults and pediatrics. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 587–593. doi:10.1007/978-3-031-44080-9_66",
+    "3. Filipovich AH, Weisdorf D, Pavletic S, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Biol Blood Marrow Transplant. 2005;11:945–56.",
+    "4. Flowers ME, Inamoto Y, Carpenter PA, et al. Comparative analysis of risk factors for acute graft-versus-host disease and for chronic graft-versus-host disease according to National Institutes of Health consensus criteria. Blood. 2011;117:3214–9.",
+    "5. Harris AC, Young R, Devine S, et al. International, multicenter standardization of acute graft-versus-host disease clinical data collection: a report from the Mount Sinai Acute GVHD International Consortium. Biol Blood Marrow Transplant. 2016;22(1):4–10.",
+    "6. Glucksberg H, Storb R, Fefer A, et al. Clinical manifestations of graft-versus-host disease in human recipients of marrow from HL-A-matched sibling donors. Transplantation. 1974;18:295–304.",
+    "7. Przepiorka D, Weisdorf D, Martin P, et al. 1994 Consensus Conference on Acute GVHD Grading. Bone Marrow Transplant. 1995;15(6):825–8.",
+    "8. Cahn JY, Klein JP, Lee SJ, et al. Prospective evaluation of 2 acute graft-versus-host (GVHD) grading systems: a joint Société Française de Greffe de Moëlle et Thérapie Cellulaire (SFGM-TC), Dana Farber Cancer Institute (DFCI), and International Bone Marrow Transplant Registry (IBMTR) prospective study. Blood. 2005;106:1495–500.",
+    "9. Ratanatharathorn V, Nash RA, Przepiorka D, et al. Phase III study comparing methotrexate and tacrolimus (prograf, FK506) with methotrexate and cyclosporine for graft-versus-host disease prophylaxis after HLA-identical sibling bone marrow transplantation. Blood. 1998;92:2303–14.",
+    "10. Nash RA, Antin JH, Karanes C, et al. Phase 3 study comparing methotrexate and tacrolimus with methotrexate and cyclosporine for prophylaxis of acute graft-versus-host disease after marrow transplantation from unrelated donors. Blood. 2000;96:2062–8.",
+    "11. Törlén J, Ringdén O, Garming-Legert K, et al. A prospective randomized trial comparing cyclosporine/methotrexate and tacrolimus/sirolimus as graft-versus-host disease prophylaxis after allogeneic hematopoietic stem cell transplantation. Haematologica. 2016;101:1417–25.",
+    "12. Finke J, Bethge WA, Schmoor C, et al. Standard graft-versus-host disease prophylaxis with or without anti-T-cell globulin in haematopoietic cell transplantation from matched unrelated donors: a randomised, open-label, multicentre phase 3 trial. Lancet Oncol. 2009;10:855–64.",
+    "13. Le Blanc K, Frassoni F, Ball L, Locatelli F, et al. Mesenchymal stem cells for treatment of steroid-resistant, severe, acute graft-versus-host disease: a phase II study. Lancet. 2008;371:1579–86.",
+    "14. Watkins B, Qayed M, McCracken C, et al. Phase II Trial of Costimulation Blockade With Abatacept for Prevention of Acute GVHD. J Clin Oncol. 2021;39:1865–77",
+    "15. Chen YB, Shah NN, Renteria AS, et al. Vedolizumab for prevention of graft-versus-host disease after allogeneic hematopoietic stem cell transplantation. Blood Adv. 2019;3(23):4136–46.",
+    "16. Fløisand Y, Schroeder MA, Chevallier P, et al. A phase 2a randomized clinical trial of intravenous vedolizumab for the treatment of steroid-refractory intestinal acute graft-versus-host disease. Bone Marrow Transplant. 2021;56(10):2477–2488.",
+    "17. Zeiser R, von Bubnoff N, Butler J, et al. Ruxolitinib for glucocorticoid-refractory acute graft-versus-host disease. N Engl J Med. 2020;382(19):1800–10.",
+    "18. Soiffer RJ, Kim HT, McGuirk J, et al. Prospective, randomized, double-blind, phase III clinical trial of anti-T-lymphocyte globulin to assess impact on chronic graft-versus-host disease-free survival in patients undergoing HLA-matched unrelated myeloablative hematopoietic cell transplantation. J Clin Oncol. 2017;35:4003–11.",
+    "19. Jagasia M, Greinix H, Robin M, et al. Extracorporeal photopheresis versus anticytokine therapy as a second-line treatment for steroid-refractory acute GVHD: a multicenter comparative analysis. Biol Blood Marrow Transplant. 2013;19:1129–33.",
+    "20. Walker I, Panzarella T, Couban S, et al. Pretreatment with anti-thymocyte globulin versus no anti-thymocyte globulin in patients with haematological malignancies undergoing haemopoietic cell transplantation from unrelated donors: a randomised, controlled, open-label, phase 3, multicentre trial. Lancet Oncol. 2016;17:164–73.",
+    "21. Munneke JM, Spruit MJ, Cornelissen AS, et al. The potential of mesenchymal stromal cells as treatment for severe steroid-refractory acute graft-versus-host disease: a critical review of the literature. Transplantation. 2016;100:2309–14.",
+    "22. Malard F, Loschi M, Huynh A, et al. Pooled allogeneic faecal microbiota MaaT013 for steroid-resistant gastrointestinal acute graft-versus-host disease: a single-arm, multicentre phase 2 trial. EClinicalMedicine. 2023;62:102111.",
+    "23. Vander Lugt MT, Braun TM, Hanash S, et al. ST2 as a marker for risk of therapy-resistant graft-versus-host disease and death. N Engl J Med. 2013;369:529–39.",
+    "24. Hartwell MJ, Özbek U, Holler E, et al. An early-biomarker algorithm predicts lethal graft-versus-host disease and survival. JCI Insight. 2017;2:e89798."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Acute GVHD · Outline",
+      "title": "Four parts, from definition to salvage",
+      "rows": [
+        [
+          "Definition, biology and risk factors",
+          "Acute vs chronic by features, three-phase cascade, who is at risk",
+          "4 min"
+        ],
+        [
+          "Diagnosis, staging and overall grade",
+          "Organ signs, biopsy, MAGIC organ stages, grade I–IV",
+          "6.5 min"
+        ],
+        [
+          "Prevention and first-line treatment",
+          "Prophylaxis trials, newer agents, methylprednisolone 2 mg/kg/day",
+          "5.5 min"
+        ],
+        [
+          "Steroid-refractory aGVHD and board questions",
+          "SR definition, REACH2 ruxolitinib, salvage options, 3 MCQs",
+          "10 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段先看 acute 和 chronic GVHD 怎麼區分，再談 pathophysiology 跟 risk factors，大約四分鐘，目的是讓後面的治療邏輯有根據。",
+          "第二段是診斷，包括臨床表現、病理、organ staging 和 overall grade。這段時間最長，因為分級題幾乎每年都出現，題目給的數字通常就是 staging 的切點，算錯一個器官，整題就錯。",
+          "第三段是 prophylaxis 的關鍵 trial，以及 first-line steroid 的劑量和療程。最後十分鐘留給 steroid-refractory aGVHD，核心是 REACH2 和 ruxolitinib，再看其他 salvage 選項，接著做三題練習，每題都會對應前面某一張投影片。",
+          "每一段結尾都會回到考試會怎麼問，大家可以邊聽邊對照自己的筆記。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Definition",
+      "eyebrow": "aGVHD · Classification",
+      "title": "Acute and chronic GVHD are defined by features, not day 100",
+      "head": [
+        "Category",
+        "Timing after HCT",
+        "Acute features",
+        "Chronic features"
+      ],
+      "rows": [
+        [
+          "Classic acute",
+          "< day 100",
+          "Yes",
+          "No"
+        ],
+        [
+          "Persistent, recurrent or late-onset acute",
+          "> day 100",
+          "Yes",
+          "No"
+        ],
+        [
+          "Classic chronic",
+          "No time limit",
+          "No",
+          "Yes"
+        ],
+        [
+          "Overlap syndrome",
+          "No time limit",
+          "Yes",
+          "Yes"
+        ]
+      ],
+      "colW": [
+        4,
+        2.4,
+        1.8,
+        1.8
+      ],
+      "caption": "Late aGVHD after RIC or DLI blurs the day-100 line (Table 43.1; Filipovich 2005)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是書上的 Table 43.1，分類架構來自 2005 年的 NIH consensus。過去用 day 100 切 acute 和 chronic，現在已經不夠用。RIC 之後，或 DLI 之後，很多病人過了 day 100 才第一次出現 acute 的表現，而 DLI 本來就多半在 day 100 以後才給。RIC 的病人免疫重建的時間軸往後移，GVHD 的時間軸自然也跟著往後移。",
+          "分類因此改看臨床特徵，而不是日曆。Classic acute 在 day 100 以前發生；persistent、recurrent 或 late-onset acute 發生在 day 100 以後，但仍然只有 acute 的特徵，沒有任何 chronic 的表現。Classic chronic 沒有時間限制，只有 chronic 的特徵；兩種特徵同時存在，就叫 overlap syndrome。",
+          "考題常給一個 day 150、剛做完 DLI、出現皮疹和綠色水瀉、沒有任何 chronic 特徵的病人，問怎麼分類。這種病人歸在 late-onset acute GVHD，不是 chronic。在病房寫病歷時也一樣，先描述器官表現，再決定標籤，不要只看移植後第幾天。",
+          "Overlap syndrome 則要依 chronic GVHD 的原則處理，這部分留到 chronic GVHD 那一週。"
+        ]
+      },
+      "fontSize": 18
+    },
+    {
+      "type": "chain",
+      "eyebrow": "aGVHD · Pathophysiology",
+      "title": "Acute GVHD follows a three-phase cascade to tissue necrosis",
+      "steps": [
+        "Conditioning damages host tissue",
+        "Host APCs activated by PAMPs and DAMPs",
+        "Donor T cells activate and proliferate",
+        "Cytotoxic cells, IL-1 and TNFα cause necrosis"
+      ],
+      "invert": 2,
+      "caption": "Brakes on the cascade: Tregs, Tr1 cells, invariant NKT cells and MDSCs. High gut microbiota diversity is protective.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Pathophysiology 分三個 phase。Conditioning 先造成組織損傷，釋放 PAMPs 和 DAMPs，活化 host 的 antigen-presenting cells。接著 donor T cell 被活化、增殖，這是 afferent phase。最後的 efferent phase 由 cytotoxic cells 加上 IL-1、TNFα 這些 inflammatory cytokines 造成組織壞死。這也解釋了為什麼 conditioning 強度和 high-dose TBI 會是 risk factor。",
+          "另一邊有煞車，包括 Tregs、Tr1 cells、invariant NKT cells 和 MDSCs。三個標的器官都直接接觸微生物，所以腸道菌相特別重要。菌相多樣性高的病人，GVHD 和感染都比較少，short-chain fatty acids 和 indoles 這類代謝物可能參與保護。",
+          "治療上，steroid 和 ruxolitinib 主要打的是中間的 T cell 活化，而書上最後提到的腸道修復策略，打的是最右邊的組織損傷。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "aGVHD · Risk factors",
+      "title": "HLA disparity drives acute GVHD risk",
+      "head": [
+        "Factor",
+        "Chapter overview",
+        "Seattle, n = 2941 (Flowers 2011)"
+      ],
+      "rows": [
+        [
+          "HLA mismatch (more mismatch, more severe)",
+          "Major risk",
+          "Predicts grade II–IV aGVHD"
+        ],
+        [
+          "Unrelated donor",
+          "—",
+          "Predicts grade II–IV aGVHD"
+        ],
+        [
+          "High-dose TBI / intense conditioning",
+          "Reported",
+          "Predicts grade II–IV aGVHD"
+        ],
+        [
+          "Older patient age",
+          "Consistent risk",
+          "—"
+        ],
+        [
+          "Female donor → male recipient",
+          "Consistent risk",
+          "cGVHD only, not aGVHD"
+        ],
+        [
+          "Older donor; PBSC rather than BM",
+          "Reported",
+          "cGVHD only, not aGVHD"
+        ],
+        [
+          "Donor alloimmunization; type of prophylaxis",
+          "Consistent risk",
+          "—"
+        ],
+        [
+          "Recipient CMV seropositivity",
+          "Reported",
+          "—"
+        ]
+      ],
+      "colW": [
+        4.6,
+        2.4,
+        4
+      ],
+      "fontSize": 16,
+      "caption": "Moderate to severe aGVHD occurs in about 40% of allo-HCT recipients",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Acute GVHD 本質是 alloimmune reaction，最大的 risk factor 就是 HLA disparity，mismatch 越多，病越重。書上列的其他一致 risk factor 包括病人年紀大、female donor 給 male recipient、donor 曾被 alloimmunize，例如經產婦或輸過血，以及 prophylaxis 的種類。另外有研究報告 donor 年紀、conditioning 強度、PBSC 和 recipient CMV 陽性。",
+          "右欄是 Seattle 2941 位病人的分析，結果比較嚴格。HLA mismatch、unrelated donor、high-dose TBI 預測 moderate 到 severe aGVHD。Donor 年紀、PBSC、female-to-male 在這個研究只跟 chronic GVHD 有關，跟 acute 無關。這個 acute 和 chronic 的對比可以出題，選項常把 PBSC 寫成 acute 的 risk factor。",
+          "Moderate 到 severe aGVHD 在 allo-HCT 大約 40%，實際數字主要看 donor 類型和 prophylaxis。沒有有效預防的話，unrelated 和 mismatched family graft 幾乎一定會發生，這就是後面 prophylaxis 那一段的出發點。",
+          "Non-HLA 的因素也有，例如 TNF、IL-1、IL-6、IL-10、IFN-γ 等 cytokine 基因的 polymorphism，還有 KIR。這些目前還沒有進到日常臨床決策，選 donor 時最先看的仍然是 HLA 相合程度。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Diagnosis and grading",
+      "eyebrow": "aGVHD · Clinical picture and histology",
+      "title": "Skin, liver and gut are the targets; biopsy confirms",
+      "head": [
+        "Organ",
+        "Clinical picture",
+        "Histological hallmark"
+      ],
+      "rows": [
+        [
+          "Skin",
+          "Maculopapular rash, palms and soles first;\nbullae if severe",
+          "Lichenoid infiltrate;\nbasal-cell vacuolation and necrosis"
+        ],
+        [
+          "Liver",
+          "Cholestasis ± jaundice;\ncholestatic enzymes > transaminases",
+          "Small bile duct damage;\nhistological grade not prognostic"
+        ],
+        [
+          "GI tract",
+          "Upper: anorexia, nausea, vomiting\nLower: green watery diarrhoea; blood, ileus",
+          "“Exploding crypts”:\nnecrosis of crypt epithelial cells"
+        ]
+      ],
+      "colW": [
+        1.6,
+        5,
+        5
+      ],
+      "fontSize": 18,
+      "caption": "Shared lesion: satellite cell necrosis (immune cells beside apoptotic epithelial cells)",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Acute GVHD 攻擊皮膚、肝和腸胃道三個器官，嚴重度從自限性的輕症到致命都有。皮膚是 maculopapular rash，常從手掌腳掌開始，可以擴散到全身，會癢或痛，嚴重時起水泡、脫皮。肝是 cholestasis，可以有或沒有黃疸，cholestatic enzymes 比 transaminases 亂得更明顯，所以看到 ALP 和 bilirubin 先升、transaminase 相對正常，就要想到它。",
+          "腸胃道分 upper 和 lower。Upper 是 anorexia、nausea、vomiting；lower 是典型的綠色水瀉，嚴重時有新鮮血便和黏膜、腹絞痛，偶爾 paralytic ileus。病房裡要每天記錄 stool volume，下一張的 staging 就靠這個數字。",
+          "移植後的病人，同樣的症狀也可能來自 VOD/SOS、conditioning toxicity、藥物或感染，治療方向完全不同。如果把感染當成 GVHD 加 steroid，後果很嚴重，所以書上強調至少切一個受影響的器官確認。",
+          "病理上，攻擊目標都是上皮細胞，共同特徵叫 satellite cell necrosis，免疫細胞貼著 apoptotic cell。皮膚看 basal layer 的 lichenoid infiltrate 和 vacuolation；肝最一致的是 small bile duct damage，這在其他移植併發症很少見；腸道是 exploding crypts。肝雖然有病理 grading，但沒有證實的 prognostic value，這句很適合出成選項。",
+          "實務上，皮膚最容易切，結果也最快；腸道要靠內視鏡，但 lower GI 才是決定預後的器官，所以懷疑腸道 GVHD 時，值得安排內視鏡切片，同時送病毒檢查。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "aGVHD · Diagnostic path",
+      "title": "Diagnosis moves from organ signs to an overall grade",
+      "steps": [
+        "Rash, cholestasis or diarrhoea",
+        "Rule out SOS, drugs, infection",
+        "Biopsy ≥ 1 affected organ",
+        "Stage each organ 0–4",
+        "Assign overall grade 0–IV"
+      ],
+      "invert": 2,
+      "caption": "Speaker's summary of §43.4. The grade decides topical versus systemic therapy.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "這張是我把 43.4 節整理成的流程，屬於 speaker's summary，不是書上的圖。臨床先看到 rash、cholestasis 或 diarrhea，接著排除 SOS、藥物和感染。這一步最難，因為移植後的病人常常好幾個問題同時存在，例如同時有 CMV 和腸道 GVHD。",
+          "然後切至少一個受影響的器官，看到 satellite cell necrosis 才算確認。之後每個器官分別給 0 到 4 的 stage，再組合成 overall grade。Grade 決定只用 topical steroid，還是要 systemic therapy，所以分級不只是寫論文用，而是直接決定下一步治療。下一張看 staging 的數字。",
+          "實務上不必等病理報告才開始治療，但切片一定要在 steroid 之前或同時安排。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "aGVHD · Organ staging (MAGIC)",
+      "title": "Organ stages rest on numeric cutoffs",
+      "head": [
+        "Stage",
+        "Skin (active erythema)",
+        "Liver (bilirubin)",
+        "Upper GI",
+        "Lower GI, adult (stool/day)"
+      ],
+      "rows": [
+        [
+          "0",
+          "No active rash",
+          "< 2 mg/dL",
+          "None or intermittent\nN/V/anorexia",
+          "< 500 mL or < 3 episodes"
+        ],
+        [
+          "1",
+          "Rash < 25% BSA",
+          "2–3 mg/dL",
+          "Persistent nausea,\nvomiting or anorexia",
+          "500–999 mL or 3–4 episodes"
+        ],
+        [
+          "2",
+          "Rash 25–50% BSA",
+          "3.1–6 mg/dL",
+          "—",
+          "1000–1500 mL or 5–7 episodes"
+        ],
+        [
+          "3",
+          "Rash > 50% BSA",
+          "6.1–15 mg/dL",
+          "—",
+          "> 1500 mL or > 7 episodes"
+        ],
+        [
+          "4",
+          "Erythroderma with bullae/\ndesquamation > 5% BSA",
+          "> 15 mg/dL",
+          "—",
+          "Severe pain ± ileus, or\ngrossly bloody stool"
+        ]
+      ],
+      "colW": [
+        0.9,
+        3.6,
+        1.9,
+        2.5,
+        3.4
+      ],
+      "fontSize": 16,
+      "caption": "Table 43.4, after Harris 2016. Paediatric stool thresholds in mL/kg/day: backup.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這是 Harris 2016 的 MAGIC staging，也就是書上 Table 43.4。皮膚只算 active erythema，已經退掉、色素沉著的不算。小於 25% BSA 是 stage 1，25 到 50% 是 stage 2，超過 50% 是 stage 3。Stage 4 不只是全身紅，還要加上水泡和脫皮超過 5% BSA。估 BSA 時可以用病人的手掌大約 1% 來算，比較不會高估。",
+          "肝看 total bilirubin。小於 2 mg/dL 是 0，2 到 3 是 stage 1，3.1 到 6 是 stage 2，6.1 到 15 是 stage 3，超過 15 是 stage 4。要記得 bilirubin 升高不一定是 GVHD，SOS 和藥物也會，所以前一張的鑑別診斷要先做。",
+          "Upper GI 只有 0 和 1 兩級。偶爾噁心不算，持續的 nausea、vomiting 或 anorexia 才是 stage 1。",
+          "Lower GI 成人看每天 stool volume 或次數。500、1000、1500 mL 是三個切點，次數則以 3、5、7 次為界。嚴重腹痛、ileus 或明顯血便，不管量多少都直接算 stage 4。兒童改用 mL/kg，放在 backup。Bilirubin 和 stool volume 這幾個 cutoff 考試很愛考，題目常故意給剛好落在邊界的數字，例如 bilirubin 3.0 或 stool 1000 mL，要看清楚是哪一邊。",
+          "Upper GI 這一欄只有兩級，所以它在 overall grade 裡的份量也有限，這點下一張會看到。",
+          "另外，皮膚 stage 4 和 lower GI stage 4 都是看嚴重度，而不是單純看範圍或量。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "aGVHD · Overall grade",
+      "title": "The overall grade follows the most severe organ stage",
+      "head": [
+        "Grade",
+        "Definition"
+      ],
+      "rows": [
+        [
+          "0",
+          "No stage 1–4 in any organ"
+        ],
+        [
+          "I",
+          "Skin stage 1–2, with no liver, upper GI or lower GI involvement"
+        ],
+        [
+          "II",
+          "Skin stage 3 and/or liver 1 and/or upper GI 1 and/or lower GI 1"
+        ],
+        [
+          "III",
+          "Liver 2–3 and/or lower GI 2–3, with skin 0–3 and/or upper GI 0–1"
+        ],
+        [
+          "IV",
+          "Skin, liver or lower GI stage 4, with upper GI 0–1"
+        ]
+      ],
+      "colW": [
+        1.2,
+        10
+      ],
+      "fontSize": 20,
+      "caption": "Speaker's summary: upper GI alone caps at grade II; liver or lower GI stage ≥ 2 means grade ≥ III",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Overall grade 依最嚴重的器官決定。Grade 0 是所有器官都沒有 stage 1 以上。Grade I 只有皮膚 stage 1 到 2，肝、upper GI、lower GI 都沒有侵犯。Grade II 是皮膚 stage 3，或肝、upper GI、lower GI 任一個 stage 1。",
+          "Grade III 的門檻是肝或 lower GI 到 stage 2 到 3，皮膚可以是 0 到 3。Grade IV 是皮膚、肝或 lower GI 任一個 stage 4。可以看到 grade 主要是被內臟推上去的，皮膚再嚴重，沒有水泡脫皮也只到 grade II。",
+          "底下一行是我自己的整理。Upper GI 單獨最多只到 grade II；肝或 lower GI 一到 stage 2，就直接跳 grade III。做題目時先找肝和腸，再看皮膚，速度會快很多。臨床上這條界線也很重要，grade I 可以只擦藥，grade II 以上就要 systemic steroid，而 grade III 到 IV 的預後明顯比較差。",
+          "另外，這套 grade 也被用在 trial 的收案條件，像 REACH2 收的就是 grade II 到 IV。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Prevention and first-line therapy",
+      "eyebrow": "aGVHD · Prophylaxis trials",
+      "title": "Trials shaped the prophylaxis backbone",
+      "head": [
+        "Comparison",
+        "Setting",
+        "Key result"
+      ],
+      "rows": [
+        [
+          "TAC/MTX vs CSA/MTX\n(Ratanatharathorn 1998)",
+          "Sibling",
+          "II–IV aGVHD 32% vs 44%;\nno survival difference"
+        ],
+        [
+          "TAC/MTX vs CSA/MTX\n(Nash 2000)",
+          "Unrelated",
+          "II–IV aGVHD 56% vs 74%;\nno survival difference"
+        ],
+        [
+          "TAC/SIR vs TAC/MTX\n(Törlén 2016)",
+          "Phase III",
+          "Equivalent efficacy,\ndifferent toxicity"
+        ],
+        [
+          "ATG vs none\n(Finke 2009; Walker 2016)",
+          "Unrelated",
+          "Benefit mainly on chronic GVHD"
+        ],
+        [
+          "ATG vs placebo\n(Soiffer 2017)",
+          "MUD, double-blind",
+          "Less aGVHD II–IV and cGVHD,\nbut lower overall survival"
+        ],
+        [
+          "PTCy/TAC/MMF vs TAC/MTX\n(Holtan 2022)",
+          "RIC, n = 431",
+          "1-year GRFS 52.7% vs 34.9%\n(p < 0.001)"
+        ]
+      ],
+      "colW": [
+        4.2,
+        2.4,
+        5.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Prophylaxis 的完整內容在 Ch. 26，這裡只看 Ch. 43 引用的關鍵 trial。最常用的 backbone 仍然是 calcineurin inhibitor 加 MTX，這個組合早期就證明比單用 MTX 好。",
+          "Tacrolimus 加 MTX 對比 cyclosporine 加 MTX，有兩個 phase III。Sibling 的 grade II–IV aGVHD 是 32% 比 44%，unrelated 是 56% 比 74%。aGVHD 明顯下降，survival 卻沒有差別，所以兩種 CNI 在臨床上都有人用。TAC 加 sirolimus 對比 TAC/MTX，效果相當，差別在毒性。",
+          "ATG 在 unrelated donor 的兩個 randomized trial，好處主要在 chronic GVHD。Soiffer 2017 的 double-blind trial 比較複雜，ATG 組 aGVHD 和 cGVHD 都比較少，overall survival 反而比較差。書上推測和 TBI 後淋巴球低、ATG 濃度偏高有關，帶來感染和 EBV PTLD。GVHD 少不等於活得久，這個觀念很容易被考。",
+          "最後一列是 Holtan 2022，431 位接受 RIC 的成人，donor 是 6/6 related 或 7–8/8 unrelated。PTCy 加 TAC/MMF 對比 TAC/MTX，one-year GRFS 52.7% 比 34.9%，p 小於 0.001，來自 acute 和 chronic GVHD 都下降。GRFS 把 GVHD、復發和死亡放在同一個 endpoint，比單看 aGVHD 發生率更接近病人真正在意的結果。",
+          "整理起來，CNI 加 MTX 仍是基本盤，ATG 和 PTCy 是往上加的選擇，選哪一個要看 donor 類型、conditioning 強度和中心經驗。",
+          "Prophylaxis 選得好，後面需要治療的病人就少，這也是書上 key points 的第二點。"
+        ],
+        "reminders": [
+          "Holtan 2022 is cited in Ch. 43 only as 'Holtan SG Blood 2022; LBA' and is not in its reference list, so it has no numbered reference."
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "eyebrow": "aGVHD · Newer prophylaxis",
+      "title": "Abatacept, vedolizumab and T-cell depletion widen prophylaxis",
+      "blocks": [
+        {
+          "head": "Abatacept",
+          "body": "FDA-approved with a CNI and MTX for matched or 1-allele mismatched unrelated donors (Watkins 2021)",
+          "extra": "US approval cited in Ch. 43"
+        },
+        {
+          "head": "Vedolizumab",
+          "body": "Anti-α4β7 integrin, selective for the gut; reduced GI aGVHD in a prospective trial (Chen 2019; Fløisand 2021)",
+          "extra": "[verify: Ch. 43 calls it phase III; cited papers are earlier-phase]"
+        },
+        {
+          "head": "T-cell depletion",
+          "body": "Ex vivo, CD34+ selection, ATG or MoAb, α/β depletion: strong GVHD prevention, more infection and relapse",
+          "extra": "Kept for mismatched and haploidentical grafts"
+        }
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是三個比較新的方向。Abatacept 根據 Watkins 2021 的資料，FDA 核准和 CNI、MTX 併用，對象是 matched 或 1-allele mismatched 的 unrelated donor。書上的 key points 特別列出這個美國的核准，所以選項裡 donor 類型和併用藥物要看清楚，不是 haplo，也不是配 PTCy。",
+          "Vedolizumab 針對 α4β7 integrin，這個 integrin 選擇性表現在腸道，所以它減少的是 GI aGVHD。前面提過 lower GI 是最致命的器官，鎖定腸道的策略因此有吸引力。",
+          "T-cell depletion 可以在體外做，也可以在體內用 ATG 或 monoclonal antibody，CD34 positive selection 和 α/β T cell depletion 也屬於這一類。預防 acute 和 chronic GVHD 都非常有效，代價是感染和復發增加。所以現在多半留給 mismatched 和 haploidentical，那裡 GVHD 的死亡風險高過之後復發的風險。",
+          "反過來說，這也說明了 T-cell depletion 的根本難題，GVHD 和 graft-versus-leukemia 都來自 donor T cell，拿掉越多，GVHD 越少，但保護病人不復發的力量也越弱。Partial TCD 和 PTCy 這類策略，就是想只拿掉 alloreactive 的那一群。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 43 says vedolizumab 'was tested in a prospective phase III trial', but the two papers it cites are Chen 2019 (Blood Adv, prevention, early phase) and Fløisand 2021 (phase 2a, treatment of SR intestinal aGVHD). Check the phase III prevention result before quoting it."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "aGVHD · First-line treatment",
+      "title": "Methylprednisolone 2 mg/kg/day is first-line for grade II–IV",
+      "head": [
+        "Situation",
+        "What Ch. 43 recommends"
+      ],
+      "rows": [
+        [
+          "Grade I (skin only)",
+          "Topical steroids; early systemic therapy gives no long-term gain"
+        ],
+        [
+          "Mild upper GI",
+          "Lower-dose steroids plus topical therapy"
+        ],
+        [
+          "Grade II–IV",
+          "Methylprednisolone 2 mg/kg/day for 7–14 days, then slow taper"
+        ],
+        [
+          "Expected response",
+          "About 40–50%; lower with higher grade"
+        ],
+        [
+          "Flare during taper",
+          "Raise the dose again, then taper more slowly"
+        ],
+        [
+          "Add MMF or another agent?",
+          "No add-on has beaten steroids alone; more infections"
+        ],
+        [
+          "Prolonged steroids",
+          "Consider anti-infective prophylaxis (viral, fungal)"
+        ]
+      ],
+      "colW": [
+        3.4,
+        8
+      ],
+      "fontSize": 18,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "First-line 治療依 grade 決定。Grade I 定義上只有皮膚，topical steroid 通常就夠。提早給 systemic 治療試過，長期沒有好處，只多了副作用。",
+          "Grade II 以上要 systemic，主力是高劑量 methylprednisolone，通常 2 mg/kg/day，給 7 到 14 天再逐步減量，這是 2020 年 EBMT consensus 的建議。輕微的 upper GI 可以從較低劑量開始，再加 topical 治療；高劑量只增加感染，長期反應沒有更好。考題如果問 2 mg/kg 以上要不要再加量，書上的方向是不加。",
+          "反應率大約 40 到 50%，grade 越高越差。換個角度看，一半左右的病人會失敗，下一段的 steroid-refractory 因此是很常見的臨床問題。減量時症狀復發，常常把劑量調回去、第二次減慢一點就能控制。",
+          "最被看好的 steroid 加 MMF 曾進到 phase III，結果沒有比單用 steroid 好，原因還是感染增加。到目前為止沒有任何 add-on 勝過單用 steroid。長期用 steroid 的病人，病毒和黴菌感染很常見，要考慮 anti-infective prophylaxis。在病房，開 steroid 的同一天就把感染預防一起想好。",
+          "劑量換算也要熟。2 mg/kg 的 methylprednisolone，以 60 公斤病人來說大約一天 120 mg，這是 speaker's summary 的算術，考題偶爾會用 mg 數來問你給的劑量是否正確。",
+          "所以 first-line 的重點不在加藥，而在劑量夠、時間點準，以及感染照顧得好。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Steroid-refractory aGVHD",
+      "eyebrow": "aGVHD · Steroid failure",
+      "title": "Steroid failure is defined by timing and by flare on taper",
+      "root": "Methylprednisolone 2 mg/kg/day started",
+      "branches": [
+        {
+          "label": "Day 3–5",
+          "box": "Progression",
+          "out": "Refractory → second line"
+        },
+        {
+          "label": "Day 7–14",
+          "box": "Incomplete response",
+          "out": "Refractory → second line"
+        },
+        {
+          "label": "During taper",
+          "box": "Recurrence",
+          "out": "Dependent → second line"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "開始 methylprednisolone 之後，失敗有明確的時間點。最左邊是 3 到 5 天內惡化，屬於 steroid-refractory。中間是 7 到 14 天時仍然只有部分反應，也算 refractory。右邊是初期有效、減量時又復發，叫 steroid-dependent。",
+          "三種情況都要進 second-line。左右兩種最容易混淆，惡化看的是 3 到 5 天，部分反應看的是 7 到 14 天，兩個時間窗不能互換。Day 3 到 5 這個數字很常被考，題目會描述一個第 4 天變嚴重的病人，問要不要繼續等。這時候不必等到 day 14。",
+          "Refractory aGVHD 的預後很差。大多數藥物只有短期控制，持久反應少，死亡率大約 80%，lower GI 受侵犯時更糟。所以每天評估反應很重要，皮膚範圍、bilirubin 和 stool volume 都要寫進病歷，才能準時判斷有沒有失敗。",
+          "從 pathophysiology 的角度，書上也提到 steroid resistance 可能不只是 T cell 抗藥，而是組織耐受和免疫調節失衡，這也是為什麼加強免疫抑制常常不夠。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "aGVHD · REACH2",
+      "title": "Ruxolitinib is the standard for steroid-refractory acute GVHD",
+      "head": [
+        "REACH2 (Zeiser 2020)",
+        "Ruxolitinib",
+        "Investigator's choice"
+      ],
+      "rows": [
+        [
+          "Therapy",
+          "10 mg orally twice daily",
+          "ATG, ECP, MSC, MTX, MMF,\nmTORi, etanercept, infliximab"
+        ],
+        [
+          "ORR, day 28",
+          "62%",
+          "39%"
+        ],
+        [
+          "Odds ratio (95% CI)",
+          "2.64 (1.65–4.22)",
+          ""
+        ],
+        [
+          "CR, day 28",
+          "34%",
+          "19%"
+        ],
+        [
+          "Response, day 56",
+          "40%",
+          "22%"
+        ]
+      ],
+      "colW": [
+        3.4,
+        3.2,
+        5.2
+      ],
+      "fontSize": 20,
+      "caption": "Phase III, n = 309, age ≥ 12, grade II–IV SR-aGVHD, 1:1. Approved by EMA and FDA.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Second-line 的標準來自 REACH2，Zeiser 2020 發表在 NEJM，是 multicenter phase III。收 309 位 12 歲以上、grade II 到 IV 的 steroid-refractory aGVHD，1:1 隨機分到 ruxolitinib 10 mg 口服一天兩次，或 investigator's choice。對照組在隨機時由醫師從九個選項中挑一個，包括 ATG、ECP、MSC、low-dose MTX、MMF、everolimus、sirolimus、etanercept 和 infliximab。對照組等於是當時各種 second-line 的總和，所以 ruxolitinib 贏的是整個舊標準。",
+          "主要結果看 day 28。ORR 是 62% 比 39%，odds ratio 2.64，95% CI 1.65 到 4.22。CR 是 34% 比 19%。到 day 56，ruxolitinib 組仍然領先，40% 比 22%，代表反應能維持，而且各 grade、各器官都一致。",
+          "Ruxolitinib 因此拿到 EMA 和 FDA 的 SR-aGVHD 核准。考題常考三件事，劑量 10 mg 一天兩次、年齡 12 歲以上，以及 day 28 的 ORR。Ruxolitinib 之後沒有共識的下一步，各中心依可近性、費用和病人意願選擇。",
+          "在病房使用時，要注意 steroid 仍然繼續，ruxolitinib 是加上去的 second-line，之後再依反應逐步減 steroid。書上也提醒，長時間的免疫抑制會帶來病毒和黴菌感染，所以感染預防要持續。",
+          "REACH2 的意義在於，這是第一個在 steroid-refractory aGVHD 用隨機試驗打贏 best available therapy 的藥。在它之前，second-line 完全靠各中心經驗，書上也說之前試過的藥很多，單用或合併 steroid 都有，但沒有一個能證明優越。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "aGVHD · Salvage beyond ruxolitinib",
+      "title": "Beyond ruxolitinib, salvage options lack consensus",
+      "head": [
+        "Option",
+        "Evidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "ECP",
+          "≥ 2 sessions/week;\nvs anticytokine (Jagasia 2013)",
+          "ORR 66% vs 32%;\nCR 54% vs 20% (Ch. 66)"
+        ],
+        [
+          "MSC",
+          "Le Blanc 2008;\nMunneke 2016",
+          "Response > 50%;\nIDUNN phase III vs ruxolitinib"
+        ],
+        [
+          "Pooled FMT",
+          "81 patients, GI SR-aGVHD\n(Malard 2023)",
+          "ORR 56%, CR 37%\nafter median 3 doses"
+        ],
+        [
+          "α1-antitrypsin",
+          "Two phase II trials",
+          "Day 28: CR 35%, ORR 60%"
+        ],
+        [
+          "Refractory aGVHD",
+          "Overall outcome",
+          "About 80% mortality,\nworst with lower GI"
+        ]
+      ],
+      "colW": [
+        2.6,
+        4.6,
+        4.6
+      ],
+      "fontSize": 17,
+      "cite": "Holler E, et al. EBMT Handbook 8th ed. 2024; Ch. 43 · Greinix H. EBMT Handbook 8th ed. 2024; Ch. 66",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Ruxolitinib 失敗或不能用時，書上提到這幾個選項。ECP 要一週至少兩次。Ch. 66 引用 Jagasia 2013，和 anticytokine 治療比，ORR 66% 比 32%，CR 54% 比 20%，而且毒性低、不增加病毒再活化，對已經有感染的病人特別有吸引力。",
+          "MSC 的作用不受 HLA 限制，較大的系列反應率超過 50%，目前 IDUNN phase III 正在和 ruxolitinib 直接比較。Pooled FMT 用在 81 位 GI 的 SR-aGVHD，中位數三劑之後 ORR 56%，CR 37%，有反應的人存活也比較好，這呼應前面提到的菌相保護作用。α1-antitrypsin 兩個 phase II，day 28 CR 35%，ORR 60%。",
+          "這些多半是單臂研究，短期有效，持久反應不多。最後一列提醒大家，refractory aGVHD 死亡率大約 80%，這也是為什麼書上的 key points 一再強調預防和機構內的標準照護。",
+          "選擇時通常考慮三件事，可近性、病人的感染狀態，以及受侵犯的器官，例如 GI 為主的病人，FMT 和 ECP 的資料比較直接。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: grade this patient's acute GVHD",
+      "stem": "A 45-year-old man is 30 days after a matched unrelated donor allo-HCT for AML. He has a maculopapular rash over 30% BSA, total bilirubin 4.0 mg/dL and diarrhoea of 800 mL/day. Skin and rectal biopsies confirm acute GVHD. He has no nausea. What is his overall clinical grade?",
+      "options": [
+        "Grade I",
+        "Grade II",
+        "Grade III",
+        "Grade IV",
+        "Cannot be graded until a liver biopsy is done"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: liver stage 2 lifts the grade to III",
+      "explanation": "Skin 30% BSA = stage 2; bilirubin 4.0 mg/dL = liver stage 2 (3.1–6); 800 mL/day = lower GI stage 1 (500–999). Liver or lower GI stage 2–3 defines grade III. Grade II allows liver and lower GI stage 1 only. Staging is clinical: liver histological grading has no proven prognostic value.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題是分級題。45 歲男性，AML，matched unrelated donor 移植後 day 30。皮疹 30% BSA，total bilirubin 4.0 mg/dL，腹瀉每天 800 mL，皮膚和直腸切片都確認是 acute GVHD，沒有噁心。先各自算三個器官的 stage，再用剛才的規則決定 overall grade，建議先看肝和腸。",
+          "選項 A 到 D 是 grade I 到 IV，E 是要等肝切片才能分級。",
+          "這題沒有陷阱數字，但很多人會只看皮膚和腹瀉就下結論，請把三個器官都算完。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 C，grade III。一個一個器官來。皮膚 30% BSA 落在 25 到 50%，是 stage 2；bilirubin 4.0 落在 3.1 到 6，是肝 stage 2；每天 800 mL 落在 500 到 999，是 lower GI stage 1。肝 stage 2 就已經是 grade III。",
+          "最多人會選 B，因為皮膚 stage 2 加腸胃 stage 1 看起來像 grade II，漏看了肝。Grade II 只容許肝和 lower GI 到 stage 1。E 也不對，staging 是臨床的，肝的病理 grading 沒有 prognostic value，不需要等肝切片。",
+          "這題的技巧是先找肝和腸，只要任一個到 stage 2，就可以直接排除 grade I 和 II。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose the next step on day 4",
+      "stem": "A 52-year-old woman develops grade III lower GI acute GVHD on day 40 after unrelated donor HCT. Methylprednisolone 2 mg/kg/day is started. On day 4 of steroids her stool output rises from 1,200 to 1,900 mL/day with fresh blood. CMV PCR and stool cultures are negative. What is the most appropriate next step?",
+      "options": [
+        "Continue the same dose and reassess on day 14",
+        "Add mycophenolate mofetil to the steroids",
+        "Start ruxolitinib 10 mg twice daily",
+        "Increase methylprednisolone to 10 mg/kg/day",
+        "Switch to topical steroids alone"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: progression by day 3–5 means steroid-refractory",
+      "explanation": "Progression within 3–5 days of starting steroids defines steroid-refractory aGVHD; the 7–14-day window applies to incomplete response, not progression. In REACH2, ruxolitinib 10 mg twice daily beat investigator's choice: ORR 62% vs 39% and CR 34% vs 19% at day 28. Adding MMF to steroids failed in phase III.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。52 歲女性，unrelated donor 移植後 day 40 出現 grade III lower GI aGVHD，開始 methylprednisolone 2 mg/kg。用藥第 4 天，腹瀉從每天 1200 增加到 1900 mL，還有新鮮血便。CMV 和糞便培養都陰性。五個選項裡，選最適當的下一步。",
+          "選項 A 是維持劑量到 day 14 再評估，B 是加 MMF，C 是 ruxolitinib 10 mg 一天兩次，D 是把 methylprednisolone 加到 10 mg/kg，E 是改成只用 topical steroid。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "選 C，ruxolitinib。Steroid 開始後 3 到 5 天內惡化，就符合 steroid-refractory，不需要等到 day 14。題目先排除 CMV 和感染，就是要讓你放心判定這是 GVHD 本身在惡化。",
+          "A 是最常見的陷阱。Day 7 到 14 的標準是給部分反應、沒有惡化的人，這位病人已經在惡化。B 加 MMF 在 phase III 沒有勝過單用 steroid，感染還增加。REACH2 中 ruxolitinib 的 day 28 ORR 62%，對照組 39%，CR 34% 比 19%。",
+          "D 加到 10 mg/kg 在書上沒有支持，書上的方向反而是高劑量 steroid 增加感染。E 只用 topical 對 grade III 的腸道 GVHD 完全不夠。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: pick the correct prophylaxis statement",
+      "stem": "A 58-year-old man with AML in first complete remission will receive reduced-intensity conditioning and an 8/8 HLA-matched unrelated donor graft. The team is choosing GVHD prophylaxis. Which statement about the randomized evidence summarized in the EBMT Handbook is correct?",
+      "options": [
+        "TAC/MTX improved overall survival compared with CSA/MTX",
+        "ATG in MUD HCT lowered GVHD and improved overall survival",
+        "PTCy/TAC/MMF improved 1-year GRFS compared with TAC/MTX",
+        "TAC/sirolimus was less effective than TAC/MTX against acute GVHD",
+        "Abatacept is FDA-approved with PTCy for haploidentical donors"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: PTCy improved GRFS through less acute and chronic GVHD",
+      "explanation": "In 431 RIC adults (Holtan 2022), PTCy/TAC/MMF gave 1-year GRFS 52.7% vs 34.9% (p < 0.001), from less acute and chronic GVHD. TAC/MTX lowered aGVHD without a survival gain; ATG (Soiffer 2017) lowered GVHD but OS was lower; TAC/SIR was equivalent; abatacept is approved with a CNI and MTX for unrelated donors.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題換到 prophylaxis。58 歲男性，AML 在 first CR，準備接受 reduced-intensity conditioning，donor 是 8/8 matched unrelated。團隊正在選 GVHD prophylaxis。五個敘述裡，只有一個符合書上引用的 randomized data，其餘四個都是把某個 trial 的結果講錯。",
+          "A 說 TAC/MTX 比 CSA/MTX 改善存活，B 說 ATG 減少 GVHD 也改善存活，C 說 PTCy 加 TAC/MMF 改善 one-year GRFS，D 說 TAC/SIR 比 TAC/MTX 差，E 說 abatacept 核准和 PTCy 併用在 haplo。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 C。Holtan 2022 收 431 位 RIC 的成人，PTCy 加 TAC/MMF 的 one-year GRFS 52.7%，TAC/MTX 34.9%，差異來自 acute 和 chronic GVHD 都減少。",
+          "B 是主要陷阱。Soiffer 2017 的 ATG 確實減少 GVHD，可是 overall survival 比較差。A 錯在 TAC/MTX 只減少 aGVHD，survival 沒差；D 的 TAC/SIR 效果相當；E 的 abatacept 是和 CNI 加 MTX 併用在 unrelated donor，不是 PTCy。",
+          "這題考的是每個 trial 的 endpoint 和結果要配對正確。尤其 ATG 和 TAC/MTX 這兩組，都是 GVHD 下降、存活沒有改善甚至更差，出題者最喜歡把它們改寫成存活改善。臨床選擇時，GRFS 這種 composite endpoint 的意義也值得多想一下。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "aGVHD · Histological grade",
+      "title": "Skin and gut histology have their own grade I–IV",
+      "head": [
+        "Grade",
+        "Skin",
+        "GI tract"
+      ],
+      "rows": [
+        [
+          "I",
+          "Vacuolation of epidermal basal cells",
+          "Individual cell necrosis"
+        ],
+        [
+          "II",
+          "Individually necrotic keratinocytes",
+          "Loss of individual crypts"
+        ],
+        [
+          "III",
+          "Confluent keratinocyte necrosis forming bullae",
+          "Loss of ≥ 2 adjacent crypts with ulceration"
+        ],
+        [
+          "IV",
+          "Sloughing of the epidermis",
+          "Denudation of epithelium"
+        ]
+      ],
+      "colW": [
+        1.2,
+        5.2,
+        5.2
+      ],
+      "caption": "Liver: small bile duct damage; histological grading has no proven prognostic value",
+      "notes": {
+        "script": [
+          "這是 Table 43.3 的病理分級。皮膚從 basal cell vacuolation 到整片表皮脫落，腸道從單一細胞壞死到上皮完全剝離。肝也有病理分級，但沒有證實的預後價值。"
+        ]
+      },
+      "fontSize": 20
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "aGVHD · Paediatric staging",
+      "title": "Children are staged by stool volume per kilogram",
+      "head": [
+        "Lower GI stage",
+        "Adult (per day)",
+        "Child (per day)"
+      ],
+      "rows": [
+        [
+          "0",
+          "< 500 mL or < 3 episodes",
+          "< 10 mL/kg or < 4 episodes"
+        ],
+        [
+          "1",
+          "500–999 mL or 3–4 episodes",
+          "10–19.9 mL/kg or 4–6 episodes"
+        ],
+        [
+          "2",
+          "1000–1500 mL or 5–7 episodes",
+          "20–30 mL/kg or 7–10 episodes"
+        ],
+        [
+          "3",
+          "> 1500 mL or > 7 episodes",
+          "> 30 mL/kg or > 10 episodes"
+        ],
+        [
+          "4",
+          "Severe pain ± ileus, or grossly bloody stool",
+          "Same as adult, regardless of volume"
+        ]
+      ],
+      "colW": [
+        2.2,
+        4.8,
+        4.8
+      ],
+      "fontSize": 18,
+      "notes": {
+        "script": [
+          "兒童的 lower GI staging 改用每公斤 stool volume，切點是 10、20、30 mL/kg/day。Stage 4 的定義和成人相同，嚴重腹痛、ileus 或明顯血便，不論量多少。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "backup": true,
+      "eyebrow": "aGVHD · Grading systems",
+      "title": "Glucksberg grading has outlasted its challengers",
+      "steps": [
+        "Glucksberg 1974: organ stages → grade",
+        "1994 consensus: no performance score, adds upper GI",
+        "IBMTR Severity Index: no advantage",
+        "MAGIC staging 2016; eGVHD app"
+      ],
+      "invert": 0,
+      "caption": "Glucksberg predicted survival better than the IBMTR index (Cahn 2005) and remains in regular use.",
+      "notes": {
+        "script": [
+          "分級系統從 Glucksberg 1974 開始，1994 年 consensus 拿掉 performance score、加入 upper GI。IBMTR severity index 沒有顯示優勢，Glucksberg 反而更能預測存活，所以沿用至今；現在也有 eGVHD app 協助分級。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "backup": true,
+      "eyebrow": "aGVHD · Future directions",
+      "title": "Biomarkers and tissue repair are the next frontier",
+      "blocks": [
+        {
+          "head": "Biomarkers",
+          "body": "Validated at day 7 or at onset in multicentre cohorts; mainly flag severe GI GVHD (Vander Lugt 2013; Hartwell 2017)",
+          "extra": "Biomarker-guided trials pending"
+        },
+        {
+          "head": "Tissue tolerance",
+          "body": "Steroid resistance may reflect lost immunoregulation and tissue tolerance, not only resistant T cells",
+          "extra": "Hard to fix with classic IS"
+        },
+        {
+          "head": "Gut regeneration",
+          "body": "IL-22 and GLP-2 tested in mouse models and early clinical trials; acceptable toxicity",
+          "extra": "Needs phase III validation"
+        }
+      ],
+      "notes": {
+        "script": [
+          "未來方向有三個。Biomarker 在 day 7 或發病時就能找出高風險、主要是 GI 的 GVHD，但還需要 biomarker-guided 的治療試驗。另一個方向是修復腸道，例如 IL-22 和 GLP-2，目前在早期臨床試驗。"
+        ]
+      }
+    }
+  ]
+}
