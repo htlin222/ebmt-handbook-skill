@@ -12,28 +12,28 @@
     ]
   },
   "references": [
-    "1. Holler E, Greinix H, Zeiser R. Acute graft-versus-host disease. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 385–393. doi:10.1007/978-3-031-44080-9_43",
-    "2. Greinix H. Photopheresis in adults and pediatrics. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 587–593. doi:10.1007/978-3-031-44080-9_66",
+    "1. Holler E, Greinix H, Zeiser R. Acute graft-versus-host disease. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, eds. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Springer, Cham; 2024. pp. 385–393. https://doi.org/10.1007/978-3-031-44080-9_43",
+    "2. Greinix H. Photopheresis in adults and pediatrics. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, eds. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Springer, Cham; 2024. pp. 587–593. https://doi.org/10.1007/978-3-031-44080-9_66",
     "3. Filipovich AH, Weisdorf D, Pavletic S, et al. National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Biol Blood Marrow Transplant. 2005;11:945–56.",
     "4. Flowers ME, Inamoto Y, Carpenter PA, et al. Comparative analysis of risk factors for acute graft-versus-host disease and for chronic graft-versus-host disease according to National Institutes of Health consensus criteria. Blood. 2011;117:3214–9.",
-    "5. Harris AC, Young R, Devine S, et al. International, multicenter standardization of acute graft-versus-host disease clinical data collection: a report from the Mount Sinai Acute GVHD International Consortium. Biol Blood Marrow Transplant. 2016;22(1):4–10.",
+    "5. Harris AC, Young R, Devine S, Hogan WJ, Ayuk F, Bunworasate U, Chanswangphuwana C, Efebera YA, Holler E, Litzow M, Ordemann R, Qayed M, Renteria AS, Reshef R, Wölfl M, Chen YB, Goldstein S, Jagasia M, Locatelli F, Mielke S, Porter D, Schechter T, Shekhovtsova Z, Ferrara JL, Levine JE. International, multicenter standardization of acute graft-versus-host disease clinical data collection: a report from the Mount Sinai Acute GVHD International Consortium. Biol Blood Marrow Transplant. 2016;22(1):4–10.",
     "6. Glucksberg H, Storb R, Fefer A, et al. Clinical manifestations of graft-versus-host disease in human recipients of marrow from HL-A-matched sibling donors. Transplantation. 1974;18:295–304.",
-    "7. Przepiorka D, Weisdorf D, Martin P, et al. 1994 Consensus Conference on Acute GVHD Grading. Bone Marrow Transplant. 1995;15(6):825–8.",
+    "7. Przepiorka D, Weisdorf D, Martin P, Klingemann HG, Beatty P, Hows J, Thomas ED. 1994 Consensus Conference on Acute GVHD Grading. Bone Marrow Transplant. 1995;15(6):825–8. PMID: 7581076.",
     "8. Cahn JY, Klein JP, Lee SJ, et al. Prospective evaluation of 2 acute graft-versus-host (GVHD) grading systems: a joint Société Française de Greffe de Moëlle et Thérapie Cellulaire (SFGM-TC), Dana Farber Cancer Institute (DFCI), and International Bone Marrow Transplant Registry (IBMTR) prospective study. Blood. 2005;106:1495–500.",
     "9. Ratanatharathorn V, Nash RA, Przepiorka D, et al. Phase III study comparing methotrexate and tacrolimus (prograf, FK506) with methotrexate and cyclosporine for graft-versus-host disease prophylaxis after HLA-identical sibling bone marrow transplantation. Blood. 1998;92:2303–14.",
     "10. Nash RA, Antin JH, Karanes C, et al. Phase 3 study comparing methotrexate and tacrolimus with methotrexate and cyclosporine for prophylaxis of acute graft-versus-host disease after marrow transplantation from unrelated donors. Blood. 2000;96:2062–8.",
     "11. Törlén J, Ringdén O, Garming-Legert K, et al. A prospective randomized trial comparing cyclosporine/methotrexate and tacrolimus/sirolimus as graft-versus-host disease prophylaxis after allogeneic hematopoietic stem cell transplantation. Haematologica. 2016;101:1417–25.",
     "12. Finke J, Bethge WA, Schmoor C, et al. Standard graft-versus-host disease prophylaxis with or without anti-T-cell globulin in haematopoietic cell transplantation from matched unrelated donors: a randomised, open-label, multicentre phase 3 trial. Lancet Oncol. 2009;10:855–64.",
-    "13. Le Blanc K, Frassoni F, Ball L, Locatelli F, et al. Mesenchymal stem cells for treatment of steroid-resistant, severe, acute graft-versus-host disease: a phase II study. Lancet. 2008;371:1579–86.",
+    "13. Le Blanc K, Frassoni F, Ball L, Locatelli F, Developmental Committee of the European Group for Blood and Marrow Transplantation, et al. Mesenchymal stem cells for treatment of steroid-resistant, severe, acute graft-versus-host disease: a phase II study. Lancet. 2008;371:1579–86.",
     "14. Watkins B, Qayed M, McCracken C, et al. Phase II Trial of Costimulation Blockade With Abatacept for Prevention of Acute GVHD. J Clin Oncol. 2021;39:1865–77",
-    "15. Chen YB, Shah NN, Renteria AS, et al. Vedolizumab for prevention of graft-versus-host disease after allogeneic hematopoietic stem cell transplantation. Blood Adv. 2019;3(23):4136–46.",
-    "16. Fløisand Y, Schroeder MA, Chevallier P, et al. A phase 2a randomized clinical trial of intravenous vedolizumab for the treatment of steroid-refractory intestinal acute graft-versus-host disease. Bone Marrow Transplant. 2021;56(10):2477–2488.",
-    "17. Zeiser R, von Bubnoff N, Butler J, et al. Ruxolitinib for glucocorticoid-refractory acute graft-versus-host disease. N Engl J Med. 2020;382(19):1800–10.",
+    "15. Chen YB, Shah NN, Renteria AS, Cutler C, Jansson J, Akbari M, Chen C, Quadri S, Parfionovas A, Devine SM. Vedolizumab for prevention of graft-versus-host disease after allogeneic hematopoietic stem cell transplantation. Blood Adv. 2019;3(23):4136–46. doi: 10.1182/bloodadvances.2019000893. PMID: 31821456; PMCID: PMC6963235.",
+    "16. Fløisand Y, Schroeder MA, Chevallier P, Selleslag D, Devine S, Renteria AS, Mohty M, Yakoub-Agha I, Chen C, Parfionovas A, Quadri S, Jansson J, Akbari M, Chen YB. A phase 2a randomized clinical trial of intravenous vedolizumab for the treatment of steroid-refractory intestinal acute graft-versus-host disease. Bone Marrow Transplant. 2021;56(10):2477–2488. https://doi.org/10.1038/s41409-021-01356-0. Epub 2021 Jun 9. PMID: 34108672; PMCID: PMC8486663.",
+    "17. Zeiser R, von Bubnoff N, Butler J, Mohty M, Niederwieser D, Or R, Szer J, Wagner EM, Zuckerman T, Mahuzier B, Xu J, Wilke C, Gandhi KK, Socié G, REACH2 Trial Group. Ruxolitinib for glucocorticoid-refractory acute graft-versus-host disease. N Engl J Med. 2020;382(19):1800–10.",
     "18. Soiffer RJ, Kim HT, McGuirk J, et al. Prospective, randomized, double-blind, phase III clinical trial of anti-T-lymphocyte globulin to assess impact on chronic graft-versus-host disease-free survival in patients undergoing HLA-matched unrelated myeloablative hematopoietic cell transplantation. J Clin Oncol. 2017;35:4003–11.",
     "19. Jagasia M, Greinix H, Robin M, et al. Extracorporeal photopheresis versus anticytokine therapy as a second-line treatment for steroid-refractory acute GVHD: a multicenter comparative analysis. Biol Blood Marrow Transplant. 2013;19:1129–33.",
     "20. Walker I, Panzarella T, Couban S, et al. Pretreatment with anti-thymocyte globulin versus no anti-thymocyte globulin in patients with haematological malignancies undergoing haemopoietic cell transplantation from unrelated donors: a randomised, controlled, open-label, phase 3, multicentre trial. Lancet Oncol. 2016;17:164–73.",
     "21. Munneke JM, Spruit MJ, Cornelissen AS, et al. The potential of mesenchymal stromal cells as treatment for severe steroid-refractory acute graft-versus-host disease: a critical review of the literature. Transplantation. 2016;100:2309–14.",
-    "22. Malard F, Loschi M, Huynh A, et al. Pooled allogeneic faecal microbiota MaaT013 for steroid-resistant gastrointestinal acute graft-versus-host disease: a single-arm, multicentre phase 2 trial. EClinicalMedicine. 2023;62:102111.",
+    "22. Malard F, Loschi M, Huynh A, Cluzeau T, Guenounou S, Legrand F, Magro L, Orvain C, Charbonnier A, Panz-Klapuch M, Desmier D, Mear JB, Cornillon J, Robin C, Daguindau E, Bilger K, Vehreschild MJGT, Chevallier P, Labussière-Wallet H, Mediavilla C, Couturier MA, Bulabois CE, Camus V, Chantepie S, Ceballos P, Gaugler B, Holler E, Doré J, Prestat E, Gasc C, Plantamura E, Mohty M. Pooled allogeneic faecal microbiota MaaT013 for steroid-resistant gastrointestinal acute graft-versus-host disease: a single-arm, multicentre phase 2 trial. EClinicalMedicine. 2023;62:102111. https://doi.org/10.1016/j.eclinm.2023.102111. PMID: 37654670; PMCID: PMC10466244.",
     "23. Vander Lugt MT, Braun TM, Hanash S, et al. ST2 as a marker for risk of therapy-resistant graft-versus-host disease and death. N Engl J Med. 2013;369:529–39.",
     "24. Hartwell MJ, Özbek U, Holler E, et al. An early-biomarker algorithm predicts lethal graft-versus-host disease and survival. JCI Insight. 2017;2:e89798."
   ],
@@ -127,7 +127,8 @@
           "Overlap syndrome 則要依 chronic GVHD 的原則處理，這部分留到 chronic GVHD 那一週。"
         ]
       },
-      "fontSize": 18
+      "fontSize": 18,
+      "captionY": 4.85
     },
     {
       "type": "chain",
@@ -261,7 +262,8 @@
           "病理上，攻擊目標都是上皮細胞，共同特徵叫 satellite cell necrosis，免疫細胞貼著 apoptotic cell。皮膚看 basal layer 的 lichenoid infiltrate 和 vacuolation；肝最一致的是 small bile duct damage，這在其他移植併發症很少見；腸道是 exploding crypts。肝雖然有病理 grading，但沒有證實的 prognostic value，這句很適合出成選項。",
           "實務上，皮膚最容易切，結果也最快；腸道要靠內視鏡，但 lower GI 才是決定預後的器官，所以懷疑腸道 GVHD 時，值得安排內視鏡切片，同時送病毒檢查。"
         ]
-      }
+      },
+      "captionY": 5.3
     },
     {
       "type": "chain",
@@ -352,7 +354,8 @@
           "Upper GI 這一欄只有兩級，所以它在 overall grade 裡的份量也有限，這點下一張會看到。",
           "另外，皮膚 stage 4 和 lower GI stage 4 都是看嚴重度，而不是單純看範圍或量。"
         ]
-      }
+      },
+      "captionY": 5.3
     },
     {
       "type": "table",
@@ -398,7 +401,8 @@
           "底下一行是我自己的整理。Upper GI 單獨最多只到 grade II；肝或 lower GI 一到 stage 2，就直接跳 grade III。做題目時先找肝和腸，再看皮膚，速度會快很多。臨床上這條界線也很重要，grade I 可以只擦藥，grade II 以上就要 systemic steroid，而 grade III 到 IV 的預後明顯比較差。",
           "另外，這套 grade 也被用在 trial 的收案條件，像 REACH2 收的就是 grade II 到 IV。"
         ]
-      }
+      },
+      "captionY": 5.3
     },
     {
       "type": "table",
@@ -714,7 +718,7 @@
         "script": [
           "第一題是分級題。45 歲男性，AML，matched unrelated donor 移植後 day 30。皮疹 30% BSA，total bilirubin 4.0 mg/dL，腹瀉每天 800 mL，皮膚和直腸切片都確認是 acute GVHD，沒有噁心。先各自算三個器官的 stage，再用剛才的規則決定 overall grade，建議先看肝和腸。",
           "選項 A 到 D 是 grade I 到 IV，E 是要等肝切片才能分級。",
-          "這題沒有陷阱數字，但很多人會只看皮膚和腹瀉就下結論，請把三個器官都算完。",
+          "這題沒有陷阱數字，但很多人會只看皮膚和腹瀉就下結論，三個器官都要算完再下結論。",
           "[Pause for answers.]"
         ]
       },
@@ -834,7 +838,8 @@
           "這是 Table 43.3 的病理分級。皮膚從 basal cell vacuolation 到整片表皮脫落，腸道從單一細胞壞死到上皮完全剝離。肝也有病理分級，但沒有證實的預後價值。"
         ]
       },
-      "fontSize": 20
+      "fontSize": 20,
+      "captionY": 4.9
     },
     {
       "type": "table",
