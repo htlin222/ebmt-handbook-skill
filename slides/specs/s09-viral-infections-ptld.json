@@ -803,7 +803,7 @@
       ],
       "answer": "B",
       "answerTitle": "Answer B: rituximab plus RIS",
-      "explanation": "Symptoms plus EBER-ISH in tissue = proven EBV-PTLD; treat at once. First line: rituximab 375 mg/m² weekly, with RIS unless GVHD is severe and uncontrolled, or EBV-CTL if available. Response: rituximab 65%, with RIS 78%. Chemotherapy ± rituximab is second line; antivirals, IVIG and interferon should not be used.",
+      "explanation": "Symptoms plus EBER-ISH in tissue = proven EBV-PTLD; treat at once. First line: rituximab 375 mg/m² weekly, with RIS unless GVHD is severe and uncontrolled, or EBV-CTL if available. Response: rituximab 65%, with RIS 78%. Chemotherapy ± rituximab is second line. Antivirals, IVIG and interferon have no role.",
       "cite": "Styczynski J, Giebel S. EBMT Handbook 8th ed. 2024; Ch. 45",
       "notes": {
         "min": 0.75,

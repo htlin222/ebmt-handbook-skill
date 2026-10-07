@@ -226,8 +226,8 @@
         },
         {
           "label": "Live, never",
-          "box": "OPV, BCG, Zostavax, LAIV, oral typhoid",
-          "out": "Contraindicated"
+          "box": "OPV, BCG, Zostavax, LAIV",
+          "out": "Also oral typhoid, rotavirus: contraindicated"
         }
       ],
       "invert": 1,
@@ -237,7 +237,7 @@
         "script": [
           "疫苗先建立一個原則。移植前打過的疫苗，不論是病人自己還是 donor 打的，移植後都無法維持保護，所以 post-HCT 的病人要當成從來沒打過疫苗，整套重來。這點和 solid organ transplant 剛好相反，SOT 重視的是移植前接種。",
           "左邊是 non-live vaccine，包括 inactivated、subunit 和 conjugate，安全性和一般人相同，也沒有證據會誘發 GVHD，例外是 SARS-CoV-2 疫苗。GVHD 已經用藥控制住，不是延後的理由。",
-          "中間是有條件的 live vaccine，MMR、varicella 和 yellow fever。條件要全部符合，移植滿 24 個月、沒有 GVHD、沒有免疫抑制、原發疾病沒有復發，距離上次 IVIG 至少三個月，最好八個月。右邊是永遠不打的，還要加上 rotavirus。Zostavax 的病毒量是 varicella vaccine 的十四倍以上，曾有致死的 vaccine-strain VZV，有些甚至在移植好幾年後才打。",
+          "中間是有條件的 live vaccine，MMR、varicella 和 yellow fever。條件要全部符合，移植滿 24 個月、沒有 GVHD、沒有免疫抑制、原發疾病沒有復發，距離上次 IVIG 至少三個月，最好八個月。右邊是永遠不打的，再加上 oral typhoid 和 rotavirus。Zostavax 的病毒量是 varicella vaccine 的十四倍以上，曾有致死的 vaccine-strain VZV，有些甚至在移植好幾年後才打。",
           "所以 live vaccine 的條件題，只要有一項不符合，答案就是不打。成人打 measles 之前要先驗抗體，陰性才打；考慮 varicella vaccine 時也一樣，只給血清陰性的人。"
         ]
       }
