@@ -5,6 +5,11 @@ Each item below is bracketed `[verify: …]` on the slide and listed in that sli
 
 | Week | Deck | Item | What to check |
 |---|---|---|---|
+| 5 | GVHD prophylaxis | Hamilton 2019 setting | Ch. 26 calls the CIBMTR study (n = 1564) an RIC study, but its reference title says "after myeloablative" |
+| 5 | GVHD prophylaxis | Vedolizumab phase 3 numbers | Day-180 GI-aGVHD-free survival 85.5% vs 70.9%, HR 0.45 is cited only to an EBMT 2023 oral presentation; check the full publication |
+| 5 | GVHD prophylaxis | ATG Table 26.2 product labels | Reading "T"/"G" as Thymoglobulin/ATLG is the speaker's inference; the table says "Lower for ATLG" for the Walker trial, which used Thymoglobulin |
+| 5 | GVHD prophylaxis | BMT CTN 1301 citation | Ch. 26 cites 1301 as Bolaños-Meade 2019 (the 1203 paper); 1301 is probably Luznik 2022. cGVHD wording inconsistent; relapse left off |
+| 5 | GVHD prophylaxis (backup) | Haplo DLI dose | Ch. 26 prints "1–2, 5 × 10e⁴/kg", possibly 1–2.5 × 10⁴/kg |
 | 6 | Acute GVHD | Vedolizumab prophylaxis | Ch. 43 calls the evidence a "prospective phase III trial", but cites Chen 2019 and Fløisand 2021, which are earlier-phase studies |
 | 7 | Chronic GVHD and ECP | NIH global severity, number of organs | Ch. 44's table prints "> 3" organs for both moderate and severe; check the NIH 2014 consensus table (Jagasia 2015) |
 | 7 | Chronic GVHD and ECP | Randomised ECP trial attribution | Ch. 66 attributes the 95-patient randomised phase II trial to Greinix 1998; the matching reference is Flowers 2008 (Blood 2008;112:2667–74) |

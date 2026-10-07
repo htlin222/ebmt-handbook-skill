@@ -82,7 +82,7 @@
     {
       "type": "table",
       "eyebrow": "CMV · Prophylaxis",
-      "title": "Letermovir prophylaxis cuts CMV infection and mortality",
+      "title": "Letermovir prophylaxis lowers CMV infection and all-cause mortality",
       "head": [
         "Measure",
         "What Ch. 38 says"
@@ -231,7 +231,7 @@
       "type": "table",
       "section": "Other viruses",
       "eyebrow": "HSV · VZV",
-      "title": "Acyclovir dosing depends on indication and severity",
+      "title": "Acyclovir dosing depends on the indication and on disease severity",
       "head": [
         "Indication",
         "Regimen (Ch. 38)",
@@ -446,7 +446,7 @@
     {
       "type": "table",
       "eyebrow": "Adenovirus",
-      "title": "Adenovirus is monitored by risk and treated with cidofovir",
+      "title": "Adenovirus is monitored by risk and treated preemptively with cidofovir",
       "head": [
         "Step",
         "Ch. 38 recommendation"
@@ -603,7 +603,7 @@
     {
       "type": "tree",
       "eyebrow": "PTLD · Strategy",
-      "title": "EBV management escalates from prophylaxis to treatment",
+      "title": "EBV management moves from prophylaxis to preemption to treatment",
       "root": "EBV after allo-HCT: no effective antiviral drug",
       "branches": [
         {
@@ -700,7 +700,7 @@
       "type": "table",
       "section": "Other infections",
       "eyebrow": "Ch. 39 · Rare non-viral infections",
-      "title": "Rare non-viral infections cluster in patients with GVHD",
+      "title": "Rare non-viral infections cluster in patients with GVHD on steroids",
       "head": [
         "Pathogen",
         "Who and when",
@@ -802,7 +802,7 @@
         "Observation with repeat EBV PCR in one week"
       ],
       "answer": "B",
-      "answerTitle": "Answer B: rituximab plus reduced immunosuppression",
+      "answerTitle": "Answer B: rituximab plus RIS",
       "explanation": "Symptoms plus EBER-ISH in tissue = proven EBV-PTLD; treat at once. First line: rituximab 375 mg/m² weekly, with RIS unless GVHD is severe and uncontrolled, or EBV-CTL if available. Response: rituximab 65%, with RIS 78%. Chemotherapy ± rituximab is second line; antivirals, IVIG and interferon should not be used.",
       "cite": "Styczynski J, Giebel S. EBMT Handbook 8th ed. 2024; Ch. 45",
       "notes": {
@@ -834,7 +834,7 @@
         "Plan a total of 3 weeks of antibiotics"
       ],
       "answer": "A",
-      "answerTitle": "Answer A: image the brain in every pulmonary nocardiosis",
+      "answerTitle": "Answer A: always image the brain",
       "explanation": "Branching acid-fast rods in a late cGVHD patient mean Nocardia, which does not colonize airways. About 1/3 have CNS involvement at presentation, often silent, so brain CT or MRI is mandatory. Treat with high-dose TMP/SMX for at least 6 months; 2–3-day-per-week prophylaxis does not prevent nocardiosis.",
       "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
       "notes": {
@@ -901,7 +901,7 @@
       "type": "table",
       "backup": true,
       "eyebrow": "PTLD · CNS and response",
-      "title": "CNS PTLD and response criteria follow their own rules",
+      "title": "CNS PTLD lacks a standard; response is judged by EBV DNA and imaging",
       "head": [
         "Topic",
         "Ch. 45"
@@ -948,7 +948,7 @@
       "type": "table",
       "backup": true,
       "eyebrow": "Toxoplasmosis · Drugs",
-      "title": "Toxoplasmosis needs full-dose TMP/SMX prophylaxis",
+      "title": "TMP/SMX below 3 days a week lets toxoplasmosis break through",
       "head": [
         "Use",
         "Regimen (Table 39.2)"
