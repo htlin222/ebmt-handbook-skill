@@ -11,6 +11,8 @@ Each item below is bracketed `[verify: …]` on the slide and listed in that sli
 | 11 | Organ complications | IPS steroid line | Ch. 52 prints "Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible" with the drug missing (presumably etanercept); check the printed chapter |
 | 18 | Myeloma and lymphoma | Myeloma CAR-T labels | Current EMA/FDA/TFDA labels for ide-cel and cilta-cel by number of prior lines; Ch. 81 says "> 3 previous lines" but also reports KarMMa-3 and CARTITUDE-4 in earlier lines |
 | 18 | Myeloma and lymphoma (backup) | BEAM melphalan unit | Ch. 86 and 89 print melphalan "140 mg/kg/day"; almost certainly mg/m² |
+| 14 | CAR-T | CRS/ICANS grading standard | Ch. 60 shows only the Penn, CTCAE and Lee 2014 scales; check whether to name ASTCT consensus grading (Lee 2019) as current |
+| 14 | CAR-T | Steroids for ICANS | First-line corticosteroids for ICANS are not stated in Ch. 60 |
 | 16 | MDS/MPN | MTSS age point value | Table 77.1 lists "Age ≥ 57 years" without points; check Gagelmann 2019 |
 
 ## Inconsistencies inside the book (handled on the slides, no action needed)
