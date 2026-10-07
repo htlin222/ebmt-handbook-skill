@@ -263,7 +263,7 @@
           "實務上，皮膚最容易切，結果也最快；腸道要靠內視鏡，但 lower GI 才是決定預後的器官，所以懷疑腸道 GVHD 時，值得安排內視鏡切片，同時送病毒檢查。"
         ]
       },
-      "captionY": 5.3
+      "captionY": 5.45
     },
     {
       "type": "chain",
@@ -551,7 +551,7 @@
           "Grade II 以上要 systemic，主力是高劑量 methylprednisolone，通常 2 mg/kg/day，給 7 到 14 天再逐步減量，這是 2020 年 EBMT consensus 的建議。輕微的 upper GI 可以從較低劑量開始，再加 topical 治療；高劑量只增加感染，長期反應沒有更好。考題如果問 2 mg/kg 以上要不要再加量，書上的方向是不加。",
           "反應率大約 40 到 50%，grade 越高越差。換個角度看，一半左右的病人會失敗，下一段的 steroid-refractory 因此是很常見的臨床問題。減量時症狀復發，常常把劑量調回去、第二次減慢一點就能控制。",
           "最被看好的 steroid 加 MMF 曾進到 phase III，結果沒有比單用 steroid 好，原因還是感染增加。到目前為止沒有任何 add-on 勝過單用 steroid。長期用 steroid 的病人，病毒和黴菌感染很常見，要考慮 anti-infective prophylaxis。在病房，開 steroid 的同一天就把感染預防一起想好。",
-          "劑量換算也要熟。2 mg/kg 的 methylprednisolone，以 60 公斤病人來說大約一天 120 mg，這是 speaker's summary 的算術，考題偶爾會用 mg 數來問你給的劑量是否正確。",
+          "劑量換算也要熟。2 mg/kg 的 methylprednisolone，以 60 公斤病人來說大約一天 120 mg，這是 speaker's summary 的算術，開醫囑時直接換成 mg 比較不會出錯。",
           "所以 first-line 的重點不在加藥，而在劑量夠、時間點準，以及感染照顧得好。"
         ]
       }
@@ -839,7 +839,7 @@
         ]
       },
       "fontSize": 20,
-      "captionY": 4.9
+      "captionY": 5.5
     },
     {
       "type": "table",
