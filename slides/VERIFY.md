@@ -13,6 +13,7 @@ Each item below is bracketed `[verify: …]` on the slide and listed in that sli
 | 6 | Acute GVHD | Vedolizumab prophylaxis | Ch. 43 calls the evidence a "prospective phase III trial", but cites Chen 2019 and Fløisand 2021, which are earlier-phase studies |
 | 7 | Chronic GVHD and ECP | NIH global severity, number of organs | Ch. 44's table prints "> 3" organs for both moderate and severe; check the NIH 2014 consensus table (Jagasia 2015) |
 | 7 | Chronic GVHD and ECP | Randomised ECP trial attribution | Ch. 66 attributes the 95-patient randomised phase II trial to Greinix 1998; the matching reference is Flowers 2008 (Blood 2008;112:2667–74) |
+| 9 | Viral infections | Letermovir dose | Ch. 38 gives no dose; the slide shows 480 mg/day (240 mg/day with ciclosporin) bracketed; check the Taiwan label |
 | 11 | Organ complications | IPS steroid line | Ch. 52 prints "Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible" with the drug missing (presumably etanercept); check the printed chapter |
 | 18 | Myeloma and lymphoma | Myeloma CAR-T labels | Current EMA/FDA/TFDA labels for ide-cel and cilta-cel by number of prior lines; Ch. 81 says "> 3 previous lines" but also reports KarMMa-3 and CARTITUDE-4 in earlier lines |
 | 18 | Myeloma and lymphoma (backup) | BEAM melphalan unit | Ch. 86 and 89 print melphalan "140 mg/kg/day"; almost certainly mg/m² |
