@@ -217,7 +217,7 @@
         {
           "label": "Non-live",
           "box": "Inactivated, subunit, conjugate",
-          "out": "Give on schedule; controlled GVHD no delay"
+          "out": "On schedule despite controlled GVHD"
         },
         {
           "label": "Live, conditional",
