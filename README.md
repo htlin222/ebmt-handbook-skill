@@ -56,6 +56,17 @@ ebmt-handbook/
 └── audit_payload.json              # Skill audit metadata
 ```
 
+## Oral-exam booklet (A4 PDF)
+
+A companion study booklet: **24 landscape A4 sheets covering all 95 chapters**, in Traditional Chinese with English terms. Every sheet uses the same frame: first principle → MECE decision tables → quick-reference numbers → opening lines → common traps.
+
+- Download: [`booklet-latest` release](https://github.com/htlin222/ebmt-handbook-skill/releases/tag/booklet-latest) (rebuilt automatically on push to `main`)
+- Source: `booklet/pages/*.md` (writing rules in `booklet/README.md`)
+- Build locally: `uv run --script scripts/build_booklet.py` → `dist-booklet/`
+- Maintenance workflow for agents: `.claude/skills/building-booklet-pdfs/SKILL.md`
+
+The booklet lives outside `ebmt-handbook/`, so it is not packaged into the `.skill` file.
+
 ## Source
 
 **Book:** The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies, 8th edition (2024)

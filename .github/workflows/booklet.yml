@@ -1,0 +1,41 @@
+name: Build A4 oral-exam booklet PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'booklet/**'
+      - 'scripts/build_booklet.py'
+      - '.github/workflows/booklet.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+
+      # 手冊字型：本機用 PingFang，runner 上退到 Noto Sans CJK
+      - name: Install CJK fonts
+        run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
+
+      - name: Install Chromium for Playwright
+        run: uv run --with playwright playwright install --with-deps chromium
+
+      # 腳本會量每一張 A4 有沒有溢出或表格超寬；有問題就 exit 1
+      - name: Render PDF and check overflow
+        run: uv run --script scripts/build_booklet.py
+
+      - name: Publish to release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=booklet-latest
+          gh release view "$tag" >/dev/null 2>&1 \
+            || gh release create "$tag" --title "EBMT 口試手冊 A4 PDF（最新）" \
+                 --notes "由 main 分支的 booklet/ 自動建置。EBMT Handbook 第 8 版（2024）口試精華：每張橫式 A4 一個主題，第一性原理、MECE 分岔、速記表、破題關鍵句、容易被電；繁體中文＋英文名詞。衍生自 CC BY 4.0 原書，非官方，臨床以最新指引與仿單為準。"
+          gh release upload "$tag" dist-booklet/ebmt-handbook-oral-exam-booklet.pdf --clobber

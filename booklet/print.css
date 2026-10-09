@@ -1,0 +1,189 @@
+/*
+ * A4 口試手冊的唯一樣式：booklet/pages/*.md → scripts/build_booklet.py → HTML → PDF。
+ *
+ * 版面：橫式 A4 固定外框（.sheet > header + .content > .inner + footer），灰階、表格斑馬紋。
+ * 溢出不會多出一頁，而是被裁掉；build_booklet.py 量 .inner 高度抓出來。
+ */
+@page {
+	size: A4 landscape;
+	margin: 0;
+}
+:root {
+	/* 全灰階：黑白列印不失真 */
+	--ink: #111111;
+	--muted: #5c5c5c;
+	--line: #b4b4b4;
+	--accent: #2b2b2b;
+	--wash: #e4e4e4;
+	--zebra: #f1f1f1;
+}
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	background: #e9e9e9;
+	color: var(--ink);
+	font: 8pt/1.24 'PingFang TC', 'Heiti TC', 'Noto Sans TC', 'Noto Sans CJK TC', 'WenQuanYi Zen Hei', system-ui, sans-serif;
+}
+.sheet {
+	width: 297mm;
+	height: 210mm;
+	margin: 12px auto;
+	padding: 8mm 8mm 7mm;
+	background: #fff;
+	box-shadow: 0 2px 14px rgb(0 0 0 / 12%);
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	break-after: page;
+	page-break-after: always;
+}
+.sheet > .content {
+	flex: 1 1 auto;
+	min-height: 0;
+	overflow: hidden;
+}
+header {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: 10px;
+	border-bottom: 2px solid var(--accent);
+	padding-bottom: 2px;
+	margin-bottom: 5px;
+}
+h1 {
+	font-size: 13pt;
+	margin: 0;
+	letter-spacing: 0.01em;
+}
+header .kicker {
+	font-size: 7.4pt;
+	color: var(--muted);
+	white-space: nowrap;
+}
+h2 {
+	font-size: 8.2pt;
+	margin: 5px 0 1.5px;
+	padding: 1.2px 6px;
+	background: var(--accent);
+	color: #fff;
+	border-radius: 2px;
+	break-after: avoid;
+}
+h3 {
+	font-size: 8pt;
+	margin: 3.5px 0 1px;
+	color: var(--accent);
+	break-after: avoid;
+}
+p {
+	margin: 1.5px 0;
+}
+ul,
+ol {
+	margin: 1.5px 0;
+	padding-left: 1.05em;
+}
+li {
+	margin: 0.4px 0;
+}
+li > ul {
+	margin: 0;
+}
+strong,
+b {
+	font-weight: 700;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 1.5px 0 3.5px;
+	font-size: 7.1pt;
+	line-height: 1.22;
+}
+th,
+td {
+	border: 0.5px solid var(--line);
+	padding: 1.2px 3px;
+	vertical-align: top;
+	text-align: left;
+}
+th {
+	background: var(--wash);
+	font-weight: 700;
+	white-space: nowrap;
+}
+tbody tr:nth-child(odd) td {
+	background: #ffffff;
+}
+tbody tr:nth-child(even) td {
+	background: var(--zebra);
+}
+td:first-child {
+	font-weight: 700;
+	min-width: 4.5em;
+}
+tr {
+	break-inside: avoid;
+}
+.fp {
+	border: 0.5px solid var(--accent);
+	border-left: 3px solid var(--accent);
+	background: var(--wash);
+	padding: 2.5px 6px;
+	margin: 2px 0 4px;
+	font-size: 8pt;
+}
+.fp b:first-child {
+	color: var(--accent);
+	margin-right: 4px;
+}
+.two {
+	column-count: 2;
+	column-gap: 6mm;
+	column-rule: 0.5px solid var(--line);
+}
+.two p,
+.two li,
+.two tr {
+	break-inside: avoid;
+}
+/* 並排兩段：寬度換高度 */
+.pair {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 5mm;
+	align-items: start;
+}
+.pair > section > h2:first-child {
+	margin-top: 5px;
+}
+footer {
+	margin-top: 3px;
+	padding-top: 2px;
+	border-top: 0.5px solid var(--line);
+	display: flex;
+	justify-content: space-between;
+	font-size: 6.8pt;
+	color: var(--muted);
+}
+.toolbar {
+	max-width: 297mm;
+	margin: 14px auto -4px;
+	font: 13px system-ui, sans-serif;
+	color: #5c5c5c;
+}
+@media print {
+	body {
+		background: #fff;
+	}
+	.sheet {
+		margin: 0;
+		box-shadow: none;
+	}
+	.toolbar {
+		display: none;
+	}
+}
