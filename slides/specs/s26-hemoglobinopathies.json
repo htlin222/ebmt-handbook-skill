@@ -169,7 +169,7 @@
    ],
    "fontSize": 20,
    "captionY": 5.0,
-   "caption": "Fig. 80.1: transplants in adult SCD rose steeply over the decade; children with thalassaemia remain the largest group",
+   "caption": "Fig. 80.1: transplants in adult SCD rose steeply over the last decade",
    "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Table 80.2, Fig. 80.1)",
    "notes": {
     "min": 1.0,
@@ -394,19 +394,19 @@
     [
      "Inadequate iron chelation",
      "Absent",
-     "1 or 2 of 3\npresent",
+     "1 or 2 of 3",
      "Present"
     ],
     [
      "Hepatomegaly > 2 cm",
      "Absent",
-     "1 or 2 of 3\npresent",
+     "1 or 2 of 3",
      "Present"
     ],
     [
      "Portal fibrosis",
      "Absent",
-     "1 or 2 of 3\npresent",
+     "1 or 2 of 3",
      "Present"
     ]
    ],
@@ -417,7 +417,7 @@
     2.2
    ],
    "fontSize": 20,
-   "captionY": 5.0,
+   "captionY": 4.7,
    "caption": "Validated in children with a matched family donor, not adults. Very high risk (Mathews 2007): class 3 with liver > 5 cm and age > 7 years.",
    "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Table 80.3, Lucarelli 1998)",
    "notes": {
@@ -719,7 +719,7 @@
    "steps": [
     "Iron overload persists after HCT",
     "Most centres: phlebotomy",
-    "Deferasirox 20 mg/kg/d after ≥ 6 mo, for 1 y",
+    "Deferasirox 20 mg/kg/d\nfrom ≥ 6 mo, for 1 y",
     "Lifelong follow-up for old and new damage"
    ],
    "invert": 2,
