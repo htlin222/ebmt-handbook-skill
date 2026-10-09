@@ -67,7 +67,7 @@ chapters: Ch.60, 62, 95
 | Axi-cel（CD19／CD28） | LBCL 3L；<b>2L：primary refractory 或 12 個月內復發</b>；FL | ZUMA-1、<b>ZUMA-7</b>（EFS、OS 勝 salvage＋auto）、ZUMA-5 |
 | Liso-cel（CD19／4-1BB，CD4:CD8 1:1） | LBCL 3L、2L（含不適合移植）；CLL、FL、MCL | TRANSCEND、<b>TRANSFORM</b>、PILOT |
 | Brexu-cel（CD19／CD28）；obe-cel（fast off-rate） | Brexu：MCL（BTKi 後）＋成人 r/r B-ALL；obe-cel：成人 B-ALL | <b>ZUMA-2</b>、<b>ZUMA-3</b>；FELIX |
-| Ide-cel（BCMA／4-1BB） | MM 2–4 線後（IMiD、PI、anti-CD38 曝露） | KarMMa、<b>KarMMa-3</b> |
+| Ide-cel（BCMA／4-1BB） | MM ≥2 線後（IMiD、PI、anti-CD38 曝露） | KarMMa、<b>KarMMa-3</b> |
 | Cilta-cel（BCMA 雙表位 VHH／4-1BB） | MM ≥1 線後、lenalidomide-refractory | CARTITUDE-1、<b>CARTITUDE-4</b>（PFS、OS 勝） |
 
 ## 破題關鍵句
