@@ -32,10 +32,26 @@
       "eyebrow": "Late effects · Outline",
       "title": "Four parts, from the follow-up calendar to fertility",
       "rows": [
-        ["Follow-up calendar and organ checklist", "Ch. 22: visit intervals after auto- and allo-HCT; Table 22.1 by organ", "3.5 min"],
-        ["Iron overload", "Ch. 46: TSAT > 70%, three phases, phlebotomy versus chelation", "4.5 min"],
-        ["Secondary neoplasia", "Ch. 47: t-MN, donor-derived malignancy, solid cancers and screening", "6.5 min"],
-        ["Cardiometabolic, endocrine, fertility; MCQs", "Ch. 55–56: MetS, CV risk, thyroid, adrenal, gonads; three questions", "12.75 min"]
+        [
+          "Follow-up calendar and organ checklist",
+          "Ch. 22: visit intervals after auto- and allo-HCT; Table 22.1 by organ",
+          "3.5 min"
+        ],
+        [
+          "Iron overload",
+          "Ch. 46: TSAT > 70%, three phases, phlebotomy versus chelation",
+          "4.5 min"
+        ],
+        [
+          "Secondary neoplasia",
+          "Ch. 47: t-MN, donor-derived malignancy, solid cancers and screening",
+          "6.5 min"
+        ],
+        [
+          "Cardiometabolic, endocrine, fertility; MCQs",
+          "Ch. 55–56: MetS, CV risk, thyroid, adrenal, gonads; three questions",
+          "12.75 min"
+        ]
       ],
       "cite": "EBMT Handbook 8th ed. 2024; Ch. 22, 46, 47, 55, 56",
       "notes": {
@@ -43,7 +59,8 @@
         "script": [
           "今天分四段。第一段是追蹤的骨架，Ch. 22 規定出院後多久回診、每個器官在六個月、一年和之後每年要查什麼。",
           "第二段是 iron overload，重點是 transferrin saturation 70% 這個門檻，以及移植前、中、後三個階段的不同處理。第三段最長，談三種 secondary neoplasm、Table 47.1 的數字和 Table 47.2 的篩檢規則。",
-          "最後一段把 Ch. 55 和 56 拆成五張，代謝症候群的定義、心血管危險因子、甲狀腺和腎上腺、性腺功能，以及 fertility preservation，接著是三題練習。這一堂的考點多半是具體的門檻和時間點，聽的時候可以把數字記下來。"
+          "最後一段把 Ch. 55 和 56 拆成五張，代謝症候群的定義、心血管危險因子、甲狀腺和腎上腺、性腺功能，以及 fertility preservation，接著是三題練習。這一堂的考點多半是具體的門檻和時間點，聽的時候可以把數字記下來。",
+          "Ch. 22 的表會一路串起後面各章，ferritin 接 Ch. 46，第二癌接 Ch. 47，代謝和內分泌接 Ch. 55、56。"
         ]
       }
     },
@@ -52,17 +69,48 @@
       "section": "Follow-up framework",
       "eyebrow": "Follow-up · Visit calendar",
       "title": "Allo-HCT recipients stay near the centre, then visits widen",
-      "head": ["Phase", "Allogeneic HCT", "Autologous HCT"],
-      "rows": [
-        ["Discharge to day +100", "Live near centre 3–6 months; weekly in\nmonth 1, every 2 weeks to month 3", "Live near hospital until full\nhaematologic recovery"],
-        ["Bloods in this phase", "CBC, liver, kidney, Mg, IS levels,\nCMV PCR (EBV if ATG)", "Basic tests, disease markers,\ntransfusions as needed"],
-        ["Marrow, chimerism", "Chimerism at months 1 and 2; marrow\n~1 month if previously involved", "Marrow at 3 months if previously\ninvolved (NHL, HL, MPS)"],
-        ["Around 3 months", "Turning point: care may return\nto the referring doctor", "Restage: MRD, imaging\nby disease"],
-        ["Centre review", "Every 3–4 months in year 1,\nevery 4–6 months in year 2", "Every 6 months up to 2 years"],
-        ["Long term, no complications", "Every 6 months up to 3 years,\nthen annually", "Annually; watch for relapse\nfor at least 5 years"],
-        ["Children < 17 years", "Weight and height every 3 months", "—"]
+      "head": [
+        "Phase",
+        "Allogeneic HCT",
+        "Autologous HCT"
       ],
-      "colW": [3, 4.7, 4.1],
+      "rows": [
+        [
+          "Discharge to day +100",
+          "Live near centre 3–6 months; weekly in\nmonth 1, every 2 weeks to month 3",
+          "Live near hospital until full\nhaematologic recovery"
+        ],
+        [
+          "Bloods in this phase",
+          "CBC, liver, kidney, Mg, IS levels,\nCMV PCR (EBV if ATG)",
+          "Basic tests, disease markers,\ntransfusions as needed"
+        ],
+        [
+          "Marrow, chimerism",
+          "Chimerism at months 1 and 2; marrow\n~1 month if previously involved",
+          "Marrow at 3 months if previously\ninvolved (NHL, HL, MPS)"
+        ],
+        [
+          "Around 3 months",
+          "Care may return to referring doctor;\nchildren < 17 y: height, weight every 3 m",
+          "Restage: MRD, imaging\nby disease"
+        ],
+        [
+          "Centre review",
+          "Every 3–4 months in year 1,\nevery 4–6 months in year 2",
+          "Every 6 months up to 2 years"
+        ],
+        [
+          "Long term, no complications",
+          "Every 6 months up to 3 years,\nthen annually",
+          "Annually; watch for relapse\nfor at least 5 years"
+        ]
+      ],
+      "colW": [
+        3,
+        4.7,
+        4.1
+      ],
       "fontSize": 15,
       "cite": "Suárez-Lledó M, et al. EBMT Handbook 8th ed. 2024; Ch. 22",
       "notes": {
@@ -79,21 +127,71 @@
       "type": "table",
       "eyebrow": "Follow-up · Organ checklist",
       "title": "Organ screening starts at 6 months and tightens in chronic GVHD",
-      "head": ["Organ", "Screening", "When", "Point to remember"],
-      "rows": [
-        ["Mouth", "Oral and dental assessment", "6 m, 1 y, yearly", "Oral cGVHD: SCC risk, exam every 6 m"],
-        ["Lung", "Clinical review; no smoking", "6 m, 1 y, yearly", "cGVHD: spirometry at every visit"],
-        ["Liver", "Liver tests; ferritin", "Ferritin at 1 y", "High ferritin: MRI / FerriScan"],
-        ["Kidney", "BP, urine protein, BUN/creatinine", "6 m, 1 y, yearly", "Treat hypertension; avoid nephrotoxins"],
-        ["Bone", "Bone density", "1 y", "Adult women, all allo-HCT, high risk"],
-        ["Endocrine", "Thyroid; gonads; growth in children", "1 y, then yearly", "Yearly gynaecological exam in women"],
-        ["Immunity", "PJP, encapsulated-organism\nprophylaxis", "While cGVHD or IS", "Vaccines: Session 17"],
-        ["Second cancer", "Counselling, self-exam,\npopulation screening", "From 1 y", "After TBI: more frequent mammography"]
+      "head": [
+        "Organ",
+        "Screening",
+        "When",
+        "Point to remember"
       ],
-      "colW": [2.0, 3.9, 2.4, 4.3],
+      "rows": [
+        [
+          "Mouth",
+          "Oral and dental assessment",
+          "6 m, 1 y, yearly",
+          "Oral cGVHD: SCC risk, exam every 6 m"
+        ],
+        [
+          "Lung",
+          "Clinical review; no smoking",
+          "6 m, 1 y, yearly",
+          "cGVHD: spirometry at every visit"
+        ],
+        [
+          "Liver",
+          "Liver tests; ferritin",
+          "Ferritin at 1 y",
+          "High ferritin: MRI / FerriScan"
+        ],
+        [
+          "Kidney",
+          "BP, urine protein, BUN/creatinine",
+          "6 m, 1 y, yearly",
+          "Treat hypertension; avoid nephrotoxins"
+        ],
+        [
+          "Bone",
+          "Bone density",
+          "1 y",
+          "Adult women, all allo-HCT, high risk"
+        ],
+        [
+          "Endocrine",
+          "Thyroid; gonads; growth in children",
+          "1 y, then yearly",
+          "Yearly gynaecological exam in women"
+        ],
+        [
+          "Immunity",
+          "PJP, encapsulated-organism cover",
+          "While cGVHD or IS",
+          "Vaccines: Session 17"
+        ],
+        [
+          "Second cancer",
+          "Counselling, population screening",
+          "From 1 y",
+          "After TBI: more frequent mammography"
+        ]
+      ],
+      "colW": [
+        2.0,
+        3.9,
+        2.4,
+        4.3
+      ],
       "fontSize": 14,
       "caption": "Table 22.1, adapted from Majhail 2012; all controls are tightened in chronic GVHD",
-      "captionY": 6.0,
+      "captionY": 6.02,
       "cite": "Suárez-Lledó M, et al. EBMT Handbook 8th ed. 2024; Ch. 22",
       "notes": {
         "min": 2.0,
@@ -101,7 +199,8 @@
           "Table 22.1 把長期追蹤按器官排開，改編自 Majhail 2012。原表用三個符號，1 是所有病人都做，2 是只針對仍有 chronic GVHD 或還在用免疫抑制的人，加號是前一次異常或出現新症狀才重做。表的註腳寫明，有 chronic GVHD 的人，所有項目都要加密。",
           "口腔有 chronic GVHD 的人，squamous cell cancer 風險高，每六個月檢查一次。肺有 chronic GVHD 時，很多作者建議每次回診都做 spirometry。Ferritin 在一年時驗，偏高就安排 MRI 或 FerriScan，這會接到下一段的 iron overload。腎臟每次都量血壓、驗尿蛋白和 BUN/creatinine，高血壓要找原因，也要避開腎毒性藥物。",
           "Bone density 在一年時做，對象是成年女性、所有 allo-HCT 和骨質流失高風險的人，用運動、vitamin D 和鈣預防骨折。甲狀腺從一年開始每年驗，女性每年做婦科檢查。PJP 和莢膜菌的預防在 chronic GVHD 或免疫抑制期間持續，疫苗的細節在第 17 堂。",
-          "第二癌從一年開始衛教和自我檢查，做過 TBI 的人 mammography 要更頻繁。眼睛的部分，每次都問症狀，一年時做視力和眼底，特別注意 sicca。表上最後還有心理社會、生活品質和性功能，六個月、一年、之後每年都要評估。"
+          "第二癌從一年開始衛教和自我檢查，做過 TBI 的人 mammography 要更頻繁。眼睛的部分，每次都問症狀，一年時做視力和眼底，特別注意 sicca。表上最後還有心理社會、生活品質和性功能，六個月、一年、之後每年都要評估。",
+          "肌肉和結締組織也在表上，有 chronic GVHD 風險的人要測關節活動度、摸皮膚找硬化。這張表的用法，是把它當成每年門診的 checklist，一列一列打勾，比靠記憶可靠。"
         ]
       }
     },
@@ -110,15 +209,43 @@
       "section": "Iron overload",
       "eyebrow": "Iron overload · Measurement",
       "title": "Transferrin saturation above 70% signals toxic NTBI and LPI",
-      "head": ["Method", "Strength", "Limitation"],
-      "rows": [
-        ["Transferrin saturation", "> 70% = NTBI/LPI in serum;\ncheap, repeatable", "No quantitative link to the iron pool;\nless reliable if poly-transfused"],
-        ["Serum ferritin", "Tracks total iron and outcome;\nshows trends", "Raised by inflammation, infection,\nliver disease; nonlinear when high"],
-        ["NTBI / LPI", "The toxic circulating iron species", "Research laboratories only;\nlabile, unvalidated"],
-        ["Liver biopsy", "Gold standard for liver iron;\nshows histology", "Invasive; ≥ 1 mg dry weight;\nnot for repeated follow-up"],
-        ["MRI T2 / T2*", "Current standard of care;\nnon-invasive, reproducible", "Organ-specific calibration;\ncost; no ferromagnetic implants"]
+      "head": [
+        "Method",
+        "Strength",
+        "Limitation"
       ],
-      "colW": [3, 4.3, 4.5],
+      "rows": [
+        [
+          "Transferrin saturation",
+          "> 70% = NTBI/LPI in serum;\ncheap, repeatable",
+          "No quantitative link to the iron pool;\nless reliable if poly-transfused"
+        ],
+        [
+          "Serum ferritin",
+          "Tracks total iron and outcome;\nshows trends",
+          "Raised by inflammation, infection,\nliver disease; nonlinear when high"
+        ],
+        [
+          "NTBI / LPI",
+          "The toxic circulating iron species",
+          "Research laboratories only;\nlabile, unvalidated"
+        ],
+        [
+          "Liver biopsy",
+          "Gold standard for liver iron;\nshows histology",
+          "Invasive; ≥ 1 mg dry weight;\nnot for repeated follow-up"
+        ],
+        [
+          "MRI T2 / T2*",
+          "Current standard of care;\nnon-invasive, reproducible",
+          "Organ-specific calibration;\ncost; no ferromagnetic implants"
+        ]
+      ],
+      "colW": [
+        3,
+        4.3,
+        4.5
+      ],
       "fontSize": 15,
       "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
       "caption": "Damage depends on toxic iron species and duration of exposure, not on iron level alone",
@@ -159,15 +286,43 @@
       "type": "table",
       "eyebrow": "Iron overload · After engraftment",
       "title": "After engraftment, phlebotomy or chelation aims for a normal TSAT",
-      "head": ["", "Phlebotomy", "Chelation"],
-      "rows": [
-        ["Schedule", "6 mL/kg every 14 days", "Deferasirox oral daily;\ndeferoxamine SC/IV infusion"],
-        ["Pros", "Efficient, safe, inexpensive;\ncomplete iron removal", "Immediate effect on NTBI/LPI;\nno hospital visits"],
-        ["Cons", "Needs sustained engraftment;\nhospital visits", "Renal toxicity with CSA; more\ntoxicity at low iron burden"],
-        ["Effect on NTBI/LPI", "Immediate effect not yet verified", "Immediate"],
-        ["Avoid", "Early post-HCT period", "Deferiprone: agranulocytosis"]
+      "head": [
+        "",
+        "Phlebotomy",
+        "Chelation"
       ],
-      "colW": [2.6, 4.4, 4.8],
+      "rows": [
+        [
+          "Schedule",
+          "6 mL/kg every 14 days",
+          "Deferasirox oral daily;\ndeferoxamine SC/IV infusion"
+        ],
+        [
+          "Pros",
+          "Efficient, safe, inexpensive;\ncomplete iron removal",
+          "Immediate effect on NTBI/LPI;\nno hospital visits"
+        ],
+        [
+          "Cons",
+          "Needs sustained engraftment;\nhospital visits",
+          "Renal toxicity with CSA; more\ntoxicity at low iron burden"
+        ],
+        [
+          "Effect on NTBI/LPI",
+          "Immediate effect not yet verified",
+          "Immediate"
+        ],
+        [
+          "Avoid",
+          "Early post-HCT period",
+          "Deferiprone: agranulocytosis"
+        ]
+      ],
+      "colW": [
+        2.6,
+        4.4,
+        4.8
+      ],
       "fontSize": 16,
       "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
       "caption": "Target: normal transferrin saturation (Table 46.3; Angelucci 1997a)",
@@ -190,17 +345,56 @@
       "section": "Secondary neoplasia",
       "eyebrow": "Second cancers · Three types",
       "title": "Secondary neoplasms come in three types with different origins",
-      "head": ["", "t-MN", "Donor-derived (DDM)", "Second solid (SSN)"],
-      "rows": [
-        ["Definition", "t-MDS / t-AML after\nchemo- or radiotherapy", "Haematologic neoplasm\nin donor cells", "Solid cancer of any site\nafter HCT"],
-        ["Setting", "Mainly auto-HCT;\nrare after allo", "Allo-HCT only", "Auto- and allo-HCT"],
-        ["Timing", "Mostly within 10 years", "Variable", "Rises with longer follow-up"],
-        ["Frequency", "Lymphoma auto: 1% at 2 y\nup to 24% at 43 m", "< 1% at 15 y; up to 5%\nof leukaemia 'relapses'", "2.2% at 10 y,\n6.7% at 15 y"],
-        ["Risk factors", "Pre-HCT alkylators, TBI,\nolder age, lenalidomide", "Donor clone, G-CSF,\nin vivo TCD, multiple HCT", "Radiation, cGVHD and IS,\nHCV, HPV"],
-        ["Outcome", "Poor; median survival\n6 months", "Poor; few data", "Depends on cancer type"],
-        ["Treatment", "As de novo; early donor\nsearch and allo-HCT", "No standard: re-HCT,\nchemo, DLI, palliation", "As a de novo cancer\nof the same type"]
+      "head": [
+        "",
+        "t-MN",
+        "Donor-derived (DDM)",
+        "Second solid (SSN)"
       ],
-      "colW": [2.1, 3.3, 3.3, 3.1],
+      "rows": [
+        [
+          "Definition",
+          "t-MDS / t-AML after\nchemo- or radiotherapy",
+          "Haematologic neoplasm\nin donor cells",
+          "Solid cancer of any site\nafter HCT"
+        ],
+        [
+          "Setting, timing",
+          "Mainly auto-HCT;\nmostly within 10 years",
+          "Allo-HCT only;\ntiming variable",
+          "Auto and allo; rises\nwith longer follow-up"
+        ],
+        [
+          "Frequency",
+          "Lymphoma auto: 1% at 2 y\nup to 24% at 43 m",
+          "< 1% at 15 y; up to 5%\nof leukaemia 'relapses'",
+          "2.2% at 10 y,\n6.7% at 15 y"
+        ],
+        [
+          "Risk factors",
+          "Pre-HCT alkylators, TBI,\nolder age, lenalidomide",
+          "Donor clone, G-CSF,\nin vivo TCD, multiple HCT",
+          "Radiation, cGVHD and IS,\nHCV, HPV"
+        ],
+        [
+          "Outcome",
+          "Poor; median survival\n6 months",
+          "Poor; few data",
+          "Depends on cancer type"
+        ],
+        [
+          "Treatment",
+          "As de novo; early donor\nsearch and allo-HCT",
+          "No standard: re-HCT,\nchemo, DLI, palliation",
+          "As a de novo cancer\nof the same type"
+        ]
+      ],
+      "colW": [
+        2.1,
+        3.3,
+        3.3,
+        3.1
+      ],
       "fontSize": 14,
       "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
       "notes": {
@@ -209,6 +403,7 @@
           "Secondary neoplasm 指移植後發生的任何惡性疾病，不論和移植是否相關，PTLD 另外在第 12 堂討論。書上分三種。",
           "Therapy-related myeloid neoplasm 主要在 auto-HCT 之後，大多在十年內，和移植前或 conditioning 的 alkylating agents、anthracyclines、topoisomerase II inhibitors 以及 TBI 有關。Lymphoma 做 auto 之後最多，報告從兩年 1% 到 43 個月 24% 都有，因為這群人移植前化療最多。Myeloma 用 lenalidomide，包括移植後維持，也會增加 t-MN。冷凍細胞裡就有 clonal hematopoiesis 的人，風險也較高。預後很差，中位存活六個月，治療比照 de novo，及早找 donor 做 allo-HCT，這是唯一能治癒的方法。",
           "Donor-derived malignancy 只發生在 allo-HCT，15 年累積不到 1%，卻可能占移植後 leukemia「復發」的 5%。所以移植後復發，要對惡性細胞做 chimerism，分清是 donor 還是 recipient 來源。超過 20% 的 donor-derived myeloid neoplasm 帶第七號染色體異常。",
+          "DDM 的危險因子書上列了四個可能，移植物裡本來就有惡性 donor clone、G-CSF、in vivo T-cell depletion 和多次移植。機轉包括 donor 的 germline 或 somatic mutation、骨髓微環境受損，以及移植後快速擴增的壓力。Donor 帶 clonal hematopoiesis 要不要排除，書上認為仍有爭議。t-MN 方面，15 到 20% 帶 germline 癌症易感性，化療造成的 CHIP 常是多重打擊的第一步。",
           "Second solid neoplasm 在 auto 和 allo 都會出現，追得越久越多，十年 2.2%、十五年 6.7%，預後主要看癌別。PTCy 目前看起來不增加 t-MN，移植後 maintenance 會不會增加，書上說還不知道。"
         ]
       }
@@ -219,9 +414,21 @@
       "title": "Radiation, chronic GVHD and viruses drive second solid cancers",
       "root": "Second solid neoplasm after HCT (Rizzo 2009)",
       "branches": [
-        {"label": "Radiation / TBI", "box": "Thyroid, breast, brain", "out": "Latency ≥ 10 years; dose related"},
-        {"label": "cGVHD / IS", "box": "SCC of skin and oropharynx", "out": "Short latency; any time after HCT"},
-        {"label": "Viral", "box": "HCV → HCC; HPV → anogenital", "out": "HCC: 16% at 20 years if HCV"}
+        {
+          "label": "Radiation / TBI",
+          "box": "Thyroid, breast, brain",
+          "out": "Latency ≥ 10 years; dose related"
+        },
+        {
+          "label": "cGVHD / IS",
+          "box": "SCC of skin and oropharynx",
+          "out": "Short latency; any time after HCT"
+        },
+        {
+          "label": "Viral",
+          "box": "HCV → HCC; HPV → anogenital",
+          "out": "HCC: 16% at 20 years if HCV"
+        }
       ],
       "invert": 1,
       "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
@@ -241,18 +448,58 @@
       "type": "table",
       "eyebrow": "Second cancers · Numbers and risks",
       "title": "Each second cancer has its own driver and its own number",
-      "head": ["Cancer", "Frequency", "Risk factors"],
-      "rows": [
-        ["t-MN after allo-HCT", "0.06–0.67% at 3 years", "Pre-HCT chemo, TBI, older age"],
-        ["Breast", "11% at 25 years", "Radiation or TBI, young age at radiation"],
-        ["Thyroid", "SIR 3.2", "Radiation or TBI, young age"],
-        ["Basal cell carcinoma", "6.5% at 20 years", "Radiation, light skin"],
-        ["SCC of skin", "3.4 at 20 years (as printed)", "cGVHD, prolonged IS, azathioprine, male"],
-        ["Hepatocellular", "16% at 20 years with HCV", "Chronic HCV, cirrhosis"],
-        ["Lung", "SIR 2.59 after BuCy", "Bu-Cy conditioning, smoking before HCT"],
-        ["Genital and anal", "Cervix 2.13, anal 4.85, vulvar 22.76", "HPV reactivation, women and men"]
+      "head": [
+        "Cancer",
+        "Frequency",
+        "Risk factors"
       ],
-      "colW": [2.7, 4.1, 5.0],
+      "rows": [
+        [
+          "t-MN after allo-HCT",
+          "0.06–0.67% at 3 years",
+          "Pre-HCT chemo, TBI, older age"
+        ],
+        [
+          "Breast",
+          "11% at 25 years",
+          "Radiation or TBI, young age at radiation"
+        ],
+        [
+          "Thyroid",
+          "SIR 3.2",
+          "Radiation or TBI, young age"
+        ],
+        [
+          "Basal cell carcinoma",
+          "6.5% at 20 years",
+          "Radiation, light skin"
+        ],
+        [
+          "SCC of skin",
+          "3.4 at 20 years (as printed)",
+          "cGVHD, prolonged IS, azathioprine, male"
+        ],
+        [
+          "Hepatocellular",
+          "16% at 20 years with HCV",
+          "Chronic HCV, cirrhosis"
+        ],
+        [
+          "Lung",
+          "SIR 2.59 after BuCy",
+          "Bu-Cy conditioning, smoking before HCT"
+        ],
+        [
+          "Genital and anal",
+          "Cervix 2.13, anal 4.85, vulvar 22.76",
+          "HPV reactivation, women and men"
+        ]
+      ],
+      "colW": [
+        2.7,
+        4.1,
+        5.0
+      ],
       "fontSize": 16,
       "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
       "notes": {
@@ -261,7 +508,8 @@
           "這是 Table 47.1 的數字和危險因子。Allo 之後 t-MN 很少，三年 0.06 到 0.67%，和移植前化療量、TBI、年紀大有關。",
           "乳癌在移植後二十五年累積 11%，甲狀腺癌的 SIR 是 3.2，basal cell carcinoma 二十年 6.5%。這三種都和放射線、年輕時接受放射有關，BCC 再加上膚色淺，melanoma 則和 T-cell depletion 有關。",
           "皮膚 squamous cell carcinoma 書上寫二十年 3.4，沒有標單位，危險因子是 chronic GVHD 和長期免疫抑制。肺癌在 BuCy 之後 SIR 2.59，加上移植前抽菸。生殖器和肛門癌和 HPV reactivation 有關，子宮頸 SIR 2.13、肛門 4.85，外陰陰道高達 22.76。",
-          "大腸直腸癌在移植後沒有被證實增加。一位病人可以發生好幾個不同的第二癌，最多報告過五個。第二癌通常比原發癌發生得更年輕，所以篩檢要比一般人提早，這就是下一張的內容。"
+          "大腸直腸癌在移植後沒有被證實增加。一位病人可以發生好幾個不同的第二癌，最多報告過五個。第二癌通常比原發癌發生得更年輕，所以篩檢要比一般人提早，這就是下一張的內容。",
+          "考題常把危險因子和癌別配對，例如 BuCy 配肺癌、HCV 配 HCC、HPV 配外陰和肛門，記得配對就能刪掉大部分選項。"
         ],
         "reminders": [
           "Table 47.1 prints SCC of the skin as '3.4 at 20 years' with no unit (Curtis 2005); say so if asked rather than quoting a percentage.",
@@ -273,17 +521,53 @@
       "type": "table",
       "eyebrow": "Second cancers · Screening",
       "title": "Second-cancer screening is lifelong and tighter for those at risk",
-      "head": ["Site", "All patients", "Patients at risk"],
-      "rows": [
-        ["Skin", "Self-exam, avoid UV; dermatology every 1–2 y", "More often after skin cancer or skin cGVHD"],
-        ["Mouth, pharynx", "Exam at annual control", "Specialist yearly if severe oral GVHD"],
-        ["Thyroid", "Yearly palpation", "After TBI or RT: regular ultrasound, FNA"],
-        ["Breast", "Discuss self-examination", "After TBI or RT: mammography every 1–2 y*"],
-        ["Cervix", "Pap smear every 1–3 years from age 21*", "HPV-positive: genital and anal review"],
-        ["Lung, liver", "Avoid active and passive smoking", "High-dose Bu + smoking: chest CT; HCV: fibrosis 8–10 y"],
-        ["Blood (t-MN)", "Yearly CBC for 10 y after auto-HCT", "Abnormal CBC: marrow, cytogenetics, NGS"]
+      "head": [
+        "Site",
+        "All patients",
+        "Patients at risk"
       ],
-      "colW": [2.1, 4.5, 5.2],
+      "rows": [
+        [
+          "Skin",
+          "Self-exam, avoid UV; dermatology every 1–2 y",
+          "More often after skin cancer or skin cGVHD"
+        ],
+        [
+          "Mouth, pharynx",
+          "Exam at annual control",
+          "Specialist yearly if severe oral GVHD"
+        ],
+        [
+          "Thyroid",
+          "Yearly palpation",
+          "After TBI or RT: regular ultrasound, FNA"
+        ],
+        [
+          "Breast",
+          "Discuss self-examination",
+          "After TBI or RT: mammography every 1–2 y*"
+        ],
+        [
+          "Cervix",
+          "Pap smear every 1–3 years from age 21*",
+          "HPV-positive: genital and anal review"
+        ],
+        [
+          "Lung",
+          "Avoid active and passive smoking",
+          "High-dose busulfan + smoking: chest CT"
+        ],
+        [
+          "Blood (t-MN)",
+          "Yearly CBC for 10 y after auto-HCT",
+          "Abnormal CBC: marrow, cytogenetics, NGS"
+        ]
+      ],
+      "colW": [
+        2.1,
+        4.5,
+        5.2
+      ],
       "fontSize": 15,
       "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
       "caption": "*Mammography from age 25 or 8 years after RT, whichever is later, but by 40 at the latest. Pap from 21, or within 3 years of first sexual activity if earlier.",
@@ -303,15 +587,50 @@
       "section": "Cardiometabolic disease",
       "eyebrow": "Cardiometabolic · Metabolic syndrome",
       "title": "Metabolic syndrome needs three of five criteria and affects 31–49%",
-      "head": ["Component", "MetS threshold", "After HCT", "Screening, adult survivors"],
-      "rows": [
-        ["Waist", "Population-specific\n[verify: Taiwan cut-off]", "Rises with steroids,\nsarcopenic obesity", "No specific rule\nfor weight or BMI"],
-        ["Triglycerides,\nHDL-C", "TG ≥ 1.7; HDL < 1.0 (men),\n< 1.3 (women) mmol/L", "Dyslipidaemia 43–73%;\nallo vs auto RR 2.1; TBI", "Lipids every 5 y:\nmen ≥ 35, women ≥ 45"],
-        ["Blood pressure", "≥ 130/85 mmHg", "HTN 2.06× vs siblings\nor auto-HCT", "At least every 2 years"],
-        ["Fasting glucose", "≥ 5.6 mmol/L", "DM: allo OR 3.65; PRD\n> 0.25 mg/kg/d RR 3.6; TBI 3.42×", "Type 2 DM every 3 y if\n≥ 45 y or BP > 135/80"],
-        ["MetS overall", "3 of 5", "37.5%; 53% if > 50 y\n(Greenfield 2021)", "CV events 26.7%\nvs 9% without MetS"]
+      "head": [
+        "Component",
+        "MetS threshold",
+        "After HCT",
+        "Screening, adult survivors"
       ],
-      "colW": [2.2, 3.4, 3.4, 2.9],
+      "rows": [
+        [
+          "Waist",
+          "Population-specific\n[verify: Taiwan cut-off]",
+          "Rises with steroids,\nsarcopenic obesity",
+          "No specific rule\nfor weight or BMI"
+        ],
+        [
+          "Triglycerides,\nHDL-C",
+          "TG ≥ 1.7; HDL < 1.0 (men),\n< 1.3 (women) mmol/L",
+          "Dyslipidaemia 43–73%;\nallo vs auto RR 2.1; TBI",
+          "Lipids every 5 y:\nmen ≥ 35, women ≥ 45"
+        ],
+        [
+          "Blood pressure",
+          "≥ 130/85 mmHg",
+          "HTN 2.06× vs siblings\nor auto-HCT",
+          "At least every 2 years"
+        ],
+        [
+          "Fasting glucose",
+          "≥ 5.6 mmol/L",
+          "DM: allo OR 3.65; PRD\n> 0.25 mg/kg/d RR 3.6; TBI 3.42×",
+          "Type 2 DM every 3 y if\n≥ 45 y or BP > 135/80"
+        ],
+        [
+          "MetS overall",
+          "3 of 5",
+          "37.5%; 53% if > 50 y\n(Greenfield 2021)",
+          "CV events 26.7%\nvs 9% without MetS"
+        ]
+      ],
+      "colW": [
+        2.2,
+        3.4,
+        3.4,
+        2.9
+      ],
       "fontSize": 14,
       "cite": "Galvan ER, et al. EBMT Handbook 8th ed. 2024; Ch. 55",
       "notes": {
@@ -332,20 +651,52 @@
       "type": "table",
       "eyebrow": "Cardiometabolic · CV risk factors",
       "title": "Cardiovascular risk adds treatment and GVHD to baseline factors",
-      "head": ["Category", "Risk factors (Table 55.1)", "Threshold or note"],
-      "rows": [
-        ["Baseline", "Family history, female sex, smoking,\nHTN, dyslipidaemia, DM", "Also obesity, sedentary habit, CKD"],
-        ["Anthracyclines", "Doxorubicin or equivalent", "> 250 mg/m²"],
-        ["Radiotherapy", "Field including the heart", "> 35 Gy, or > 15–35 Gy plus\ndoxorubicin > 100 mg/m²"],
-        ["Other therapy", "TBI, steroids; CY, Bu, melphalan,\nthiotepa", "PTCy: more early cardiac events\n(within 100 days)"],
-        ["GVHD", "Prophylaxis with steroids or CNI;\naGVHD II–IV, any cGVHD", "Screen for TBI, GVHD and CNI use"],
-        ["Other late effects", "Hypogonadism, premature menopause,\nhypothyroidism", "Treat as CV risk factors"]
+      "head": [
+        "Category",
+        "Risk factors (Table 55.1)",
+        "Threshold or note"
       ],
-      "colW": [2.4, 5.0, 4.4],
+      "rows": [
+        [
+          "Baseline",
+          "Family history, female sex, smoking,\nHTN, dyslipidaemia, DM",
+          "Also obesity, sedentary habit, CKD"
+        ],
+        [
+          "Anthracyclines",
+          "Doxorubicin or equivalent",
+          "> 250 mg/m²"
+        ],
+        [
+          "Radiotherapy",
+          "Field including the heart",
+          "> 35 Gy, or > 15–35 Gy plus\ndoxorubicin > 100 mg/m²"
+        ],
+        [
+          "Other therapy",
+          "TBI, steroids; CY, Bu, melphalan,\nthiotepa",
+          "PTCy: more early cardiac events\n(within 100 days)"
+        ],
+        [
+          "GVHD",
+          "Prophylaxis with steroids or CNI;\naGVHD II–IV, any cGVHD",
+          "Screen for TBI, GVHD and CNI use"
+        ],
+        [
+          "Other late effects",
+          "Hypogonadism, early menopause,\nhypothyroidism",
+          "Treat as CV risk factors"
+        ]
+      ],
+      "colW": [
+        2.4,
+        5.0,
+        4.4
+      ],
       "fontSize": 15,
       "cite": "Galvan ER, et al. EBMT Handbook 8th ed. 2024; Ch. 55",
       "caption": "First CV event by 15 years: up to 6% (EBMT); 7.5% allo vs 2.3% auto (Tichelli 2007a)",
-      "captionY": 5.95,
+      "captionY": 6.02,
       "notes": {
         "min": 1.5,
         "script": [
@@ -361,14 +712,44 @@
       "section": "Endocrine and fertility",
       "eyebrow": "Endocrine · Thyroid, adrenal, growth",
       "title": "Thyroid, adrenal and growth problems need lifelong screening",
-      "head": ["Problem", "Key facts", "Risk factors", "Action"],
-      "rows": [
-        ["Hypothyroidism", "~1 in 4 after allo; mostly\ncompensated, may resolve", "Single-dose TBI 5–6× vs\nfractionated; Bu > CY; cGVHD", "Yearly TSH, FT4 and\npalpation; low US threshold"],
-        ["Thyroid cancer", "RR ~3; > 20 if HCT before\n10 y; ~5 if 11–20 y", "Young age, female sex,\nGVHD", "See second-cancer\nscreening"],
-        ["Hypoadrenalism", "Central, from glucocorticoids;\nsymptoms mimic GVHD", "Supraphysiological dose\n≥ 1 month, any route; TBI", "Paired morning cortisol\n+ ACTH; hydrocortisone"],
-        ["Growth", "Short stature: GH deficiency,\nbone lesions", "Cranial RT, single-dose TBI,\nmale, young age", "Height, weight each visit;\nGH if height SDS < −2*"]
+      "head": [
+        "Problem",
+        "Key facts",
+        "Risk factors",
+        "Action"
       ],
-      "colW": [2.4, 3.4, 3.3, 3.0],
+      "rows": [
+        [
+          "Hypothyroidism",
+          "~1 in 4 after allo; mostly\ncompensated, may resolve",
+          "Single-dose TBI 5–6× vs\nfractionated; Bu > CY; cGVHD",
+          "Yearly TSH, FT4 and\npalpation; low US threshold"
+        ],
+        [
+          "Thyroid cancer",
+          "RR ~3; > 20 if HCT before\n10 y; ~5 if 11–20 y",
+          "Young age, female sex,\nGVHD",
+          "See second-cancer\nscreening"
+        ],
+        [
+          "Hypoadrenalism",
+          "Central, from glucocorticoids;\nsymptoms mimic GVHD",
+          "Supraphysiological dose\n≥ 1 month, any route; TBI",
+          "Paired morning cortisol\n+ ACTH; hydrocortisone"
+        ],
+        [
+          "Growth",
+          "Short stature: GH deficiency,\nbone lesions",
+          "Cranial RT, single-dose TBI,\nmale, young age",
+          "Height, weight each visit;\nGH if height SDS < −2*"
+        ]
+      ],
+      "colW": [
+        2.4,
+        3.4,
+        3.3,
+        3.0
+      ],
       "fontSize": 15,
       "cite": "Salooja N, et al. EBMT Handbook 8th ed. 2024; Ch. 56",
       "caption": "Children: 58.7% have ≥ 1 endocrine abnormality. *Printed 'less than 2'; −2 is the speaker's reading.",
@@ -390,15 +771,43 @@
       "type": "table",
       "eyebrow": "Fertility · Gonadal damage",
       "title": "Ovaries fail at age-dependent doses; testes lose sperm, keep testosterone",
-      "head": ["", "Women", "Men"],
-      "rows": [
-        ["Chemotherapy", "Alkylators worst; BuCy very gonadotoxic;\nCY alone may preserve function", "Bu: ~50% azoospermic;\nCY alone: recovery more frequent"],
-        ["Treosulfan", "Lower gonadotrophins than Bu;\nno proof of more pregnancies", "—"],
-        ["Radiation", "Oocyte LD50 < 2 Gy; ESD 18.4 Gy at 10 y,\n14.3 Gy at 30 y, 6 Gy over 40", "1 Gy: ~2 years to recover sperm;\nMAC TBI: most azoospermic"],
-        ["Hormones", "Premature ovarian failure,\nearly menopause", "Testosterone usually normal (Leydig\ncells resist); monitor yearly"],
-        ["Pregnancy", "TBI or pelvic RT: miscarriage,\npreterm birth, low birth weight", "Both: delay conception ~6 months\nafter gonadotoxic therapy"]
+      "head": [
+        "",
+        "Women",
+        "Men"
       ],
-      "colW": [2.2, 5.0, 4.6],
+      "rows": [
+        [
+          "Chemotherapy",
+          "Alkylators worst; BuCy very gonadotoxic;\nCY alone may preserve function",
+          "Bu: ~50% azoospermic;\nCY alone: recovery more frequent"
+        ],
+        [
+          "Treosulfan",
+          "Lower gonadotrophins than Bu;\nno proof of more pregnancies",
+          "—"
+        ],
+        [
+          "Radiation",
+          "Oocyte LD50 < 2 Gy; ESD 18.4 Gy at 10 y,\n14.3 Gy at 30 y, 6 Gy over 40",
+          "1 Gy: ~2 years to recover sperm;\nMAC TBI: most azoospermic"
+        ],
+        [
+          "Hormones",
+          "Premature ovarian failure,\nearly menopause",
+          "Testosterone usually normal (Leydig\ncells resist); monitor yearly"
+        ],
+        [
+          "Pregnancy",
+          "TBI or pelvic RT: miscarriage,\npreterm birth, low birth weight",
+          "Both: delay conception ~6 months\nafter gonadotoxic therapy"
+        ]
+      ],
+      "colW": [
+        2.2,
+        5.0,
+        4.6
+      ],
       "fontSize": 15,
       "cite": "Salooja N, et al. EBMT Handbook 8th ed. 2024; Ch. 56",
       "notes": {
@@ -420,10 +829,26 @@
       "title": "Fertility preservation depends on sex, puberty and time available",
       "root": "Discuss fertility before any chemoradiotherapy",
       "branches": [
-        {"label": "Postpubertal male", "box": "Sperm cryopreservation", "out": "TESE if needed; recovery likelier < 25 y"},
-        {"label": "Prepubertal boy", "box": "Testicular tissue cryopreservation", "out": "Experimental: no human live births yet"},
-        {"label": "Adult woman", "box": "Embryo or oocyte cryopreservation", "out": "Preferred; needs ≥ 2 weeks stimulation"},
-        {"label": "Girl, or no time", "box": "Ovarian tissue cryopreservation", "out": "Do not reimplant in leukaemia"}
+        {
+          "label": "Postpubertal male",
+          "box": "Sperm cryopreservation",
+          "out": "TESE if needed; recovery likelier < 25 y"
+        },
+        {
+          "label": "Prepubertal boy",
+          "box": "Testicular tissue cryopreservation",
+          "out": "Experimental: no human live births yet"
+        },
+        {
+          "label": "Adult woman",
+          "box": "Embryo or oocyte cryopreservation",
+          "out": "Preferred; needs ≥ 2 weeks stimulation"
+        },
+        {
+          "label": "Girl, or no time",
+          "box": "Ovarian tissue cryopreservation",
+          "out": "Do not reimplant in leukaemia"
+        }
       ],
       "invert": 3,
       "cite": "Salooja N, et al. EBMT Handbook 8th ed. 2024; Ch. 56",
@@ -458,6 +883,7 @@
         "min": 0.75,
         "script": [
           "第一題是 iron overload。19 歲女性，β-thalassemia major，兩年前做了 matched sibling allo-HCT。現在不需輸血、已停免疫抑制，Hb 12.5，腎功能正常。Ferritin 2400，transferrin saturation 82%，肝臟 MRI 顯示明顯鐵沉積。下一步最適當的是什麼。",
+          "這題要想的是移植之後鐵會不會自己消失，以及去鐵的方法和目標。",
           "A 是觀察，B 是每 14 天放血 6 mL/kg，C 是 deferiprone 一天三次，D 是每六個月肝切片，E 是 ferritin 再升高才治療。",
           "[Pause for answers.]"
         ]
@@ -466,7 +892,8 @@
         "min": 1.0,
         "script": [
           "答案是 B。Engraftment 之後病人不再輸血，可是已經累積的鐵不會自己離開，transferrin saturation 會一直偏高，肝病繼續進展。她的造血有效，可以用 phlebotomy，每 14 天 6 mL/kg，目標是正常的 transferrin saturation。",
-          "A 是主要陷阱，以為不輸血鐵就會慢慢降，這在門診很常見。Angelucci 的前瞻性資料正好相反，不治療的話 transferrin saturation 無限期維持在高點。C 的 deferiprone 因為 agranulocytosis，在造血幹細胞疾病通常不用。D 肝切片不適合重複追蹤，E 等 ferritin 再升只會延長毒性鐵的暴露。"
+          "A 是主要陷阱，以為不輸血鐵就會慢慢降，這在門診很常見。Angelucci 的前瞻性資料正好相反，不治療的話 transferrin saturation 無限期維持在高點。C 的 deferiprone 因為 agranulocytosis，在造血幹細胞疾病通常不用。D 肝切片不適合重複追蹤，E 等 ferritin 再升只會延長毒性鐵的暴露。",
+          "記住終點是正常的 transferrin saturation，不是某個 ferritin 數值。若她仍在用 cyclosporine 或造血還不穩，才比較會選 chelation。"
         ]
       }
     },
@@ -490,6 +917,7 @@
         "min": 0.75,
         "script": [
           "第二題考第二癌篩檢。30 歲女性，21 歲時因 ALL 接受 cyclophosphamide 加 TBI 的 myeloablative allo-HCT。目前緩解、已停免疫抑制，沒有 chronic GVHD，也沒有乳癌家族史。今天是她的年度 late-effects 門診，乳房篩檢該怎麼安排。",
+          "題目刻意給了她接受 TBI 的年紀，請算一下什麼時候該開始。",
           "A 是只做自我檢查到 40 歲，B 是現在開始每一到兩年 mammography，C 是比照一般人 50 歲開始，D 是不用篩，E 是有 BRCA 突變才做。",
           "[Pause for answers.]"
         ]
@@ -498,7 +926,8 @@
         "min": 1.0,
         "script": [
           "答案是 B。做過 TBI 或局部放射的人，mammography 從 25 歲或放射後 8 年開始，取較晚者，但不晚於 40 歲。她 21 歲照 TBI，加 8 年是 29 歲，比 25 晚，所以 29 歲就該開始，現在 30 歲，已經到期了。",
-          "C 是最常見的錯，把一般族群的建議直接套上去。乳癌是 radiation-related、潛伏期長的第二癌，移植後二十五年累積 11%，所以書上要求提早。D 正好相反，E 的 BRCA 不是這裡的條件。子宮頸抹片的規則是取較早者，和乳房相反。"
+          "C 是最常見的錯，把一般族群的建議直接套上去。乳癌是 radiation-related、潛伏期長的第二癌，移植後二十五年累積 11%，所以書上要求提早。D 正好相反，E 的 BRCA 不是這裡的條件。子宮頸抹片的規則是取較早者，和乳房相反。",
+          "算的時候記住兩個數字，25 歲和 8 年，取晚的，上限 40 歲。如果她是 15 歲照 TBI，加 8 年是 23 歲，比 25 早，那就從 25 歲開始。"
         ]
       }
     },
@@ -530,7 +959,8 @@
         "min": 1.0,
         "script": [
           "答案是 B。超生理劑量的 glucocorticoid 用了一個月以上，不論口服或外用，都有 central hypoadrenalism 的風險。她的症狀非特異，而且會和 GVHD 混淆，診斷要靠配對的早上 cortisol 和 ACTH，結果不明確再找內分泌科。確診後給 hydrocortisone，壓力時加量，之後定期評估能不能減量。",
-          "A 是最大的陷阱，皮膚和肝臟都沒有惡化，卻直接回到高劑量 steroid，等於沒有找原因。C 的 GI GVHD 不是第一個要排除的。D 的甲狀腺功能低下也會疲倦，但解釋不了低血壓和停藥的時間關係。"
+          "A 是最大的陷阱，皮膚和肝臟都沒有惡化，卻直接回到高劑量 steroid，等於沒有找原因。C 的 GI GVHD 不是第一個要排除的。D 的甲狀腺功能低下也會疲倦，但解釋不了低血壓和停藥的時間關係。",
+          "E 也不對，停藥後的症狀不能直接歸給 withdrawal，沒驗就不知道她的軸有沒有恢復。這種病人以後生病或手術，都要記得給 stress dose。"
         ]
       }
     },
@@ -539,13 +969,33 @@
       "backup": true,
       "eyebrow": "Iron overload · Chelators",
       "title": "Three chelators differ in route, half-life and toxicity",
-      "head": ["Chelator", "Route, half-life, schedule", "Main adverse events"],
-      "rows": [
-        ["Deferoxamine (hexadentate)", "Parenteral; 30 min;\ncontinuous SC or IV infusion", "Infusion site, allergy, bone,\ngrowth, ear, eye, Yersinia"],
-        ["Deferasirox (tridentate)", "Oral; 8–16 h; once daily", "Renal toxicity, raised liver\nenzymes, rash, GI upset"],
-        ["Deferiprone (bidentate)", "Oral; 3 h; three times daily", "GI upset, liver enzymes,\nneutropenia, agranulocytosis"]
+      "head": [
+        "Chelator",
+        "Route, half-life, schedule",
+        "Main adverse events"
       ],
-      "colW": [3.4, 3.8, 4.6],
+      "rows": [
+        [
+          "Deferoxamine (hexadentate)",
+          "Parenteral; 30 min;\ncontinuous SC or IV infusion",
+          "Infusion site, allergy, bone,\ngrowth, ear, eye, Yersinia"
+        ],
+        [
+          "Deferasirox (tridentate)",
+          "Oral; 8–16 h; once daily",
+          "Renal toxicity, raised liver\nenzymes, rash, GI upset"
+        ],
+        [
+          "Deferiprone (bidentate)",
+          "Oral; 3 h; three times daily",
+          "GI upset, liver enzymes,\nneutropenia, agranulocytosis"
+        ]
+      ],
+      "colW": [
+        3.4,
+        3.8,
+        4.6
+      ],
       "fontSize": 18,
       "cite": "Angelucci E, et al. EBMT Handbook 8th ed. 2024; Ch. 46",
       "notes": {
@@ -560,9 +1010,36 @@
       "eyebrow": "Second cancers · Outcome",
       "title": "Second solid cancer outcome depends mainly on the cancer type",
       "cols": [
-        {"head": "Favourable", "items": ["Thyroid", "Breast", "Prostate", "Melanoma", "Cervix"]},
-        {"head": "Intermediate", "items": ["Oropharyngeal", "Colorectal, bladder", "Renal", "Ovarian", "Endometrial"]},
-        {"head": "Poor", "items": ["Pancreas", "Lung", "Brain", "Hepatobiliary", "Oesophageal"]}
+        {
+          "head": "Favourable",
+          "items": [
+            "Thyroid",
+            "Breast",
+            "Prostate",
+            "Melanoma",
+            "Cervix"
+          ]
+        },
+        {
+          "head": "Intermediate",
+          "items": [
+            "Oropharyngeal",
+            "Colorectal, bladder",
+            "Renal",
+            "Ovarian",
+            "Endometrial"
+          ]
+        },
+        {
+          "head": "Poor",
+          "items": [
+            "Pancreas",
+            "Lung",
+            "Brain",
+            "Hepatobiliary",
+            "Oesophageal"
+          ]
+        }
       ],
       "cite": "Tichelli A, et al. EBMT Handbook 8th ed. 2024; Ch. 47",
       "notes": {
@@ -576,14 +1053,44 @@
       "backup": true,
       "eyebrow": "Cardiometabolic · Screening",
       "title": "HCT survivors are screened more often than the general population",
-      "head": ["", "General adults", "Adult HCT survivors", "Paediatric HCT survivors"],
-      "rows": [
-        ["Weight, BMI", "All adults; no interval", "No specific recommendation", "Yearly"],
-        ["Lipids", "From 20 y if at increased risk", "Every 5 y: men ≥ 35, women ≥ 45;\nfrom 20 y if at risk", "At least every 5 y;\nyearly if abnormal"],
-        ["Blood pressure", "Every 3–5 y at 18–39 if normal;\nyearly from 40", "At least every 2 years", "Each visit, at least\nannually"],
-        ["Glucose", "Every 3 y at 40–70 if\noverweight or obese", "Every 3 y if ≥ 45 y or\nBP > 135/80", "Fasting glucose at least\nevery 5 y; yearly if abnormal"]
+      "head": [
+        "",
+        "General adults",
+        "Adult HCT survivors",
+        "Paediatric HCT survivors"
       ],
-      "colW": [2.2, 3.4, 3.5, 3.4],
+      "rows": [
+        [
+          "Weight, BMI",
+          "All adults; no interval",
+          "No specific recommendation",
+          "Yearly"
+        ],
+        [
+          "Lipids",
+          "From 20 y if at increased risk",
+          "Every 5 y: men ≥ 35, women ≥ 45;\nfrom 20 y if at risk",
+          "At least every 5 y;\nyearly if abnormal"
+        ],
+        [
+          "Blood pressure",
+          "Every 3–5 y at 18–39 if normal;\nyearly from 40",
+          "At least every 2 years",
+          "Each visit, at least\nannually"
+        ],
+        [
+          "Glucose",
+          "Every 3 y at 40–70 if\noverweight or obese",
+          "Every 3 y if ≥ 45 y or\nBP > 135/80",
+          "Fasting glucose at least\nevery 5 y; yearly if abnormal"
+        ]
+      ],
+      "colW": [
+        2.2,
+        3.4,
+        3.5,
+        3.4
+      ],
       "fontSize": 15,
       "cite": "Galvan ER, et al. EBMT Handbook 8th ed. 2024; Ch. 55",
       "caption": "Table 55.2 (DeFilipp 2017): consensus opinion without outcome evidence",
@@ -610,7 +1117,7 @@
       "caption": "1742 survivors, mean 11.9 years: 40% of women and 27% of men sexually inactive; low function in 64% of active women and 32% of men.",
       "notes": {
         "script": [
-          "性功能障礙是移植後最常見的問題之一。移植指引建議六個月、一年、之後每年主動詢問。Syrjala 的兩個篩檢問題都回答是，就做完整評估：先處理荷爾蒙缺乏、勃起功能障礙、陰道乾燥或生殖道 GVHD，再做個人或伴侶諮商。"
+          "性功能障礙是移植後最常見的問題之一。移植指引建議六個月、一年、之後每年主動詢問。Syrjala 的兩個篩檢問題都回答是，就做完整評估，先處理荷爾蒙缺乏、勃起功能障礙、陰道乾燥或生殖道 GVHD，再做個人或伴侶諮商。"
         ]
       }
     }

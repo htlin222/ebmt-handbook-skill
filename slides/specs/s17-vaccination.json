@@ -58,7 +58,7 @@
         "script": [
           "今天分成四段。第一段是原則，包括為什麼每個移植病人都要打、為什麼要當成從來沒打過、live 和 non-live 的分界，以及哪些情況才可以延後。",
           "第二段是 ECIL 7 的成人時程，也就是書上的 Table 29.1，我會拆成兩張表，再整理成一條從三個月到二十四個月的時間軸。整堂課最常出現的三個時間點是三個月、六個月和二十四個月，請大家在每一張表上留意它們分別對應哪一類疫苗。",
-          "第三段逐一看重點疫苗，pneumococcus、influenza、VZV、HBV 加上抗體檢測，其他疫苗放在同一張表。最後是兒童的 PDWP 建議、donor 和家屬，接著三題考題。旅遊疫苗和 COVID 放在 backup。長期追蹤的其他項目，像第二癌和內分泌，留到第 18 堂。"
+          "第三段逐一看重點疫苗，pneumococcus、influenza、VZV、HBV 加上抗體檢測，其他疫苗放在同一張表。最後是兒童的 PDWP 建議、donor 和家屬，接著三題考題。旅遊疫苗和 COVID 放在 backup。"
         ]
       }
     },
@@ -101,7 +101,7 @@
         {
           "label": "Non-live",
           "box": "Inactivated, subunit, conjugate",
-          "out": "Safe; give on schedule even with GVHD"
+          "out": "Safe; given even with GVHD"
         },
         {
           "label": "Live, conditional",
@@ -143,7 +143,7 @@
           "Postpone (profound hypogammaglobulinaemia)"
         ],
         [
-          "Uncontrolled grade 3–4 aGVHD, infection or ICU",
+          "Uncontrolled aGVHD 3–4, infection, ICU",
           "Postpone until the patient is stable"
         ],
         [
@@ -550,7 +550,7 @@
         {
           "label": "Live, low titre",
           "box": "Varicella (Varivax, Varilrix)",
-          "out": "Seronegative only, > 24 m, strict criteria"
+          "out": "Seronegative, > 24 m, all criteria"
         },
         {
           "label": "Live, high titre",
@@ -560,7 +560,7 @@
         {
           "label": "Adjuvanted subunit",
           "box": "Recombinant gE + AS01B (Shingrix)",
-          "out": "Auto RCT: 68.2% efficacy; allo unproven"
+          "out": "Auto RCT 68.2%; allo unproven"
         }
       ],
       "invert": 2,
@@ -570,7 +570,7 @@
         "script": [
           "VZV 的預防主力不是疫苗，是 acyclovir 或 valacyclovir 預防，allo-HCT 至少一年，auto-HCT 三到六個月。",
           "疫苗有三種。左邊的 live varicella vaccine 是低病毒量，只給血清陰性、移植超過 24 個月、符合所有條件的人，因為安全疑慮，實務上很少用。中間的 Zostavax 是高病毒量，比 varicella vaccine 多十四倍以上，所有指引都禁忌；書上提到有致死的 vaccine-strain disseminated VZV，有些甚至在移植好幾年後才打。",
-          "右邊是 adjuvanted subunit vaccine，recombinant gE 加上 AS01B adjuvant，肌肉注射兩劑，相隔 60 天，核准用於 18 歲以上、帶狀疱疹高風險的成人。Bastidas 2019 在 auto-HCT 的 phase 3 試驗，第一劑在移植後 50 到 70 天，第二劑一到兩個月後，預防 zoster 的效力 68.2%，預防 post-herpetic neuralgia 89%。NCCN 建議用於 auto-HCT，allo 可以考慮，但 allo 沒有 randomized data，效果和安全性尚未建立。這個試驗發表在 ECIL 7 之後，所以 ECIL 指引沒有評論它，但很多中心已經把它放進常規時程。注意它不是用來預防水痘原發感染的。",
+          "右邊是 adjuvanted subunit vaccine，recombinant gE 加上 AS01B adjuvant，肌肉注射兩劑，相隔 60 天，核准用於 18 歲以上、帶狀疱疹高風險的成人。Bastidas 2019 在 auto-HCT 的 phase 3 試驗，第一劑在移植後 50 到 70 天，第二劑一到兩個月後，預防 zoster 的效力 68.2%，預防 post-herpetic neuralgia 89%。NCCN 建議用於 auto-HCT，allo 可以考慮，但 allo 沒有 randomized data，效果和安全性尚未建立。這個試驗發表在 ECIL 7 之後，所以 ECIL 指引沒有評論它，但很多中心已經把它放進常規時程。",
           "考題常見的組合是 auto-HCT 後兩三個月的病人，問哪一種 zoster 疫苗有證據，答案就是右邊這個。"
         ]
       }
@@ -622,7 +622,7 @@
       "notes": {
         "min": 1.5,
         "script": [
-          "HBV 疫苗在移植後只有 40 到 70% 的人 anti-HBs 超過 10，比健康人差很多。可是沒有反應的人打了也有好處。移植前 HBsAg 陰性、但有 anti-HBs 或 anti-HBc 的人，就是 resolved infection，移植後有 reverse seroconversion 的風險。Takahata 2014 顯示，即使是疫苗 non-responder，接種也能預防 reverse seroconversion，推測是疫苗誘發的 memory T cell 和 cytotoxic T cell 在作用。這一點在 HBV 盛行的台灣特別實用。臨床上，resolved HBV 的病人除了打疫苗，還是要依照第 12 堂提到的方式監測 HBV DNA，疫苗是額外的保護，不是取代。",
+          "HBV 疫苗在移植後只有 40 到 70% 的人 anti-HBs 超過 10，比健康人差很多。可是沒有反應的人打了也有好處。移植前 HBsAg 陰性、但有 anti-HBs 或 anti-HBc 的人，就是 resolved infection，移植後有 reverse seroconversion 的風險。Takahata 2014 顯示，即使是疫苗 non-responder，接種也能預防 reverse seroconversion，推測是疫苗誘發的 memory T cell 和 cytotoxic T cell 在作用。這一點在 HBV 盛行的台灣特別實用。這更加強了 HBV 疫苗的必要性。",
           "大部分疫苗打前打後都不需要驗血清，例外就列在下面。HBV 在第三劑後一個月以上驗 anti-HBs，低於 10 就考慮再一輪三劑，IDSA 建議青少年和成人用 40 μg 的高劑量，但第二輪的效益不確定。成人打 measles 前要驗抗體，陰性才打；考慮 varicella vaccine 時也只給血清陰性的人。Pneumococcal 抗體可以在 24 個月驗，但驗完要補一劑還是重打整套，還要前瞻性研究。",
           "長期追蹤時，大約每四到五年驗一次 HBV、measles、tetanus、diphtheria 和 polio 的免疫力。"
         ]
@@ -699,7 +699,7 @@
       "type": "figure",
       "section": "Children and contacts",
       "eyebrow": "Children · PDWP-EBMT 2021",
-      "title": "Children restart combination vaccines at a fixed 6 months",
+      "title": "Children restart at a fixed 6 months",
       "fig": "ch29-fig1",
       "alt": "EBMT PDWP consensus timeline for vaccination of children after allo-HCT, 6 to 26 months",
       "caption": "Ifversen 2021. DTaP-IPV-HBV/Hib and PCV13 from 6 months if engrafted and platelets ≥ 50 × 10⁹/L, regardless of donor, GVHD or IST. Optional vaccines from 12 months. MMR-V ≥ 24 months, only if immunocompetent.",
@@ -784,7 +784,7 @@
         "Vaccinate only once the CD4 count exceeds 200/μL"
       ],
       "answer": "B",
-      "answerTitle": "Answer B: controlled GVHD does not delay non-live vaccines",
+      "answerTitle": "Answer B: give non-live vaccines despite controlled GVHD",
       "explanation": "GVHD under control should not delay non-live vaccines, and conjugate vaccines still respond during GVHD or IS. ECIL 7: PCV from 3 months, inactivated influenza from 6 months. MMR needs ≥ 24 months with no GVHD and no IS; Zostavax is contraindicated. No data support any CD4 threshold.",
       "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
       "notes": {
@@ -817,7 +817,7 @@
         "Give MMR today together with live-attenuated zoster vaccine"
       ],
       "answer": "B",
-      "answerTitle": "Answer B: live vaccines wait 3 to 8 months after IVIG",
+      "answerTitle": "Answer B: wait 3–8 months after IVIG",
       "explanation": "She meets the MMR criteria (seronegative, ≥ 24 months, no GVHD, no IS, no relapse) except recent IVIG. Live vaccines are given at least 3 and ideally 8 months after the last IVIG; non-live vaccines are unaffected. Rubella vaccination targets seronegative women of childbearing potential. Live zoster vaccine is contraindicated.",
       "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
       "notes": {
@@ -925,7 +925,7 @@
       "type": "table",
       "backup": true,
       "eyebrow": "Children · PDWP rules",
-      "title": "The paediatric consensus rests on six practical rules",
+      "title": "The paediatric consensus rests on seven practical rules",
       "head": [
         "Item",
         "PDWP-EBMT recommendation (Ifversen 2021)"
@@ -968,7 +968,7 @@
       "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
       "notes": {
         "script": [
-          "兒童的六個原則。固定六個月開始六合一和 PCV13，不管 GVHD 或免疫抑制；optional 疫苗盡量從十二個月開始，不要干擾 routine。Live MMR-V 要 24 個月以上，停免疫抑制和沒有 GVHD 至少三個月；有 GVHD、免疫抑制或 IVIG 的孩子，在第一輪前後驗抗體。"
+          "兒童共識的幾個原則。固定六個月開始六合一和 PCV13，不管 GVHD 或免疫抑制；optional 疫苗盡量從十二個月開始，不要干擾 routine。Live MMR-V 要 24 個月以上，停免疫抑制和沒有 GVHD 至少三個月；有 GVHD、免疫抑制或 IVIG 的孩子，在第一輪前後驗抗體。"
         ]
       }
     },

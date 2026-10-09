@@ -379,7 +379,7 @@
       "head": ["", "Listeria monocytogenes", "Nocardia spp."],
       "rows": [
         ["Organism", "Gram-positive rod; foodborne;\ngrows at refrigerator temperature", "Branching, acid-fast Gram-positive\nrod; inhaled from soil"],
-        ["Host, timing", "Severe cellular IS; ~0.1–0.5%", "Late; steroid-dependent cGVHD;\n0.3–1.7% of allo-HCT"],
+        ["Host, timing", "Severe cellular IS; < 0.1% to 0.47%", "Late; steroid-dependent cGVHD;\n0.3–1.7% of allo-HCT"],
         ["Disease", "Bacteraemia; CNS in 40–60%", "Cavitating nodules 90%;\nCNS in ~1/3, often silent"],
         ["Treatment", "High-dose ampicillin + amino-\nglycoside, 3 weeks (CNS 6)", "High-dose TMP/SMX\nfor ≥ 6 months"],
         ["TMP/SMX\nprophylaxis", "Probably protective (unproven)", "2–3 days/week does not protect"]
@@ -392,7 +392,7 @@
       "notes": {
         "min": 1.5,
         "script": [
-          "Listeria 是食物傳染的 Gram-positive 桿菌，冰箱溫度也能生長。唯一的危險因子是吃到被污染的食物，加上嚴重細胞免疫抑制，發生率大約 0.1 到 0.5%。幾乎都是 sepsis 合併 bacteremia，40 到 60% 有 CNS 侵犯，可以是腦膜炎、腦炎、腦膿瘍或 rhombencephalitis。治療是高劑量 ampicillin 加 aminoglycoside 三週，CNS 感染六週。EBMT 的 case-control 研究，存活率 48% 對照組 72%。",
+          "Listeria 是食物傳染的 Gram-positive 桿菌，冰箱溫度也能生長。唯一的危險因子是吃到被污染的食物，加上嚴重細胞免疫抑制，各中心報告的發生率從低於 0.1% 到 0.47%。幾乎都是 sepsis 合併 bacteremia，40 到 60% 有 CNS 侵犯，可以是腦膜炎、腦炎、腦膿瘍或 rhombencephalitis。治療是高劑量 ampicillin 加 aminoglycoside 三週，CNS 感染六週。EBMT 的 case-control 研究，存活率 48% 對照組 72%。",
           "Nocardia 是分枝狀、acid-fast 的 Gram-positive 桿菌，從土壤吸入，是晚期感染，典型病人有 steroid-dependent cGVHD。九成有肺部結節，傾向空洞化，最主要的鑑別診斷是 mould。大約三分之一一開始就有 CNS 侵犯，常常沒有症狀，所以肺部 nocardiosis 一律要照腦部影像。Basal meningitis 造成的 SIADH 也常見。治療是高劑量 TMP/SMX 至少六個月。",
           "最後一列是常見陷阱，一週兩到三天的 TMP/SMX 預防不了 Nocardia。"
         ]

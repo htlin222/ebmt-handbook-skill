@@ -1,0 +1,584 @@
+{
+  "title": "Bleeding, thrombosis, haemorrhagic cystitis and kidney",
+  "subtitle": "Session 14 · Ch. 40 and Ch. 51",
+  "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40 · Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，今天是第 14 堂，主題是移植後的出血、血栓、hemorrhagic cystitis 和腎功能異常，內容來自 EBMT Handbook 第八版第 40 章和第 51 章。",
+      "SOS/VOD 和 TA-TMA 雖然也算血栓性併發症，第 13 堂已經講過，今天只帶過。最後一樣留三題考題。"
+    ]
+  },
+  "references": [
+    "1. Shah R, Savani BN, Chaturvedi S. Bleeding and thrombotic complications. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 355–63. https://doi.org/10.1007/978-3-031-44080-9_40",
+    "2. Cesaro S. Haemorrhagic cystitis and renal dysfunction. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 465–9. https://doi.org/10.1007/978-3-031-44080-9_51",
+    "3. Gerber DE, Segal JB, Levy MY, Kane J, Jones RJ, Streiff MB. The incidence and risk factors for venous thromboembolism (VTE) and bleeding among 1514 patients undergoing hematopoietic stem cell transplantation: implications for VTE prevention. Blood. 2008;112:504–10.",
+    "4. Pihusch R, Salat C, Schmidt E, Gohring P, Pihusch M, Hiller E, et al. Hemostatic complications in bone marrow transplantation: a retrospective analysis of 447 patients. Transplantation. 2002;74:1303–9.",
+    "5. Gonsalves A, Carrier M, Wells PS, McDiarmid SA, Huebsch LB, Allan DS. Incidence of symptomatic venous thromboembolism following hematopoietic stem cell transplantation. J Thromb Haemost. 2008;6:1468–73.",
+    "6. Cortelezzi A, Moia M, Falanga A, et al. Incidence of thrombotic complications in patients with haematological malignancies with central venous catheters: a prospective multicentre study. Br J Haematol. 2005;129(6):811–7.",
+    "7. Samama MM, Cohen AT, Darmon JY, Desjardins L, Eldor A, Janbon C, et al. A comparison of enoxaparin with placebo for the prevention of venous thromboembolism in acutely ill medical patients. N Engl J Med. 1999;341:793–800.",
+    "8. Barlogie B, Tricot G, Anaissie E, Shaughnessy J, Rasmussen E, van Rhee F, et al. Thalidomide and hematopoietic-cell transplantation for multiple myeloma. N Engl J Med. 2006;354:1021–30.",
+    "9. McCarthy PL, Owzar K, Hofmeister CC, Hurd DD, Hassoun H, Richardson PG, et al. Lenalidomide after stem-cell transplantation for multiple myeloma. N Engl J Med. 2012;366:1770–81.",
+    "10. Palumbo A, Cavo M, Bringhen S, Zamagni E, Romano A, Patriarca F, et al. Aspirin, warfarin, or enoxaparin thromboprophylaxis in patients with multiple myeloma treated with thalidomide: a phase III, open-label, randomized trial. J Clin Oncol. 2011;29:986–93.",
+    "11. Young AM, Billingham LJ, Begum G, Kerr DJ, Hughes AI, Rea DW, et al. Warfarin thromboprophylaxis in cancer patients with central venous catheters (WARP): an open-label randomised trial. Lancet. 2009;373:567–74.",
+    "12. Akl EA, Karmath G, Yosuico V, Yosuico VE, Barba M, Sperati F, et al. Anticoagulation for thrombosis prophylaxis in cancer patients with central venous catheters. Cochrane Database Syst Rev. 2007;18:CD006468.",
+    "13. Martens KL, da Costa WL, Amos CI, et al. HIGH-2-LOW risk model to predict venous thromboembolism in allogeneic transplant patients after platelet engraftment. Blood Adv. 2021;5(1):167–75. https://doi.org/10.1182/bloodadvances.2020003353.",
+    "14. Gangaraju R, Chen Y, Hageman L, et al. Late-occurring venous thromboembolism in allogeneic blood or marrow transplant survivors: a BMTSS-HiGHS2 risk model. Blood Adv. 2021;5(20):4102–11. https://doi.org/10.1182/bloodadvances.2021004341.",
+    "15. Kovacs MJ, Kahn SR, Rodger M, Anderson DR, Andreou R, Mangel JE, et al. A pilot study of central venous catheter survival in cancer patients usinglow-molecular-weight heparin (dalteparin) and warfarin without catheter removal for the treatment of upper extremity deep vein thrombosis (the catheter study). J Thromb Haemost. 2007;5:1650–3.",
+    "16. Ganguly N, Clough LA, Dubois LK, et al. Low-dose cidofovir in the treatment of symptomatic BK virus infection in patients undergoing allogeneic hematopoietic stem cell transplantation: a retrospective analysis of an algorithmic approach. Transpl Infect Dis. 2010;12:406–11.",
+    "17. Bridges B, Donegan S, Badros A. Cidofovir bladder instillation for the treatment of BK hemorrhagic cystitis after allogeneic stem cell transplantation. Am J Hematol. 2006;81:535–7.",
+    "18. Tirindelli MC, Flammia GP, Bove P, et al. Fibrin glue therapy for severe hemorrhagic cystitis after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2014;20:1612–7.",
+    "19. Ringden O, Uzunel M, Sundberg B, et al. Tissue repair using allogeneic mesenchymal stem cells for hemorrhagic cystitis, pneumomediastinum and perforated colon. Leukemia. 2007;21:2271–6.",
+    "20. Hashmi H, Mirza AS, Darwin A, et al. Venous thromboembolism associated with CD19-directed CAR T-cell therapy in large B-cell lymphoma. Blood Adv. 2020;4(17):4086–90. https://doi.org/10.1182/bloodadvances.2020002060.",
+    "21. Parks AL, Kambhampati S, Fakhri B, et al. Incidence, management and outcomes of arterial and venous thrombosis after chimeric antigen receptor modified T cells for B cell lymphoma and multiple myeloma. Leuk Lymphoma. 2021;62(4):1003–6. https://doi.org/10.1080/10428194.2020.1852474.",
+    "22. Johnsrud A, Craig J, Baird J, et al. Incidence and risk factors associated with bleeding and thrombosis following chimeric antigen receptor T-cell therapy. Blood Adv. 2021;5(21):4465–75. https://doi.org/10.1182/bloodadvances.2021004716."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Outline",
+      "title": "Three parts, from the clot to the bladder and kidney",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40 · Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "rows": [
+        ["Thrombosis: risk and prophylaxis", "Competing risks, IMiD myeloma, inpatients, catheters, HIGH-2-LOW, HiGHS2", "7 min"],
+        ["Treating VTE and CRT; bleeding", "Platelet 50 and GFR 30 thresholds, DOACs, duration, IVC filter, DAH", "6.5 min"],
+        ["Haemorrhagic cystitis and AKI", "Early vs late HC, BK virus criteria, cidofovir, AKI severity", "8.5 min"],
+        ["Three board questions", "Pulmonary embolism, catheter thrombosis, haematuria", "5 min"]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是血栓的風險和預防，包括出血和血栓這兩個互相競爭的風險、哪些病人才需要預防性抗凝、導管要不要預防，以及兩個新的 VTE risk score。",
+          "第二段講 VTE 和 catheter-related thrombosis 的治療，重點是血小板 50 和 GFR 30 這兩個門檻，再加上移植早期的出血和 diffuse alveolar hemorrhage。",
+          "第三段換到第 51 章，早發型和晚發型 hemorrhagic cystitis、BK virus 的診斷標準、cidofovir 的幾種給法，最後是 AKI 的嚴重度分級。",
+          "最後三題考題。CAR-T 後的出血血栓，和 AKI 的病因與危險因子，放在 backup。"
+        ]
+      }
+    },
+    {
+      "type": "columns",
+      "section": "Thrombosis: risk and prophylaxis",
+      "eyebrow": "Haemostasis · Overview",
+      "title": "HCT pushes haemostasis toward both clotting and bleeding",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "cols": [
+        {"head": "Shared risk factors", "items": ["Underlying malignancy", "Thrombocytopenia", "MAC and IMiDs", "GVHD and infection", "Catheters, immobility"]},
+        {"head": "Coagulation shifts", "items": ["↑ vWF, platelet adhesion", "↑ Thrombin generation", "↓ Antithrombin", "↓ Protein C", "Endothelial factor activation"]},
+        {"head": "Complications", "items": ["VTE, mostly catheter-related", "SOS/VOD (Session 13)", "TA-TMA (Session 13)", "GI and airway bleeding", "Haemorrhagic cystitis"]}
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "先看整體。移植病人同時站在血栓和出血兩邊，左欄這些危險因子是兩邊共用的，包括原本的惡性疾病、血小板低下、myeloablative conditioning 和 IMiD、GVHD 與感染，還有中心靜脈導管和長期臥床。",
+          "中間是凝血系統本身的改變。移植後 von Willebrand factor 上升、血小板黏附增加、thrombin 生成增加，antithrombin 和 protein C 下降，整體偏向高凝狀態。",
+          "右欄是臨床上看到的結果。血栓這一側最常見的是 VTE，大部分和導管有關，SOS/VOD 和 TA-TMA 留給第 13 堂。出血這一側以腸胃道和呼吸道最多，泌尿道的 hemorrhagic cystitis 則是今天後半段的主角。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haemostasis · Incidence",
+      "title": "After HCT, bleeding is more frequent and more lethal than VTE",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": ["Series", "Population", "Thrombosis", "Bleeding"],
+      "rows": [
+        ["Gerber 2008", "1514 inpatient HCT", "VTE 4.6%; 73% catheter-related", "Significant 15.2%;\nfatal 3.6%"],
+        ["Pihusch 2002", "447 BMT", "5.7% by day 100 despite heparin", "—"],
+        ["Pihusch 2002", "1-year VTE", "Auto 4.8%; allo 6.8%;\nallo + GVHD 8.1%", "—"],
+        ["Gonsalves 2008", "Ambulatory HCT", "Symptomatic 3.7% at 1 year", "—"],
+        ["Cortelezzi 2005", "416 with CVC, 21% HCT", "Catheter-related 12%", "—"],
+        ["Timing", "", "After engraftment", "Early, profound\nthrombocytopenia"]
+      ],
+      "colW": [2.4, 2.9, 4.0, 2.5],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張列出書中引用的幾個系列。最重要的是 Gerber 2008，1514 位住院移植病人，有症狀的 VTE 是 4.6%，其中 73% 和導管有關。同一群人，有臨床意義的出血 15.2%，致命出血 3.6%。出血比血栓多，也更致命，這是整章抗凝決策的出發點。",
+          "Pihusch 2002 的 447 位骨髓移植病人，即使為了預防 SOS 每天打 heparin，前 100 天仍有 5.7% 發生 VTE。一年 VTE 率 auto 4.8%，allo 沒有 GVHD 6.8%，allo 合併 GVHD 8.1%，allo 和 GVHD 一路往上加。門診移植的一年 VTE 是 3.7%。Cortelezzi 收的帶導管病人，導管相關血栓 12%，其中八成血小板低於 50，血小板低只帶來不顯著的下降趨勢，並不能當作保護。",
+          "時間點兩邊相反。出血集中在早期血小板最低的時候，血栓多在 engraftment 之後，過去有 VTE 或有 GVHD 的人風險更高。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Haemostasis · Thromboprophylaxis",
+      "title": "Thromboprophylaxis is reserved for IMiD myeloma and inpatients",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "root": "HCT recipient: is thromboprophylaxis indicated?",
+      "branches": [
+        {"label": "Myeloma on IMiDs", "box": "Aspirin if lower risk", "out": "LMWH 40 mg SC daily if > 1 risk factor"},
+        {"label": "Inpatient or post-op", "box": "Platelets > 50 × 10⁹/L, no bleeding", "out": "Prophylactic UFH or LMWH"},
+        {"label": "Outpatient with CVC", "box": "Catheter-related thrombosis", "out": "No routine prophylaxis"}
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "因為出血風險比較高，書上原則上不建議血小板低的移植病人常規打預防性抗凝，只有兩群例外。",
+          "左邊是用 thalidomide 或 lenalidomide 的 myeloma。Myeloma 本身血栓風險 5 到 10%，加上 IMiD 會再翻好幾倍，而移植後的 consolidation 和 maintenance 又常用 lenalidomide。低風險的人用 aspirin，超過一個 VTE 危險因子就用 LMWH，預防劑量 40 mg 皮下一天一次。",
+          "中間是住院或手術後的病人，血小板大於 50 × 10⁹/L 且沒有出血，給預防劑量的 UFH 或 LMWH。活動量差、過去有 VTE 但沒有長期抗凝的人獲益最大。非常高風險的病人，書上放寬到血小板 30 以上也可以考慮，前提是權衡過出血。",
+          "右邊是門診帶著導管的病人，不建議常規預防。50 這個門檻考試很常出，題目常給 40 左右的數字，問要不要開始預防。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haemostasis · Prophylaxis evidence",
+      "title": "Prophylaxis evidence is borrowed from cancer trials, not HCT trials",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": ["Setting", "Study", "Result"],
+      "rows": [
+        ["Ambulatory cancer", "PROTECHT, SAVE-ONCO", "RR of VTE ↓, small absolute gain, no survival benefit"],
+        ["Ill medical inpatients", "Samama 1999 (enoxaparin)", "Clear benefit; never tested in HCT"],
+        ["Myeloma, thalidomide", "Barlogie 2006", "VTE 24% induction, 6% consolidation despite LMWH"],
+        ["Myeloma, lenalidomide", "McCarthy 2012", "No VTE, all on prophylactic anticoagulation"],
+        ["Myeloma, IMiD", "Palumbo 2011", "Aspirin, warfarin or enoxaparin prophylaxis"],
+        ["CVC in cancer", "WARP (Young 2009), n = 1590", "Adjusted warfarin: CRT 2.7% vs 5.9%; more major bleeding"],
+        ["CVC in cancer", "Meta-analysis (Akl 2007)", "Warfarin or LMWH: no significant fall in CRT"]
+      ],
+      "colW": [2.9, 3.6, 5.3],
+      "fontSize": 15,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "移植病人沒有自己的隨機試驗，預防的證據都是從癌症病人借來的。PROTECHT 和 SAVE-ONCO 讓 VTE 的相對風險顯著下降，但絕對風險差很小，也沒有存活好處，所以 ASCO 不建議門診癌症病人常規預防。內科住院病人有 Samama 的 enoxaparin 試驗支持，但沒有在移植族群驗證過。",
+          "中間三行是 myeloma 預防的根據。Barlogie 的 thalidomide 研究，即使用了 LMWH，誘導期 VTE 仍有 24%，consolidation 期 6%。McCarthy 的 lenalidomide 維持治療沒有 VTE，但這些病人都有預防性抗凝。Palumbo 的隨機試驗比較 aspirin、warfarin 和 enoxaparin，加上 ASCO 指引，構成 IMiD 預防的建議。",
+          "最下面兩行是導管。WARP 收了 1590 人，調整劑量 warfarin 讓 INR 維持 1.5 到 2，有症狀的 CRT 從 5.9% 降到 2.7%，但 major bleeding 增加。後來的 meta-analysis 認為 warfarin 和 LMWH 都沒有顯著減少 CRT，所以不常規預防。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haemostasis · VTE risk scores",
+      "title": "HIGH-2-LOW and HiGHS2 stratify VTE risk after allogeneic HCT",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": ["", "HIGH-2-LOW (Martens 2021)", "HiGHS2 (Gangaraju 2021)"],
+      "rows": [
+        ["Assessed", "Day 30, for VTE day 30–100", "Survivors at 2 years, long-term VTE"],
+        ["Points", "1 each: prior CRT, inpatient day 30,\nGVHD 3–4, prior PE or leg DVT,", "Stroke 3, PBSC 3, hypertension 2,\nmale 2, chronic GVHD 1"],
+        ["", "lymphoma, BMI ≥ 35, WBC ≥ 11 × 10⁹/L", ""],
+        ["High risk", "≥ 2 points: 10.3%", "≥ 5 points: 9.3% at 10 years"],
+        ["Intermediate", "1 point: 3.6%", "—"],
+        ["Low risk", "0 points: 1.5%", "< 5 points: 2.4% at 10 years"]
+      ],
+      "colW": [2.4, 4.9, 4.5],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "血小板恢復之後要挑出哪些人值得預防，近年有兩個 risk model。",
+          "左邊是 Martens 2021 的 HIGH-2-LOW，在 allo 移植後 day 30 評估，七個因子各一分，包括過去的 CRT、day 30 還在住院、grade 3 到 4 的 GVHD、過去的 PE 或下肢 DVT、lymphoma、BMI 35 以上，以及白血球 11 × 10⁹/L 以上。零分低風險，一分中風險，兩分以上高風險，day 30 到 100 的 VTE 分別是 1.5%、3.6% 和 10.3%。",
+          "右邊是 Gangaraju 2021 的 HiGHS2，看的是移植後兩年的存活者。Stroke 和 PBSC 各 3 分，高血壓和男性各 2 分，chronic GVHD 1 分，5 分以上是高風險，十年 VTE 9.3%，低於 5 分是 2.4%。",
+          "兩個分數的時間點完全不同，一個管 day 30 到 100，一個管長期存活者，題目若給時間點，先對上是哪一個分數。書上把它們定位成協助挑選可能受益於預防的病人，而不是已經驗證過的用藥門檻。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Treating VTE and CRT; bleeding",
+      "eyebrow": "Haemostasis · VTE treatment",
+      "title": "LMWH or UFH treats VTE once platelets exceed 50 × 10⁹/L",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": ["Step", "Ch. 40 recommendation"],
+      "rows": [
+        ["Diagnosis", "Duplex US for limb signs; pulmonary angiography for chest signs"],
+        ["Before starting", "Assess bleeding history and platelet count"],
+        ["Initial therapy", "Therapeutic LMWH or UFH if platelets > 50, no bleeding"],
+        ["LMWH or UFH", "LMWH only if GFR > 30 mL/min; UFH if < 30 or high bleed risk"],
+        ["Maintenance", "Continue LMWH, or warfarin if LMWH contraindicated"],
+        ["DOAC", "Table 40.1: not recommended; text: case by case"],
+        ["Duration", "3–6 months, or while malignancy or IMiDs persist"],
+        ["IVC filter", "Only if anticoagulation contraindicated or PE on it"]
+      ],
+      "colW": [3.0, 8.8],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "確診 VTE 從症狀開始。肢體腫、紅、壓痛做 venous duplex ultrasound；胸痛、喘或不明原因心跳快，做 pulmonary angiography。確診後先評估出血風險，看出血病史和血小板數。",
+          "沒有出血、血小板大於 50 × 10⁹/L，就開始 therapeutic 的 LMWH 或 UFH。LMWH 限用在 GFR 大於 30 mL/min，腎功能差或出血風險高的時候改用 UFH。移植病人常同時用 calcineurin inhibitor、amphotericin 這些腎毒性藥物，GFR 這一行在病房非常實用，考題也愛把 GFR 25 和 LMWH 放在同一題。",
+          "維持治療繼續 LMWH，LMWH 有禁忌時改 warfarin。DOAC 要小心，Table 40.1 寫目前不建議用在移植病人，內文則說血小板穩定大於 50、近期沒有出血、腎功能足夠時，可以個案考慮。考試問標準答案時，選 LMWH。",
+          "療程三到六個月，惡性疾病或 IMiD 還在就延長，取較長者，但復發又血小板低的病人常常做不到。IVC filter 只用在急性 DVT 又不能抗凝，或抗凝中仍發生 PE 的病人，能抗凝之後盡快移除，也不能拿來做 PE 的初級預防。"
+        ],
+        "reminders": [
+          "Ch. 40 is internally inconsistent on DOACs: Table 40.1 says 'not currently recommended in patients undergoing HCT'; §40.2.3 allows case-by-case use (platelets stably > 50 × 10⁹/L, no recent bleeding, adequate renal function). The slide states both."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Haemostasis · Thrombocytopenia",
+      "title": "The platelet count decides how far anticoagulation can go",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "root": "Acute VTE in a thrombocytopenic HCT recipient",
+      "branches": [
+        {"label": "Platelets > 50 × 10⁹/L", "box": "No active bleeding", "out": "Full-dose LMWH or UFH"},
+        {"label": "Platelets 25–50 × 10⁹/L", "box": "Weigh benefit against bleeding", "out": "Reduced-dose LMWH (some centres)"},
+        {"label": "Large symptomatic clot", "box": "Severe thrombocytopenia", "out": "Transfuse platelets to 50, then heparin"},
+        {"label": "Cannot anticoagulate", "box": "Acute DVT", "out": "IVC filter; remove once anticoagulated"}
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "移植病人發生 VTE 時，血小板常常不夠高。這張把書上的做法依血小板分成四條路。",
+          "血小板大於 50、沒有活動性出血，就是上一張的標準做法，全劑量 LMWH 或 UFH。",
+          "血小板在 25 到 50 之間，有些中心用減量的 LMWH。書上說在權衡這個病人的抗凝好處和出血風險之後，這可以是可行的策略，證據來自小型系列。",
+          "第三條是本頁重點。血栓很大又有症狀，但血小板很低，作者的做法是輸血小板，把數字拉到 50 以上，再比較安全地給 heparin。這是少數為了抗凝而主動輸血小板的情境。",
+          "最右邊，急性 DVT 但完全不能抗凝，才考慮 IVC filter，等可以抗凝就要移除。整張圖只有 50 和 25 兩個數字，記住它們就能推回整個流程。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Haemostasis · Catheter-related thrombosis",
+      "title": "Catheter-related thrombosis is treated with the line left in place",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "steps": [
+        "Goal: relieve, limit extension, keep access",
+        "Remove only if blocked, unneeded or infected",
+        "Anticoagulate either way: LMWH (or VKA)",
+        "3 months or until removal, whichever longer"
+      ],
+      "invert": 2,
+      "caption": "Kovacs 2007: 78 patients on dalteparin then warfarin with the line kept — no new thrombosis at 3 months, 57% of lines still working. Catheter-directed thrombolysis may help save the line.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "導管相關血栓很常見，但造成 PE 和死亡的比率低，所以治療目標比較實際，緩解症狀、避免往中央靜脈延伸、保住血管通路，並預防日後的慢性靜脈狹窄。",
+          "沒有證據顯示拔管能改善結果，所以只有管子不通、不再需要或懷疑感染才拔。想保住管子時，catheter-directed thrombolysis 相對安全有效，可以試試看。",
+          "不論拔不拔，急性 CRT 都要抗凝。作者偏好 LMWH，有禁忌才用 vitamin K antagonist。Kovacs 2007 收了 78 位病人，全劑量 dalteparin 再橋接 warfarin，管子留著，三個月內沒有新的血栓事件，57% 的導管仍然可用。",
+          "療程依 ACCP 指引，三個月或到拔管為止，取較長者，也有醫師在拔管後再多抗凝一到兩週。考題常見的錯誤選項是拔管之後就不用抗凝，這和書上的建議剛好相反。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Haemostasis · Bleeding",
+      "title": "Bleeding comes early with thrombocytopenia, and DAH is often fatal",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": ["Item", "Ch. 40 data"],
+      "rows": [
+        ["Incidence", "Any 15.2–27.1%; life-threatening or fatal 1.1–3.6%"],
+        ["Top predictor", "Therapeutic anticoagulation day 1–180: OR 3.1"],
+        ["Other factors", "GVHD OR 2.4; auto vs allo protective, OR 0.46"],
+        ["Sites", "GI (gut GVHD), bladder (HC), spontaneous"],
+        ["DAH", "2–14%; hypoxia, infiltrates, bloody BAL; mortality ~80%"],
+        ["DAH therapy", "Platelets, steroids, antifibrinolytics, rFVIIa: inconsistent"],
+        ["Platelet transfusion", "Prophylactic if < 10 × 10⁹/L (low–moderate evidence)"]
+      ],
+      "colW": [3.0, 8.8],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "接著是出血。各系列的出血率 15.2 到 27.1%，危及生命或致命的 1.1 到 3.6%，多半發生在早期血小板最低的時候。",
+          "Gerber 的分析裡，最強的預測因子是 day 1 到 180 之間開始 therapeutic anticoagulation，odds ratio 3.1，GVHD 是 2.4，auto 相對 allo 則有保護作用，odds ratio 0.46。出血可以是腸道 GVHD 的腸胃道出血、hemorrhagic cystitis，也可以是自發性。",
+          "Diffuse alveolar hemorrhage 發生在 2 到 14% 的移植病人，表現是進行性低血氧、肺部浸潤和血性的 BAL，血小板低和 acute GVHD 的人比較多，死亡率約 80%，範圍 64 到 100%。血小板輸注、全身類固醇、antifibrinolytics 和 recombinant factor VIIa 都有人用，結果不一致。DAH 的診斷細節第 15 堂會再講。",
+          "預防性血小板輸注的慣例是低於 10 × 10⁹/L 就輸，不過預防性優於治療性輸注的證據只有低到中等。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Haemorrhagic cystitis and kidney",
+      "eyebrow": "HC · Early versus late",
+      "title": "Early HC is chemical, late HC is viral",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": ["", "Early-onset HC", "Late-onset HC"],
+      "rows": [
+        ["Onset", "During conditioning or ≤ 48 h after", "Engraftment (weeks 2–4) to month 2–3"],
+        ["Incidence", "< 3%, now rare", "7–25%"],
+        ["Cause", "Drug metabolites (acrolein), radiotherapy", "BKPyV, adenovirus; donor alloreactivity"],
+        ["Prevention", "Hyperhydration + continuous IV mesna", "Hyperhydration, forced diuresis"],
+        ["Not advised", "Bladder irrigation via catheter", "Fluoroquinolone prophylaxis"],
+        ["Therapy", "Hydration, diuresis, HOT, fibrin glue", "Same, plus IV or intravesical cidofovir"]
+      ],
+      "colW": [2.6, 4.6, 4.6],
+      "fontSize": 16,
+      "caption": "Haematuria: 1 microscopic · 2 macroscopic · 3 with clots · 4 clots + obstructive renal failure",
+      "captionY": 4.85,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Hemorrhagic cystitis 依發生時間分兩型。早發型在 conditioning 期間或結束後 48 小時內出現，是藥物代謝物和放射線直接傷害膀胱黏膜，典型就是高劑量 CY 的 acrolein。現在發生率小於 3%，因為 CY 的預防做得很好。不論 CY 用在 conditioning 還是 PTCy，都靠 hyperhydration 加上連續靜脈 mesna，減少膀胱黏膜接觸 acrolein。用兩路或三路導尿管做膀胱灌洗並沒有比 hyperhydration 好，又侵入、又不舒服，所以不建議。",
+          "晚發型從 engraftment 前後，也就是第二到第四週，延伸到第二、三個月，發生率 7 到 25%。主因是 BK polyomavirus，腺病毒少見，再加上 donor 的 alloreactivity 攻擊膀胱黏膜。Fluoroquinolone 在試管裡能抑制 BK，但臨床上沒有降低 HC，還有細菌抗藥性和兒童肌腱關節傷害的問題，所以不建議拿來預防。",
+          "治療兩型共用支持療法、hyperbaric oxygen 和 fibrin glue，晚發型多了 cidofovir。",
+          "底下是血尿分級，一級顯微、二級肉眼、三級有血塊、四級是血塊造成阻塞和腎衰竭。考題最常用發生時間來區分兩型，看到 engraftment 前後的血尿，就要想到晚發型。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "HC · BK virus risk",
+      "title": "BK viruria is common, but only about one in five gets overt HC",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": ["Factor", "Higher risk", "Lower risk"],
+      "rows": [
+        ["Graft", "Cord blood, peripheral blood", "Bone marrow"],
+        ["Donor", "Haploidentical > unrelated", "Matched related"],
+        ["Conditioning", "MAC; ATG, CY or BU", "RIC"],
+        ["GVHD", "Acute GVHD grade 2–4", "—"],
+        ["Children", "Recipient age > 7 years", "—"],
+        ["Predictive load", "Viruria > 10⁷ and viraemia > 10³ copies/mL", "—"]
+      ],
+      "colW": [2.8, 5.6, 3.4],
+      "fontSize": 16,
+      "caption": "BKPyV seropositive > 90% of adults · high-load viruria in 50–60% after allo-HCT · overt HC ≈ 20%",
+      "captionY": 4.85,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "BK virus 在兒童期經飛沫或接觸唾液感染，超過九成成人血清陽性，之後潛伏在腎小管上皮和尿路上皮。健康人也有 5 到 10% 會有輕度的 viruria。Allo 移植後 T 細胞免疫被壓得很低，一半以上出現高量 viruria，但真正發生 overt HC 的只有大約 20%。",
+          "差距來自這張表的危險因子。Graft 是 cord blood 和 PBSC 高於 bone marrow，donor 是 haplo 高於 unrelated 再高於 matched related，conditioning 是 MAC 高於 RIC，並且用到 ATG、CY 或 BU 的風險較高，再加上 grade 2 到 4 的 acute GVHD；兒童則是七歲以上。",
+          "最後一行是預測 BK-HC 的病毒量，尿液大於 10 的 7 次方 copies/mL，血漿大於 10 的 3 次方。這兩個數字下一張的診斷標準會再出現，考試很愛考。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "HC · BK virus diagnosis",
+      "title": "BK-HC needs haematuria, cystitis symptoms and high-load viruria",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "steps": [
+        "Macroscopic haematuria",
+        "Dysuria, frequency or lower abdominal pain",
+        "Viruria > 10⁷ copies/mL (viraemia > 10³ in ⅔)",
+        "Other causes excluded; US or CT for clots"
+      ],
+      "invert": 2,
+      "caption": "Imaging: oedematous, thickened bladder wall; clots; obstruction. Falling viruria and viraemia track recovery. Routine BK monitoring is not recommended: no established pre-emptive therapy.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "BK virus-associated HC 的診斷要三個條件同時成立。肉眼血尿，膀胱炎的症狀，像解尿疼痛、頻尿、下腹痛，再加上高量的 BK viruria，大於 10 的 7 次方 copies/mL。三分之二的病人同時有大於 10 的 3 次方的 viremia。",
+          "最後要排除其他感染和非感染原因。超音波或 CT 可以看到膀胱壁水腫增厚、膀胱內血塊或尿路阻塞，血塊阻塞到腎衰竭就是第四級。",
+          "因為一半以上的 allo 病人都有 viruria，單看尿液病毒量不能診斷，一定要有臨床症狀。病毒量下降和臨床恢復是平行的，可以用來追蹤。",
+          "另一個常考的點是監測。因為沒有確立的 pre-emptive 治療，書上不建議常規監測 BK 的 viruria 或 viremia，這和 CMV 的 pre-emptive 策略完全不同，第 12 堂的 CMV 可以對照著看。"
+        ],
+        "reminders": [
+          "Ch. 51 defines grade 2 as macroscopic haematuria but writes the diagnostic threshold as '> grade 2'; the slide says 'macroscopic haematuria' to avoid the ambiguity."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "HC · Treatment",
+      "title": "Cidofovir has no agreed dose; local measures stop the bleeding",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": ["Option", "Scheme", "Result or caveat"],
+      "rows": [
+        ["Cidofovir IV, standard", "3–5 mg/kg weekly or fortnightly\n+ probenecid", "Creatinine rise in 18%"],
+        ["Cidofovir IV, low dose", "0.5–1.5 mg/kg 1–3×/week,\nno probenecid", "Renal toxicity 20%\n(Ganguly 2010)"],
+        ["Cidofovir intravesical", "5 mg/kg/week, clamp 1–2 h", "Response about 50%\n(Bridges 2006)"],
+        ["Fibrin glue, cystoscopic", "One or two applications", "Response 83% (Tirindelli 2014)"],
+        ["Hyperbaric oxygen", "Urothelial repair", "Limited access; ear barotrauma"],
+        ["Third-party MSC", "Tissue repair (Ringden 2007)", "Haematuria resolved in 5 of 7"],
+        ["BK virus-specific T cells", "Banked third-party (phase II)", "ORR 81–92%; no moderate–severe GVHD"]
+      ],
+      "colW": [3.5, 4.3, 4.0],
+      "fontSize": 15,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "治療以支持療法為主，止痛、解痙、輸血和 hyperhydration。抗病毒藥是 cidofovir，它是 nucleotide analogue，半衰期 15 到 65 小時，所以可以一到兩週給一次。因為腎小管毒性明顯，只用在治療，不做預防。劑量和給法都沒有共識，書上列了三種。",
+          "標準劑量是 3 到 5 mg/kg，每週或每兩週，配 probenecid 阻止腎小管細胞攝取 cidofovir，仍有 18% 肌酸酐上升。低劑量 0.5 到 1.5 mg/kg，每週一到三次，不加 probenecid，腎毒性 20%。膀胱內灌注 5 mg/kg，每週一次，夾管一到兩小時，反應率約一半，好處是避開全身腎毒性。",
+          "止血和修復黏膜的方法，fibrin glue 用膀胱鏡塗在出血處，反應率 83%，多數一兩次就好。Hyperbaric oxygen 促進黏膜修復，但受限於設備，還有耳朵氣壓傷和幽閉恐懼的問題。Leflunomide 有一些報告，其他藥物只是零星使用。",
+          "最新的是 third-party MSC，七位病人有五位血尿緩解，以及事先冷凍保存的 BK virus-specific T cells，phase II 反應率 81 到 92%，沒有中重度 GVHD，在體內可以存活到 12 週，還需要更大的前瞻性研究確認。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Kidney · AKI",
+      "title": "AKI affects 27–66% of allo-HCT recipients, mostly before day 100",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": ["Category", "Serum creatinine", "Urine output"],
+      "rows": [
+        ["Risk", "1.5–2× baseline", "< 0.5 mL/kg/h for > 6 h"],
+        ["Injury", "2–3× baseline", "< 0.5 mL/kg/h for > 12 h"],
+        ["Failure", "> 3× baseline", "< 0.3 mL/kg/h for > 24 h, anuria\n> 12 h, or renal replacement"]
+      ],
+      "colW": [2.6, 3.8, 5.4],
+      "fontSize": 20,
+      "captionY": 4.55,
+      "caption": "Lower after auto-HCT. Unresolved AKI raises later CKD, non-relapse and overall mortality. [verify: these tiers mirror RIFLE; check whether the exam expects KDIGO stages 1–3]",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "最後是腎臟。Allo 移植後 AKI 發生率 27 到 66%，大多在前 100 天。Auto 比較少，因為 engraftment 快、感染少、沒有 GVHD 和它的發炎 cytokine、沒有 CMV、比較少嚴重腹瀉脫水，也比較少用腎毒性藥物。",
+          "嚴重度用肌酸酐和尿量分三級。Risk 是肌酸酐 1.5 到 2 倍，尿量小於 0.5 mL/kg/h 超過 6 小時；injury 是 2 到 3 倍，同樣尿量超過 12 小時；failure 是超過 3 倍，尿量小於 0.3 超過 24 小時、無尿超過 12 小時，或開始腎臟替代治療。考試常把 6 小時和 12 小時對調，要看清楚。",
+          "AKI 沒有完全恢復、持續蛋白尿或高血壓的病人，之後慢性腎病、非復發死亡和整體死亡率都會增加。病因從腎前到腎後都有，backup 有一張整理。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 51 does not name the classification; the three tiers match RIFLE (Risk/Injury/Failure). Check whether the Taiwan board expects KDIGO staging instead."
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: pulmonary embolism on day 50",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "stem": "A 60-year-old man is on day 50 after allogeneic HCT, with grade 2 skin GVHD on ciclosporin. He develops pleuritic chest pain and tachycardia, and pulmonary embolism is confirmed. Platelets are 95 × 10⁹/L, there is no bleeding, and creatinine clearance is 24 mL/min. What is the most appropriate initial treatment?",
+      "options": [
+        "Therapeutic-dose subcutaneous enoxaparin",
+        "Oral rivaroxaban as the preferred agent",
+        "IVC filter without anticoagulation",
+        "Intravenous unfractionated heparin",
+        "Prophylactic-dose LMWH until GVHD resolves"
+      ],
+      "answer": "D",
+      "answerTitle": "Answer D: UFH when GFR is below 30 mL/min",
+      "explanation": "Platelets > 50 × 10⁹/L and no bleeding: start therapeutic anticoagulation. LMWH is restricted to GFR > 30 mL/min; UFH is used with renal impairment or high bleeding risk. DOACs are not recommended in HCT (Table 40.1). An IVC filter is only for patients who cannot be anticoagulated. Treat 3–6 months.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。60 歲男性，allo 移植後 day 50，有 grade 2 皮膚 GVHD，正在用 ciclosporin。現在胸痛、心跳快，確診肺栓塞。血小板 95，沒有出血，creatinine clearance 24。",
+          "選項有全劑量 enoxaparin、rivaroxaban、只放 IVC filter、靜脈 UFH，以及預防劑量 LMWH。哪一個是最適當的起始治療。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 D。血小板大於 50、沒有出血，所以要全劑量抗凝。關鍵在腎功能，LMWH 限用在 GFR 大於 30，這位病人只有 24，加上 ciclosporin 的腎毒性，選 UFH。",
+          "A 是主要陷阱，enoxaparin 在一般病人是第一選擇，但這裡腎功能不允許。B 的 DOAC，Table 40.1 寫目前不建議用在移植病人，內文雖然允許個案考慮，也要求腎功能足夠。C 的 IVC filter 只給不能抗凝的人。E 的預防劑量不足以治療 PE。療程三到六個月，惡性疾病還在就延長。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: a swollen arm with a working catheter",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "stem": "A 45-year-old woman is on day 75 after unrelated-donor HCT for AML. Her right arm swells; duplex ultrasound shows thrombosis around her tunnelled central venous catheter. The line flushes well and is still needed for IV therapy. Platelets are 85 × 10⁹/L, eGFR 80 mL/min, and there is no bleeding. What is the best management?",
+      "options": [
+        "Remove the line; anticoagulation is then unnecessary",
+        "Remove the line and give LMWH for 2 weeks only",
+        "Keep the line; LMWH ≥ 3 months or until removal, whichever longer",
+        "Keep the line and observe without anticoagulation",
+        "Start low-dose warfarin prophylaxis for future lines only"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: keep the line and anticoagulate",
+      "explanation": "Removing a catheter does not improve outcome; remove it only if nonfunctional, no longer needed or infected. Acute CRT needs anticoagulation whether or not the line is removed, preferably LMWH, for 3 months or as long as the catheter is in place, whichever is longer.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。45 歲女性，unrelated donor 移植後 day 75，右手腫，超音波顯示 tunnelled catheter 周圍有血栓。管子通暢，還要繼續打藥。血小板 85，腎功能正常，沒有出血。",
+          "選項 A 拔管不用抗凝，B 拔管加兩週 LMWH，C 保留導管、LMWH 三個月或到拔管為止，D 保留導管觀察，E 只給以後的導管做預防。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C。沒有證據顯示拔管能改善結果，所以只有管子不通、不再需要或懷疑感染才拔，這條管子三個條件都不符合。不論拔不拔都要抗凝，首選 LMWH，療程三個月或到拔管為止，取較長者。",
+          "A 和 B 是主要陷阱，很多人以為拔了管就解決了，但書上明確說急性 CRT 不論是否拔管都需要抗凝，兩週也太短。D 不抗凝會讓血栓往中央靜脈延伸。E 的 warfarin 預防，WARP 和 meta-analysis 都不支持常規使用，而且也沒有處理眼前的血栓。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: haematuria on day 28",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "stem": "A 35-year-old man is 28 days after haploidentical PBSC HCT with post-transplant cyclophosphamide and mesna. Neutrophils engrafted on day 18. He now has macroscopic haematuria with clots, dysuria and suprapubic pain. Urine BKPyV DNA is 10⁹ copies/mL and plasma BKPyV DNA 10⁴ copies/mL. Which statement is correct?",
+      "options": [
+        "This is early-onset HC from acrolein; mesna failed",
+        "This is late-onset BKPyV-HC; hydrate and consider cidofovir",
+        "Ciprofloxacin prophylaxis would have prevented it",
+        "Continuous bladder irrigation beats hyperhydration as prevention",
+        "Weekly BK monitoring should guide pre-emptive therapy"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: BK virus drives late-onset HC",
+      "explanation": "Onset at engraftment, cystitis symptoms and viruria > 10⁷ copies/mL define BKPyV-HC. Treat with hyperhydration and forced diuresis, with IV (plus probenecid) or intravesical cidofovir. Early HC occurs within 48 h of conditioning. Fluoroquinolones, bladder irrigation and routine BK monitoring are not recommended.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。35 歲男性，haplo PBSC 移植，用 PTCy 和 mesna，day 18 engraftment，day 28 出現帶血塊的肉眼血尿、解尿疼痛和恥骨上疼痛。尿液 BK 是 10 的 9 次方，血漿 10 的 4 次方。",
+          "A 說這是 acrolein 造成的早發型，B 說是晚發型 BK-HC，C 說 ciprofloxacin 預防可以避免，D 說膀胱灌洗比 hyperhydration 好，E 說應該每週監測 BK 做 pre-emptive 治療。先判斷時間點，再看病毒量。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。發生在 engraftment 前後，加上膀胱炎症狀和大於 10 的 7 次方的 viruria，就是晚發型 BK-HC。治療是 hyperhydration、利尿，必要時用 cidofovir，靜脈給要配 probenecid，或改膀胱內灌注。",
+          "A 是主要陷阱，題目刻意寫 PTCy，讓人想到 acrolein，但早發型發生在 CY 給完後 48 小時內，不是第四週。C 的 fluoroquinolone 臨床上沒有降低 HC，書上不建議。D 的膀胱灌洗沒有比 hyperhydration 好。E 也錯，因為沒有確立的 pre-emptive 治療，書上不建議常規監測 BK。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Kidney · Causes of AKI",
+      "title": "AKI after HCT arises at every level of the kidney",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": ["Level", "Causes after HCT"],
+      "rows": [
+        ["Prerenal", "Sepsis, engraftment syndrome, SOS/VOD"],
+        ["Glomerular", "Transplant-associated microangiopathy"],
+        ["Tubular", "ATN (dehydration, sepsis, shock, ES), drugs, tumour lysis"],
+        ["Interstitial", "Acute GVHD; BKPyV or adenovirus"],
+        ["Post-renal", "BK or adenovirus cystitis, retroperitoneal fibrosis, nodes"]
+      ],
+      "colW": [2.6, 9.2],
+      "fontSize": 18,
+      "notes": {
+        "script": [
+          "AKI 可以發生在腎臟每一層。腎前性來自 sepsis、engraftment syndrome 和 SOS，腎絲球是 TMA，腎小管是 ATN、藥物和 tumour lysis，間質是 aGVHD 和病毒，腎後性是 BK 或腺病毒膀胱炎造成的阻塞。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Kidney · Risk factors for AKI",
+      "title": "Nephrotoxic drugs add to baseline kidney risk at every stage of HCT",
+      "cite": "Cesaro S. EBMT Handbook 8th ed. 2024; Ch. 51",
+      "head": ["Source", "Risk factors"],
+      "rows": [
+        ["Before HCT", "Diabetes, hypertension, renal impairment"],
+        ["Conditioning", "Ifosfamide, CY, carboplatin, cisplatin"],
+        ["GVHD treatment", "MTX, ciclosporin, tacrolimus"],
+        ["Anti-infectives", "Liposomal amphotericin B, aminoglycosides, vancomycin"],
+        ["Critical illness", "ICU admission, mechanical ventilation"]
+      ],
+      "colW": [3.0, 8.8],
+      "fontSize": 18,
+      "notes": {
+        "script": [
+          "AKI 的危險因子包括移植前的糖尿病、高血壓和腎功能不全，再加上 conditioning、GVHD 和抗感染藥物的腎毒性，以及需要進 ICU、插管的重症。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Haemostasis · CAR-T",
+      "title": "CAR-T also carries VTE and bleeding risk",
+      "cite": "Shah R, et al. EBMT Handbook 8th ed. 2024; Ch. 40",
+      "head": ["Study", "Population", "Findings"],
+      "rows": [
+        ["Hashmi 2020", "148, CD19 CAR-T for LBCL", "VTE 11% by day 100; no major bleeding"],
+        ["Parks 2021", "91, NHL or myeloma", "VTE 9% by day 60"],
+        ["Johnsrud 2021", "127", "VTE 6.3%, bleeding 9.4% in 3 months"],
+        ["Associations", "ICANS grade ≥ 3", "Linked to both bleeding and thrombosis"]
+      ],
+      "colW": [2.8, 4.0, 5.0],
+      "fontSize": 18,
+      "captionY": 4.9,
+      "caption": "Anticoagulation for VTE may be safe when platelets are > 50 × 10⁹/L",
+      "notes": {
+        "script": [
+          "CAR-T 後的 VTE 在三個回溯研究是 6 到 11%，出血約 9%。Grade 3 以上的 ICANS 和出血、血栓都有關，CRS 則沒有。血小板大於 50 時抗凝治療大致安全，CAR-T 本身在第 20 堂。"
+        ]
+      }
+    }
+  ]
+}

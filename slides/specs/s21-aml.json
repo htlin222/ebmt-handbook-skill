@@ -7,7 +7,7 @@
   "coverNotes": {
     "min": 0.5,
     "script": [
-      "各位好，第 21 堂講 AML 的移植，核心是 EBMT Handbook 第 70 章，兒童的第 71 章只挑對照的考點。從 CR1 要不要移植講起，再到 primary refractory AML、移植後的復發預防和 APL，最後三題 board-style 題目。"
+      "各位好，第 21 堂講 AML 的移植，核心是 EBMT Handbook 第 70 章，兒童的第 71 章只挑對照的考點。從 CR1 要不要移植講起，再到 primary refractory AML、移植後的復發預防和 APL，最後三題 board-style 題目。AML 是歐洲 allo-HCT 最大宗的適應症，也是移植考題的大宗。"
     ]
   },
   "references": [
@@ -73,7 +73,8 @@
         "script": [
           "今天分三段內容加考題。第一段最長，講 AML 在 CR1 的移植決策。先看 first-line 治療，再看 ELN 2022 的遺傳風險分組和 2022 版改了什麼，接著是 MRD，然後把這些放進 Table 70.1，最後補上 TRM 的評估工具。",
           "第二段是 advanced AML，主角是 primary refractory AML，加上實務上的安排和移植後怎麼預防復發。",
-          "第三段是 APL。APL 在 CR1 幾乎不移植，復發後反而 auto-HCT 優先，這和其他 AML 剛好相反，是很典型的考點。這段最後用一張表對照兒童 AML 的做法。三題考題放在最後五分鐘。"
+          "第三段是 APL。APL 在 CR1 幾乎不移植，復發後反而 auto-HCT 優先，這和其他 AML 剛好相反，是很典型的考點。這段最後用一張表對照兒童 AML 的做法。三題考題放在最後五分鐘。",
+          "題目分別對應 MRD 陽性的 NPM1 AML、primary refractory AML，和復發的 APL。"
         ]
       }
     },
@@ -132,7 +133,8 @@
           "先看移植之前的第一線治療。標準的 intensive induction 從 1980 年代到現在都是 Ara-C 給 7 到 10 天，加上 daunorubicin 或 idarubicin 給 3 天，CR rate 大約 70 到 90%。Favorable-risk 的病人 OS 大約 60 到 70%，intermediate 和 adverse 就差很多。",
           "Targeted therapy 方面，FLT3 mutation 的病人在 induction 和 consolidation 加上 midostaurin，依據是 RATIFY 試驗的存活好處。60 到 75 歲的 therapy-related 或 secondary-type AML，CPX-351 比標準 induction 好。Gemtuzumab ozogamicin 是針對特定次族群的另一個選擇。",
           "不適合 intensive 治療的病人，azacitidine 加 venetoclax 已經是新的標準；IDH1 mutation 的則可以用 ivosidenib 加 azacitidine。這些藥要注意 QTc、differentiation syndrome 和長時間的血球低下。",
-          "這張表最重要的訊息在最下面那行。AML 治療失敗主要是 CR1 之後復發，而不是 induction 失敗或 TRM，所以後面的重點都放在 CR1 之後要怎麼鞏固。"
+          "這張表最重要的訊息在最下面那行。AML 治療失敗主要是 CR1 之後復發，而不是 induction 失敗或 TRM，所以後面的重點都放在 CR1 之後要怎麼鞏固。",
+          "臨床上這張表決定病人用哪條路走到 CR1。走 intensive 路線的病人，後面才有 Table 70.1 的選擇；用 azacitidine 加 venetoclax 這類低強度方案的老年人，現在也有不少在緩解後接受移植，第 70 章的 practical issues 有提到。"
         ]
       }
     },
@@ -191,7 +193,8 @@
           "Favorable 有四種。兩個 core-binding factor，t(8;21) 和 inv(16)；再加上沒有 FLT3-ITD 的 NPM1 mutation，以及 bZIP 區 in-frame 的 CEBPA mutation。NPM1 那兩列有個前提，就是不能同時有 adverse 的 cytogenetics。",
           "Intermediate 包括合併 FLT3-ITD 的 NPM1、NPM1 和 FLT3-ITD 都沒有的病人、t(9;11)，以及其他不屬於兩端的異常。",
           "Adverse 最長。t(6;9)、其他 KMT2A rearrangement、BCR::ABL1、t(8;16)、inv(3) 或 MECOM rearrangement、−5、−7、17p 異常、complex 或 monosomal karyotype、VAF 10% 以上的 TP53，再加上最後一列這九個 MDS-related 基因。",
-          "考試常把 t(9;11) 和其他 KMT2A rearrangement 放在一起考。t(9;11) 是 intermediate，其他 KMT2A partner 才是 adverse。"
+          "考試常把 t(9;11) 和其他 KMT2A rearrangement 放在一起考。t(9;11) 是 intermediate，其他 KMT2A partner 才是 adverse。",
+          "這張表在臨床上的意義，是診斷時就大致知道病人會不會走向移植。書上建議所有適合移植的成人在診斷時就做 HLA typing，adverse 組更不能拖。"
         ]
       }
     },
@@ -246,7 +249,8 @@
           "最大的變動是把 BCOR、EZH2、SF3B1、SRSF2、STAG2、U2AF1、ZRSR2 這些 MDS-related mutations 歸到 adverse，反映疾病的生物學是 secondary-type。ASXL1 和 RUNX1 在 2017 版就已經是 adverse。",
           "FLT3-ITD 的 allelic ratio 拿掉了，所以 NPM1 合併 FLT3-ITD 現在不管 ratio 高低，一律是 intermediate。CEBPA 以前要求 biallelic，現在只要是 bZIP in-frame，單或雙 allele 都算 favorable。NPM1 若同時有 adverse cytogenetics，就不再算 favorable。",
           "t(3q26.2;v) 和 t(8;16) 新增到 adverse。Hyperdiploid 不再算 complex karyotype。TP53 要 VAF 大於等於 10% 才算 adverse。",
-          "實務上，送 NGS panel 要涵蓋這些 MDS-related 基因，否則病人會被低估成 intermediate，錯過在 CR1 討論移植的時機。"
+          "實務上，送 NGS panel 要涵蓋這些 MDS-related 基因，否則病人會被低估成 intermediate，錯過在 CR1 討論移植的時機。",
+          "這些改變的整體效果是 adverse 組變大。一個原本歸 intermediate 的病人，如果 NGS 抓到 SRSF2 或 STAG2，現在就是 adverse，Table 70.1 的建議也從看 MRD 決定，變成不論 MRD 都考慮 allo。反過來，TP53 VAF 只有 5% 的病人，就不再歸 adverse。"
         ],
         "reminders": [
           "Reference 7 (Döhner 2022) is copied verbatim from the Ch. 70 reference list, which prints Blood 2022;129(4):424–47 (the volume and pages of the ELN 2017 paper). Check before circulating the reference list."
@@ -303,7 +307,8 @@
           "第 70 章說，比起診斷時的特徵，治療反應更有預後意義，尤其是血液學 CR 時有沒有 measurable residual disease。測法有兩種，multiparametric flow cytometry，或針對特定 marker 的 quantitative PCR。",
           "兩種方法的細節第 70 章沒寫，這裡借第 71 章的數字。Flow 看 leukaemia-aberrant immunophenotype 或 different-from-normal，敏感度 0.1 到 0.01%，大約九成病人有可用的 phenotype，常用 cut-off 是 course 1 或 2 之後 0.1%。RT-qPCR 看 fusion gene 或 NPM1 mutation，敏感度到 0.001%，但只有大約八成病人有 target。",
           "PCR 的另一個用途是連續追蹤。Transcript 一路上升就是 MRD relapse，強烈預測血液學復發。",
-          "MRD 也不是萬能。Course 1 之後 flow MRD 小於等於 0.1% 的病人，仍有大約四分之一會復發。MRD 陰性降低風險，但不排除復發。"
+          "MRD 也不是萬能。Course 1 之後 flow MRD 小於等於 0.1% 的病人，仍有大約四分之一會復發。MRD 陰性降低風險，但不排除復發。",
+          "MRD 的時間點有兩個用途。Induction 後早期測，用來確認緩解的深度、決定 post-remission treatment；post-remission 之後繼續測，則是為了抓即將發生的復發。所以從 ELN 2017 開始，在血液學 CR 之外，MRD negativity 也被當成一個 response end point。"
         ]
       }
     },
@@ -353,7 +358,8 @@
           "Favorable 組 MRD 陰性時，用 chemotherapy 或 auto-HCT 就好。只要 MRD 陽性，書上就把它當成高復發風險，建議 allo-HCT，除非就算用 RIC，預估 TRM 還是過高。",
           "Intermediate 組 MRD 陽性就做 allo；MRD 陰性則是 consider allo-HCT，前提是 TRM 可以接受，chemo 或 auto-HCT 是替代選項。Adverse 組不論 MRD 都是 allo 的候選，MRD 陽性的人要在拿到血液學 CR 之後盡快移植。MRD 陰性的 adverse 仍然有相當的復發風險，只有 TRM 非常高的人才考慮不做 allo。",
           "註腳的 donor 規則也要看。Favorable MRD 陽性和 intermediate MRD 陰性這兩格，只建議 HLA-identical sibling 或 10/10 MUD；其他格子可以接受 MMUD、cord blood 或 haplo。復發風險越高，越能容忍 HLA mismatch。",
-          "這張表背後是 GVL 和 TRM 的平衡。Allo-HCT 的 GVL 效果不分 cytogenetic 亞組、也不分 MRD 狀態都存在，是最強的防復發手段；但 TRM 會把好處吃掉，尤其在原本復發率就低的病人身上。"
+          "這張表背後是 GVL 和 TRM 的平衡。Allo-HCT 的 GVL 效果不分 cytogenetic 亞組、也不分 MRD 狀態都存在，是最強的防復發手段；但 TRM 會把好處吃掉，尤其在原本復發率就低的病人身上。",
+          "臨床上照這張表走，先用診斷時的遺傳學分 ELN 組，再看 induction 之後的 MRD，最後用 TRM 分數判斷這位病人能不能承擔 allo。三者缺一不可，這就是書上說的 risk-adapted approach。"
         ]
       }
     },
@@ -380,7 +386,8 @@
         "script": [
           "Intermediate risk 是過去爭議最大的一組。Allo 和 non-allo 的比較結果互相矛盾，把分子標記放進來之後更是如此。",
           "GIMEMA AML1310 是 risk-adapted 的試驗。Intermediate risk 而且 MRD 陰性的病人分到 auto-HCT，MRD 陽性的分到 allo-HCT，結果兩組 outcome 相近。MRD 陽性的人靠 allo 的 GVL 把風險拉回來，MRD 陰性的人則不必承擔 allo 的 TRM。",
-          "所以書上強烈建議 intermediate risk 一定要先測 MRD，再決定 post-remission treatment。"
+          "所以書上強烈建議 intermediate risk 一定要先測 MRD，再決定 post-remission treatment。",
+          "不過 MRD 陰性的 intermediate 也不是一律做 auto。Table 70.1 說，如果預估 TRM 可以接受，又有 sibling 或 10/10 MUD，仍然可以考慮 allo；TRM 偏高時，auto 和化療才是比較好的選擇。"
         ]
       }
     },
@@ -411,7 +418,8 @@
           "Table 70.1 裡一直出現「除非 TRM 過高」，這張講 TRM 怎麼量化。TRM 的來源包括 GVHD、感染、器官毒性；影響因素則有 procedure 本身，例如 conditioning 和 T-cell depletion，還有 donor 的 HLA matching，以及病人的年齡和 comorbidity。",
           "最常用的兩個工具是 EBMT risk score 和 HCT-CI。EBMT risk score 看病人和移植的特徵，原本在 CML 病人身上建立，後來在 AML 也驗證過。HCT-CI 把 17 項 comorbidities 加總成一個分數，之後陸續加入年齡、疾病狀態和 biomarkers 做修正。",
           "EBMT 的 acute leukemia working party 另外用 machine learning 做了 10 個變數的模型，可以預測 100 天和兩年的死亡率。",
-          "因為 RIC、支持療法和 GVHD 預防的進步，TRM 已經大幅下降，舊模型在現在的預測力變差。ALWP 因此針對老年人接受 RIC，以及使用 PTCy 的病人，各做了新的分數。書上建議盡量用針對特定族群的專屬分數。"
+          "因為 RIC、支持療法和 GVHD 預防的進步，TRM 已經大幅下降，舊模型在現在的預測力變差。ALWP 因此針對老年人接受 RIC，以及使用 PTCy 的病人，各做了新的分數。書上建議盡量用針對特定族群的專屬分數。",
+          "這些分數的用處，是把 Table 70.1 那句「除非 TRM 過高」變成可以討論的數字，在移植會議和跟病人說明時都比較具體。"
         ]
       }
     },
@@ -471,7 +479,8 @@
           "新診斷的成人 AML 有 10 到 40% 屬於 PREF。繼續只用化療，長期存活不到 10%，allo-HCT 是唯一有機會帶來長期 disease-free survival 的治療。",
           "結果比較好的是最多兩個 course 就盡快送移植、而且移植時疾病負荷較低的人。反過來，有 TP53 mutation 或 inv(3) 的病人移植結果非常差，目前合理的做法是只在達到 morphological CR 時才移植。",
           "Conditioning 方面，50 歲以下除非有很強的理由，建議 myeloablative。年紀較大的病人，沒有證據支持哪個 RIC 比較好。FLAMSA 序貫式方案早期結果不錯，但 Craddock 2021 的隨機試驗在 CR1 或 CR2 跟標準 RIC 的 FB2 比，沒有好處，只是 PREF 病人太少，無法下結論。",
-          "移植後 30 到 45 天做骨髓 MRD，用來決定是否提早減免疫抑制劑，或給 prophylactic、pre-emptive DLI。第 71 章另外提到成人的 ASAP 隨機試驗，R/R AML 直接做 sequential conditioning 再立刻移植，LFS 和先做 intensive induction 再移植相近。"
+          "移植後 30 到 45 天做骨髓 MRD，用來決定是否提早減免疫抑制劑，或給 prophylactic、pre-emptive DLI。第 71 章另外提到成人的 ASAP 隨機試驗，R/R AML 直接做 sequential conditioning 再立刻移植，LFS 和先做 intensive induction 再移植相近。",
+          "臨床上的意思是，PREF 的病人在診斷時就應該已經在找 donor，等到第二個 course 失敗才開始，往往錯過最好的移植時機。書上也承認，哪些 PREF 病人最能受益仍不清楚，需要更多疾病生物學和化療反應的研究。"
         ]
       }
     },
@@ -547,7 +556,8 @@
           "不論 CR1 或 advanced disease，TRM 幾十年來明顯下降，但移植後復發仍然居高不下，現在是 AML 移植失敗的主因。這張整理移植後能做的事。",
           "第 70 章的建議是 day 30 到 45 做骨髓 MRD，決定要不要提早減 IS 或給 DLI。第 71 章引用成人資料，cyclosporine 暴露越多，復發越多、存活越差，支持盡早停免疫抑制。",
           "藥物 maintenance 裡證據最強的是 FLT3-ITD 的 sorafenib。SORMAIN 試驗 relapse 或死亡的 HR 是 0.39，24 個月 RFS 是 85.0% 對 53.3%。Azacitidine 的 RICAZA 是 37 人的 pilot，36 mg/m² 皮下打 5 天，每 4 週一次，從 day 42 開始給 12 個月。Decitabine 加 G-CSF 的隨機 phase II，兩年 CIR 從 38.3% 降到 15%。",
-          "Maintenance 的藥物細節在第 19 堂講過，這裡記住 sorafenib 和 FLT3-ITD 的配對就好。"
+          "Maintenance 的藥物細節在第 19 堂講過，這裡記住 sorafenib 和 FLT3-ITD 的配對就好。",
+          "第 71 章也提到，sorafenib 和移植物的 allo-immune 效應有協同作用，移植後復發的病人用 sorafenib 可以得到更深、更持久的緩解。要注意的毒性是心臟毒性、手足感覺異常和骨髓抑制。"
         ]
       }
     },
@@ -602,7 +612,8 @@
           "APL 是 AML 的特殊亞型，t(15;17)，分子上是 PML-RARA，對 ATRA 和 ATO 特別敏感。臨床上最危險的是出血，診斷時和 induction 早期都有很高的出血併發症。",
           "APL 佔 AML 的 5 到 15%，中位年齡大約 40 歲，男女相當，大約一成發生在化療，特別是 topoisomerase II inhibitor，或放療之後。",
           "形態分兩型。典型 hypergranular 佔七成多，顆粒密、Auer rod 多，HLA-DR 和 CD34 陰性，CD33 強而均勻，WBC 通常低。Microgranular variant 佔兩成左右，顆粒細，CD34 和 HLA-DR 可以陽性，常有 CD2 和 CD9，WBC 通常高，BCR3 isoform 較多。",
-          "診斷工具裡 RT-PCR 最有用，特異、快速又敏感，還能分出 isoform，之後才能追 MRD。傳統核型大約兩成會漏掉。變異的 RARA partner 中，PLZF 和 STAT5B 對 ATRA 有抗性，細節在 backup。"
+          "診斷工具裡 RT-PCR 最有用，特異、快速又敏感，還能分出 isoform，之後才能追 MRD。傳統核型大約兩成會漏掉。變異的 RARA partner 中，PLZF 和 STAT5B 對 ATRA 有抗性，細節在 backup。",
+          "出血的來源是 leukemic blasts 活化凝血系統並造成 hyperfibrinolysis，第 70 章在 AML 的臨床表現就提過，在 APL 最明顯。另外，傳統核型除了確認 t(15;17)，三成病人還會看到額外異常，最常見的是 +8。"
         ]
       }
     },
@@ -633,7 +644,8 @@
         "min": 1.0,
         "script": [
           "第一線的部分，Lo-Coco 2013 和 Burnett 2015 兩個隨機試驗支持 ATRA 加 ATO 成為低到中風險、WBC 小於 10 × 10⁹/L 病人的標準。High-risk 的則用 ATRA 加化療，或 ATRA 加 ATO 再配一些化療。",
-          "復發之後的原則是換一套 backbone。第一線用 ATRA 加化療的，salvage 用 ATRA 加 ATO；第一線用過 ATRA 加 ATO 的，改用 ATRA 加化療。Gemtuzumab ozogamicin 兩種情況都可考慮，但一律當作通往 HCT 的橋樑。Salvage 的目標是拿到 molecular remission 再去移植。"
+          "復發之後的原則是換一套 backbone。第一線用 ATRA 加化療的，salvage 用 ATRA 加 ATO；第一線用過 ATRA 加 ATO 的，改用 ATRA 加化療。Gemtuzumab ozogamicin 兩種情況都可考慮，但一律當作通往 HCT 的橋樑。Salvage 的目標是拿到 molecular remission 再去移植。",
+          "這裡的邏輯是避免用病人已經失敗過的組合再救一次。如果病人不適合移植，或 CR1 持續很久才復發，書上也接受只給 maintenance，藥物依之前的治療和臨床狀況挑選。"
         ]
       }
     },
@@ -692,7 +704,8 @@
           "到了 CR2 或之後，如果已經 molecular remission，auto-HCT 是第一選擇。Allo-HCT 留給三種人，salvage 之後 PML-RARA 仍陽性的、之前 auto-HCT 失敗的，以及復發風險高但 TRM 風險低的。",
           "Auto 優先的理由在下面的 caption。EBMT registry 在 CR2 的資料，auto 的 OS 82%，allo 64%，p 值 0.001，但復發率 23% 和 28% 沒有顯著差異，所以 auto 贏在比較低的 TRM。CIBMTR 的方向一致。",
           "移植後要用 RQ-PCR 至少每三個月追一次，追兩到三年。考題常把 APL 跟其他 AML 混在一起，看到 molecular CR2 的 APL，答案通常是 auto，而不是 allo。",
-          "表上還有幾個細節。Conditioning 用一般 AML 的方案，auto 最好含 high-dose Ara-C，例如 BEA；幹細胞來源都是 mobilized peripheral blood；曾經 CNS 復發的人要做 MTX、hydrocortisone、Ara-C 的 intrathecal 預防。移植後 maintenance 沒有證據，但 ATO 加 ATRA 可能有效。"
+          "表上還有幾個細節。Conditioning 用一般 AML 的方案，auto 最好含 high-dose Ara-C，例如 BEA；幹細胞來源都是 mobilized peripheral blood；曾經 CNS 復發的人要做 MTX、hydrocortisone、Ara-C 的 intrathecal 預防。移植後 maintenance 沒有證據，但 ATO 加 ATRA 可能有效。",
+          "Allo 不是第一選擇，關鍵在 TRM。日本 JALSG 的非比較性研究也顯示，ATO salvage 之後接 auto-HCT 效果很好，所以只要拿到 molecular remission，auto 就是主流。"
         ]
       }
     },
@@ -751,7 +764,8 @@
           "最後一張內容對照兒童 AML。兒童在 CR1 移植的門檻逐年收緊，從全部移植、到 good risk 以外都移植，到現在只給 poor-risk 的 cytogenetic 或 molecular 異常，大約三成病人，再參考 course 1 或 2 之後的 MRD。",
           "CBF、NPM1、CEBPA 這些 good risk 在 CR1 沒有移植的好處；APL 和 Down syndrome 的 myeloid leukaemia 在 CR1 也不移植。",
           "Conditioning 用不含 TBI 的 MAC，BU/CY 加上 busulfan 的血中濃度監測是標準，目的是減少內分泌後遺症。Donor 首選 matched family 或 MUD，幹細胞以 bone marrow 優先，和成人以 PBSC 為主不同。CR1 移植的 TRM 應該能壓在 10% 以下。",
-          "Caption 的 BFM 2007 試驗值得記。加了 melphalan 的 BU/CY/MEL，12 歲以下 TRM 9%，青少年卻到 31%，所以這個年齡層要避免。復發後第二次移植的 TRM 超過 30%，可以考慮 RIC。"
+          "Caption 的 BFM 2007 試驗值得記。加了 melphalan 的 BU/CY/MEL，12 歲以下 TRM 9%，青少年卻到 31%，所以這個年齡層要避免。復發後第二次移植的 TRM 超過 30%，可以考慮 RIC。",
+          "兒童 MRD 的數字也可以參考。NOPHO-AML 2004 用 0.1% 當 cut-off，consolidation 前 MRD 陽性的病人五年 EFS 只有 11%，陰性的是 57%。"
         ]
       }
     },
@@ -774,7 +788,8 @@
       "notes": {
         "min": 0.75,
         "script": [
-          "第一題。45 歲男性，AML，NPM1 mutation、沒有 FLT3-ITD、正常核型。一次 induction 就 CR，但兩個 cycle 之後 NPM1 qPCR 的 MRD 仍然陽性。他有 HLA 相合的兄弟，HCT-CI 是 1 分。依第 70 章，最適合的 post-remission treatment 是哪一個。先判斷 ELN 風險組，再看 MRD。",
+          "第一題。45 歲男性，AML，NPM1 mutation、沒有 FLT3-ITD、正常核型。一次 induction 就 CR，但兩個 cycle 之後 NPM1 qPCR 的 MRD 仍然陽性。他有 HLA 相合的兄弟，HCT-CI 是 1 分。依第 70 章，最適合的 post-remission treatment 是哪一個。先判斷 ELN 風險組，再看 MRD。想想他落在 Table 70.1 的哪一格。",
+          "選項 A 是只繼續 high-dose cytarabine，B 是 auto-HCT，C 是 CR1 做 sibling allo-HCT，D 是等血液學復發再移植，E 是 azacitidine 加 venetoclax maintenance 取代移植。",
           "[Pause for answers.]"
         ]
       },
@@ -782,7 +797,8 @@
         "min": 1.0,
         "script": [
           "正確是 C。先分組，NPM1 mutation、沒有 FLT3-ITD、沒有不良核型，在 ELN 2022 是 favorable。可是 favorable 只要 MRD 陽性，Table 70.1 就把他當成高復發風險，建議在 CR1 做 allo-HCT，除非預估 TRM 過高。這位病人 HCT-CI 只有 1 分，又有 sibling donor，沒有理由不做。",
-          "最常見的錯誤是 A 或 B，看到 favorable 就直覺不移植。Chemo 或 auto-HCT 只適用在 MRD 陰性的 favorable。D 等到復發才移植，錯過 CR1 的時機；E 的 azacitidine 加 venetoclax 是給不適合 intensive 治療的人的第一線，不是取代移植的選項。"
+          "最常見的錯誤是 A 或 B，看到 favorable 就直覺不移植。Chemo 或 auto-HCT 只適用在 MRD 陰性的 favorable。D 等到復發才移植，錯過 CR1 的時機；E 的 azacitidine 加 venetoclax 是給不適合 intensive 治療的人的第一線，不是取代移植的選項。",
+          "這也是 risk-adapted approach 的核心，治療反應比診斷時的特徵更重要。同樣的病人如果 MRD 是陰性，答案就會變成 chemo 或 auto-HCT。"
         ]
       }
     },
@@ -804,7 +820,8 @@
       "notes": {
         "min": 0.75,
         "script": [
-          "第二題。44 歲女性，AML，正常核型，NPM1、FLT3 都是 wild-type，沒有 TP53 mutation。7+3 之後再給一個含 intermediate-dose cytarabine 的 course，骨髓仍有 18% blasts。有 10/10 的 unrelated donor，HCT-CI 是 0。依第 70 章，下一步最好的是哪一個。",
+          "第二題。44 歲女性，AML，正常核型，NPM1、FLT3 都是 wild-type，沒有 TP53 mutation。7+3 之後再給一個含 intermediate-dose cytarabine 的 course，骨髓仍有 18% blasts。有 10/10 的 unrelated donor，HCT-CI 是 0。依第 70 章，下一步最好的是哪一個。先確認她算不算 primary refractory，再想移植的時機和 conditioning。",
+          "A 是先給第三個 intensive course，等 CR 再移植；B 是盡快用 myeloablative conditioning 做 allo；C 是 FLAMSA 之後移植；D 是 auto-HCT；E 是 azacitidine 加 venetoclax，不移植。",
           "[Pause for answers.]"
         ]
       },
@@ -812,7 +829,8 @@
         "min": 1.0,
         "script": [
           "這題選 B。兩個 intensive course、其中一個含 intermediate-dose cytarabine 仍未 CR，就是 primary refractory AML。繼續化療長期存活不到 10%，而最多兩個 course 就盡快移植的人結果最好。她 44 歲，在 50 歲以下，所以用 myeloablative conditioning。",
-          "A 是最常見的陷阱。等到 morphological CR 才移植，書上只建議用在 TP53 mutation 或 inv(3) 這類極高風險的病人，她兩者都沒有。C 錯在 FLAMSA 在 Craddock 2021 的隨機試驗中沒有贏過 FB2。D 的 auto-HCT 沒有 GVL，E 則放棄了唯一的治癒機會。"
+          "A 是最常見的陷阱。等到 morphological CR 才移植，書上只建議用在 TP53 mutation 或 inv(3) 這類極高風險的病人，她兩者都沒有。C 錯在 FLAMSA 在 Craddock 2021 的隨機試驗中沒有贏過 FB2。D 的 auto-HCT 沒有 GVL，E 則放棄了唯一的治癒機會。",
+          "移植之後，記得在 day 30 到 45 做骨髓 MRD，決定要不要提早減免疫抑制或給 DLI。"
         ]
       }
     },
@@ -835,6 +853,7 @@
         "min": 0.75,
         "script": [
           "第三題是 APL。38 歲女性，low-risk APL，第一線用 ATRA 加 ATO，拿到 molecular CR。18 個月後 RQ-PCR 的 PML-RARA 轉陽，骨髓證實復發。她體能好，有 matched sibling。依第 70 章，最好的計畫是哪一個。這題要做兩個決定，salvage 用什麼，移植用哪一種。",
+          "A 是再給一次 ATRA 加 ATO，CR2 做 allo；B 是 ATRA 加化療，molecular CR2 後做 auto；C 是不救援直接 allo；D 是 gemtuzumab maintenance 不移植；E 是 ATRA 加化療，molecular CR2 後做 allo。",
           "[Pause for answers.]"
         ]
       },
@@ -842,7 +861,8 @@
         "min": 1.0,
         "script": [
           "答案 B。Salvage 的原則是換 backbone，第一線用過 ATRA 加 ATO，復發就改 ATRA 加化療，所以 A 不對。拿到 molecular CR2 之後，第 70 章建議 auto-HCT 為第一選擇，EBMT registry 裡 auto 的 OS 82%，allo 64%，復發率沒有差別。",
-          "E 最容易誤選，有 sibling donor 就直覺選 allo。但 allo 只保留給 salvage 後 PML-RARA 仍陽性、auto 失敗，或復發風險高而 TRM 低的人。C 不先救援就移植，D 的 gemtuzumab 只能當 bridge，都不對。"
+          "E 最容易誤選，有 sibling donor 就直覺選 allo。但 allo 只保留給 salvage 後 PML-RARA 仍陽性、auto 失敗，或復發風險高而 TRM 低的人。C 不先救援就移植，D 的 gemtuzumab 只能當 bridge，都不對。",
+          "記法是換 backbone、拿到 molecular CR、做 auto。Salvage 後 PML-RARA 仍是陽性，才改走 allo。移植後再用 RQ-PCR 每三個月追蹤，至少兩到三年。"
         ]
       }
     },

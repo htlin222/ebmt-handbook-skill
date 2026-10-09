@@ -1,0 +1,1031 @@
+{
+  "title": "Neurological complications",
+  "subtitle": "Session 16 · Ch. 53",
+  "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+  "refsPerSlide": 6,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，今天是第 16 堂，主題是移植後的神經併發症，內容來自 EBMT Handbook 第八版第 53 章，必要的地方會補充第 42 章的 PRES，以及第 37 到 39 章的 CNS 感染。",
+      "神經併發症原因很雜，今天的重點是怎麼分類、怎麼一步步找原因，最後三題練習。"
+    ]
+  },
+  "references": [
+    "1. Duléry R, Schmidt-Hieber M, Sharrack B. Neurological complications. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 481–7. https://doi.org/10.1007/978-3-031-44080-9_53",
+    "2. Carreras E, Diaz-Ricart M, Jodele S, Penack O, Vasu S. Early complications of endothelial origin. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 373–83. https://doi.org/10.1007/978-3-031-44080-9_42",
+    "3. Ljungman P, Piñana JL, Cesaro S, de la Cámara R. Viral infections. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 331–43. https://doi.org/10.1007/978-3-031-44080-9_38",
+    "4. Martino R. Other life-threatening infections. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 345–54. https://doi.org/10.1007/978-3-031-44080-9_39",
+    "5. Maertens JA. Invasive fungal diseases. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 321–9. https://doi.org/10.1007/978-3-031-44080-9_37",
+    "6. Maffini E, Festuccia M, Brunello L, et al. Neurologic complications after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2017;23:388–97.",
+    "7. Beitinjaneh A, McKinney AM, Cao Q, Weisdorf DJ. Toxic leukoencephalopathy following fludarabine-associated hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2011;17:300–8.",
+    "8. Hammerstrom AE, Howell J, Gulbis A, et al. Tacrolimus-associated posterior reversible encephalopathy syndrome in hematopoietic allogeneic stem cell transplantation. Am J Hematol. 2013;88:301–5.",
+    "9. Singer S, Grommes C, Reiner AS, et al. Posterior reversible encephalopathy syndrome in patients with cancer. Oncologist. 2015;20:806–11.",
+    "10. Abboud R, Wan F, Mariotti J, et al. Cytokine release syndrome after haploidentical hematopoietic cell transplantation: an international multicenter analysis. Bone Marrow Transplant. 2021;56:2763–70.",
+    "11. Gauthier J, Vermersch P, Chauvet P, et al. Successful treatment with fingolimod of graft-versus-host disease of the central nervous system. Blood Adv. 2018;2:10–3."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Outline",
+      "title": "Four parts, from the causes to the bedside work-up",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "rows": [
+        [
+          "Scope, causes and timing",
+          "Incidence, the seven cause categories of Table 53.1, early versus late events",
+          "3.5 min"
+        ],
+        [
+          "Neurotoxic drugs and PRES",
+          "Table 53.2, drug interactions, PRES in Ch. 53 and Ch. 42, fludarabine",
+          "6.5 min"
+        ],
+        [
+          "Infection, vascular, metabolic, immune-mediated",
+          "CNS pathogens, bleeds, GBS, myositis, myasthenia, CNS GVHD, CRS",
+          "8 min"
+        ],
+        [
+          "Ten-step work-up and three board questions",
+          "From the drug chart to biopsy and neurology review",
+          "8.25 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段先看規模和原因，神經併發症的發生率範圍很寬，書上用 Table 53.1 把原因分成七大類，再加上一個很實用的觀念，就是發生的時間點可以幫忙縮小鑑別診斷。",
+          "第二段是藥物。這一段最常考，包括 Table 53.2 每個藥的典型神經毒性、幾個經典的 drug-drug interaction，以及 PRES。PRES 在第 13 堂已經從內皮的角度講過，今天只比較第 53 章和第 42 章說法不同的地方，再把 fludarabine leukoencephalopathy 拿出來做鑑別。",
+          "第三段是感染、腦血管、代謝和免疫相關的疾病，包括 Guillain-Barré、myositis、myasthenia gravis、CNS chronic GVHD，以及 haplo 移植後的 CRS。CAR-T 之後的 ICANS 留到第 20 堂。",
+          "最後一段是書上的十步驟診斷流程，然後三題練習。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "section": "Scope and causes",
+      "eyebrow": "Epidemiology",
+      "title": "Neurological complications are frequent, and the range is wide",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "items": [
+        {
+          "num": "8–65%",
+          "label": "HCT recipients with neurological complications, by series"
+        },
+        {
+          "num": "25–59%",
+          "label": "Patients on cyclosporine or tacrolimus with neurotoxicity"
+        },
+        {
+          "num": "1.6–7.2%",
+          "label": "HCT recipients who develop PRES (Ch. 53 figure)"
+        }
+      ],
+      "caption": "The range depends on which manifestations are counted, the transplant setting and the patient population (Maffini 2017).",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "先看三個數字。移植後神經併發症的發生率，文獻報告從 8% 到 65%，差距這麼大，是因為每篇研究算進去的表現不同，移植型態和病人族群也不一樣。輕的只是短暫的手抖，重的會致命。",
+          "第二個數字是 CNI。用 cyclosporine 或 tacrolimus 的病人，25 到 59% 會出現神經方面的副作用，所以只要是 allo 移植病人，CNI 永遠是第一個要懷疑的藥。",
+          "第三個是 PRES，第 53 章寫 1.6 到 7.2%。等一下會看到，第 42 章給的數字不一樣，考試時要知道兩個數字的出處。",
+          "書上強調一點，大部分神經併發症是暫時的，但有一部分會留下永久後遺症甚至死亡，所以早診斷、早治療，再加上神經科的參與，是整章的主軸。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Causes · Table 53.1",
+      "title": "Seven categories cover the causes of neurological events after HCT",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "Category",
+        "Main causes"
+      ],
+      "colW": [
+        1.3,
+        3.2
+      ],
+      "fontSize": 17,
+      "rows": [
+        [
+          "Drug-related",
+          "CNI (PRES); MTX, busulfan, fludarabine; anti-infectives; opioids, benzodiazepines"
+        ],
+        [
+          "Infectious",
+          "Viruses (EBV, HHV-6, CMV, VZV, HSV, JCV, WNV, adenovirus), fungi, Toxoplasma, bacteria incl. TB and Nocardia"
+        ],
+        [
+          "Metabolic",
+          "Uremic or hepatic encephalopathy; diabetic ketoacidosis"
+        ],
+        [
+          "Cerebrovascular",
+          "Hemorrhage; ischemic stroke"
+        ],
+        [
+          "Immune-mediated",
+          "Demyelinating disease, myositis, myasthenia gravis, CNS chronic GVHD, CRS"
+        ],
+        [
+          "Thrombotic microangiopathy",
+          "Calcineurin inhibitors; infectious pathogens"
+        ],
+        [
+          "Malignancy",
+          "PTLD; relapse of the hematological disease"
+        ]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是 Table 53.1，把移植後神經併發症的原因分成七類。第一類是藥物，CNI 造成的 PRES 最有名，另外還有 MTX、busulfan、fludarabine 這些化療藥，抗感染藥物，以及常被忽略的 opioid 和 benzodiazepine。",
+          "第二類是感染，病毒、黴菌、寄生蟲、細菌都有。病毒裡面要記 EBV、HHV-6、CMV、VZV、HSV 和 JC virus；黴菌以 Aspergillus 最多；寄生蟲是 Toxoplasma；細菌除了一般的革蘭氏陰性桿菌和陽性球菌，還有結核和 Nocardia。",
+          "第三類代謝，包括尿毒性和肝性腦病變，以及 diabetic ketoacidosis。第四類腦血管，分出血和缺血性中風。第五類是免疫相關，從脫髓鞘疾病、myositis、myasthenia gravis 到 CNS chronic GVHD 和 CRS。",
+          "最後兩類常被漏掉。TMA 會同時傷到腎和腦，PTLD 和原本血液疾病的 CNS relapse 也要排除。書上的 key points 特別把 TMA、CNS PTLD、CRS 和 CNS relapse 點名，要放進每一個病人的鑑別診斷。",
+          "這張表在病房最大的用處，是提醒我們原因常常不只一個。同一個病人可能同時有 CNI 濃度偏高、腎功能變差和感染，書上 key points 也說病因往往是多重的，所以找到一個原因之後，還要繼續把其他類別排除。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Causes · Timing",
+      "title": "The interval since HCT narrows the list of likely causes",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "root": "New neurological sign after HCT: when did it start?",
+      "branches": [
+        {
+          "label": "Early",
+          "box": "Conditioning drugs, CNI",
+          "out": "Seizures, PRES, leukoencephalopathy"
+        },
+        {
+          "label": "Later",
+          "box": "Immunodeficiency",
+          "out": "CNS infection: fungi, EBV, HHV-6"
+        },
+        {
+          "label": "With or after GVHD",
+          "box": "Immune-mediated disease",
+          "out": "Myositis, myasthenia, CNS chronic GVHD"
+        }
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "書上提到一個很實用的分類，就是看發生的時間。早期事件主要來自 conditioning 的藥物和免疫抑制劑，例如 busulfan 的癲癇、CNI 引起的 PRES、fludarabine 的 leukoencephalopathy。",
+          "比較晚發生的，多半是免疫缺乏的後果，最主要就是感染。CNS 感染裡最常見的是 Aspergillus 這類黴菌，以及 EBV 和 HHV-6。",
+          "第三支是我把第 53 章的內容整理出來的，屬於 speaker's summary。Myositis 常伴隨 chronic GVHD，myasthenia gravis 通常在 GVHD 出現之後才發生，CNS chronic GVHD 更不用說。Guillain-Barré 則例外，多在前三個月。",
+          "臨床症狀常常不典型，時間點是少數可以快速縮小範圍的線索。",
+          "所以拿到會診單，先問移植第幾天、目前用什麼藥、有沒有 GVHD，這三個問題就能把七大類縮成兩三類。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Neurotoxic drugs and PRES",
+      "eyebrow": "Drugs · Table 53.2 (1)",
+      "title": "Conditioning, GVHD and targeted drugs each have a signature toxicity",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "Drug",
+        "Most common neurological effects"
+      ],
+      "colW": [
+        1.3,
+        3.4
+      ],
+      "fontSize": 16,
+      "rows": [
+        [
+          "Busulfan",
+          "Seizures, headache, dizziness: benzodiazepine prophylaxis"
+        ],
+        [
+          "Fludarabine",
+          "Acute toxic leukoencephalopathy"
+        ],
+        [
+          "Thiotepa",
+          "Headache, encephalopathy, seizures, paresthesia"
+        ],
+        [
+          "Treosulfan",
+          "Headache, dizziness, intracranial hemorrhage, sensory neuropathy"
+        ],
+        [
+          "Methotrexate",
+          "Headache, lethargy, dysarthria; rarely necrotizing leukoencephalopathy"
+        ],
+        [
+          "Cyclosporine, tacrolimus",
+          "PRES, confusion, tremor, ataxia, seizures, cortical blindness"
+        ],
+        [
+          "Blinatumomab",
+          "Encephalopathy, headache, aphasia, ataxia, tremor, seizures"
+        ],
+        [
+          "Rituximab · sorafenib",
+          "PML · PRES and peripheral sensory neuropathy"
+        ]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Table 53.2 很長，我拆成兩張。第一張是 conditioning、GVHD 預防和標靶藥物。",
+          "Busulfan 最重要的是癲癇，所以要給 benzodiazepine 預防，這是常考題。Fludarabine 是 acute toxic leukoencephalopathy，後面會專門比較。Thiotepa 有頭痛、腦病變和癲癇，treosulfan 比較特別，表上列了顱內出血和感覺神經病變。",
+          "短療程的 MTX 通常只造成輕微症狀，像倦怠、構音障礙和頭痛，非常少數會出現 diffuse necrotizing leukoencephalopathy。",
+          "CSA 和 TAC 這一列最完整，從 PRES、意識混亂、手抖、步態不穩、癲癇，到 cortical blindness 都有。",
+          "最下面兩列是移植後越來越常用的藥。Blinatumomab 會造成腦病變、失語、癲癇；rituximab 和 PML 有關；sorafenib 也會引起 PRES，加上周邊感覺神經病變。移植後做 maintenance 的病人，這些都要記得。",
+          "這張表考試的出法通常是給一個症狀，問最可能的藥。例如移植前 conditioning 期間全身性癲癇，第一個想 busulfan；移植後幾週出現 cortical blindness 和高血壓，第一個想 CNI。記藥物和代表症狀的配對，比背完整清單有用。另外，接受 blinatumomab 或 sorafenib 的病人如果之前做過移植，神經症狀的鑑別就要把這些藥加進去。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Drugs · Table 53.2 (2)",
+      "title": "Anti-infectives cause seizures and encephalopathy, often by interaction",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "Drug",
+        "Effects",
+        "Drug",
+        "Effects"
+      ],
+      "colW": [
+        1.25,
+        2.3,
+        1.25,
+        2.3
+      ],
+      "fontSize": 14,
+      "rows": [
+        [
+          "Acyclovir",
+          "Headache, tremor, dysarthria, hallucinations, encephalopathy",
+          "Voriconazole",
+          "Headache, seizures, vision changes, hallucinations, encephalopathy"
+        ],
+        [
+          "Ganciclovir",
+          "Headache, numbness, tremor, seizures",
+          "Posaconazole",
+          "Paresthesia, dizziness, somnolence, seizures, tremor"
+        ],
+        [
+          "Foscarnet",
+          "Headache, vertigo, paresthesia, seizures, tremor, encephalopathy",
+          "Isavuconazole",
+          "Somnolence, encephalopathy, seizures, peripheral neuropathy"
+        ],
+        [
+          "Amphotericin B",
+          "Headache, encephalopathy, numbness, vision changes",
+          "Cefepime",
+          "Headache, paresthesia, encephalopathy"
+        ],
+        [
+          "Imipenem / cilastatin",
+          "Seizures, tremor, vertigo, somnolence, encephalopathy",
+          "Interaction",
+          "Imipenem + ganciclovir: generalized seizures"
+        ]
+      ],
+      "caption": "Voriconazole raises CSA/TAC levels and can precipitate PRES · Adapt doses to renal function",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "第二張是抗感染藥物。書上說抗感染藥物是神經併發症的主要原因之一，而且常常不是單一藥物，而是 drug-drug interaction 或腎功能變差造成濃度上升。",
+          "抗病毒藥裡面，acyclovir 會有幻覺和腦病變，ganciclovir 和 foscarnet 都會引起癲癇和手抖。Azole 類 voriconazole 的視覺改變和幻覺最有特色，posaconazole 和 isavuconazole 則以嗜睡、感覺異常和癲癇為主。β-lactam 裡 cefepime 和 imipenem 都會造成腦病變，imipenem 特別容易引發癲癇。",
+          "右下角和下面這行是兩個經典的交互作用，考試很常出。Imipenem/cilastatin 加 ganciclovir 可能誘發全身性癲癇；開始 voriconazole 之後，CSA 或 tacrolimus 濃度上升，可能引發 PRES。",
+          "所以病人出現新的神經症狀，第一步一定是把整張藥單從頭看一遍，看最近加了什麼藥、腎功能有沒有變化、CNI 濃度多少。",
+          "書上也提醒，抗感染藥物在腎功能不好或有交互作用時要調整劑量。像 acyclovir、ganciclovir、foscarnet 都靠腎臟排除，病人肌酸酐一上升，神經毒性就跟著出現，這種情況下調降劑量往往比加抗癲癇藥更重要。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "PRES · Two chapters",
+      "title": "Ch. 53 and Ch. 42 agree on PRES imaging but differ on stopping the CNI",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53 · Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "head": [
+        "",
+        "Ch. 53 (neurological)",
+        "Ch. 42 (endothelial)"
+      ],
+      "colW": [
+        1.2,
+        2.6,
+        2.6
+      ],
+      "fontSize": 15,
+      "rows": [
+        [
+          "Incidence",
+          "1.6–7.2% of HCT recipients",
+          "About 8% after allo-HCT; 1% haplo, 25% sickle cell"
+        ],
+        [
+          "Mechanism",
+          "Abrupt BP change or cytokine injury to endothelium",
+          "BP surge (30% normal BP) or endothelial leak"
+        ],
+        [
+          "Clues",
+          "Headache, visual change, seizures + renal failure or BP swings",
+          "Encephalopathy, seizures, visual change; CSF normal"
+        ],
+        [
+          "MRI",
+          "Bilateral parieto-occipital T2 lesions; MRI more sensitive than CT",
+          "Bilateral parieto-occipital edema on T2/FLAIR"
+        ],
+        [
+          "CNI",
+          "Reversible after CNI withdrawal if diagnosed early",
+          "Stopping or switching the CNI did not change the course"
+        ],
+        [
+          "Outcome",
+          "Sequelae if not rapidly diagnosed and treated",
+          ">80% resolve rapidly; no effect on TRM or survival"
+        ]
+      ],
+      "caption": "Ch. 42 risk factors: hypertension, CNI, fludarabine, HCT for hemoglobinopathy, low Mg, aGVHD II–IV (Hammerstrom 2013; Singer 2015)",
+      "captionY": 6.0,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "PRES 在第 13 堂已經講過內皮的部分，這裡把兩章並排，因為兩章的說法並不完全一致。",
+          "發生率，第 53 章寫 1.6 到 7.2%，第 42 章寫 allo 移植大約 8%，haplo 只有 1%，sickle cell 移植可以到 25%。機轉兩章都提到血壓和內皮傷害，第 42 章補充，大約 30% 的 PRES 病人血壓是正常或只有輕微上升，所以血壓正常不能排除 PRES。",
+          "臨床上，頭痛、視覺異常、癲癇、意識改變，加上腎衰竭或血壓波動，就要高度懷疑。MRI 比 CT 敏感得多，典型是雙側頂枕葉皮質下白質的 T2 或 FLAIR 高訊號；第 53 章也提到 superior frontal sulcus 和 holohemispheric watershed 兩種變異型。CSF 在 PRES 是正常的，它的價值是排除感染。",
+          "差別在 CNI。第 53 章說早期診斷、停掉 CNI 就會恢復；第 42 章則說，少數比較停藥、換藥或繼續使用的研究，病程並沒有差別，治療是症狀性的，控制血壓、抗癲癇、補鎂。",
+          "預後也不太一樣。第 42 章說八成以上很快恢復，PRES 本身不影響 TRM 和存活；第 53 章則提醒延遲診斷會留下永久後遺症。考試若問 PRES 的處置，控制血壓、處理癲癇、處理誘因，兩章都支持。",
+          "病房的做法是兩者兼顧。先控制血壓和癲癇、補鎂，同時檢查 CNI 濃度，濃度太高就調整；是否完全停藥，要看 GVHD 的風險，和團隊一起決定。"
+        ],
+        "reminders": [
+          "Book inconsistency: Ch. 53 says PRES is reversible after CNI withdrawal (incidence 1.6–7.2%); Ch. 42 says stopping or switching the CNI did not change the course in the few comparative studies (incidence about 8%)."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Drugs · Fludarabine",
+      "title": "Fludarabine leukoencephalopathy is periventricular and rarely reversible",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "",
+        "PRES (CSA or TAC)",
+        "Fludarabine toxic leukoencephalopathy"
+      ],
+      "colW": [
+        1.2,
+        2.5,
+        2.7
+      ],
+      "fontSize": 16,
+      "rows": [
+        [
+          "MRI (T2)",
+          "Subcortical white matter, parieto-occipital",
+          "Periventricular white matter"
+        ],
+        [
+          "Symptoms",
+          "Headache, visual loss, seizures, encephalopathy",
+          "Visual disturbance, sensory deficits, cognitive impairment"
+        ],
+        [
+          "Risk factors",
+          "BP fluctuation, renal failure, high CNI levels",
+          "Poor renal function, older age, higher FLU dose"
+        ],
+        [
+          "History",
+          "Voriconazole can raise CSA/TAC levels",
+          "Prior CNS disease or prior FLU-based conditioning"
+        ],
+        [
+          "Outcome",
+          "Reversible if diagnosed early",
+          "Irreversible sequelae; median OS 2 months"
+        ]
+      ],
+      "caption": "Beitinjaneh 2011. Both show bilateral T2 hyperintensity; the location differs.",
+      "captionY": 5.3,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Fludarabine 的 acute toxic leukoencephalopathy 是 PRES 最重要的鑑別診斷，兩者的 MRI 都是雙側白質 T2 高訊號，乍看很像。",
+          "關鍵在位置。PRES 從皮質下白質開始，以頂枕葉為主；fludarabine 的病灶在腦室周圍白質。症狀也有重疊，fludarabine 這邊是視覺障礙、感覺缺損和認知功能下降。",
+          "危險因子要背。腎功能差、年紀大、fludarabine 劑量高、之前有 CNS 疾病，或之前已經接受過 fludarabine-based 的 conditioning。Fludarabine 經腎臟排除，所以腎功能差的老年人用 Flu-based RIC 時要特別小心。",
+          "預後差別最大。PRES 早期處理多半可逆；fludarabine leukoencephalopathy 會留下不可逆的神經後遺症，中位存活只有兩個月，資料來自 Beitinjaneh 2011。",
+          "病史欄位很有用。PRES 這邊要問最近有沒有加 voriconazole 這類會拉高 CNI 濃度的藥；fludarabine 這邊要問以前有沒有做過含 fludarabine 的 conditioning，或有沒有 CNS 疾病。",
+          "在病房，如果一位老年、腎功能不好、用過 Flu-based conditioning 的病人出現認知退化，MRI 病灶在腦室周圍，就不要把它當成 PRES 等著恢復，而要及早跟家屬說明預後。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Infection, vascular, metabolic, immune",
+      "eyebrow": "CNS infection",
+      "title": "Fungi, EBV and HHV-6 are the most frequent CNS pathogens after HCT",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53 · Ljungman P, et al. EBMT Handbook 8th ed. 2024; Ch. 38 · Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
+      "head": [
+        "Pathogen",
+        "Clue",
+        "Diagnosis",
+        "Treatment"
+      ],
+      "colW": [
+        1.25,
+        1.9,
+        1.8,
+        2.3
+      ],
+      "fontSize": 13,
+      "rows": [
+        [
+          "Aspergillus",
+          "Most prevalent CNS pathogen",
+          "MRI; CSF (see backup)",
+          "Voriconazole or isavuconazole"
+        ],
+        [
+          "Mucorales",
+          "Zygomycosis",
+          "MRI; tissue",
+          "Ch. 53: azole; Ch. 37: liposomal AmB"
+        ],
+        [
+          "HHV-6",
+          "Main viral encephalitis; cord blood risk",
+          "MRI limbic pattern; CSF PCR",
+          "Ganciclovir or foscarnet"
+        ],
+        [
+          "EBV",
+          "Encephalitis, myelitis or CNS PTLD",
+          "MRI; CSF",
+          "See PTLD (session 12)"
+        ],
+        [
+          "HSV",
+          "HSV-1 encephalitis; HSV-2 meningitis",
+          "CSF PCR",
+          "IV acyclovir 10 mg/kg q8h, 14–21 days"
+        ],
+        [
+          "JCV (PML)",
+          "Median onset 8 months; rituximab",
+          "CSF PCR; brain biopsy",
+          "None specific; restore immunity"
+        ],
+        [
+          "Toxoplasma",
+          "Focal deficits; multiple lesions",
+          "PCR in blood or CSF; MRI",
+          "Pyrimethamine + sulfadiazine or clindamycin"
+        ],
+        [
+          "Nocardia",
+          "Brain abscess with lung nodules",
+          "Brain CT/MRI in every lung case",
+          "Prolonged antibiotics"
+        ]
+      ],
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "第 53 章說，CNS 感染最常見的是黴菌，例如 Aspergillus，以及病毒，主要是 EBV 和 HHV-6。不明原因的神經症狀，都要做 MRI 和腰椎穿刺，並對照移植後的時間點。這張表把第 38 和 39 章的細節補進來。",
+          "Aspergillus 用 voriconazole 或 isavuconazole。Mucorales 這裡兩章不一致，第 53 章說 isavuconazole 或 voriconazole 可以用在 CNS 的 aspergillosis 和 zygomycosis，但第 37 章的 mucormycosis 首選是 liposomal amphotericin B，而且 CNS 感染要優先用 liposomal 劑型。",
+          "HHV-6B 是 allo 移植後病毒性腦炎的主要原因，cord blood 移植風險更高。MRI 典型是 limbic encephalitis，CSF HHV-6 DNA 通常陽性，治療用 ganciclovir 或 foscarnet，這是考試重點。HSV 腦炎用 IV acyclovir 10 mg/kg 每八小時，至少 14 到 21 天。",
+          "PML 是 JC virus，中位發生在移植後八個月，和 rituximab 等藥物有關，沒有特效藥。Toxoplasma 表現為局部神經缺損合併多發病灶，用 PCR 診斷，pyrimethamine 加 sulfadiazine 或 clindamycin。Nocardia 有三分之一一開始就侵犯 CNS，所以肺部 nocardiosis 的病人都要做腦部影像。",
+          "EBV 相關的 PTLD 在第 12 堂。",
+          "使用這張表的方法是先看影像型態，再決定 CSF 要送哪些 PCR。局部多發病灶想 Toxoplasma、Nocardia 或黴菌；內側顳葉的 limbic pattern 想 HHV-6 和 HSV；白質多發、沒有占位效應、移植後幾個月才出現的，要想 PML。書上也說，早期的 preemptive 或標靶治療，是改善 CNS 感染預後的關鍵，不要等培養結果才開始用藥。"
+        ],
+        "reminders": [
+          "Book inconsistency: Ch. 53 lists isavuconazole or voriconazole for CNS zygomycosis; Ch. 37 makes lipid amphotericin B first line for mucormycosis and prefers liposomal AmB 5 mg/kg in CNS infection.",
+          "Nocardia treatment: Ch. 39 says only 'prolonged antibiotic therapy'; no regimen is given."
+        ]
+      }
+    },
+    {
+      "type": "columns",
+      "eyebrow": "Metabolic and cerebrovascular",
+      "title": "CNS bleeds track platelets and falls, and CT misses 20–25% of them",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "cols": [
+        {
+          "head": "Metabolic",
+          "items": [
+            "Uremia: CNI toxicity, TMA",
+            "Hepatic: SOS/VOD, liver GVHD",
+            "Diabetic ketoacidosis",
+            "Exclude opioids, CRS, SIRS",
+            "Exclude CNS infection, HLH"
+          ]
+        },
+        {
+          "head": "Hemorrhagic",
+          "items": [
+            "Subdural hematoma in 2.6%",
+            "Falls after HCT",
+            "Prolonged low platelets",
+            "Platelet refractoriness",
+            "aGVHD III–IV, hypertension"
+          ]
+        },
+        {
+          "head": "Thrombotic",
+          "items": [
+            "Active infection",
+            "Atrial fibrillation",
+            "Hypercoagulability, prior VTE",
+            "High-risk malignancy",
+            "TMA and GVHD"
+          ]
+        }
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "左邊是代謝性原因。尿毒性腦病變通常來自 CNI 腎毒性或 TMA；肝性腦病變來自 SOS/VOD 或嚴重的肝臟 GVHD；另外還有 diabetic ketoacidosis。書上提醒，鑑別時要想到 opioid 鎮靜、CNS 感染、CRS、全身性發炎反應和 HLH，不要一看到肝腎功能差就停在代謝性。",
+          "中間是出血。硬腦膜下血腫是最常見的一種，發生率 2.6%。危險因子包括移植後跌倒、長期嚴重血小板低下或輸注無效、grade III 到 IV 的 aGVHD，以及高血壓。要記住一個數字，CT 通常可以確診，但 20 到 25% 的 CNS 出血病人 CT 是陰性的，臨床懷疑高就要再做 MRI 或追蹤。",
+          "右邊是血栓。危險因子有活動性感染、心房顫動、高凝狀態、之前有 VTE、高風險的惡性疾病、TMA 和 GVHD。",
+          "病房實務上，血小板低又跌倒的病人，即使只是輕微頭痛，也要安排影像。",
+          "考題常把 CT 陰性和持續頭痛放在一起，問下一步，答案是不能因為 CT 陰性就排除出血。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Immune-mediated · Neuromuscular",
+      "title": "IVIG treats GBS, while steroids treat myositis and myasthenia",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "Disorder",
+        "Frequency, timing",
+        "Clinical clues",
+        "Tests",
+        "Treatment"
+      ],
+      "colW": [
+        1.4,
+        1.5,
+        2.1,
+        2.0,
+        2.1
+      ],
+      "fontSize": 14,
+      "rows": [
+        [
+          "Demyelinating PNP incl. GBS",
+          "1–4%; first 3 months",
+          "Ascending weakness, numbness, hyporeflexia, respiratory failure",
+          "MRI, lumbar puncture, nerve conduction",
+          "IVIG; plasma exchange or rituximab if no response"
+        ],
+        [
+          "Myositis",
+          "2–3%; with cGVHD; prior ICI raises risk",
+          "Proximal muscle weakness",
+          "High CK, myopathic EMG, MRI; biopsy confirms",
+          "Corticosteroids; response in 1–6 weeks"
+        ],
+        [
+          "Myasthenia gravis",
+          "<1%; after GVHD onset",
+          "Ptosis, facial weakness, diplopia, dysarthria, dysphagia",
+          "EMG: decrement or increased jitter",
+          "Cholinesterase inhibitor + corticosteroids"
+        ]
+      ],
+      "caption": "ICI, immune checkpoint inhibitor; PNP, polyneuropathy",
+      "captionY": 5.6,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "免疫相關的神經肌肉疾病少見，但三種都有明確的治療，而且容易考。",
+          "第一列是脫髓鞘多發神經病變，包括 Guillain-Barré，發生在 1 到 4% 的病人，多在移植後前三個月。典型是對稱的上行性運動無力、麻木、反射減弱，嚴重時呼吸衰竭。要盡快做 MRI、腰椎穿刺和神經傳導檢查。治療先給 IVIG，沒有反應再考慮 plasma exchange 或 rituximab，順序是考點。",
+          "第二列 myositis，發生率 2 到 3%，常和 chronic GVHD 一起出現，以前用過 immune checkpoint inhibitor 的病人風險較高。表現是近端肌無力，CK 上升，EMG 是 myopathic pattern，MRI 可以診斷也可以追蹤治療反應，肌肉切片確診。類固醇通常一到六週有反應。",
+          "第三列 myasthenia gravis 不到 1%，通常在 GVHD 之後出現。眼瞼下垂、臉部無力、複視、構音和吞嚥困難；EMG 看到動作電位遞減或 jitter 增加。治療是 cholinesterase inhibitor 加類固醇。",
+          "三者的鑑別，看無力的分布和時間點，就能先猜到一半。",
+          "考試常把三者放在同一題當選項。表現是對稱性上行性無力加反射消失，就是 Guillain-Barré，先給 IVIG；近端肌無力加 CK 上升，是 myositis，用類固醇；眼瞼下垂和複視，症狀在一天之內會波動，就要想 myasthenia，用 cholinesterase inhibitor 加類固醇。Guillain-Barré 的病人要特別注意呼吸功能，肺活量下降時要及早轉加護病房。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Immune-mediated · CNS GVHD",
+      "title": "CNS chronic GVHD takes three forms recognized by the NIH consensus",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "root": "CNS chronic GVHD: rare, likely underestimated",
+      "branches": [
+        {
+          "label": "Demyelinating",
+          "box": "White matter, optic nerve, cord",
+          "out": "Steroid pulses; fingolimod if refractory"
+        },
+        {
+          "label": "Cerebrovascular",
+          "box": "Vasculitis: ischemia, microbleeds",
+          "out": "Brain biopsy; steroids + cyclophosphamide"
+        },
+        {
+          "label": "Encephalitis",
+          "box": "Immune-mediated encephalitis",
+          "out": "Repeat CSF to exclude infection"
+        }
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "CNS 的 GVHD 被認為很少見，但書上說真實發生率可能被低估。NIH chronic GVHD 臨床試驗的共識承認三種型態。",
+          "第一種是脫髓鞘疾病，可以出現在大腦白質、視神經和脊髓，病程像 multiple sclerosis 一樣 relapsing-remitting。治療用類固醇脈衝，難治或復發的病人可以考慮 sphingosine-1-phosphate receptor agonist，例如 fingolimod，這是 Gauthier 2018 的報告。",
+          "第二種是腦血管型，最常見的是血管炎，可以侵犯腦實質和腦膜的小到大動脈。MRI 看到缺血病灶、微出血和白質多發訊號變化，腦切片可以確診，治療是類固醇加 cyclophosphamide。",
+          "第三種是免疫媒介的腦炎，書上沒有給特定治療，重點是要重複做 CSF，一方面確認診斷，一方面排除感染性腦炎。三種都是排除診斷，先把感染和藥物排除乾淨，才輪到 GVHD。",
+          "這三型都沒有大型試驗，書上的建議來自病例報告和小型系列，所以治療前最好有神經科一起討論，切片的時機也要個別評估。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "eyebrow": "Immune-mediated · CRS",
+      "title": "CRS after haplo-HCT is common, but encephalopathy is uncommon",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "items": [
+        {
+          "num": "≤90%",
+          "label": "Haplo-HCT recipients with CRS in the first days, especially with PBSC"
+        },
+        {
+          "num": "<10%",
+          "label": "With severe CRS-related neurological symptoms such as encephalopathy"
+        }
+      ],
+      "caption": "Treat with tocilizumab (anti-IL-6 receptor) or anakinra (IL-1 receptor antagonist). Abboud 2021. ICANS after CAR-T: session 20.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "最後一個免疫相關的是 CRS。Haplo 移植，特別是用 PBSC 當幹細胞來源時，輸注後頭幾天 CRS 可以高達九成，表現和 CAR-T 或 bispecific antibody 之後的 CRS 類似，從單純發燒到危及生命都有。",
+          "輕度 CRS 常見發燒合併頭痛，但嚴重的神經症狀，例如腦病變，不到 10%，這是 Abboud 2021 的國際多中心分析。",
+          "治療是 cytokine blockade，用抗 IL-6 receptor 的 tocilizumab，或 IL-1 receptor antagonist anakinra。CAR-T 之後的 ICANS 機轉和處理不同，留到第 20 堂。",
+          "病房上，haplo 移植後頭幾天發燒合併頭痛很常見，先想到 CRS，也要同時排除感染，不要因為是 CRS 就停掉抗生素。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "section": "Work-up",
+      "eyebrow": "Diagnostic algorithm",
+      "title": "The ten-step work-up condenses into five moves",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "steps": [
+        "Review drugs, metabolic state",
+        "Generalized or focal; timing",
+        "CT or MRI, then CSF",
+        "EEG or EMG as indicated",
+        "Repeat; biopsy; neurologist"
+      ],
+      "invert": 2,
+      "caption": "Speaker's summary of the ten steps in §53.3. Early tests can be negative; repeat them as symptoms evolve.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "書上第 53.3 節給了十個步驟，我濃縮成五格，這是 speaker's summary。",
+          "第一步永遠是藥單和代謝。仔細看用藥史，找代謝異常，前面講的 CNI、azole、imipenem、busulfan 都在這一步被抓出來。",
+          "第二步判斷是全面性還是局部性。意識改變、癲癇屬於全面性；中風、腫塊屬於局部性。同時對照移植後的時間點，早期偏藥物，後期偏感染。",
+          "第三步是影像，CT 或 MRI，用來排除 PRES、感染或免疫性腦炎、實質浸潤、腦血管事件和疾病復發，接著做 CSF。第四步依表現選 EEG 或 EMG。",
+          "最後一步最容易被忽略。早期檢查可能是陰性，症狀也會波動，所以要重複；仍不清楚時考慮腦或神經肌肉切片。神經科在每一步都應該參與，複雜的病人更是如此。",
+          "這個流程最常被跳過的是第一步。很多病人一有神經症狀就直接排 MRI，結果藥單上明明有 imipenem 加 ganciclovir，或 voriconazole 剛加上去，CNI 濃度已經超標。先看藥單，往往能省下很多檢查，也能更早把誘因拿掉。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Diagnostic algorithm · Tests",
+      "title": "Each test in the work-up answers a specific question",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "head": [
+        "Step",
+        "Test",
+        "What it looks for"
+      ],
+      "colW": [
+        0.7,
+        1.9,
+        4.0
+      ],
+      "fontSize": 16,
+      "rows": [
+        [
+          "4",
+          "CT or MRI",
+          "PRES, encephalitis, parenchymal infiltrates, vascular events, relapse"
+        ],
+        [
+          "5",
+          "CSF analysis",
+          "Infection, demyelinating neuropathy, relapse of the underlying disease"
+        ],
+        [
+          "6",
+          "Electroencephalography",
+          "Altered consciousness, hallucinations, seizures"
+        ],
+        [
+          "7",
+          "Electromyography",
+          "Neuropathy, myopathy, neuromuscular pattern of weakness"
+        ],
+        [
+          "8",
+          "Repeat steps 1–7",
+          "Early studies may be negative; symptoms evolve or fluctuate"
+        ],
+        [
+          "9",
+          "Brain or neuromuscular biopsy",
+          "Opportunistic infection, PML, vasculitis, PTLD, other malignancy"
+        ],
+        [
+          "10",
+          "Neurology review",
+          "At every step; essential in complex cases"
+        ]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張把十步驟的後半段拆開，看每個檢查要回答什麼問題。",
+          "影像要排除的有五件事，PRES、感染性或免疫性腦炎、實質浸潤、腦血管事件和血液疾病復發。MRI 對 PRES 和早期感染都比 CT 敏感。CSF 用來找感染、脫髓鞘神經病變和疾病復發；送檢時記得想到 HHV-6、HSV、JC virus 的 PCR。",
+          "EEG 用在意識改變、幻覺或癲癇的病人，可以抓到 nonconvulsive seizure。EMG 用在神經病變、肌病變或神經肌肉型態的無力，也就是前面 Guillain-Barré、myositis 和 myasthenia 那一張。",
+          "第八步是重複，第九步是切片。切片可以確認或排除伺機性感染、PML、血管炎、PTLD 和其他惡性疾病。第十步，神經科會診，書上說在每一步都很重要。",
+          "考試若問第一步做什麼，答案通常是回顧用藥史和代謝問題，而不是直接做切片。",
+          "CSF 也可以看是否有血液疾病在 CNS 復發，這點在 ALL 和高風險 AML 的病人尤其要記得送細胞學。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: seizure and blindness on day 20",
+      "answerTitle": "Answer A: treat PRES and remove its trigger",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53 · Carreras E, et al. EBMT Handbook 8th ed. 2024; Ch. 42",
+      "stem": "A 55-year-old man on cyclosporine and methotrexate is 20 days after busulfan-cyclophosphamide MAC and MUD HCT; voriconazole began on day 14. He develops headache, cortical blindness and a seizure. BP is 182/104 mmHg; creatinine has doubled. MRI: bilateral subcortical parieto-occipital T2 hyperintensity. Best next step?",
+      "options": [
+        "Stop cyclosporine, control blood pressure and treat seizures",
+        "Start foscarnet for presumed HHV-6 encephalitis",
+        "Give methylprednisolone pulses for CNS chronic GVHD",
+        "Diagnose toxic leukoencephalopathy; supportive care only",
+        "Perform a brain biopsy before any change in therapy"
+      ],
+      "answer": "A",
+      "explanation": "Headache, visual loss and seizures with hypertension and renal failure, plus subcortical parieto-occipital T2 lesions, are typical of PRES. Voriconazole raises CSA levels. Ch. 53: reversible after CNI withdrawal if diagnosed early; Ch. 42: treat BP, seizures and low Mg. Fludarabine leukoencephalopathy is periventricular; he had no fludarabine.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。55 歲男性，Bu/Cy 的 MAC 加 matched unrelated 移植，用 cyclosporine 和 MTX 預防 GVHD，day 14 因疑似麴菌開始 voriconazole。Day 20 出現頭痛、皮質盲和癲癇，血壓 182/104，肌酸酐加倍，MRI 雙側頂枕葉皮質下 T2 高訊號。",
+          "選項 A 停 cyclosporine、控制血壓和癲癇，B 用 foscarnet 治 HHV-6，C 是 CNS GVHD 的類固醇脈衝，D 是 toxic leukoencephalopathy 只做支持治療，E 是先做腦切片。",
+          "提示一下，先看用藥史，再看影像的位置。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "選 A。頭痛、視覺喪失、癲癇，加上高血壓和腎衰竭，MRI 又是頂枕葉皮質下病灶，這是典型的 PRES。誘因是 voriconazole 讓 cyclosporine 濃度上升。",
+          "第 53 章說早期停掉 CNI 就能恢復；第 42 章說停不停 CNI 病程差不多，但控制血壓、治療癲癇、補鎂一定要做。不管依哪一章，A 都是最好的答案。停 CNI 之後要換成其他 GVHD 預防，這點要和移植團隊討論。",
+          "D 是主要陷阱。Fludarabine 的 toxic leukoencephalopathy 病灶在腦室周圍，這位病人的 conditioning 是 Bu/Cy，根本沒有用 fludarabine。B 的 HHV-6 腦炎影像是 limbic pattern，C 的 CNS GVHD 在 day 20 不合理，E 的切片在 PRES 不需要。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: confusion after cord blood HCT",
+      "answerTitle": "Answer B: HHV-6 encephalitis needs ganciclovir or foscarnet",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53 · Ljungman P, et al. EBMT Handbook 8th ed. 2024; Ch. 38",
+      "stem": "A 28-year-old woman with AML is on day +24 after double-unit cord blood HCT. She becomes confused, with new memory loss and one focal seizure. BP and tacrolimus levels are normal. MRI: bilateral mesial temporal T2 hyperintensity. CSF is positive for HHV-6 DNA by PCR. Which treatment is most appropriate?",
+      "options": [
+        "IV acyclovir 10 mg/kg every 8 hours",
+        "Ganciclovir or foscarnet",
+        "Stop tacrolimus and manage as PRES",
+        "Methylprednisolone pulses for CNS chronic GVHD",
+        "Voriconazole for cerebral aspergillosis"
+      ],
+      "answer": "B",
+      "explanation": "HHV-6B is the main cause of viral encephalitis after allo-HCT and cord blood recipients are at higher risk. MRI typically shows limbic encephalitis and CSF HHV-6 DNA is usually positive. Ch. 53 and Ch. 38 recommend foscarnet or ganciclovir. Acyclovir is the drug for HSV encephalitis.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。28 歲女性 AML，接受 double-unit cord blood 移植，day 24 出現意識混亂、新的記憶喪失和一次局部癲癇。血壓和 tacrolimus 濃度都正常。MRI 雙側內側顳葉 T2 高訊號，CSF HHV-6 DNA PCR 陽性。",
+          "選項有 acyclovir、ganciclovir 或 foscarnet、停 tacrolimus 當 PRES 處理、類固醇脈衝，以及 voriconazole。",
+          "想一想 cord blood 移植和這種影像型態最有關的病毒是哪一個，以及同一家族的病毒治療藥物有什麼差別。這題考的是藥物的選擇，而不只是診斷。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案 B。HHV-6B 是 allo 移植後病毒性腦炎的主要原因，cord blood 移植的風險更高。MRI 典型是 limbic encephalitis，也就是這題的內側顳葉病灶，加上 CSF PCR 陽性，診斷就成立。第 53 章和第 38 章都寫，治療用 foscarnet 或 ganciclovir。",
+          "A 是主要陷阱。Acyclovir 10 mg/kg 每八小時是 HSV 腦炎的劑量，對 HHV-6 不是建議用藥。C 不對，因為血壓和 CNI 濃度正常，影像也不是頂枕葉。",
+          "還有一個細節，HHV-6 可以整合在生殖細胞，這種人血中 qPCR 會強陽性，但不代表病毒在複製，所以診斷要靠臨床、MRI 和 CSF，而不是單看血液。",
+          "另外 E 的 voriconazole 是 cerebral aspergillosis 的治療，影像會是局部病灶，不是對稱的 limbic pattern。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: ascending weakness at week 7",
+      "answerTitle": "Answer A: IVIG first for post-HCT Guillain-Barré",
+      "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
+      "stem": "A 45-year-old man is 7 weeks after matched sibling HCT for ALL. Over 5 days he develops symmetric leg weakness ascending to the arms, distal numbness and absent reflexes; vital capacity is falling. Brain MRI is normal and nerve conduction studies show demyelination. What is the best initial treatment?",
+      "options": [
+        "Intravenous immunoglobulin",
+        "Methylprednisolone pulses, then fingolimod",
+        "Pyridostigmine plus prednisone",
+        "Rituximab as first-line therapy",
+        "Stop cyclosporine and treat as PRES"
+      ],
+      "answer": "A",
+      "explanation": "Demyelinating polyneuropathy, including Guillain-Barré syndrome, occurs in 1–4% of patients, mostly within 3 months of HCT. Symptoms may resolve with IVIG; plasma exchange or rituximab are for unresponsive patients. Steroid pulses with fingolimod treat demyelinating CNS GVHD; cholinesterase inhibitors treat myasthenia.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。45 歲男性，ALL，matched sibling 移植後七週。五天內出現對稱性雙腿無力，往上延伸到雙手，遠端麻木，反射消失，肺活量持續下降。腦部 MRI 正常，神經傳導檢查顯示脫髓鞘。",
+          "選項有 IVIG、類固醇脈衝再接 fingolimod、pyridostigmine 加 prednisone、第一線 rituximab，以及停 cyclosporine 當 PRES。",
+          "注意時間點，移植後七週，以及這是周邊神經還是中樞神經的問題。另外想一想，這幾個選項分別是哪一種免疫相關疾病的治療。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案 A，IVIG。脫髓鞘多發神經病變，包括 Guillain-Barré，發生在 1 到 4% 的病人，多在移植後前三個月，這位病人第七週、上行性無力、反射消失、呼吸功能下降，完全符合。",
+          "D 是陷阱。Rituximab 和 plasma exchange 是給 IVIG 沒有反應的病人，不是第一線。B 的類固醇脈衝加 fingolimod 是 CNS GVHD 脫髓鞘型的治療，病灶在中樞，不是周邊神經。C 是 myasthenia gravis 的治療，表現應該是眼瞼下垂和複視。",
+          "肺活量在掉，代表要密切監測呼吸，必要時轉加護病房，這點在病房比選藥更急。",
+          "這題也提醒一個原則，同樣是脫髓鞘，周邊和中樞的治療完全不同，先定位，再選藥。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · PML",
+      "title": "PML is graded definite, probable or possible on CSF PCR and imaging",
+      "cite": "Ljungman P, et al. EBMT Handbook 8th ed. 2024; Ch. 38",
+      "head": [
+        "Level",
+        "Requirements"
+      ],
+      "colW": [
+        1.2,
+        4.0
+      ],
+      "fontSize": 16,
+      "rows": [
+        [
+          "Definite",
+          "Compatible clinical features + compatible imaging + JCV PCR positive in CSF"
+        ],
+        [
+          "Probable",
+          "JCV PCR positive in CSF; clinical or imaging criteria may be missing"
+        ],
+        [
+          "Possible",
+          "CSF PCR positive alone, or clinical + imaging if PCR negative"
+        ],
+        [
+          "Biopsy",
+          "JCV DNA or JCV antigen in CNS: required for a definitive diagnosis"
+        ],
+        [
+          "Treatment",
+          "None specific; restore immunity; G-CSF, JCV-specific CTLs, PD-1 antibodies"
+        ]
+      ],
+      "caption": "35 per 100,000 person-years after HCT; onset 1–60 months (median 8) after allo-HCT",
+      "captionY": 5.0,
+      "notes": {
+        "script": [
+          "PML 的診斷分級來自第 38 章。Definite 要臨床、影像和 CSF JCV PCR 三者都有；probable 和 possible 的定義在書上有重疊。",
+          "沒有特效藥，靠免疫重建，G-CSF、JCV 特異性 CTL 和 PD-1 抗體只有初步經驗。"
+        ],
+        "reminders": [
+          "Ch. 38 is internally inconsistent: it says biopsy is required for a definitive diagnosis, then defines 'definite' PML without biopsy; 'probable' and 'possible' overlap (CSF PCR alone fits both)."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · Toxoplasma",
+      "title": "Toxoplasma encephalitis responds to pyrimethamine-based therapy",
+      "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
+      "head": [
+        "Use",
+        "Drug",
+        "Dose"
+      ],
+      "colW": [
+        1.1,
+        1.8,
+        3.2
+      ],
+      "fontSize": 15,
+      "rows": [
+        [
+          "Treatment",
+          "Pyrimethamine + folinic acid",
+          "200 mg load, then 50–75 mg daily; folinic acid 10–15 mg daily"
+        ],
+        [
+          "plus",
+          "Sulfadiazine",
+          "1–1.5 g orally q6–8h"
+        ],
+        [
+          "or plus",
+          "Clindamycin",
+          "600 mg orally or IV q6h"
+        ],
+        [
+          "Prophylaxis",
+          "TMP/SMX",
+          "1 DS 4 days/week, 2 DS 3 days/week, or 1 SS tablet daily"
+        ],
+        [
+          "Alternatives",
+          "Dapsone · atovaquone",
+          "100 mg daily · 1500 mg daily"
+        ]
+      ],
+      "caption": "Incidence about 0.8% (<0.4% to 2–3% by seroprevalence). Neurological improvement usually within 7 days.",
+      "captionY": 5.0,
+      "notes": {
+        "script": [
+          "Toxoplasma 腦炎的治療和預防劑量來自第 39 章 Table 39.2。TMP/SMX 每週少於三天時曾有 breakthrough。",
+          "血清陽性又沒有用 TMP/SMX 預防的病人，可以每週驗血液 qPCR 做 preemptive 治療。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · CNS mould infection",
+      "title": "Cerebral aspergillosis is treated with voriconazole or isavuconazole",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": [
+        "Drug",
+        "Adult dose",
+        "Comment"
+      ],
+      "colW": [
+        1.5,
+        2.6,
+        2.4
+      ],
+      "fontSize": 15,
+      "rows": [
+        [
+          "Voriconazole",
+          "6 mg/kg ×2 on day 1, then 4 mg/kg ×2 daily",
+          "First line incl. cerebral; TDM; interactions"
+        ],
+        [
+          "Isavuconazole",
+          "200 mg t.i.d. for 2 days, then 200 mg daily",
+          "As effective as voriconazole; better tolerated"
+        ],
+        [
+          "Posaconazole",
+          "—",
+          "Drug of choice for IA, but CNS penetration limited"
+        ],
+        [
+          "Liposomal AmB",
+          "3 mg/kg (IA); 5 mg/kg (mucormycosis)",
+          "Preferred in CNS infection or renal failure"
+        ],
+        [
+          "CSF galactomannan",
+          "Index cut-off 1.0 suggested",
+          "For suspected cerebral aspergillosis"
+        ]
+      ],
+      "captionY": 5.0,
+      "notes": {
+        "script": [
+          "第 37 章的劑量。Cerebral aspergillosis 首選 voriconazole 或 isavuconazole，posaconazole 的 CNS 穿透有限。",
+          "Mucormycosis 首選 lipid-based amphotericin B，CNS 感染優先用 liposomal 劑型，和第 53 章的寫法不同。"
+        ]
+      }
+    }
+  ]
+}

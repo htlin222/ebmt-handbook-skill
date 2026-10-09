@@ -69,7 +69,8 @@
         "script": [
           "今天分三段。第一段是 myelofibrosis，大約十分鐘。先把 IPSS、DIPSS、DIPSS-plus 和 MIPSS70 這幾個疾病分數分清楚，再看 EBMT/ELN 的移植適應症，接著是移植專用的 MTSS、donor 和 conditioning 的選擇，最後是 ruxolitinib 怎麼銜接移植，以及移植後用 driver mutation 追 MRD。",
           "第二段是 CML，時間稍微多一點，因為這部分過去講得比較少。內容包括 EBMT 的 Gratwohl risk score、disease phase 的影響、TKI 時代誰還需要移植、conditioning 和 GVHD prophylaxis，以及移植後 BCR-ABL1 molecular relapse 的定義和 DLI。",
-          "最後三題 board-style 題目，前兩段各至少對應一題。"
+          "最後三題 board-style 題目，前兩段各至少對應一題。",
+          "每一段都照同一個順序走，先看疾病本身的風險，再看移植本身的風險，最後才談時機和移植後的監測。"
         ]
       }
     },
@@ -138,7 +139,8 @@
           "PV 和 ET 本身預後好，不需要移植，除非進展成 post-ET/PV myelofibrosis 或 secondary AML。Primary 或 post-ET/PV myelofibrosis 是 Ph-negative MPN 裡預後最差的，median survival 大約 6 年，但從不到 2 年到超過 15 年都有，所以要靠風險分數分層。",
           "IPSS 和 DIPSS 用同樣五個因子：年紀超過 65、constitutional symptoms、Hb 小於 100 g/L、白血球超過 25、周邊血 blast 至少 1%。差別只在 DIPSS 的貧血給 2 分，這一點考試最愛考。",
           "看下面三列。DIPSS 的 intermediate-2 是 3 到 4 分，high 是 5 到 6 分，median OS 分別是 4 年和 1.5 年。移植適應症就是用 4 年、也就是不到 5 年這條線切的。",
-          "DIPSS 的 D 是 dynamic，病程中任何時間都可以重算，所以適合在追蹤時決定什麼時候該轉介移植。書上附了 DIPSS 和 DIPSS-plus 的線上計算器連結，臨床直接用就好。"
+          "DIPSS 的 D 是 dynamic，病程中任何時間都可以重算，所以適合在追蹤時決定什麼時候該轉介移植。書上附了 DIPSS 和 DIPSS-plus 的線上計算器連結，臨床直接用就好。",
+          "考題常給一組數字要你算分。記得 IPSS 只用在診斷時，DIPSS 可以在追蹤中任何時間用，兩者差 1 分就可能跨過 intermediate-2 的門檻。"
         ]
       }
     },
@@ -207,7 +209,8 @@
         "script": [
           "DIPSS-plus 是在 DIPSS 的基礎上再加三個因子。DIPSS 的 int-1、int-2、high 分別換成 1、2、3 分，再加血小板小於 100、需要輸血、不良 karyotype 各 1 分。不良 karyotype 指的是 +8、−7 或 7q−、−5 或 5q−、i(17q)、12p− 和 11q23 rearrangement。High risk 的 median survival 只剩 1.3 年。",
           "MIPSS70 是給移植年紀病人用的分數，把突變放進來。白血球超過 25 和血小板小於 100 各 2 分，貧血、症狀、fibrosis grade 2 以上、周邊 blast 至少 2% 各 1 分。High-molecular-risk mutation 指 IDH1/2、SRSF2、ASXL1 和 EZH2，一個 1 分，兩個以上 2 分。CALR type 1 這一列書上印成 1 分，原始分數是沒有 type 1 才給分，上台前要核對。",
-          "Post-ET/PV myelofibrosis 另有專用的 MYSEC 分數。這些分數回答的是不移植會活多久，下一張才是要不要移植。"
+          "Post-ET/PV myelofibrosis 另有專用的 MYSEC 分數。這些分數回答的是不移植會活多久，下一張才是要不要移植。",
+          "臨床上的用法是這樣：DIPSS 落在 intermediate-1 的病人，再用 DIPSS-plus 或 MIPSS70 看有沒有隱藏的高風險，例如輸血依賴、不良 karyotype 或 ASXL1，這正好接到下一張的適應症。"
         ],
         "reminders": [
           "TO CONFIRM BEFORE PRESENTING: Table 77.1 prints 'CALR typ1 (1 p)' for MIPSS70; check Guglielmelli 2018 whether the point is for absence of CALR type 1."
@@ -248,7 +251,9 @@
         "script": [
           "EBMT 和 ELN 的 consensus 建議，70 歲以下、預估 median survival 小於 5 年的 myelofibrosis 病人做 allo-HCT，也就是 IPSS 或 DIPSS intermediate-2 和 high risk。這個結論來自移植和不移植病人的比較，資料在 ruxolitinib 之前的年代。",
           "Intermediate-1 不是一律不做。如果有額外的高風險特徵，包括 ASXL1 突變、周邊血 blast 超過 2%、refractory 的輸血依賴貧血，或 DIPSS-plus 定義的不良 karyotype，也可以考慮移植。Low risk 沒有移植適應症，這是我依 5 年門檻推論的 speaker's summary。",
-          "適應症成立之後，還要用移植專用的 MTSS 評估移植本身的風險。病人本身的因素裡年紀最重要，comorbidity 和 geriatric assessment 也會影響結果，但還沒有在 myelofibrosis 專門研究過。考題若給 72 歲的病人，要想到 70 歲這個上限。"
+          "適應症成立之後，還要用移植專用的 MTSS 評估移植本身的風險。病人本身的因素裡年紀最重要，comorbidity 和 geriatric assessment 也會影響結果，但還沒有在 myelofibrosis 專門研究過。考題若給 72 歲的病人，要想到 70 歲這個上限。",
+          "實務上，病人一被歸到 intermediate-2 或 high，就該開始 HLA typing 和找 donor，因為從決定到真正移植通常要好幾個月。Intermediate-1 的病人則要定期重算 DIPSS，並且送 NGS 看 ASXL1 等突變，分數一升高就轉介。",
+          "PV 和 ET 只有在轉成 myelofibrosis 或 AML 之後，才進入這張圖的流程。"
         ]
       }
     },
@@ -321,7 +326,8 @@
         "script": [
           "DIPSS 和 MIPSS70 預測的是不移植的存活，MTSS 則是專門給要移植的病人，適用 primary 和 post-ET/PV myelofibrosis。七個因子：血小板小於 150、白血球超過 25、Karnofsky 小於 90%、年紀 57 歲以上、非 CALR 或 MPL 的 driver genotype、ASXL1 突變，以及 HLA-mismatched unrelated donor。Genotype 和 mismatched donor 各 2 分，年紀在書上的表沒有印分數，上台前要核對。",
           "右邊是第 77 章的結果，low risk 5 年存活 90%、NRM 10%，very high 只剩 34%，NRM 高達 57%。第 11 章引用同一篇 Gagelmann 2019，但寫的是 83、64、37、22%，兩章數字不一樣，考試時看題目怎麼問，趨勢是一致的。",
-          "臨床上 MTSS 最有用的地方是 donor 這一項是可以改變的，找得到 matched donor 就能少 2 分。"
+          "臨床上 MTSS 最有用的地方是 donor 這一項是可以改變的，找得到 matched donor 就能少 2 分。",
+          "所以一個 DIPSS high 的病人，如果 MTSS 也是 very high，NRM 可能超過一半，這時候就要很仔細地和病人討論移植的利弊；反過來 MTSS low 的病人，移植的 5 年存活可以到九成左右。疾病分數決定要不要移植，MTSS 幫忙估計移植要付出的代價。"
         ],
         "reminders": [
           "TO CONFIRM BEFORE PRESENTING: Table 77.1 lists 'Age ≥ 57 years' without a point value; check Gagelmann 2019 (Blood 133:2233) for the age points.",
@@ -376,7 +382,9 @@
         "script": [
           "這張整理移植本身的風險因子。最大的兩個是年紀和 HLA-mismatched donor，在 EBMT 的 BU/FLU RIC prospective study 都是存活變差的獨立因子。",
           "Donor 的影響有多大，看 MPD-RC 101。66 位病人用 MEL/FLU RIC，sibling donor 的 OS 75%，unrelated donor 只有 32%，差別來自 NRM，22% 對 59%。Haplo 加 PTCy 還在研究中，EBMT 資料的 5 年存活只有 38%。Cord blood 的 graft failure 很高。",
-          "Conditioning 強度則沒有 prospective 比較，回溯性資料 MAC 和 RIC 結果相近。因為病人年紀偏大，RIC 占 EBMT 登錄的 myelofibrosis 移植大約三分之二。Accelerated phase 的移植結果和 chronic phase 差不多，blast phase 就明顯較差，所以別等到轉成 blast phase 才送。"
+          "Conditioning 強度則沒有 prospective 比較，回溯性資料 MAC 和 RIC 結果相近。因為病人年紀偏大，RIC 占 EBMT 登錄的 myelofibrosis 移植大約三分之二。Accelerated phase 的移植結果和 chronic phase 差不多，blast phase 就明顯較差，所以別等到轉成 blast phase 才送。",
+          "這些資料放在一起看，可以得到一個實用的順序，和書上 Figure 77.1 一致：先找 matched sibling，再找 matched unrelated，最後才是 mismatched unrelated、haplo 或 cord。Conditioning 則依年紀、疾病狀態和 comorbidity 選，強度本身不是決定結果的主要因素。",
+          "另外 high molecular 或 cytogenetic risk 的病人，提高 conditioning 強度也沒有好處，這是 Gagelmann 2022 的國際合作分析。"
         ]
       }
     },
@@ -399,7 +407,9 @@
           "脾臟腫大是 myelofibrosis 的特徵，會影響 engraftment 和移植後的 graft function，所以移植前要先處理症狀和脾臟。",
           "ELN 和 EBMT 建議移植前至少用 ruxolitinib 2 個月，改善 constitutional symptoms、縮小脾臟。反白的這一步最常考，conditioning 之前要小心慢慢減量，避免 rebound phenomenon，不能突然停。",
           "第二格是時機。EBMT 的資料顯示，在 ruxolitinib 還有反應時去移植，結果比拖到 ruxolitinib 失敗才移植好。所以 ruxolitinib 是移植的 bridge，不是用來延後移植的理由。",
-          "脾臟非常大時可以考慮 splenectomy，脾臟放射則只有個案報告。書上的 Figure 77.1 也把 iron chelation 列為移植前的準備。"
+          "脾臟非常大時可以考慮 splenectomy，脾臟放射則只有個案報告。書上的 Figure 77.1 也把 iron chelation 列為移植前的準備。",
+          "為什麼要強調慢慢減量？突然停 ruxolitinib 可能出現症狀反彈和脾臟快速變大，剛好發生在 conditioning 期間，會讓病人狀況變差。所以要和移植團隊事先排好減量的時間表，讓停藥和 conditioning 銜接起來。",
+          "Ruxolitinib 在這裡的角色是讓病人以比較好的狀態進入移植，症狀改善、脾臟縮小、體能變好，Karnofsky 也可能跟著改善，而 Karnofsky 本身就是 MTSS 的一項。"
         ]
       }
     },
@@ -421,7 +431,9 @@
         "script": [
           "移植後的追蹤靠 driver mutation。大約 90% 的 myelofibrosis 帶有 JAK2 V617F、CALR 或 MPL 其中一個，可以用高敏感度的 qPCR 或 digital PCR 在周邊血追 MRD。",
           "反白的是關鍵時間點。Hamburg 的單中心經驗發現，day 180 還沒達到 molecular remission 的病人，之後臨床復發明顯較多。因為有 graft-versus-myelofibrosis effect，分子或血液學復發時可以給 DLI，重新誘導 molecular remission。Figure 77.1 的做法是先停 calcineurin inhibitor，MRD 仍陽性再考慮 DLI。",
-          "骨髓纖維化在移植後消退得很快，day 100 大約 60% 達到完全或接近完全消退，day 180 增加到 90%。纖維化消得越快，長期結果越好，這也說明 fibrosis 是一個動態的過程。"
+          "骨髓纖維化在移植後消退得很快，day 100 大約 60% 達到完全或接近完全消退，day 180 增加到 90%。纖維化消得越快，長期結果越好，這也說明 fibrosis 是一個動態的過程。",
+          "實務上，移植前就要知道病人帶哪一個 driver，移植後才有 marker 可追。三陰性的病人大約占一成，就只能靠 chimerism 和骨髓來追。",
+          "DLI 在 myelofibrosis 有效，本身就是 graft-versus-myelofibrosis effect 的證據。最早的報告是移植失敗後給 DLI 仍能誘導緩解。"
         ]
       }
     },
@@ -477,14 +489,15 @@
       ],
       "fontSize": 18,
       "caption": "CML, score 0 → 6–7: 5-y OS 76, 72, 60, 51, 39, 26, 14%; 5-y TRM 15 → 55% (Tables 11.3–11.4)",
-      "captionY": 5.3,
+      "captionY": 5.55,
       "notes": {
         "min": 2.0,
         "script": [
           "CML 的疾病預後分數有 Sokal、Hasford 和較新的 ELTS，這些是用來決定 TKI 治療策略的。要評估移植本身的風險，用的是 EBMT 的 Gratwohl score，最早就是為 CML 設計，後來才推廣到所有疾病。",
           "五個因子。年紀小於 20 歲 0 分，20 到 40 歲 1 分，超過 40 歲 2 分。Disease phase 是第一個 chronic phase 0 分，blast crisis 2 分，中間的 intermediate 1 分。診斷到移植小於 12 個月 0 分，超過 1 分。HLA-identical sibling 0 分，unrelated donor 1 分。最後是女性 donor 給男性病人 1 分。總分 0 到 7。",
           "看下面的數字，CML 0 分的 5 年 OS 76%，到 6 到 7 分只剩 14%，5 年 TRM 從 15% 升到 55%。這是第 11 章的表，資料來自 Gratwohl 2009。",
-          "中間那格要注意。第 11 章的註腳把 CML 的 intermediate 寫成 accelerated 或 blastic 以外的狀態，原始文獻一般把 AP 歸在 intermediate，上台前要核對。考試若考 CML 的 Gratwohl score，最常見的陷阱是 female donor to male 和診斷到移植超過一年這兩項。"
+          "中間那格要注意。第 11 章的註腳把 CML 的 intermediate 寫成 accelerated 或 blastic 以外的狀態，原始文獻一般把 AP 歸在 intermediate，上台前要核對。考試若考 CML 的 Gratwohl score，最常見的陷阱是 female donor to male 和診斷到移植超過一年這兩項。",
+          "這個分數的價值在於五個因子都在移植前就知道，可以在門診直接算給病人聽。第 11 章也提醒，所有這類模型的預測能力都有限，Gratwohl score 的預測值大約 0.63，所以它是討論的起點，不是唯一的決定依據。"
         ],
         "reminders": [
           "TO CONFIRM BEFORE PRESENTING: Ch. 11 Table 11.2 footnote defines CML 'intermediate' as 'another status than accelerated phase or blastic phase' and 'late' as blast crisis, leaving AP unassigned; check Gratwohl 1998 for where AP scores (usually intermediate = 1).",
@@ -505,7 +518,8 @@
         "script": [
           "左邊是 Gratwohl 1998 的原始曲線，3142 位在 1989 到 1996 年移植的病人。0 到 1 分的 5 年存活大約七成，5 到 7 分掉到一成多，分得很開。",
           "右邊是 EBMT CMWP 在 2011 到 2021 年的資料。每個分數組別的 5 年 OS 都進步了 11 到 41%，而且組別之間的差距縮小，2 分和 3 分幾乎重疊，現在可以合併成一組。",
-          "解讀時要小心。1990 年代所有 CML 都以移植為首選，現在移植的病人多半是 TKI 失敗或已經進展，轉介原因從登錄資料看不清楚。書上這段的病人數，內文寫 3185 位，圖說寫 3497 位，兩者不一致，引用時寫大約三千多位即可。"
+          "解讀時要小心。1990 年代所有 CML 都以移植為首選，現在移植的病人多半是 TKI 失敗或已經進展，轉介原因從登錄資料看不清楚。書上這段的病人數，內文寫 3185 位，圖說寫 3497 位，兩者不一致，引用時寫大約三千多位即可。",
+          "所以分數依然有用，但高分病人現在的結果比過去好得多。"
         ],
         "reminders": [
           "Inconsistency inside the book: Section 77.2.2 says the 2011–2021 analysis included 3185 patients; the Fig. 77.2b legend says 3497."
@@ -563,13 +577,14 @@
       ],
       "fontSize": 18,
       "caption": "Relapse after HCT in CP: 7% (Speck 1984). Number of prior TKIs did not affect outcome; phase and performance status did (Chalandon 2023).",
-      "captionY": 4.6,
+      "captionY": 4.75,
       "notes": {
         "min": 1.5,
         "script": [
           "第一列是 IBMTR 1978 到 1982 年 138 位病人的結果，3 年存活 chronic phase 63%，accelerated phase 36%，blast crisis 只有 12%，CP 移植的復發率 7%。Disease phase 的影響幾十年來都沒有變。",
           "下面三列是 Table 77.2 挑出來的年份，是 TKI 帶來的副作用。2011 年 CML 的移植有 46% 在第一個 CP，到 2021 年只剩 37%，而 blast crisis 從 14% 增加到 33%。越來越多病人是在進展之後才被送來。",
-          "EBMT 在第三代 TKI 時代的分析發現，移植前用過幾種 TKI 不影響結果，disease phase 和 performance status 才有影響。所以照顧 CML 的醫師要密切追蹤，一出現 molecular progression 就送移植，不要等到 AP、BC 或已經回到 CP2 才送。Blast crisis 的病人則要先用 TKI 或化療回到第二個 CP 再移植。"
+          "EBMT 在第三代 TKI 時代的分析發現，移植前用過幾種 TKI 不影響結果，disease phase 和 performance status 才有影響。所以照顧 CML 的醫師要密切追蹤，一出現 molecular progression 就送移植，不要等到 AP、BC 或已經回到 CP2 才送。Blast crisis 的病人則要先用 TKI 或化療回到第二個 CP 再移植。",
+          "這張表也解釋了為什麼現在 CML 移植的整體結果看起來沒有想像中好，因為進來的病人組成變差了。病人在 TKI 治療下出現 molecular progression，就是該轉介移植評估的訊號。"
         ]
       }
     },
@@ -623,7 +638,8 @@
         "script": [
           "TKI 出現之後，移植從 CML 的首選退到第二、第三甚至第四線。Imatinib 讓大約 60% 的病人長期控制良好，少數人甚至可以停藥。Imatinib 失敗的病人，大約一半可以在第二代或第三代 TKI 重新取得緩解。",
           "第二代有 bosutinib、dasatinib、nilotinib，第一年的 complete cytogenetic remission 大約 80%，imatinib 是 65%，所以 dasatinib 和 nilotinib 已核准作為第一線。對 T315I 有效的只有 ponatinib 和作用在 ABL myristoyl pocket 的 STAMP inhibitor asciminib，這一點很常考。",
-          "TKI 為什麼治不好？因為 quiescent 的白血病幹細胞不依賴 BCR-ABL signaling，TKI 打不到。RQ-PCR 在 3 個月和 6 個月看 BCR-ABL 下降速度，可以在第一年內找出日後需要移植的人。Autologous HCT 目前不建議，EBMT 每年只剩 0 到 1 例。"
+          "TKI 為什麼治不好？因為 quiescent 的白血病幹細胞不依賴 BCR-ABL signaling，TKI 打不到。RQ-PCR 在 3 個月和 6 個月看 BCR-ABL 下降速度，可以在第一年內找出日後需要移植的人。Autologous HCT 目前不建議，EBMT 每年只剩 0 到 1 例。",
+          "這張表和移植的關係在最下面一列。BCR-ABL 在 3 個月、6 個月下降不夠快的病人，長期對 TKI 的反應通常不好，就可以在第一年內、還在 chronic phase 的時候，冷靜地規劃移植，而不是等到 blast crisis 再緊急送。"
         ]
       }
     },
@@ -661,7 +677,8 @@
         "script": [
           "這是第 77 章 key points 的移植適應症。Chronic phase 的病人在第三或第四線 TKI 失敗，或帶有 T315I 突變，建議移植。反白的就是這一格。",
           "在 TKI 治療中從 CP 進展到 AP，不移植的結果不好，要立刻找 donor、轉介移植中心，先用 TKI 重新取得反應再移植。Blast crisis 則先用第二或第三代 TKI 加 induction chemotherapy 減積，回到 CP 之後再移植。",
-          "最右邊是灰色地帶。第一線用第二代 TKI 的病人失敗了，可以換另一個第二代、第三代或 asciminib，到底要馬上移植，還是等下一次失敗，書上說仍有爭議。所以選擇題如果出現第二線失敗，通常不會是唯一正確答案；T315I 或第三線以後失敗才是明確的移植適應症。AP 的處理要個別化，但不能拖。"
+          "最右邊是灰色地帶。第一線用第二代 TKI 的病人失敗了，可以換另一個第二代、第三代或 asciminib，到底要馬上移植，還是等下一次失敗，書上說仍有爭議。所以選擇題如果出現第二線失敗，通常不會是唯一正確答案；T315I 或第三線以後失敗才是明確的移植適應症。AP 的處理要個別化，但不能拖。",
+          "Blast crisis 的病人移植前一定要先回到 chronic phase，直接在 BC 移植的結果非常差。CP1 的移植結果比其他所有狀況都好，所以目標是讓需要移植的人在 CP1 就完成移植。"
         ]
       }
     },
@@ -715,7 +732,8 @@
           "CML 最好的 conditioning 和 GVHD prophylaxis 其實還沒有定論，書上的立場是這樣。MAC 用 CY 加 BU 或 CY 加 TBI，長期存活最好。RIC 是為了讓年紀大或有 comorbidity 的病人也能移植，但沒有比 MAC 好，主要是復發較多。所以老人或 comorbidity 多的人用 FLU 加 BU 或 MEL 的 RIC，其他人，尤其是 advanced phase，要用 MAC 把病控制好。",
           "Stem cell source 大約三分之二用 PBSC，整體結果沒有差別，BM 的 chronic GVHD 比較少也比較輕。在 advanced disease 或用 RIC 時，PBSC 可能可以降低 graft failure 和復發。",
           "GVHD prophylaxis 的標準仍是 CSA 加 short-course MTX。1980 年代用 T-cell depletion 降低 GVHD，但復發增加，很多中心就放棄了，CML 是最早證明 graft-versus-leukaemia effect 的疾病之一。",
-          "PTCy 讓 haplo 和 mismatched unrelated donor 也可行。EBMT 的 CML 資料，haplo 的 OS 和 MUD 相近，RFS 稍低，但和 matched related 比沒有差。MUD 或 MMUD 用 PTCy 和傳統 CNI 加 MTX 相比，OS、RFS、復發和 NRM 都沒有差別。"
+          "PTCy 讓 haplo 和 mismatched unrelated donor 也可行。EBMT 的 CML 資料，haplo 的 OS 和 MUD 相近，RFS 稍低，但和 matched related 比沒有差。MUD 或 MMUD 用 PTCy 和傳統 CNI 加 MTX 相比，OS、RFS、復發和 NRM 都沒有差別。",
+          "在病房上的應用是這樣：一個年輕、CP 的 CML 病人，有 matched sibling，標準做法就是 MAC 加 CSA 和 MTX，不需要刻意選 RIC。年紀大、comorbidity 多，才改用 FLU 為主的 RIC，並且接受較高的復發風險，移植後更要密切追 BCR-ABL1。"
         ]
       }
     },
@@ -771,7 +789,8 @@
           "移植後 BCR-ABL1 要長期追蹤，因為有人超過 15 年才復發。Transcript 低或下降代表持續緩解，高或上升就預測復發。前 3 個月仍是 PCR 陽性很常見，尤其是 RIC 或 T-cell depletion，所以 molecular relapse 的定義只用在移植 4 個月以後。",
           "三條符合一條即可。BCR-ABL/ABL1 超過 0.02%，連續三次、每次至少間隔 4 週；或三次明顯上升，最後兩次超過 0.02%；或超過 0.05%，兩次、間隔至少 4 週。0.02 配三次，0.05 配兩次，這兩組數字不要搞混。",
           "CP 移植、CP 復發的病人，DLI 可以讓 60 到 90% 再緩解，逐步加量可以降低 GVHD。EBMT 328 位的 5 年存活 69%，DLI 相關死亡 11%，38% 出現某種 GVHD，有 GVHD 的人死亡風險高 2.3 倍。DLI 後 GVHD 的危險因子是第一次的 T-cell 劑量、移植到 DLI 的間隔和 donor 類型。",
-          "TKI 和 DLI 可以合併，但先後順序還沒有定論。EBMT 431 位只有 42% 達到某種緩解，可能因為一半以上原本就在 advanced phase 移植。預防性 TKI maintenance 在 CIBMTR 資料沒有好處。"
+          "TKI 和 DLI 可以合併，但先後順序還沒有定論。EBMT 431 位只有 42% 達到某種緩解，可能因為一半以上原本就在 advanced phase 移植。預防性 TKI maintenance 在 CIBMTR 資料沒有好處。",
+          "這也是 CML 和其他疾病不同的地方，有一個敏感、可定量的 marker，可以在血液學復發前好幾個月就介入，DLI 的效果也最好。"
         ]
       }
     },
@@ -831,6 +850,7 @@
         "script": [
           "第二題是 CML。38 歲男性，chronic phase，兩年前第一線用 dasatinib。現在 BCR-ABL1 上升，周邊血 blast 12%，驗到 T315I，歸類為 accelerated phase。可能找得到 10/10 matched unrelated donor。下一步最好的處置是什麼？",
           "這題要同時想兩件事，T315I 該用什麼藥，以及在治療中進展到 AP 的病人什麼時候移植。",
+          "選項 A 換 nilotinib 再追三個月，B 加量 dasatinib 並延後 HLA typing，C 是 ponatinib 或 asciminib、現在就找 donor、取得新反應後移植，D 是直接移植不再用 TKI，E 是 autologous HCT。",
           "[Pause for answers.]"
         ]
       },
@@ -864,6 +884,7 @@
         "script": [
           "第三題回到移植後。45 歲女性，CML 第一個 chronic phase，接受 sibling donor 的 MAC allo-HCT。免疫抑制劑已停，沒有 GVHD。第 5、6、7 個月的 BCR-ABL/ABL1 分別是 0.03%、0.04% 和 0.06%，骨髓 cytogenetics 正常。最適當的處置是什麼？",
           "先對照三條 molecular relapse 的定義，再決定介入的方式。",
+          "注意幾個細節：移植已經超過 4 個月，三次檢體間隔各約 4 週，數值持續上升。選項 A 是第一年都觀察，B 是 molecular relapse、給逐步加量的 DLI，可以合併 TKI，C 是第二次移植，D 是一次給大劑量 DLI，E 是等 cytogenetic relapse 再處理。",
           "[Pause for answers.]"
         ]
       },
@@ -879,7 +900,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Myelofibrosis trials",
+      "eyebrow": "Myelofibrosis trials",
       "title": "Prospective RIC studies showed durable cure in myelofibrosis",
       "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
       "head": [
@@ -929,7 +950,7 @@
     {
       "type": "figure",
       "backup": true,
-      "eyebrow": "Backup · Myelofibrosis pathway",
+      "eyebrow": "Myelofibrosis pathway",
       "title": "Fig. 77.1 lays out myelofibrosis transplant care step by step",
       "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
       "fig": "ch77-fig1",
@@ -944,7 +965,7 @@
     {
       "type": "bullets",
       "backup": true,
-      "eyebrow": "Backup · CML history and T-cell depletion",
+      "eyebrow": "CML history and T-cell depletion",
       "title": "Older CML strategies show the graft-versus-leukaemia effect at work",
       "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
       "items": [

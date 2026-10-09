@@ -2,12 +2,12 @@
   "title": "Noninfectious pulmonary complications",
   "subtitle": "Session 15 · Ch. 52",
   "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
-  "refsPerSlide": 6,
+  "refsPerSlide": 9,
   "coverNotes": {
     "min": 0.5,
     "script": [
       "各位早安，今天是第 15 堂，主題是移植後的非感染性肺部併發症，內容來自 EBMT Handbook 第八版第 52 章，作者是 Bergeron 和 Cooke。",
-      "前半段談早期的 fluid overload、IPS 和 DAH，後半段談晚期的 BOS 和 ILD，最後做三題 board-style 題目。今天的範圍只有一章，所以會比較深入，把書上的表格、診斷條件和試驗數字盡量講完整。"
+      "前半段談早期的 fluid overload、IPS 和 DAH，後半段談晚期的 BOS 和 ILD，最後做三題 board-style 題目。今天只有一章，會講得比較深入。"
     ]
   },
   "references": [
@@ -115,7 +115,7 @@
         "min": 1.5,
         "script": [
           "移植後肺功能異常很常見，整體大約 25 到 55% 的病人會發生。過去大約一半的肺部併發症來自感染，廣效抗生素普及之後，比例已經往非感染性移動。非感染性肺損傷可以占 allo 移植非感染性死亡的一半。",
-          "這張表是 American Thoracic Society 的分類，依照主要受傷的組織分三大類。肺實質包括 acute interstitial pneumonitis、ARDS、BCNU 和放射線肺炎等。血管內皮這一類包括 PERDS、capillary leak、DAH、pulmonary VOD 和 TRALI。呼吸道上皮則是 ILD 和 BOS。",
+          "這張表是 American Thoracic Society 的分類，依照主要受傷的組織分三大類。肺實質包括 ARDS、BCNU 和放射線肺炎等。血管內皮這一類包括 PERDS、capillary leak、DAH、pulmonary VOD 和 TRALI。呼吸道上皮則是 ILD 和 BOS。",
           "打星號的這幾種，如果發生在移植早期，都可以歸到 IPS 這把大傘底下，所以 IPS 其實是一個排除性的總稱。",
           "最後一列要特別記住，最常見的肺部併發症是 fluid overload 造成的肺水腫，反而不在這個分類裡。",
           "這個分類的用意，是提醒我們同一張胸部影像背後，受傷的可能是肺實質、血管內皮，也可能是小呼吸道，處置方向完全不同。內皮這一群和第 13 堂講的 capillary leak、engraftment syndrome 是同一個家族，DAH 也在這一類。考試常問哪一個不在 ATS 分類裡，答案就是 fluid overload。"
@@ -144,7 +144,7 @@
           "第四步是感染檢查，血液培養、病毒 PCR、鼻咽拭子的呼吸道病毒 panel，以及 galactomannan 和 β-D-glucan。",
           "核心是支氣管鏡加 BAL，可以在 78% 的病例找到病因。懷疑 IPS 的病人，BAL 仍有約一半找到病原。五天內做的陽性率比晚做高，併發症不到 5%。切片只留給少數非侵入檢查無法診斷的晚發病例，優先 VATS。",
           "要注意 BAL 驗到病原不一定就是元兇，感染和免疫發炎也可能同時存在。",
-          "臨床上最常見的失誤是一路換抗生素，拖過一週才找胸腔科做支氣管鏡，這時陽性率已經下降。如果病人狀況不允許做 BAL，書上建議改用誘導痰液送同樣的檢查。"
+          "臨床上最常見的失誤是一路換抗生素，拖過一週才找胸腔科做支氣管鏡，這時陽性率已經下降。病人無法做 BAL 時，改送誘導痰液。"
         ]
       }
     },
@@ -349,7 +349,8 @@
           "特定治療針對 TNF-α 這條路。Methylprednisolone 每天 2 mg/kg 以內，加上 etanercept 0.4 mg/kg 一週兩次，最多 8 劑。劑量和最多 8 劑這兩個數字都值得記。",
           "要提醒的是，書上 steroid 那一行寫著「若反應不明確，盡快考慮」，後面的受詞漏掉了，依上下文應該是指加上 etanercept，上課前會再對照紙本。",
           "IL-6 和 IL-17 這條路的 tocilizumab、brodalumab，目前只在動物模型。TNF blockade 沒反應的病人 IL-6 最高，所以未來可能要合併阻斷。保護肺血管內皮的策略也還在研究階段。",
-          "Etanercept 是 soluble TNF receptor，作用是中和 TNF-α，所以理論上和 IPS 的 TNF/LPS 路徑對得上。開始 etanercept 時，經驗性抗生素要繼續給，因為 BAL 陰性不代表完全沒有感染，而且兩者可以同時存在。"
+          "Etanercept 是 soluble TNF receptor，作用是中和 TNF-α，所以理論上和 IPS 的 TNF/LPS 路徑對得上。開始 etanercept 時，經驗性抗生素要繼續給，因為 BAL 陰性不代表完全沒有感染，而且兩者可以同時存在。",
+          "Etanercept 最多 8 劑，一週兩次，所以完整療程大約四週。"
         ],
         "reminders": [
           "TO CONFIRM BEFORE PRESENTING: Ch. 52 reads 'Methyl-PDN ≤ 2 mg/kg/day; if not clear response, consider as soon as possible' with the object missing; presumably etanercept is meant. Check the printed chapter."
@@ -805,6 +806,7 @@
           "發病時間很接近，BOS 中位數 13 個月，ILD 15 個月，但 PPFE 可以在移植很多年後才出現。兩者都常合併肺外 cGVHD，BOS 超過 90%，ILD 超過 75%，PPFE 則不到一半。",
           "診斷依據剛好相反，BOS 靠 PFT，ILD 靠胸部影像。BOS 的 CT 是支氣管變化和 air trapping，沒有肺泡或間質浸潤；ILD 的 CT 就是肺泡或間質浸潤。",
           "PFT 上，BOS 是阻塞型，FEV1/FVC 小於 0.7、TLC 大於 80%。ILD 是正常或限制型，TLC 小於 80%、FEV1/FVC 大於 0.7，合併 BOS 時變成混合型，兩者 FEV1/FVC 都小於 0.7、TLC 小於 80%，DLCO 都下降。",
+          "兩者的肺外 cGVHD 比例都很高，所以書上也提出疑問，ILD 是否其實是肺部 cGVHD 的另一種表現，目前還沒有定論。PPFE 是例外，肺外 cGVHD 不到一半，對免疫抑制也沒有反應。",
           "治療上 BOS 的選擇有限，ILD 通常對 steroid 有反應，PPFE 除外。長期存活其實相近，五年都在七成上下，但呼吸功能障礙和反覆感染很常見。考題給 PFT 數字和 CT 描述，用這張表就能判斷。",
           "實際判讀時，先看 FEV1/FVC 是否小於 0.7，再看 TLC 是否小於 80%，最後看 CT 有沒有實質浸潤。三個問題答完，BOS、ILD 或混合型就分得出來。"
         ],
@@ -836,6 +838,7 @@
           "第一題。42 歲男性，AML，接受 12 Gy TBI 的 MAC，HLA 不合的非親屬捐贈者，GVHD 預防含 MTX。Day 45、已經 engraft，出現發燒、乾咳、低血氧和多葉浸潤。心臟超音波、肌酸酐、體重都正常。第二天做的 BAL，細菌、病毒、黴菌和 Pneumocystis 都陰性，回收液也不帶血。",
           "選項是高劑量 steroid 加 aminocaproic acid、低劑量 steroid 加 etanercept、tocilizumab、吸入型 budesonide/formoterol，以及先做手術切片。",
           "題幹裡的危險因子很多，留意一下。",
+          "請先確認 IPS 三項條件是否成立，再選治療。",
           "[Pause for answers.]"
         ]
       },
@@ -903,6 +906,7 @@
         "script": [
           "第三題。48 歲女性，口腔和皮膚有 chronic GVHD，移植後 14 個月漸進性喘。FEV1/VC 0.62，FEV1 是預測值 58%，比基準掉了 25%，RV 140%，對支氣管擴張劑沒反應。CT 有 mosaic 和 air trapping，沒有實質浸潤，BAL 陰性。",
           "選項 A 需要肺切片，B 全身 steroid 很有效，C 吸入型 budesonide/formoterol 在 RCT 改善 FEV1，D 是 organizing pneumonia，E 早期 azithromycin 安全又降低癌症風險。先決定是 BOS 還是 ILD，再想治療證據。",
+          "題幹的 PFT 數字要一個一個對照。",
           "[Pause for answers.]"
         ]
       },
@@ -918,7 +922,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Lung in chronic GVHD",
+      "eyebrow": "BOS · Lung in chronic GVHD",
       "title": "Lung involvement raises the overall severity of chronic GVHD",
       "cite": "Wolff D, et al. EBMT Handbook 8th ed. 2024; Ch. 44",
       "head": [
@@ -976,7 +980,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · IPS biomarkers",
+      "eyebrow": "IPS · Biomarkers",
       "title": "Plasma biomarkers can flag IPS before symptoms appear",
       "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52",
       "head": [
@@ -1019,7 +1023,7 @@
     {
       "type": "bullets",
       "backup": true,
-      "eyebrow": "Backup · Limits of BOS criteria",
+      "eyebrow": "BOS · Limits of the criteria",
       "title": "Current BOS criteria detect late disease and miss some phenotypes",
       "cite": "Bergeron A, et al. EBMT Handbook 8th ed. 2024; Ch. 52 · Wolff D, et al. EBMT Handbook 8th ed. 2024; Ch. 44",
       "items": [
