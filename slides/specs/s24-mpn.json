@@ -638,7 +638,7 @@
         "script": [
           "TKI 出現之後，移植從 CML 的首選退到第二、第三甚至第四線。Imatinib 讓大約 60% 的病人長期控制良好，少數人甚至可以停藥。沒有達到長期控制的病人，大約一半可以在第二代、第三代 TKI 或 asciminib 重新取得緩解。",
           "第二代有 bosutinib、dasatinib、nilotinib，第一年的 complete cytogenetic remission 大約 80%，imatinib 是 65%，所以 dasatinib 和 nilotinib 已核准作為第一線。對 T315I 有效的只有 ponatinib 和作用在 ABL myristoyl pocket 的 STAMP inhibitor asciminib，這一點很常考。",
-          "TKI 為什麼治不好？因為 quiescent 的白血病幹細胞不依賴 BCR-ABL signaling，TKI 打不到。RQ-PCR 在 3 個月和 6 個月看 BCR-ABL 下降速度，可以在第一年內找出日後需要移植的人。Autologous HCT 目前不建議，EBMT 每年只剩 0 到 1 例。",
+          "TKI 治不好 CML 的原因在 quiescent 的白血病幹細胞，它們不依賴 BCR-ABL signaling，TKI 打不到。RQ-PCR 在 3 個月和 6 個月看 BCR-ABL 下降速度，可以在第一年內找出日後需要移植的人。Autologous HCT 目前不建議，EBMT 每年只剩 0 到 1 例。",
           "這張表和移植的關係在最下面一列。BCR-ABL 在 3 個月、6 個月下降不夠快的病人，長期對 TKI 的反應通常不好，就可以在第一年內、還在 chronic phase 的時候，冷靜地規劃移植，而不是等到 blast crisis 再緊急送。"
         ]
       }
@@ -861,7 +861,7 @@
         "script": [
           "答案是 C。T315I 只有第三代的 ponatinib 和 STAMP inhibitor asciminib 有效，所以換 nilotinib 的 A 和加量 dasatinib 的 B 都不對，B 還延後了 HLA typing。",
           "主要陷阱是 D。T315I 和在 TKI 治療中從 CP 進展到 AP，都是移植適應症，但第 77 章的建議是立刻找 donor、轉介移植中心，同時用 TKI 重新取得反應，再進行移植。帶著活躍疾病直接移植，結果會比較差。E 的 autologous HCT 在 CML 已經不建議。",
-          "記住 phase 才是決定移植結果的因素，前面用過幾種 TKI 反而不影響，所以重點是讓病人在進入 BC 之前完成移植。",
+          "Phase 才是決定移植結果的因素，前面用過幾種 TKI 反而不影響，所以重點是讓病人在進入 BC 之前完成移植。",
           "AP 的處理要個別化，但 donor search 和轉介要快，因為這類病人不移植的結果不好。"
         ]
       }

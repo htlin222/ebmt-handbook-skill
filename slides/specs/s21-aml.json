@@ -92,7 +92,7 @@
         [
           "Fit adults",
           "Ara-C 7–10 days + anthracycline 3 days",
-          "CR 70–90%; favorable-risk OS about 60–70%"
+          "CR 70–90%; favorable-risk OS 60–70%"
         ],
         [
           "FLT3-mutated",
@@ -184,7 +184,7 @@
         2.4,
         9.2
       ],
-      "fontSize": 16,
+      "fontSize": 15,
       "caption": "NPM1 rows apply only without adverse-risk cytogenetics. Children use a different poor-risk list (backup).",
       "notes": {
         "min": 1.5,
@@ -269,7 +269,7 @@
       "rows": [
         [
           "Target",
-          "Leukaemia-aberrant or different-from-normal phenotype",
+          "LAIP or different-from-normal phenotype",
           "Fusion gene or NPM1 mutation"
         ],
         [
@@ -290,7 +290,7 @@
         [
           "Main use",
           "Early response; post-remission choice",
-          "Response and serial pre-emptive monitoring"
+          "Serial pre-emptive monitoring"
         ]
       ],
       "colW": [
@@ -299,7 +299,7 @@
         4.4
       ],
       "fontSize": 17,
-      "caption": "Ch. 70: MRD negativity is an ELN response end point in haematological CR. Ch. 71: about a quarter with flow MRD ≤ 0.1% after course 1 still relapse.",
+      "caption": "Ch. 70: MRD negativity is an ELN response end point. Ch. 71: about ¼ with flow MRD ≤ 0.1% after course 1 still relapse.",
       "cite": "Versluis J, et al. EBMT Handbook 8th ed. 2024; Ch. 70 · Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
         "min": 1.5,
@@ -599,9 +599,9 @@
         ]
       ],
       "colW": [
-        2.6,
-        4.3,
-        4.7
+        2.2,
+        4.6,
+        4.8
       ],
       "fontSize": 16,
       "caption": "5–15% of AML; median age about 40; about 10% follow cytotoxics or radiation. RT-PCR is sensitive and gives the isoform for MRD; karyotype misses about 20%.",
@@ -722,12 +722,12 @@
         [
           "CR1 indication",
           "ELN 2022 risk + MRD + TRM",
-          "Poor-risk genetics (about 30%) ± MRD after course 1–2"
+          "Poor-risk genetics (about 30%) ± early MRD"
         ],
         [
           "No HCT in CR1",
           "Favorable MRD−; APL in molecular CR",
-          "CBF, NPM1, CEBPA bZIP; APL; myeloid leukaemia of DS"
+          "CBF, NPM1, CEBPA bZIP; APL; ML-DS"
         ],
         [
           "Conditioning",
@@ -941,7 +941,7 @@
         [
           "Karyotype t(15;17)(q22;q21)",
           "Very specific; extra anomalies in 30% (+8 most often)",
-          "Sensitivity 80%; false-negative in 20%"
+          "Sensitivity 80%; 20% false-negative"
         ],
         [
           "FISH PML-RARA",
@@ -951,7 +951,7 @@
         [
           "RT-PCR",
           "Specific, rapid, sensitive; isoform allows MRD",
-          "Occasional artefacts and contamination"
+          "Artefacts, contamination"
         ],
         [
           "Anti-PML (PG-M3) staining",
@@ -965,9 +965,9 @@
         ]
       ],
       "colW": [
-        3.4,
+        3.2,
         4.6,
-        3.6
+        3.8
       ],
       "fontSize": 17,
       "notes": {

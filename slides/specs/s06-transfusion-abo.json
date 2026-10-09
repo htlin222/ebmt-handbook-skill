@@ -629,6 +629,7 @@
           "這是 Table 24.1 的 major 和 bidirectional 部分，適用 phase II 和 phase III。",
           "Major mismatch 的邏輯是，紅血球要配合病人，因為病人身上有 anti-donor 抗體；血漿要配合 donor，因為血漿不能帶著抗體去攻擊正在長出來的 donor 紅血球。O 型病人接受 A 型 graft，紅血球一律 O，血小板和血漿第一選擇 A，血漿第二選擇 AB。O 給 B 也一樣，把 A 換成 B。",
           "Donor 是 AB 型的時候，血漿和血小板第一選擇都是 AB，血漿沒有第二選擇。A 型病人接受 AB graft，紅血球可以用 A 或 O，排序在前的優先。",
+          "O 型病人接受 AB graft 這一列，紅血球仍然只能用 O，血小板和血漿都以 AB 為第一選擇。",
           "Bidirectional 的 A 和 B 互換，兩個方向都有抗體，所以紅血球只能用 O，血漿只能用 AB，血小板第一選擇也是 AB。",
           "背法可以這樣想。Major mismatch 的紅血球跟著病人，血漿跟著 donor；donor 是 AB 時，血漿只有 AB 一種選擇。A 型病人接受 AB graft，血小板第二選擇是 A、B、O；B 型病人接受 AB graft 則是 B、A、O，病人的血型總是排在前面。",
           "血小板第二選擇常常列了三種，排在越前面越好，這是因為血小板不一定拿得到理想血型。考試常拿 O 給 A 這一列出題。"

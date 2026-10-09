@@ -433,7 +433,7 @@
       "notes": {
         "min": 2.0,
         "script": [
-          "標題的數字來自 EBMT 的多國前瞻性研究裡，一半的 Gram-negative 對 non-carbapenem β-lactam 抗藥，而這正是 febrile neutropenia 的 first-line；18.5% 對 carbapenem 抗藥，35% 是 MDR。Allo 比 auto 高，東南歐比西北歐高。Carbapenem-resistant 的危險因子是同一種菌的 colonisation 或感染、carbapenem 治療中 breakthrough，以及住過 ICU。",
+          "標題的數字來自 EBMT 的多國前瞻性研究，一半的 Gram-negative 對 non-carbapenem β-lactam 抗藥，而這正是 febrile neutropenia 的 first-line；18.5% 對 carbapenem 抗藥，35% 是 MDR。Allo 比 auto 高，東南歐比西北歐高。Carbapenem-resistant 的危險因子是同一種菌的 colonisation 或感染、carbapenem 治療中 breakthrough，以及住過 ICU。",
           "ESBL 菌通常對 ceftriaxone 抗藥，體外可能看起來對其他 β-lactam 敏感，但嚴重感染仍然用 carbapenem，pip-tazo、ceftazidime、cefepime 即使藥敏顯示敏感也不建議。Enterobacter cloacae、Klebsiella aerogenes、Citrobacter freundii 有 inducible AmpC，治療中會產生抗藥，首選也是 carbapenem。",
           "Carbapenemase 分三類。KPC 用 meropenem-vaborbactam 或 ceftazidime-avibactam，結果比舊的 colistin-based regimen 好，腎毒性也低。OXA-48-like 用 ceftazidime-avibactam。Metallo-β-lactamase，像 NDM、VIM，用 aztreonam 加 ceftazidime-avibactam，或 cefiderocol。這組配對考試很愛考，尤其 MBL 要加 aztreonam。",
           "Carbapenem 抗藥在 Enterobacterales 中以 Klebsiella pneumoniae 最常見。這幾個新藥在免疫低下 BSI 病人的臨床資料其實很有限，而且治療中、甚至沒有暴露過也有抗藥的報告，所以藥敏結果和感染科會診很重要。新的 β-lactam 組合腎毒性明顯低於 polymyxin 或 aminoglycoside 為主的 regimen。",
