@@ -423,7 +423,7 @@
         },
         {
           "label": "After BTKi",
-          "box": "Brexu-cel (CD19 CAR-T)",
+          "box": "Brexu-cel, a CD19 CAR-T",
           "out": "New standard; safer\nthan allo-HCT"
         },
         {
@@ -627,7 +627,8 @@
           "這兩欄的比較是典型考法，auto 比較安全、allo 比較少復發。不能做強烈治療的復發病人，可以用 gemcitabine 或 CD30 陽性者用 brentuximab vedotin。",
           "另外，PTCL 的 allo 表格裡 graft failure 小於 10%，GVHD prophylaxis 用 CsA、CsA 加 MTX 或 CsA 加 MMF。表格的資料來源包括 Dodero 2012，DLI 有反應，支持 graft-versus-lymphoma effect 存在。考題常拿 auto 和 allo 的 TRM、復發率做對比，兩欄數字最好一起記。"
         ]
-      }
+      },
+      "captionY": 5.6
     },
     {
       "type": "chain",
@@ -659,8 +660,8 @@
       "branches": [
         {
           "label": "First line",
-          "box": "Same regimens as HIV-negative",
-          "out": "Keep cART\nthroughout"
+          "box": "Standard first-line regimens",
+          "out": "As if HIV-negative;\nkeep cART"
         },
         {
           "label": "Chemosensitive relapse",

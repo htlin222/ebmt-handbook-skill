@@ -216,7 +216,6 @@
       "title": "The Ch. 72 algorithm sends Ph+ and high-risk Ph− ALL to allo-HCT",
       "fig": "ch72-fig1",
       "alt": "Therapeutic algorithm for newly diagnosed Ph-negative and Ph-positive ALL (Fig. 72.1)",
-      "caption": "Ph−: induction and consolidation ± rituximab; MRD ≥ 10⁻³ leads to blinatumomab; high risk goes to allo-HCT, standard risk to maintenance. Ph+: imatinib ± low-dose chemotherapy, allo-HCT, then TKI maintenance (Fig. 72.1).",
       "notes": {
         "min": 1.5,
         "script": [
@@ -712,13 +711,13 @@
         ]
       ],
       "colW": [
-        2.6,
-        4.2,
-        5.0
+        2.4,
+        3.9,
+        5.5
       ],
       "fontSize": 16,
-      "caption": "FORUM (Peters 2021): TBI/VP16 gave about 20% better OS and EFS and lower NRM than chemo-conditioning above age 4.",
-      "captionY": 5.65,
+      "caption": "FORUM (Peters 2021): TBI/VP16 gave ~20% better OS and EFS, lower NRM than chemo above age 4.",
+      "captionY": 5.85,
       "cite": "Peters C, et al. EBMT Handbook 8th ed. 2024; Ch. 73 · Stelljes M, et al. EBMT Handbook 8th ed. 2024; Ch. 72",
       "notes": {
         "min": 1.5,
@@ -843,7 +842,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Paediatric CR1 (Table 73.1)",
+      "eyebrow": "Paediatric CR1 (Table 73.1)",
       "title": "AIEOP-BFM ALL 2009 ties paediatric CR1 allografts to PCR-MRD",
       "head": [
         "Feature (hierarchical)",
@@ -909,7 +908,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Paediatric relapse",
+      "eyebrow": "Paediatric relapse",
       "title": "Early B-ALL relapse and any T-ALL relapse need an allograft in children",
       "head": [
         "Relapse (Ch. 73, IntReALL)",
@@ -964,7 +963,7 @@
     {
       "type": "blocks",
       "backup": true,
-      "eyebrow": "Backup · Auto-HCT",
+      "eyebrow": "Auto-HCT",
       "title": "Auto-HCT is not a standard therapy for adult ALL",
       "blocks": [
         {

@@ -126,14 +126,14 @@
         4.2
       ],
       "fontSize": 15,
-      "caption": "Targeted drugs need QTc, differentiation-syndrome and cytopenia monitoring. Most failures come from relapse in CR1, not induction failure or TRM.",
+      "caption": "Most treatment failures are relapses from CR1, not induction failure or TRM.",
       "notes": {
         "min": 1.5,
         "script": [
           "先看移植之前的第一線治療。標準的 intensive induction 從 1980 年代到現在都是 Ara-C 給 7 到 10 天，加上 daunorubicin 或 idarubicin 給 3 天，CR rate 大約 70 到 90%。Favorable-risk 的病人 OS 大約 60 到 70%，intermediate 和 adverse 就差很多。",
           "Targeted therapy 方面，FLT3 mutation 的病人在 induction 和 consolidation 加上 midostaurin，依據是 RATIFY 試驗的存活好處。60 到 75 歲的 therapy-related 或 secondary-type AML，CPX-351 比標準 induction 好。Gemtuzumab ozogamicin 是針對特定次族群的另一個選擇。",
           "不適合 intensive 治療的病人，azacitidine 加 venetoclax 已經是新的標準；IDH1 mutation 的則可以用 ivosidenib 加 azacitidine。這些藥要注意 QTc、differentiation syndrome 和長時間的血球低下。",
-          "這張表最重要的訊息在最下面那行。AML 治療失敗主要是 CR1 之後復發，而不是 induction 失敗或 TRM，所以後面的重點都放在 CR1 之後要怎麼鞏固。",
+          "這張表最重要的訊息在下面的 caption。AML 治療失敗主要是 CR1 之後復發，而不是 induction 失敗或 TRM，所以後面的重點都放在 CR1 之後要怎麼鞏固。",
           "臨床上這張表決定病人用哪條路走到 CR1。走 intensive 路線的病人，後面才有 Table 70.1 的選擇；用 azacitidine 加 venetoclax 這類低強度方案的老年人，現在也有不少在緩解後接受移植，第 70 章的 practical issues 有提到。"
         ]
       }
@@ -184,7 +184,7 @@
         2.4,
         9.2
       ],
-      "fontSize": 15,
+      "fontSize": 16,
       "caption": "NPM1 rows apply only without adverse-risk cytogenetics. Children use a different poor-risk list (backup).",
       "notes": {
         "min": 1.5,
@@ -240,7 +240,7 @@
         4.0,
         7.6
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "caption": "Döhner 2022, as summarised in Ch. 70. ASXL1 and RUNX1 were already adverse in ELN 2017.",
       "notes": {
         "min": 1.5,
@@ -298,7 +298,7 @@
         4.8,
         4.4
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "caption": "Ch. 70: MRD negativity is an ELN response end point in haematological CR. Ch. 71: about a quarter with flow MRD ≤ 0.1% after course 1 still relapse.",
       "cite": "Versluis J, et al. EBMT Handbook 8th ed. 2024; Ch. 70 · Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
@@ -470,7 +470,7 @@
         4.2,
         7.4
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "cite": "Versluis J, et al. EBMT Handbook 8th ed. 2024; Ch. 70 · Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
         "min": 2.0,
@@ -548,7 +548,7 @@
         4.0
       ],
       "fontSize": 16,
-      "caption": "Ch. 70: consider maintenance or pre-emptive therapy for high-risk, secondary or poor-mutation AML. Drug details: Session 19.",
+      "caption": "Ch. 70: consider maintenance or pre-emptive therapy in high-risk AML (Session 19).",
       "cite": "Versluis J, et al. EBMT Handbook 8th ed. 2024; Ch. 70 · Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
         "min": 1.5,
@@ -696,7 +696,7 @@
         3.6
       ],
       "fontSize": 16,
-      "caption": "Table 70.2. *Ch. 70 does not specify the type. EBMT registry, CR2 (Sanz 2021): OS 82% auto vs 64% allo (p = 0.001); relapse 23% vs 28% (p = 0.3).",
+      "caption": "Table 70.2. *Type not specified. EBMT, CR2 (Sanz 2021): OS 82% auto vs 64% allo; relapse 23% vs 28%.",
       "notes": {
         "min": 2.0,
         "script": [
@@ -756,7 +756,7 @@
         4.8
       ],
       "fontSize": 15,
-      "caption": "AML SCT-BFM 2007 (BU/CY/MEL): TRM 9% under 12 years vs 31% in older children and teenagers; avoid or use with caution in this age group.",
+      "caption": "BU/CY/MEL (AML SCT-BFM 2007): TRM 9% under age 12, 31% above; avoid or use with caution in teenagers.",
       "cite": "Versluis J, et al. EBMT Handbook 8th ed. 2024; Ch. 70 · Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
         "min": 1.5,
@@ -915,7 +915,7 @@
         2.6,
         2.5
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "caption": "Table 70.3, selected rows. *Leukemia-free survival. No randomized trials exist; all data are retrospective.",
       "captionY": 4.9,
       "notes": {
@@ -969,7 +969,7 @@
         4.6,
         3.6
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "notes": {
         "script": [
           "四種診斷方法各有長短。RT-PCR 最實用，因為它能分出 isoform，之後才能追 MRD。少見的 RARA 變異 partner 中，PLZF 和 STAT5B 對 ATRA 有抗性，這是考題偶爾會出的點。"
@@ -1019,7 +1019,7 @@
         2.8,
         8.8
       ],
-      "fontSize": 16,
+      "fontSize": 17,
       "cite": "Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
         "script": [

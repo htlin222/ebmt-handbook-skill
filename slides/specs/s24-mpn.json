@@ -384,7 +384,7 @@
           "Donor 的影響有多大，看 MPD-RC 101。66 位病人用 MEL/FLU RIC，sibling donor 的 OS 75%，unrelated donor 只有 32%，差別來自 NRM，22% 對 59%。Haplo 加 PTCy 還在研究中，EBMT 資料的 5 年存活只有 38%。Cord blood 的 graft failure 很高。",
           "Conditioning 強度則沒有 prospective 比較，回溯性資料 MAC 和 RIC 結果相近。因為病人年紀偏大，RIC 占 EBMT 登錄的 myelofibrosis 移植大約三分之二。Accelerated phase 的移植結果和 chronic phase 差不多，blast phase 就明顯較差，所以別等到轉成 blast phase 才送。",
           "這些資料放在一起看，可以得到一個實用的順序，和書上 Figure 77.1 一致：先找 matched sibling，再找 matched unrelated，最後才是 mismatched unrelated、haplo 或 cord。Conditioning 則依年紀、疾病狀態和 comorbidity 選，強度本身不是決定結果的主要因素。",
-          "另外 high molecular 或 cytogenetic risk 的病人，提高 conditioning 強度也沒有好處，這是 Gagelmann 2022 的國際合作分析。"
+          "EBMT 登錄裡 RIC 用得多，是因為毒性較低、病人年紀較大，不是因為療效比較好。"
         ]
       }
     },
@@ -408,7 +408,7 @@
           "ELN 和 EBMT 建議移植前至少用 ruxolitinib 2 個月，改善 constitutional symptoms、縮小脾臟。反白的這一步最常考，conditioning 之前要小心慢慢減量，避免 rebound phenomenon，不能突然停。",
           "第二格是時機。EBMT 的資料顯示，在 ruxolitinib 還有反應時去移植，結果比拖到 ruxolitinib 失敗才移植好。所以 ruxolitinib 是移植的 bridge，不是用來延後移植的理由。",
           "脾臟非常大時可以考慮 splenectomy，脾臟放射則只有個案報告。書上的 Figure 77.1 也把 iron chelation 列為移植前的準備。",
-          "為什麼要強調慢慢減量？突然停 ruxolitinib 可能出現症狀反彈和脾臟快速變大，剛好發生在 conditioning 期間，會讓病人狀況變差。所以要和移植團隊事先排好減量的時間表，讓停藥和 conditioning 銜接起來。",
+          "突然停 ruxolitinib 會出現 rebound phenomenon，如果剛好發生在 conditioning 期間，病人的狀況會變差。所以要和移植團隊事先排好減量的時間表，讓停藥和 conditioning 銜接起來。",
           "Ruxolitinib 在這裡的角色是讓病人以比較好的狀態進入移植，症狀改善、脾臟縮小、體能變好，Karnofsky 也可能跟著改善，而 Karnofsky 本身就是 MTSS 的一項。"
         ]
       }
@@ -432,7 +432,7 @@
           "移植後的追蹤靠 driver mutation。大約 90% 的 myelofibrosis 帶有 JAK2 V617F、CALR 或 MPL 其中一個，可以用高敏感度的 qPCR 或 digital PCR 在周邊血追 MRD。",
           "反白的是關鍵時間點。Hamburg 的單中心經驗發現，day 180 還沒達到 molecular remission 的病人，之後臨床復發明顯較多。因為有 graft-versus-myelofibrosis effect，分子或血液學復發時可以給 DLI，重新誘導 molecular remission。Figure 77.1 的做法是先停 calcineurin inhibitor，MRD 仍陽性再考慮 DLI。",
           "骨髓纖維化在移植後消退得很快，day 100 大約 60% 達到完全或接近完全消退，day 180 增加到 90%。纖維化消得越快，長期結果越好，這也說明 fibrosis 是一個動態的過程。",
-          "實務上，移植前就要知道病人帶哪一個 driver，移植後才有 marker 可追。三陰性的病人大約占一成，就只能靠 chimerism 和骨髓來追。",
+          "實務上，移植前就要知道病人帶哪一個 driver，移植後才有 marker 可追。反過來算，大約一成的病人沒有這三個 marker 可以追。",
           "DLI 在 myelofibrosis 有效，本身就是 graft-versus-myelofibrosis effect 的證據。最早的報告是移植失敗後給 DLI 仍能誘導緩解。"
         ]
       }
@@ -636,7 +636,7 @@
       "notes": {
         "min": 1.5,
         "script": [
-          "TKI 出現之後，移植從 CML 的首選退到第二、第三甚至第四線。Imatinib 讓大約 60% 的病人長期控制良好，少數人甚至可以停藥。Imatinib 失敗的病人，大約一半可以在第二代或第三代 TKI 重新取得緩解。",
+          "TKI 出現之後，移植從 CML 的首選退到第二、第三甚至第四線。Imatinib 讓大約 60% 的病人長期控制良好，少數人甚至可以停藥。沒有達到長期控制的病人，大約一半可以在第二代、第三代 TKI 或 asciminib 重新取得緩解。",
           "第二代有 bosutinib、dasatinib、nilotinib，第一年的 complete cytogenetic remission 大約 80%，imatinib 是 65%，所以 dasatinib 和 nilotinib 已核准作為第一線。對 T315I 有效的只有 ponatinib 和作用在 ABL myristoyl pocket 的 STAMP inhibitor asciminib，這一點很常考。",
           "TKI 為什麼治不好？因為 quiescent 的白血病幹細胞不依賴 BCR-ABL signaling，TKI 打不到。RQ-PCR 在 3 個月和 6 個月看 BCR-ABL 下降速度，可以在第一年內找出日後需要移植的人。Autologous HCT 目前不建議，EBMT 每年只剩 0 到 1 例。",
           "這張表和移植的關係在最下面一列。BCR-ABL 在 3 個月、6 個月下降不夠快的病人，長期對 TKI 的反應通常不好，就可以在第一年內、還在 chronic phase 的時候，冷靜地規劃移植，而不是等到 blast crisis 再緊急送。"
@@ -667,8 +667,8 @@
         },
         {
           "label": "CP, earlier failure",
-          "box": "2nd-line failure or intolerance",
-          "out": "Debated: switch TKI or transplant"
+          "box": "First-line 2nd-gen TKI fails",
+          "out": "Debated: next TKI or HCT"
         }
       ],
       "invert": 0,
@@ -731,7 +731,7 @@
         "script": [
           "CML 最好的 conditioning 和 GVHD prophylaxis 其實還沒有定論，書上的立場是這樣。MAC 用 CY 加 BU 或 CY 加 TBI，長期存活最好。RIC 是為了讓年紀大或有 comorbidity 的病人也能移植，但沒有比 MAC 好，主要是復發較多。所以老人或 comorbidity 多的人用 FLU 加 BU 或 MEL 的 RIC，其他人，尤其是 advanced phase，要用 MAC 把病控制好。",
           "Stem cell source 大約三分之二用 PBSC，整體結果沒有差別，BM 的 chronic GVHD 比較少也比較輕。在 advanced disease 或用 RIC 時，PBSC 可能可以降低 graft failure 和復發。",
-          "GVHD prophylaxis 的標準仍是 CSA 加 short-course MTX。1980 年代用 T-cell depletion 降低 GVHD，但復發增加，很多中心就放棄了，CML 是最早證明 graft-versus-leukaemia effect 的疾病之一。",
+          "GVHD prophylaxis 的標準仍是 CSA 加 short-course MTX。1980 年代用 T-cell depletion 降低 GVHD，但復發增加，很多中心就放棄了。",
           "PTCy 讓 haplo 和 mismatched unrelated donor 也可行。EBMT 的 CML 資料，haplo 的 OS 和 MUD 相近，RFS 稍低，但和 matched related 比沒有差。MUD 或 MMUD 用 PTCy 和傳統 CNI 加 MTX 相比，OS、RFS、復發和 NRM 都沒有差別。",
           "在病房上的應用是這樣：一個年輕、CP 的 CML 病人，有 matched sibling，標準做法就是 MAC 加 CSA 和 MTX，不需要刻意選 RIC。年紀大、comorbidity 多，才改用 FLU 為主的 RIC，並且接受較高的復發風險，移植後更要密切追 BCR-ABL1。"
         ]
@@ -790,6 +790,7 @@
           "三條符合一條即可。BCR-ABL/ABL1 超過 0.02%，連續三次、每次至少間隔 4 週；或三次明顯上升，最後兩次超過 0.02%；或超過 0.05%，兩次、間隔至少 4 週。0.02 配三次，0.05 配兩次，這兩組數字不要搞混。",
           "CP 移植、CP 復發的病人，DLI 可以讓 60 到 90% 再緩解，逐步加量可以降低 GVHD。EBMT 328 位的 5 年存活 69%，DLI 相關死亡 11%，38% 出現某種 GVHD，有 GVHD 的人死亡風險高 2.3 倍。DLI 後 GVHD 的危險因子是第一次的 T-cell 劑量、移植到 DLI 的間隔和 donor 類型。",
           "TKI 和 DLI 可以合併，但先後順序還沒有定論。EBMT 431 位只有 42% 達到某種緩解，可能因為一半以上原本就在 advanced phase 移植。預防性 TKI maintenance 在 CIBMTR 資料沒有好處。",
+          "逐步加量的概念來自 Mackinnon 1995，從低劑量開始，沒有反應再往上加，讓 graft-versus-leukaemia 和 GVHD 在一定程度上分開。",
           "這也是 CML 和其他疾病不同的地方，有一個敏感、可定量的 marker，可以在血液學復發前好幾個月就介入，DLI 的效果也最好。"
         ]
       }
@@ -825,7 +826,8 @@
         "script": [
           "答案是 B。年紀 58，0 分；constitutional symptoms 1 分；Hb 小於 100 在 DIPSS 是 2 分；白血球超過 25 是 1 分；blast 小於 1%，0 分。總共 4 分，intermediate-2，70 歲以下建議移植。選 D 的人用了 IPSS 的算法，忘了貧血在 DIPSS 是 2 分。",
           "A 是主要陷阱。Ruxolitinib 用來改善症狀、縮小脾臟，但資料顯示在還有反應時移植，比等失敗再移植好。C 錯在突然停藥，會有 rebound，要在 conditioning 前小心減量。",
-          "E 也不對，myelofibrosis 只有 allo-HCT 能治癒，脾臟處理只是移植前的輔助。脾臟對 ruxolitinib 沒反應又非常大，才考慮 splenectomy 或脾臟放射。"
+          "E 也不對，myelofibrosis 只有 allo-HCT 能治癒，脾臟處理只是移植前的輔助。脾臟對 ruxolitinib 沒反應又非常大，才考慮 splenectomy 或脾臟放射。",
+          "如果把題目的年紀改成 72 歲，DIPSS 一樣是 4 分，但已經超過 EBMT/ELN 建議的 70 歲上限，答案就要重新考慮。"
         ]
       }
     },
@@ -859,7 +861,8 @@
         "script": [
           "答案是 C。T315I 只有第三代的 ponatinib 和 STAMP inhibitor asciminib 有效，所以換 nilotinib 的 A 和加量 dasatinib 的 B 都不對，B 還延後了 HLA typing。",
           "主要陷阱是 D。T315I 和在 TKI 治療中從 CP 進展到 AP，都是移植適應症，但第 77 章的建議是立刻找 donor、轉介移植中心，同時用 TKI 重新取得反應，再進行移植。帶著活躍疾病直接移植，結果會比較差。E 的 autologous HCT 在 CML 已經不建議。",
-          "記住 phase 才是決定移植結果的因素，前面用過幾種 TKI 反而不影響，所以重點是讓病人在進入 BC 之前完成移植。"
+          "記住 phase 才是決定移植結果的因素，前面用過幾種 TKI 反而不影響，所以重點是讓病人在進入 BC 之前完成移植。",
+          "書上說 AP 的處理要個別化，但 donor search 和轉介一定要快，因為在 TKI 治療下進展到 AP 的病人，不移植的結果不好。"
         ]
       }
     },
@@ -883,7 +886,6 @@
         "min": 0.75,
         "script": [
           "第三題回到移植後。45 歲女性，CML 第一個 chronic phase，接受 sibling donor 的 MAC allo-HCT。免疫抑制劑已停，沒有 GVHD。第 5、6、7 個月的 BCR-ABL/ABL1 分別是 0.03%、0.04% 和 0.06%，骨髓 cytogenetics 正常。最適當的處置是什麼？",
-          "先對照三條 molecular relapse 的定義，再決定介入的方式。",
           "注意幾個細節：移植已經超過 4 個月，三次檢體間隔各約 4 週，數值持續上升。選項 A 是第一年都觀察，B 是 molecular relapse、給逐步加量的 DLI，可以合併 TKI，C 是第二次移植，D 是一次給大劑量 DLI，E 是等 cytogenetic relapse 再處理。",
           "[Pause for answers.]"
         ]
@@ -893,7 +895,8 @@
         "script": [
           "答案是 B。移植超過 4 個月，三次檢體、間隔至少 4 週，都超過 0.02%，而且持續上升，同時符合 (a) 和 (b)，就是 molecular relapse，最後一次 0.06% 也接近 (c) 的 0.05% 門檻。",
           "A 是主要陷阱。移植後 PCR 陽性只在前 3 個月左右算常見，不是第一年都可以觀察。E 等到 cytogenetic relapse 才處理，就錯過了疾病量最低、DLI 效果最好的時機。",
-          "CP 復發的 DLI 有 60 到 90% 能再緩解。D 錯在一次給大劑量，逐步加量才能降低 GVHD，而 DLI 後的 GVHD 會讓死亡風險增加 2.3 倍。TKI 可以合併，順序沒有定論。"
+          "CP 復發的 DLI 有 60 到 90% 能再緩解。D 錯在一次給大劑量，逐步加量才能降低 GVHD，而 DLI 後的 GVHD 會讓死亡風險增加 2.3 倍。TKI 可以合併，順序沒有定論。",
+          "反過來說，如果移植後才 2 個月就看到 0.03%，那不符合定義，可以繼續追蹤，A 選項就是想讓人把這兩種情況混在一起。"
         ]
       }
     },
