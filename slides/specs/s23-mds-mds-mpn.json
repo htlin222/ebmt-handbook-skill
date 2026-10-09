@@ -138,7 +138,7 @@
     3.6,
     8
    ],
-   "fontSize": 16,
+   "fontSize": 15,
    "caption": "Mild: PLT < 100 or ANC < 0.8 × 10⁹/L · moderate: Hb 8–10 g/dL or PLT < 50 · severe anaemia: Hb < 8 g/dL",
    "notes": {
     "min": 1.5,

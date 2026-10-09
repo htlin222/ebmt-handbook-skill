@@ -732,7 +732,7 @@
         ],
         [
           "Conditioning",
-          "MAC if < 50 y (refractory); RIC otherwise",
+          "Refractory AML: MAC if < 50 y; no preferred RIC",
           "MAC, TBI-free; BU/CY with BU drug monitoring"
         ],
         [
