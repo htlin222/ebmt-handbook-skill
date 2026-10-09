@@ -9,7 +9,7 @@
  "coverNotes": {
   "min": 0.5,
   "script": [
-   "各位好，第 26 堂談 hemoglobinopathy 的移植，也就是 sickle cell disease 和 thalassemia，對應 EBMT Handbook 第 80 章。兩個病都是非惡性疾病，移植的目標是治癒，同時不留下 GVHD 和長期毒性。接下來會講年齡切點、Pesaro 分級、conditioning 和 donor 選擇，最後用三題 board-style 題目收尾。"
+   "各位好，第 26 堂談 hemoglobinopathy 的移植，也就是 sickle cell disease 和 thalassemia，對應 EBMT Handbook 第 80 章。兩個病都是非惡性疾病，移植的目標是治癒，同時不留下 GVHD 和長期毒性。接下來會講年齡切點、Pesaro 分級、conditioning 和 donor 選擇，最後用三題 board-style 題目收尾。地中海型貧血和鐮刀型貧血的移植邏輯很像，但有幾個關鍵地方剛好相反。"
   ]
  },
  "references": [
@@ -67,7 +67,8 @@
     "script": [
      "今天分四段。前兩段是 sickle cell disease，先看藥物能做到什麼、registry 的移植結果和年齡切點，再看 conditioning 跟 haploidentical 移植怎麼一步步改良。",
      "第三段是 thalassemia，從 Pesaro classification 講到年齡、fludarabine-based conditioning 和 donor 選擇，這段最長，因為考題最多。",
-     "最後一段放兩個病共通的議題，包括 mixed chimerism、gene therapy 和移植後的鐵負荷，再用三題練習收尾。兩個病在 unrelated donor 上的結論剛好相反，這是今天最值得帶走的對比，後面會反覆回到這一點。"
+     "最後一段放兩個病共通的議題，包括 mixed chimerism、gene therapy 和移植後的鐵負荷，再用三題練習收尾。兩個病在 unrelated donor 上的結論剛好相反，這是今天最值得帶走的對比，後面會反覆回到這一點。",
+     "每一段的時間標在右邊。前兩段合計大約九分鐘，thalassemia 八分半，最後一段含題目九分多鐘。三題分別對應 donor 選擇、mixed chimerism 和 Pesaro 分級。"
     ]
    }
   },
@@ -128,7 +129,8 @@
     "script": [
      "先看 sickle cell disease 的藥物治療，這是 Table 80.1，改編自 de la Fuente 2020。Hydroxyurea 和慢性輸血是標準治療。Hydroxyurea 提高 HbF 和 MCV，降低白血球和網狀紅血球，用來預防 vaso-occlusive crisis、acute chest syndrome 和 primary stroke，嚴重貧血也建議使用。慢性輸血則是壓抑自身造血，降低含 HbS 紅血球的比例。",
      "新藥有三個。L-glutamine 在美國 2017 年核准給五歲以上，歐洲沒有核准。Voxelotor 是 HbS polymerization 的 allosteric 抑制劑，可以提高血紅素、降低溶血指標。Crizanlizumab 是抗 P-selectin 的單株抗體，減少細胞黏附，但 2023 年的 phase III 沒有達到主要終點。",
-     "最下面一行才是這張的重點。這些藥能控制症狀，但對慢性血管病變的影響難以預測，allo-HCT 仍是唯一的根治方法。新藥的上市狀態變動很快，引用前要再確認。"
+     "最下面一行才是這張的重點。這些藥能控制症狀，但對慢性血管病變的影響難以預測，allo-HCT 仍是唯一的根治方法。新藥的上市狀態變動很快，引用前要再確認。",
+     "在門診跟家屬談移植時，常被問到為什麼不繼續用藥就好。書上的立場是，藥物控制的是急性事件和溶血，卻沒辦法保證阻止慢性血管病變，所以移植要在器官損傷出現以前就開始討論。"
     ],
     "reminders": [
      "TO CONFIRM BEFORE PRESENTING: Table 80.1 lists voxelotor (≥ 12 y, USA 2019, EU 2022) and crizanlizumab (≥ 16 y, USA 2019, EU 2020) as approved, while the same table notes the crizanlizumab phase III failed its primary endpoint in 2023. Check their current marketing status (and Taiwan availability) before quoting."
@@ -174,7 +176,8 @@
     "script": [
      "這是 EBMT registry 近十年的兩年 overall survival，Table 80.2。SCD 兒童 95.6%，成人 93.5%；thalassemia 兒童 92.1%，成人 84.4%。",
      "最值得注意的是成人。成人 SCD 移植的歷史比 thalassemia 短得多，兩年 OS 卻比成人 thalassemia 高。Fig. 80.1 也顯示，成人 SCD 的移植數量這十年明顯上升，thalassemia 兒童仍是人數最多的一群。",
-     "Thalassemia 成人只有 84.4%，這個落差呼應等一下要講的年齡效應，thalassemia 移植越早做越好。"
+     "Thalassemia 成人只有 84.4%，這個落差呼應等一下要講的年齡效應，thalassemia 移植越早做越好。",
+     "這四個數字也提醒我們，移植在 hemoglobinopathy 已經不是實驗性治療。但書上也列出限制移植使用的障礙，包括找不到 donor、資訊不足、對移植的理解有限，還有非惡性疾病的病人和家屬，對 rejection、GVHD 和移植相關死亡的顧慮。"
     ]
    }
   },
@@ -228,7 +231,8 @@
      "Sickle cell disease 移植的目標，是在器官損傷變成不可逆以前，把骨髓換成 donor 的造血。各中心的 sibling 移植系列，OS 介於 91 到 100%，EFS 介於 73 到 100%。最大的資料是 EBMT、Eurocord 和 CIBMTR 合計 1000 例 sibling 移植，五年 EFS 91.4%、OS 92.9%，graft failure 23 例。",
      "年齡是最重要的預後因子。五歲以下的 OS 和 EFS 最好，所以 sibling 移植應該在併發症出現前早做。以 15 歲為切點，sibling 移植後 chronic GVHD 可以超過 20%。",
      "Unrelated donor 這點和多數疾病不同。Eapen 2019 顯示 SCD 用 MUD 的 EFS、OS 都比 sibling 差，chronic GVHD 明顯較多，13 歲以上更差。SCD 病人能找到 8/8 MUD 或 cord blood 的機率又不到 18%。",
-     "移植前要完整評估器官損傷，腦灌流、骨壞死都有逆轉的報告，但要先和病人談清楚期待。"
+     "移植前要完整評估器官損傷，腦灌流、骨壞死都有逆轉的報告，但要先和病人談清楚期待。",
+     "另外兩個資源也值得一提。Family-directed cord blood banking，在已有 SCD 孩子的家庭保存手足的臍帶血；Dovern 2023 的調查則顯示，成人 SCD 移植後身體、心理和社會健康都有改善。"
     ]
    }
   },
@@ -247,7 +251,8 @@
      "大約三到十歲這一段，主要風險是病毒感染、藥物動力學不好掌握，還有 VOD/SOS。SCD 本身幾乎不造成死亡，donor 可以是 MSD、MUD 或 haplo，視可得性而定。",
      "十到十八歲是谷底。鐵負荷少、不可逆的併發症還不多、VOD 風險低，病人可以自己同意，也還有機會做生育力保存，圖上建議 MUD 或 haplo。",
      "十八歲以後風險快速上升，包括 PRES 這類神經毒性、VOD、acute 和 chronic GVHD、alloimmunization、rejection、TRM，以及不可逆的 SCD 併發症。這時圖上建議 haplo，或者走 gene editing 和 gene therapy。",
-     "圖上的谷底在青少年，和前一張「五歲以下最好」的說法看起來不同。前一張講的是 sibling 移植的存活，這張講的是整體風險組合和沒有 sibling 時的 donor 選擇。"
+     "圖上的谷底在青少年，和前一張「五歲以下最好」的說法看起來不同。前一張講的是 sibling 移植的存活，這張講的是整體風險組合和沒有 sibling 時的 donor 選擇。",
+     "考試比較可能考的是這張圖的方向，年紀越大，越往 haplo 和基因治療走。"
     ],
     "reminders": [
      "Speaker's reading: Fig. 80.2 puts the lowest-risk window at about 10–18 years, while the text says MSD HCT outcomes are best under 5 years and cGVHD rises from age 13–15. The reconciliation in the last paragraph is the speaker's interpretation, not a sentence in Ch. 80."
@@ -309,7 +314,8 @@
      "Sickle cell disease 的 sibling 移植，gold standard 仍是 myeloablative conditioning，EFS 73 到 96%，OS 91 到 100%。代價是長期的移植相關毒性，對已經有器官損傷的病人特別明顯。",
      "傳統用 busulfan 加 cyclophosphamide 或 fludarabine，毒性和 GVHD 風險偏高，所以建議加 ATG。近年兒童和成人越來越常用 FTT，也就是 fludarabine、treosulfan、thiotepa。理由有兩個，內皮毒性較低、較少通過血腦屏障，而且比較能保留生育力。EBMT 中心實際用了哪些 regimen，可以看 Fig. 80.3。",
      "RIC 的目的在兒童和成人不一樣。兒童是為了保留生育力，成人是為了減少已經被疾病拖垮的器官所承受的毒性，期待的是穩定的 mixed chimerism。Fludarabine-based RIC 的早期和長期毒性都低；完全不用化療的 alemtuzumab 加 300 cGy TBI，DFS 92%、OS 100%。",
-     "考試常把 SCD 跟 thalassemia 的 conditioning 放在一起比。SCD 這邊的關鍵字是 MAC 加 ATG、FTT，以及在特定族群使用的 RIC。"
+     "考試常把 SCD 跟 thalassemia 的 conditioning 放在一起比。SCD 這邊的關鍵字是 MAC 加 ATG、FTT，以及在特定族群使用的 RIC。",
+     "選 conditioning 時，年齡和器官狀態要一起考慮。小孩的器官多半還好，重點放在生育力；成人常已有 SCD 造成的器官損傷，重點放在降低毒性。FTT 的優勢，書上引用的是 EBMT registry 資料，以及 Foell 2020 和 Faraci 2019 的研究。RIC 後 mixed chimerism 更常見，但在 hemoglobinopathy 這不一定是壞事，第四段會專門講。"
     ]
    }
   },
@@ -332,7 +338,8 @@
      "Haploidentical 移植讓幾乎每個 SCD 病人都找得到 donor。早期嘗試的 graft failure 高達 43%，所以各團隊回頭改良 conditioning。",
      "第一條路是 T-cell replete 加 PTCy。用 ATG、fludarabine、thiotepa、cyclophosphamide 加低劑量 TBI 的 nonmyeloablative conditioning，移植後再給 cyclophosphamide，OS 很好、graft failure 和死亡率都低。",
      "第二條路是 ex vivo 的 TCRαβ 和 CD19 depletion，conditioning 用 FTT 加 ATG。單中心經驗顯示 engraftment 快、GVHD 少，OS 和 DFS 和 sibling 移植相當，現在正在 NCT04201210 這個前瞻性分層試驗裡驗證。",
-     "Unrelated donor 在 SCD 的 GVHD 風險仍高，haplo 的結果則越來越接近 sibling。對沒有 matched donor 的多數 SCD 病人，haplo 已經是可行的根治選項。"
+     "Unrelated donor 在 SCD 的 GVHD 風險仍高，haplo 的結果則越來越接近 sibling。對沒有 matched donor 的多數 SCD 病人，haplo 已經是可行的根治選項。",
+     "這條演進線有兩個訊息。Haplo 在 SCD 的主要障礙是 graft failure，所以改良方向都在加強 conditioning，例如加入 thiotepa、ATG 和低劑量 TBI；在 graft 端則移除 TCRαβ T 細胞來降低 GVHD。另一個訊息是 donor 的普及性，haplo donor 幾乎人人都有，對 MUD 機率不到 18% 的 SCD 病人特別重要。"
     ]
    }
   },
@@ -368,7 +375,8 @@
     "min": 1.0,
     "script": [
      "接著進入 thalassemia。Transfusion-dependent thalassemia 的預後這二十年大幅進步，靠的是支持治療、鐵螯合和 MRI 監測組織鐵量，平均餘命已超過 40 歲，但仍低於一般人，而且從小就有明顯的疾病負擔。Luspatercept 可以減少輸血需求，長期影響還不清楚。",
-     "即使部分病人已有核准的 gene addition therapy，matched family donor 移植仍被視為唯一的標準根治方法。它帶來終身脫離輸血，組織鐵負荷可以逆轉，生活品質也會改善。"
+     "即使部分病人已有核准的 gene addition therapy，matched family donor 移植仍被視為唯一的標準根治方法。它帶來終身脫離輸血，組織鐵負荷可以逆轉，生活品質也會改善。",
+     "HCT 的好處不只脫離輸血。書上引用的長期追蹤顯示，移植後肝硬化有機會逆轉，移植二十年以後的生活品質仍然良好。決定時要拿移植的風險，去和一輩子輸血與螯合的負擔相比。"
     ]
    }
   },
@@ -417,7 +425,8 @@
     "script": [
      "Pesaro classification 是 thalassemia 移植最常考的分級，來自 Lucarelli 1998。三個危險因子，鐵螯合不足、肝腫大超過肋下 2 cm、portal fibrosis。三項都沒有是 class 1，三項都有是 class 3，有一到兩項是 class 2。",
      "它是在接受 matched family donor 移植的兒童驗證的，前提是最佳的醫療照護。在醫療資源不足的地區，Mathews 從 class 3 裡再分出 very-high-risk 組，條件是肝臟超過肋下 5 cm、年齡大於 7 歲。",
-     "考題最常混淆的就是 2 cm 和 5 cm。2 cm 是 Pesaro 本身的肝腫大切點，5 cm 加 7 歲是 class 3 裡的 very-high-risk 子分組。另外，Pesaro 在成人沒有預測力，題目如果是 25 歲的病人，就不能直接套用。"
+     "考題最常混淆的就是 2 cm 和 5 cm。2 cm 是 Pesaro 本身的肝腫大切點，5 cm 加 7 歲是 class 3 裡的 very-high-risk 子分組。另外，Pesaro 在成人沒有預測力，題目如果是 25 歲的病人，就不能直接套用。",
+     "臨床上 Pesaro 提醒我們，鐵螯合的品質和肝臟狀態會直接影響移植風險。螯合做得好、肝臟沒有腫大和纖維化，病人就留在低風險組，所以移植的討論不要等到肝臟出問題才開始。"
     ]
    }
   },
@@ -475,7 +484,8 @@
      "Fludarabine-based conditioning 出現以後，除了鐵負荷最重的病人，class 3 的額外風險大多被抹平，年齡變成主角。",
      "EBMT 的 Baronciani 2016 認為 14 歲是結果最好的上限。CIBMTR 的 Li 2019 更嚴格，7 歲以前結果最好。Fig. 80.4 裡，六歲以下的五年 EFS 86%，7 到 15 歲 80%，16 到 25 歲只剩 63%，graft failure 也是最年長那組最高。土耳其 25 個中心、1469 例的經驗，同樣支持把移植放進早期的治療流程。",
      "移植前要準確評估肝和心臟的鐵量。Serum ferritin 不一定反映鐵負荷的嚴重度，也看不出纖維化的程度。肝切片是 gold standard，但有侵入性風險；成人可以用 transient elastography，也就是 FibroScan，非侵入地預測鐵負荷造成的肝纖維化。",
-     "最後一點常被忽略。中心經驗本身就是獨立的預後因子，所以 thalassemia 移植應該集中在有經驗的指定中心做。"
+     "最後一點常被忽略。中心經驗本身就是獨立的預後因子，所以 thalassemia 移植應該集中在有經驗的指定中心做。",
+     "這張表要和前一張一起看。Pesaro 建立在 busulfan 加 cyclophosphamide 的年代，conditioning 改變以後，它的預測力有一大部分被年齡取代。考題如果給一個 16 歲以上的 thalassemia 病人，要想到 EFS 明顯下降、graft failure 增加。Fig. 80.4 的分組是六歲以下，書上文字寫的是 7 歲以前，兩者差一歲，背的時候以文字的 7 歲為準。"
     ],
     "reminders": [
      "Ch. 80 text says CIBMTR outcomes are optimal 'up to 7 years of age', while Fig. 80.4 groups patients as ≤ 6, 7–15 and 16–25 years. Both are shown as printed."
@@ -536,7 +546,8 @@
      "早期 thalassemia 用 busulfan 加 cyclophosphamide 的 MAC，理由是病人骨髓活性高，又因大量輸血而被致敏。代價是 iron overload 加上 busulfan 和 cyclophosphamide 帶來的肝和心臟毒性。",
      "現在已改成 fludarabine-based、降低毒性的 MAC，搭配 busulfan 或越來越常用的 treosulfan。Lüftinger 2022 的 EBMT 分析顯示兩者整體結果沒有差別，treosulfan 毒性有較少的趨勢，但 graft failure 較多。",
      "年紀小的病人 rejection 風險最高，可以加 thiotepa 10 mg/kg。移植前也可以用 hypertransfusion 壓抑自身造血，或給 hydroxyurea 30 mg/kg 加 azathioprine 3 mg/kg。ATG 原本只用在 unrelated donor，發現它對 engraftment 有利以後，現在普遍使用。",
-     "GVHD 預防加上 abatacept，可以降低 day 100 的嚴重 acute GVHD，又不影響 engraftment 和存活。含靜脈 busulfan 的 conditioning 有用 defibrotide 預防 SOS/VOD 的經驗，不過很多國家只核准它用於治療；依 busulfan 藥物動力學調整劑量，也能改善 engraftment、減少毒性。"
+     "GVHD 預防加上 abatacept，可以降低 day 100 的嚴重 acute GVHD，又不影響 engraftment 和存活。含靜脈 busulfan 的 conditioning 有用 defibrotide 預防 SOS/VOD 的經驗，不過很多國家只核准它用於治療；依 busulfan 藥物動力學調整劑量，也能改善 engraftment、減少毒性。",
+     "這張表的劑量都可能變成考題。Thiotepa 10 mg/kg、hydroxyurea 30 mg/kg、azathioprine 3 mg/kg，三個數字要分清楚。Thalassemia 的 rejection 風險特別高，因為骨髓過度活躍、又被大量輸血致敏，所以表上一半的措施是為了防止 rejection，包括 thiotepa、移植前壓抑造血和 ATG；另一半是為了降低毒性，例如 treosulfan、abatacept 和 busulfan 濃度監測。不過 busulfan 藥物動力學監測，目前只有少數機構做得到。"
     ]
    }
   },
@@ -598,7 +609,8 @@
     "script": [
      "Donor 選擇是 thalassemia 和 SCD 最大的差別。高解析度 HLA 配對、支持治療和 fludarabine-based conditioning 進步以後，thalassemia 用 matched unrelated donor 的結果和 related donor 沒有顯著差異。CIBMTR 的真實世界資料一致，土耳其的分析裡 related 和 unrelated 的 GvHD-free thalassemia-free survival，hazard ratio 也相同。所以 MUD 是標準選項，限制在於非白人族群的 donor 可得性。",
      "Unrelated cord blood 的問題是細胞數低，graft failure 可高達 57%。如果沒有單一 unit 超過 25 × 10⁶ TNC/kg，改用兩個 unit，五年 OS 88.3%、thalassemia-free survival 73.9%。",
-     "Haplo 早期用 CD34 selection，感染和 graft failure 都多。現在改用 TCRαβ/CD19 depletion 或 PTCy，結果已接近 related 和 unrelated 移植。幹細胞來源以骨髓為佳，GVHD 較少；體重大的病人，在 GVHD 預防足夠下也可以用周邊血。"
+     "Haplo 早期用 CD34 selection，感染和 graft failure 都多。現在改用 TCRαβ/CD19 depletion 或 PTCy，結果已接近 related 和 unrelated 移植。幹細胞來源以骨髓為佳，GVHD 較少；體重大的病人，在 GVHD 預防足夠下也可以用周邊血。",
+     "這張是今天最重要的對比之一。SCD 的 MUD 比 sibling 差，thalassemia 的 MUD 和 related donor 相當，考試只要把兩個結論分開記。依書上的結論推論，沒有 sibling 的 thalassemia 病人，MUD 是首先要找的標準選項，haplo 是正在追上的替代方案。Cord blood 因為 graft failure 高，要看細胞數再決定；也可以合併第三方 mesenchymal stromal cell 或 T-cell depleted haplo 細胞，來彌補細胞數不足。"
     ]
    }
   },
@@ -637,7 +649,8 @@
     "script": [
      "Mixed chimerism 在 hemoglobinopathy 很常見，SCD 小孩即使用 MAC，也有大約一到兩成。只要有部分 donor 細胞，骨髓就會優先製造 donor 型血紅素，SCD 的紅血球表型可以逆轉，GVHD 風險還更低。",
      "SCD 的關鍵是做 split chimerism。Myeloid 已經是 full donor，就 watch and wait，不需要為了追求 full donor 做危險的介入，因為這是非惡性疾病。",
-     "Thalassemia 的 mixed chimerism 通常由 T 細胞驅動，可能走向 poor graft function 或 clonal evolution，所以要讓它穩定下來。第一步是加強免疫抑制，持續或加上 MMF 來提高 donor 比例。DLI 是替代方案，但有 GVHD 風險，效果也可能有限。Haplo 和 RIC 這類高風險移植，可以在移植前先做 pretransplantation immunosuppression，降低 mixed chimerism 和 graft failure。"
+     "Thalassemia 的 mixed chimerism 通常由 T 細胞驅動，可能走向 poor graft function 或 clonal evolution，所以要讓它穩定下來。第一步是加強免疫抑制，持續或加上 MMF 來提高 donor 比例。DLI 是替代方案，但有 GVHD 風險，效果也可能有限。Haplo 和 RIC 這類高風險移植，可以在移植前先做 pretransplantation immunosuppression，降低 mixed chimerism 和 graft failure。",
+     "追蹤時要定期做 split chimerism，不要只看 whole blood。Whole blood 的 donor 比例下降，可能是 T 細胞在變，也可能是 myeloid 在流失，兩者的處理不同。等一下第二題就是這個情境。"
     ]
    }
   },
@@ -690,7 +703,8 @@
     "script": [
      "Gene therapy 分三條路線。Lentiviral vector 帶入修飾過的 β 或 γ globin 基因；2021 年因為 Lentiglobin 出現三例白血病而暫停，後來顯示 BB305 vector 不是 clonal transformation 的原因。Thalassemia 在 busulfan MAC 後接受 gene therapy，至今沒有惡性腫瘤報告；早期在非 β0/β0 基因型和兒童效果較好，製程改良後所有病人都有高比例長期脫離輸血。",
      "另外兩條都針對 BCL11A，它會抑制 γ-globin。一個是 lentiviral shRNA，可以穩定提高 HbF；另一個是 CRISPR-Cas9 編輯 BCL11A 的 erythroid enhancer，thalassemia 病人大多脫離輸血，β0/β0 也有效。",
-     "實務上，SCD 收集 CD34 細胞禁用 G-CSF，會引發嚴重併發症，要改用 plerixafor。書上只有試驗資料，目前的核准狀態要另外確認。"
+     "實務上，SCD 收集 CD34 細胞禁用 G-CSF，會引發嚴重併發症，要改用 plerixafor。書上只有試驗資料，目前的核准狀態要另外確認。",
+     "兩個病在 gene therapy 的安全性訊號不一樣。SCD 有白血病的報告，所以書上提出一個假說，SCD 病人可能本來就帶有 CHIP 這類前白血病變化，未來在移植或基因治療前也許需要篩檢。Thalassemia 目前則沒有惡性腫瘤報告。這些療法普及以後，移植的適應症也會改變，誰該優先接受，Baronciani 2021 提出了決策流程。"
     ],
     "reminders": [
      "TO CONFIRM BEFORE PRESENTING: Ch. 80 describes CRISPR-Cas9 BCL11A editing (CLIMB 121, NCT03745287) only as trial data and mentions 'the recent approval of a gene addition therapy for some patients with TDT' without naming it. Check current regulatory approval of gene addition and gene editing products for SCD and TDT, and Taiwan availability, before quoting.",
@@ -716,7 +730,8 @@
     "script": [
      "Thalassemia 治癒以後，鐵負荷不會自己消失，多數中心用放血來移除多餘的鐵。",
      "另一個選擇是 deferasirox。Yesilipek 2018 的 phase II 單臂試驗，在移植至少六個月後開始，每天 20 mg/kg，持續一年，安全，而且 ferritin、肝和心臟 MRI 鐵量都下降。這個劑量和起始時間是可以出題的細節。",
-     "治癒的病人生活品質明顯改善，但仍需要終身追蹤，處理移植前就存在的器官損傷，以及移植本身的晚期併發症。"
+     "治癒的病人生活品質明顯改善，但仍需要終身追蹤，處理移植前就存在的器官損傷，以及移植本身的晚期併發症。",
+     "這張和前面 Pesaro 的鐵負荷其實是同一條線。移植前的鐵負荷影響移植風險，移植後殘留的鐵仍要主動移除，治癒並不等於追蹤結束。題目若寫移植後一個月就開始 deferasirox，就不符合這個試驗的設計。"
     ]
    }
   },
@@ -742,6 +757,7 @@
     "script": [
      "第一題。14 歲男孩，sickle cell disease，已經中風過，用了 hydroxyurea 仍反覆 acute chest syndrome。他沒有 HLA 相合的 sibling，但有一位 8/8 matched unrelated donor，也有 haploidentical 的父母。",
      "問哪一個敘述最正確。注意病人的年齡，還有這題問的是 SCD，不是 thalassemia，兩者在 unrelated donor 上的結論不同。",
+     "先想清楚兩件事，這個年齡落在 13 歲切點的哪一邊，以及 SCD 採集幹細胞有什麼禁忌。選項 C 到 E 分別考的是幹細胞採集、haplo 的演進和 chimerism。",
      "[Pause for answers.]"
     ]
    },
@@ -749,7 +765,8 @@
     "min": 1.0,
     "script": [
      "答案是 B。Eapen 2019 顯示，SCD 用 MUD 的 OS、EFS 比 sibling 差，chronic GVHD 較多，13 歲以上更明顯，這個病人剛好 14 歲。",
-     "最容易選的陷阱是 A。MUD 和 related donor 結果相當，是 thalassemia 的結論，搬到 SCD 就錯了。C 錯，SCD 病人禁用 G-CSF。D 錯，43% 是早期 haplo 的數字，PTCy 或 TCRαβ/CD19 depletion 之後已接近 sibling。E 錯，myeloid 是 donor 的 mixed chimerism 就足以治療。"
+     "最容易選的陷阱是 A。MUD 和 related donor 結果相當，是 thalassemia 的結論，搬到 SCD 就錯了。C 錯，SCD 病人禁用 G-CSF。D 錯，43% 是早期 haplo 的數字，PTCy 或 TCRαβ/CD19 depletion 之後已接近 sibling。E 錯，myeloid 是 donor 的 mixed chimerism 就足以治療。",
+     "這題的核心是把兩個病的 donor 結論分開背。Thalassemia 的 MUD 是標準選項，SCD 的 MUD 則要考慮較差的結果；這個 14 歲病人沒有 sibling，haplo 也是書上支持的根治選項。"
     ]
    }
   },
@@ -757,7 +774,7 @@
    "type": "mcq",
    "eyebrow": "Board-style question 2 of 3",
    "title": "Question 2: manage falling donor chimerism after thalassaemia HCT",
-   "stem": "An 8-year-old girl with transfusion-dependent β-thalassaemia received matched sibling bone marrow after fludarabine, treosulfan, thiotepa and ATG. She is transfusion independent with no GVHD. Over two months her donor chimerism has fallen from 95% to 70%; the recipient cells are mainly T cells. What is the best next step?",
+   "stem": "An 8-year-old girl with transfusion-dependent β-thalassaemia received matched sibling bone marrow after fludarabine, treosulfan, thiotepa and ATG. She is transfusion independent with no GVHD. Her donor chimerism has fallen from 95% to 70% in two months; the recipient cells are mainly T cells. What is the best next step?",
    "options": [
     "Maintain or add mycophenolate mofetil to boost immunosuppression",
     "Give DLI at once to restore full donor chimerism",
@@ -774,6 +791,7 @@
     "script": [
      "第二題。8 歲女孩，transfusion-dependent β-thalassemia，接受 sibling 骨髓移植，conditioning 是 fludarabine、treosulfan、thiotepa 加 ATG。現在不需輸血，也沒有 GVHD。",
      "兩個月內 donor chimerism 從 95% 掉到 70%，殘留的病人細胞主要是 T 細胞。下一步最好怎麼做？",
+     "題目刻意給了幾個線索。病人目前不需輸血，表示 graft 仍在運作；donor 比例在下降，而且下降的是 T 細胞這一側。選項包括加強免疫抑制、DLI、觀察、再移植和鐵螯合，請找出書上建議的第一步。",
      "[Pause for answers.]"
     ]
    },
@@ -781,7 +799,8 @@
     "min": 1.0,
     "script": [
      "答案是 A。Thalassemia 的 mixed chimerism 通常由 T 細胞驅動，第一步是加強免疫抑制，持續或加上 MMF，可以把 donor 比例拉高。",
-     "常見的錯誤是 B。DLI 是替代方案，但有 GVHD 風險，效果也有限，不是第一步。C 錯，donor 比例持續下滑可能走向 poor graft function 或 clonal evolution，要處理。D 太激進。E 的 deferasirox 是在移植六個月後用來移除鐵，和 chimerism 無關。"
+     "常見的錯誤是 B。DLI 是替代方案，但有 GVHD 風險，效果也有限，不是第一步。C 錯，donor 比例持續下滑可能走向 poor graft function 或 clonal evolution，要處理。D 太激進。E 的 deferasirox 是在移植六個月後用來移除鐵，和 chimerism 無關。",
+     "臨床上，加 MMF 的同時要密集追蹤 split chimerism，確認 donor 比例回升。加強免疫抑制後仍持續下降，才考慮 DLI，而且要準備處理 GVHD。"
     ]
    }
   },
@@ -806,6 +825,7 @@
     "script": [
      "第三題。9 歲男孩，β-thalassemia major，從嬰兒期就開始輸血，鐵螯合做得不規則。肝臟在肋下 4 cm，肝切片看到 portal fibrosis。他有一位 HLA 相合的 sibling。",
      "問哪一個敘述正確。三個危險因子請逐一核對，再看選項裡的數字。",
+     "也留意這是兒童，而 Pesaro 的驗證族群正好是兒童。選項裡有 2 cm 和 5 cm 兩個數字，還有 ferritin 和成人的敘述，每一個都對應前面一張投影片。",
      "[Pause for answers.]"
     ]
    },
@@ -813,7 +833,8 @@
     "min": 1.0,
     "script": [
      "答案是 B。鐵螯合不足、肝腫大超過 2 cm、portal fibrosis 三項都有，就是 Pesaro class 3。Fludarabine-based conditioning 出現後，除了鐵負荷最重的病人，class 3 的額外風險大多被抹平，所以他仍該盡早接受 sibling 移植。",
-     "最常見的錯誤是 A，把 5 cm 搞混了。5 cm 加上年齡大於 7 歲，是 Mathews 在 class 3 裡再分出的 very-high-risk 組。C 錯，Pesaro 在成人預測力不好。D 錯，ferritin 看不出纖維化。E 錯，移植仍是唯一的標準根治方法。"
+     "最常見的錯誤是 A，把 5 cm 搞混了。5 cm 加上年齡大於 7 歲，是 Mathews 在 class 3 裡再分出的 very-high-risk 組。C 錯，Pesaro 在成人預測力不好。D 錯，ferritin 看不出纖維化。E 錯，移植仍是唯一的標準根治方法。",
+     "這個病人的肝纖維化是靠切片確認的，ferritin 只能當參考。中心經驗本身也是預後因子。"
     ]
    }
   },
