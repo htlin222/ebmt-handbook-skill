@@ -1091,13 +1091,13 @@
     2.6
    ],
    "fontSize": 16,
-   "caption": "Pre-HCT azacitidine; BU/CY/MEL, BM graft · relapse risk: age ≥ 2 y, HbF ≥ 15%, secondary mutations, high methylation",
+   "caption": "Relapse risk: age ≥ 2 y, HbF ≥ 15%, secondary mutations, high DNA methylation",
    "notes": {
     "script": [
      "JMML 依 RAS pathway 的突變分五型，PTPN11 和 NF1 通常需要移植，CBL 很少需要。移植前用 azacitidine，conditioning 是 BU/CY/MEL，來源用 BM。年紀 2 歲以上、HbF 15% 以上、有次發突變和高甲基化的復發風險高。"
     ]
    },
-   "captionY": 4.75
+   "captionY": 5.0
   }
  ]
 }

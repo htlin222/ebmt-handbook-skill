@@ -81,7 +81,7 @@
         [
           "Leukocyte reduction",
           "RBC, PC and FFP: < 1 × 10⁶ leukocytes per unit",
-          "Less FNHTR, HLA alloimmunisation, CMV"
+          "Less FNHTR, alloimmunisation, CMV"
         ],
         [
           "Irradiation",
@@ -115,9 +115,9 @@
         ]
       ],
       "colW": [
-        2.6,
+        2.5,
         5.0,
-        3.4
+        3.5
       ],
       "fontSize": 15,
       "caption": "ta-GvHD: viable donor T cells attack the recipient (fever, rash, diarrhoea, abnormal LFTs, pancytopenia); mortality > 90%",
@@ -267,7 +267,7 @@
         {
           "label": "Fever/infection/bleeding",
           "box": "Trigger 20 × 10⁹/L",
-          "out": "Prophylaxis stays standard in allo-HCT"
+          "out": "Allo-HCT: still prophylactic"
         },
         {
           "label": "aGVHD, mucositis, HC, DAH",
@@ -300,7 +300,7 @@
       "rows": [
         [
           "Wandt 2012; Stanworth 2013",
-          "Therapeutic-only vs prophylactic PC, age ≥ 16",
+          "Therapeutic-only vs prophylactic (≥ 16 y)",
           "Feasible after auto-PBSCT only"
         ],
         [
@@ -321,7 +321,7 @@
         [
           "Apheresis vs pooled PC",
           "Non-allosensitised recipients",
-          "Equivalent; apheresis wins only with HLA/HPA Ab"
+          "Equal; apheresis better only with HLA/HPA Ab"
         ]
       ],
       "colW": [
@@ -331,7 +331,7 @@
       ],
       "fontSize": 15,
       "caption": "AML and allo-HCT: a therapeutic-only strategy is not transferable because of the risk of CNS bleeding",
-      "captionY": 5.2,
+      "captionY": 5.75,
       "notes": {
         "min": 1.5,
         "script": [
@@ -377,18 +377,18 @@
       "root": "40–50% of allo-HCTs are ABO-mismatched",
       "branches": [
         {
-          "label": "Major",
-          "box": "Patient O, donor A: patient's anti-A",
+          "label": "Major: patient's Ab",
+          "box": "Patient O, donor A",
           "out": "PRCA, delayed red cell engraftment"
         },
         {
-          "label": "Minor",
-          "box": "Patient A, donor O: donor's anti-A",
-          "out": "Delayed haemolysis by donor B cells"
+          "label": "Minor: donor's Ab",
+          "box": "Patient A, donor O",
+          "out": "Haemolysis from donor B lymphocytes"
         },
         {
-          "label": "Bidirectional",
-          "box": "Patient A, donor B: both directions",
+          "label": "Bidirectional: both",
+          "box": "Patient A, donor B",
           "out": "Risks of both; deplete RBC and plasma"
         }
       ],
@@ -921,7 +921,7 @@
     {
       "type": "figure",
       "backup": true,
-      "eyebrow": "Backup · Platelet refractoriness",
+      "eyebrow": "Platelet refractoriness",
       "title": "Most platelet refractoriness has non-immune causes",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24 (Fig. 24.1)",
       "fig": "ch24-fig1",
@@ -931,7 +931,18 @@
         "script": [
           "這是 Fig. 24.1。Refractoriness 八成以上是非免疫原因，包括發燒、sepsis、DIC、SOS/VOD、GVHD、脾臟腫大，以及 heparin、amphotericin B、vancomycin 和 ATG。免疫原因不到兩成，其中八成以上是 HLA class I 抗體，HPA 抗體不到一成。"
         ]
-      },
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "HLA-matched platelets",
+      "title": "Choose the best-matched platelet donor in a fixed order",
+      "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
+      "head": [
+        "Order",
+        "Platelet donor for an HLA-alloimmunised patient"
+      ],
       "rows": [
         [
           "1",
@@ -957,43 +968,6 @@
           "No donor",
           "Autologous frozen PC, rituximab, IVIg, plasmapheresis"
         ]
-      ]
-    },
-    {
-      "type": "table",
-      "backup": true,
-      "eyebrow": "Backup · HLA-matched platelets",
-      "title": "Choose the best-matched platelet donor in a fixed order",
-      "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": [
-        "Order",
-        "Platelet donor for an HLA-alloimmunised patient"
-      ],
-      "rows": [
-        [
-          "1",
-          "All four HLA-A and HLA-B antigens identical"
-        ],
-        [
-          "1",
-          "Donor carries only antigens the recipient also has"
-        ],
-        [
-          "2",
-          "20 kg, Hb 6 → 9: 3 × 4 × 20 = 240 mL (speaker's arithmetic)"
-        ],
-        [
-          "3",
-          "Liver iron not a strong OS factor (Armand 2014)"
-        ],
-        [
-          "Then",
-          "HPA antibodies if refractoriness persists and non-immune causes unlikely"
-        ],
-        [
-          "No donor",
-          "Autologous cryopreserved PC, rituximab, high-dose IVIg, plasmapheresis"
-        ]
       ],
       "colW": [
         1.6,
@@ -1011,7 +985,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Red cell dose and iron",
+      "eyebrow": "Red cell dose and iron",
       "title": "One adult unit raises Hb by about 1 g/dL; children are dosed by weight",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
       "head": [
@@ -1029,11 +1003,11 @@
         ],
         [
           "Worked example",
-          "20 kg, Hb 6 → 9 g/dL: 3 × 4 × 20 = 240 mL (speaker's arithmetic)"
+          "20 kg, Hb 6 → 9: 3 × 4 × 20 = 240 mL (speaker's arithmetic)"
         ],
         [
           "Iron overload, pre-HCT",
-          "Liver iron not a strong OS factor (Armand 2014 meta-analysis)"
+          "Liver iron not a strong OS factor (Armand 2014)"
         ],
         [
           "Better markers?",
