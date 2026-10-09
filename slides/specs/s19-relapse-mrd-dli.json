@@ -3,12 +3,12 @@
   "slug": "relapse-mrd-dli",
   "week": 13,
   "title": "Relapse: MRD, maintenance and donor lymphocyte infusion",
-  "subtitle": "Week 13 · EBMT Handbook Ch. 57, 58 and 59",
+  "subtitle": "Session 19 · EBMT Handbook Ch. 57, 58 and 59",
   "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 57 · Kröger N, et al. Ch. 58 · Falkenburg JHF, et al. Ch. 59",
   "coverNotes": {
     "min": 0.5,
     "script": [
-      "各位好，第十三週的主題是移植後的 relapse，對應 EBMT Handbook 第 57、58、59 章。Relapse 現在是 allo-HCT 之後治療失敗最常見的原因，而且復發之後的結果仍然很差，所以今天的重點放在兩件事，怎麼提早看到它，以及怎麼預防它。順序是 MRD、藥物 maintenance、DLI，最後三題 board-style 題目。"
+      "各位好，第 19 堂的主題是移植後的 relapse，對應 EBMT Handbook 第 57、58、59 章。Relapse 現在是 allo-HCT 之後治療失敗最常見的原因，而且復發之後的結果仍然很差，所以今天的重點放在兩件事，怎麼提早看到它，以及怎麼預防它。順序是 MRD、藥物 maintenance、DLI，最後三題 board-style 題目。"
     ]
   },
   "references": [
@@ -655,7 +655,7 @@
           "這張的共同主題是，藥物越能活化 T cell，GVHD 風險就越高。",
           "Checkpoint inhibitor 最明顯。它逆轉 T cell exhaustion，增強 graft-versus-malignancy，但同時也把 alloreactive T cell 放出來。Ipilimumab 的 GVHD 不多，但反應率不到 30%。PD-1 blockade 在移植後復發的 Hodgkin，反應率 95%，GVHD 30%，一例死亡；31 位淋巴瘤病人的系列反應率 77%，acute GVHD 卻高達 54%，八位死於 GVHD 相關併發症。",
           "IMiD 也一樣。自體移植後 lenalidomide 是 myeloma 的標準 maintenance，但 allo 之後太早給會造成嚴重 GVHD；從 5 mg 低劑量開始、等 immunosuppression 停掉之後才給，風險明顯下降。Thalidomide 即使合併 DLI，也沒有增加 GVHD。",
-          "ALL 方面，inotuzumab ozogamicin 對移植後復發有效，但 SOS/VOD 大約 11%，之後再做 allo-HCT 的病人可達 22%，這部分可以對照第十週的 SOS 內容。Blinatumomab 可以合併 DLI，移植後當 maintenance 也可行，但效果可能取決於當時的免疫環境。",
+          "ALL 方面，inotuzumab ozogamicin 對移植後復發有效，但 SOS/VOD 大約 11%，之後再做 allo-HCT 的病人可達 22%，這部分可以對照第 13 堂的 SOS 內容。Blinatumomab 可以合併 DLI，移植後當 maintenance 也可行，但效果可能取決於當時的免疫環境。",
           "這些藥的效果和 GVHD 是同一個機轉的兩面，使用前要先確認病人目前沒有活動性 GVHD。"
         ]
       }

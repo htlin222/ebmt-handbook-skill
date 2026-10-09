@@ -3,12 +3,12 @@
   "slug": "gvhd-prophylaxis",
   "week": 5,
   "title": "GVHD prophylaxis and graft manipulation",
-  "subtitle": "Week 5 · Ch. 26 (core) · Ch. 19 (support)",
+  "subtitle": "Session 07 · Ch. 26 (core) · Ch. 19 (support)",
   "cite": "Boelens JJ, et al. EBMT Handbook 8th ed. 2024; Ch. 26 · Lang P, et al. EBMT Handbook 8th ed. 2024; Ch. 19",
   "coverNotes": {
     "min": 0.5,
     "script": [
-      "各位早安，第五週的主題是 GVHD prophylaxis 和 graft manipulation，核心是 EBMT Handbook 第 26 章，再補充第 19 章的 T-cell depletion。接下來把各個 regimen 的劑量、藥物濃度、ATG、PTCy 和 graft engineering 依序講完，最後做三題 board-style 題目。這兩章合起來，就是移植前一定要先決定的預防策略。"
+      "各位早安，第 7 堂的主題是 GVHD prophylaxis 和 graft manipulation，核心是 EBMT Handbook 第 26 章，再補充第 19 章的 T-cell depletion。接下來把各個 regimen 的劑量、藥物濃度、ATG、PTCy 和 graft engineering 依序講完，最後做三題 board-style 題目。這兩章合起來，就是移植前一定要先決定的預防策略。"
     ]
   },
   "references": [
@@ -75,7 +75,7 @@
         "script": [
           "今天分四段。第一段先看為什麼預防這麼重要，再把兩個基本盤講清楚，MAC 之後的 CSA/MTX，以及 RIC 之後的 CNI 加或不加 MMF，大約七分鐘。",
           "第二段是比較新的藥，包括 sirolimus、abatacept、vedolizumab，接著是 ATG 和 ATLG 的 randomized trial、劑量問題，以及 alemtuzumab。這段最長，因為 trial 的結果最容易被出成選項。",
-          "第三段是 PTCy 的給藥日期和 BMT CTN 的兩個 phase 3，再用第 19 章看 ex vivo T-cell depletion 的幾種做法。最後五分鐘做三題練習。下週的 acute GVHD 也有一張 prophylaxis trial 總表，今天的內容是它的細節版。",
+          "第三段是 PTCy 的給藥日期和 BMT CTN 的兩個 phase 3，再用第 19 章看 ex vivo T-cell depletion 的幾種做法。最後五分鐘做三題練習。下一堂的 acute GVHD 也有一張 prophylaxis trial 總表，今天的內容是它的細節版。",
           "每一張的 footer 都標了出處，書上數字有疑問的地方，我會直接說明需要再查證。"
         ]
       }

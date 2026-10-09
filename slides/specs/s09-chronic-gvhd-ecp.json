@@ -3,12 +3,12 @@
   "slug": "chronic-gvhd-ecp",
   "week": 7,
   "title": "Chronic GVHD and extracorporeal photopheresis",
-  "subtitle": "Week 7 · Ch. 44 and Ch. 66",
+  "subtitle": "Session 09 · Ch. 44 and Ch. 66",
   "cite": "Wolff D, et al. EBMT Handbook 8th ed. 2024; Ch. 44",
   "coverNotes": {
     "min": 0.5,
     "script": [
-      "各位早安。第七週接著上週的 acute GVHD，今天講 chronic GVHD 和 extracorporeal photopheresis，簡稱 ECP，對應 EBMT Handbook 第 44 章和第 66 章。Chronic GVHD 是移植後長期存活者最主要的晚期併發症，診斷規則和分級細節很多，治療選項又一直在增加，所以專科考試幾乎每年都會出一題。"
+      "各位早安。第 9 堂接著上一堂的 acute GVHD，今天講 chronic GVHD 和 extracorporeal photopheresis，簡稱 ECP，對應 EBMT Handbook 第 44 章和第 66 章。Chronic GVHD 是移植後長期存活者最主要的晚期併發症，診斷規則和分級細節很多，治療選項又一直在增加，所以專科考試幾乎每年都會出一題。"
     ]
   },
   "references": [
@@ -92,7 +92,7 @@
         "min": 1.0,
         "script": [
           "先看三個數字。所有 allo-HCT 病人裡，大約一半會發生 chronic GVHD；小孩比較低，6 到 40%，但年紀越大越高，可以到 60%。跟 chronic GVHD 相關的晚期死亡大約 25%，它是移植後晚期 non-relapse morbidity 最主要的原因。",
-          "發生時間通常在移植後 3 個月到 2 年，但最早移植後 1 個月就可能出現，所以不能用 day 100 來排除，這和上週 acute GVHD 的分類原則一致。",
+          "發生時間通常在移植後 3 個月到 2 年，但最早移植後 1 個月就可能出現，所以不能用 day 100 來排除，這和上一堂 acute GVHD 的分類原則一致。",
           "下面這行解釋為什麼過去二十年發生率一直上升。病人年紀變大，unrelated 或 mismatched donor 變多，RIC 變普遍，PBSC 又只配標準的 CNI 加 MMF 或 MTX 預防。這些趨勢在國內的移植中心也一樣看得到。"
         ]
       }
