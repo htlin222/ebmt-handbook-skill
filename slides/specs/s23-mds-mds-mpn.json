@@ -107,7 +107,7 @@
     ],
     [
      "Karyotype",
-     "Very good [0]; good [1]; intermediate [2]; poor [3]; very poor [4]"
+     "Very good [0]; good [1]; int [2]; poor [3]; very poor [4]"
     ],
     [
      "Cytopenia",
@@ -138,7 +138,7 @@
     3.6,
     8
    ],
-   "fontSize": 15,
+   "fontSize": 16,
    "caption": "Mild: PLT < 100 or ANC < 0.8 × 10⁹/L · moderate: Hb 8–10 g/dL or PLT < 50 · severe anaemia: Hb < 8 g/dL",
    "notes": {
     "min": 1.5,
@@ -244,7 +244,7 @@
     ],
     [
      "Robin 2015; Kröger 2021;\nNakamura 2021",
-     "Prospective, by donor availability: HR-MDS\nwith a donor gains life expectancy"
+     "Donor-availability trials: HR-MDS\nwith a donor lives longer"
     ],
     [
      "Cutler 2004; Koreth 2013",
@@ -252,14 +252,14 @@
     ],
     [
      "de Witte 2017; DeFilipp 2023",
-     "HCT for HR-MDS, and LR-MDS with poor-risk\nfeatures or treatment failure"
+     "HCT for HR-MDS; LR-MDS with poor-risk\nfeatures or failed therapy"
     ]
    ],
    "colW": [
     4.8,
     6.8
    ],
-   "fontSize": 15,
+   "fontSize": 16,
    "notes": {
     "min": 1.5,
     "script": [
@@ -368,7 +368,7 @@
     [
      "CIBMTR DRI\n(Bejanyan 2021)",
      "n = 4387, age 40–65;\nregistry",
-     "Low/int DRI: lower DFS with RIC\n(HR 1.19); high/very high: similar"
+     "Low/int DRI: RIC lower DFS (HR 1.19);\nhigh/very high: similar"
     ],
     [
      "Craddock 2021",
@@ -441,7 +441,7 @@
     4.6,
     7
    ],
-   "fontSize": 15,
+   "fontSize": 16,
    "notes": {
     "min": 1.5,
     "script": [
@@ -464,7 +464,7 @@
    "rows": [
     [
      "AZA at relapse\n(Craddock 2016, n = 181)",
-     "Better with low blasts and relapse > 6 months;\nadding DLI changed nothing"
+     "Better: low blasts, relapse > 6 months;\nDLI added nothing"
     ],
     [
      "DLI or 2nd HCT\n(Guièze 2016, n = 147)",
@@ -491,7 +491,7 @@
     4.8,
     6.8
    ],
-   "fontSize": 15,
+   "fontSize": 16,
    "notes": {
     "min": 1.5,
     "script": [
@@ -571,17 +571,17 @@
    "rows": [
     [
      "CPSS\n(Such 2013)",
-     "WBC ≥ 13 [1]; CMML-2 [1];\nCMML karyotype int/high [1/2]; TD [1]",
+     "WBC ≥ 13 [1]; CMML-2 [1];\nkaryotype int/high [1/2]; TD [1]",
      "Low 0 (72); Int-1 1 (31);\nInt-2 2–3 (13); High 4–5 (5)"
     ],
     [
      "CPSS-Mol\n(Elena 2016)",
-     "WBC ≥ 13 [1]; BM blasts ≥ 5% [1];\ngenetic risk group [0–3]; TD [1]",
+     "WBC ≥ 13 [1]; marrow blasts ≥ 5% [1];\ngenetic risk [0–3]; TD [1]",
      "Low 0 (NR); Int-1 1 (64);\nInt-2 2–3 (37); High ≥ 4 (18)"
     ],
     [
      "CMML karyotype",
-     "Low: normal, isolated −Y;\nhigh: +8, complex (≥ 3), chromosome 7",
+     "Low: normal, −Y alone; high: +8,\ncomplex (≥ 3), chromosome 7",
      "Intermediate: all other abnormalities"
     ],
     [
@@ -620,13 +620,13 @@
    "rows": [
     [
      "CMML · GFM\n(Itzykson 2013)",
-     "Age > 65 [2]; WBC > 15 [3]; PLT < 100 [2];\nanaemia [2]; ASXL1 [2]",
+     "[2]: age > 65, PLT < 100, anaemia, ASXL1;\n[3]: WBC > 15",
      "Low ≤ 4 (NR); int 5–7 (38.5);\nhigh ≥ 8 (14.4)"
     ],
     [
      "CMML · MMM\n(Patnaik 2014)",
-     "Hb < 10 [2]; AMC > 10 [2]; IMC > 0% [2];\nPLT < 100 [1.5]; ASXL1 [1.5]",
-     "Low 0 (97); int-1 1.5–2 (59);\nint-2 2.5–4.5 (31); high ≥ 5 (16)"
+     "[2]: Hb < 10, AMC > 10, IMC > 0%;\n[1.5]: PLT < 100, ASXL1",
+     "Low 0 (97); I-1 1.5–2 (59);\nI-2 2.5–4.5 (31); high ≥ 5 (16)"
     ],
     [
      "MDS/MPN-N · MDACC\n(Onida 2002)",
@@ -649,8 +649,8 @@
     5,
     3.8
    ],
-   "fontSize": 15,
-   "caption": "GFM anaemia: Hb < 10 g/dL (F) or < 11 g/dL (M); counts × 10⁹/L; Hb in g/dL",
+   "fontSize": 16,
+   "caption": "GFM anaemia: Hb < 10 g/dL (F), < 11 g/dL (M); I-1/I-2, intermediate-1/-2; counts × 10⁹/L",
    "notes": {
     "min": 1.5,
     "script": [
@@ -736,7 +736,7 @@
     ],
     [
      "MDS/MPN-NOS",
-     "HU or IFN-α if proliferative; HMA or lenalidomide\nif cytopenic"
+     "HU/IFN-α if proliferative;\nHMA or lenalidomide if cytopenic"
     ],
     [
      "Progression to AML (any entity)",
@@ -747,7 +747,7 @@
     4.8,
     6.8
    ],
-   "fontSize": 15,
+   "fontSize": 16,
    "notes": {
     "min": 1.5,
     "script": [
@@ -794,14 +794,14 @@
     ],
     [
      "After HCT",
-     "cGVHD lowers relapse; DLI at low burden;\nHMA ± DLI under study"
+     "cGVHD: less relapse; DLI at low burden;\nHMA ± DLI under study"
     ]
    ],
    "colW": [
     4.4,
     7.2
    ],
-   "fontSize": 16,
+   "fontSize": 17,
    "notes": {
     "min": 1.5,
     "script": [
@@ -982,7 +982,7 @@
     2.4,
     2.6
    ],
-   "fontSize": 15,
+   "fontSize": 16,
    "notes": {
     "script": [
      "Table 76.3 選了幾個 CMML 系列。最新的 EBMT 1466 位病人，5 年 OS 37%，TRM 32%，復發 37%。MDS/MPN with neutrophilia 的 EBMT 42 位，5 年 OS 51%，年輕、EBMT risk score 低的人較好。"
@@ -1033,7 +1033,7 @@
     4.8,
     6.8
    ],
-   "fontSize": 15,
+   "fontSize": 16,
    "notes": {
     "script": [
      "小兒 MDS 依 blast、karyotype 和骨髓細胞密度分流。Monosomy 7 要盡早用 MAC 移植；hypocellular、karyotype 正常的 RCC 用 RIC，BM 當來源。MDS-EB 用 BU/CY/MEL，5 年 OS 63%。"
@@ -1090,13 +1090,14 @@
     2.2,
     2.6
    ],
-   "fontSize": 15,
-   "caption": "Pre-HCT azacitidine; BU/CY/MEL with BM graft; relapse risk: age ≥ 2 y, HbF ≥ 15%, secondary mutations, high methylation",
+   "fontSize": 16,
+   "caption": "Pre-HCT azacitidine; BU/CY/MEL, BM graft · relapse risk: age ≥ 2 y, HbF ≥ 15%, secondary mutations, high methylation",
    "notes": {
     "script": [
      "JMML 依 RAS pathway 的突變分五型，PTPN11 和 NF1 通常需要移植，CBL 很少需要。移植前用 azacitidine，conditioning 是 BU/CY/MEL，來源用 BM。年紀 2 歲以上、HbF 15% 以上、有次發突變和高甲基化的復發風險高。"
     ]
-   }
+   },
+   "captionY": 4.75
   }
  ]
 }
