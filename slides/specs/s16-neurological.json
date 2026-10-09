@@ -2,7 +2,7 @@
   "title": "Neurological complications",
   "subtitle": "Session 16 · Ch. 53",
   "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
-  "refsPerSlide": 6,
+  "refsPerSlide": 8,
   "coverNotes": {
     "min": 0.5,
     "script": [
@@ -18,16 +18,13 @@
     "5. Maertens JA. Invasive fungal diseases. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 321–9. https://doi.org/10.1007/978-3-031-44080-9_37",
     "6. Maffini E, Festuccia M, Brunello L, et al. Neurologic complications after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2017;23:388–97.",
     "7. Beitinjaneh A, McKinney AM, Cao Q, Weisdorf DJ. Toxic leukoencephalopathy following fludarabine-associated hematopoietic cell transplantation. Biol Blood Marrow Transplant. 2011;17:300–8.",
-    "8. Hammerstrom AE, Howell J, Gulbis A, et al. Tacrolimus-associated posterior reversible encephalopathy syndrome in hematopoietic allogeneic stem cell transplantation. Am J Hematol. 2013;88:301–5.",
-    "9. Singer S, Grommes C, Reiner AS, et al. Posterior reversible encephalopathy syndrome in patients with cancer. Oncologist. 2015;20:806–11.",
-    "10. Abboud R, Wan F, Mariotti J, et al. Cytokine release syndrome after haploidentical hematopoietic cell transplantation: an international multicenter analysis. Bone Marrow Transplant. 2021;56:2763–70.",
-    "11. Gauthier J, Vermersch P, Chauvet P, et al. Successful treatment with fingolimod of graft-versus-host disease of the central nervous system. Blood Adv. 2018;2:10–3."
+    "8. Abboud R, Wan F, Mariotti J, et al. Cytokine release syndrome after haploidentical hematopoietic cell transplantation: an international multicenter analysis. Bone Marrow Transplant. 2021;56:2763–70."
   ],
   "slides": [
     {
       "type": "outline",
       "eyebrow": "Outline",
-      "title": "Four parts, from the causes to the bedside work-up",
+      "title": "Four parts, from causes to the work-up",
       "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
       "rows": [
         [
@@ -150,7 +147,7 @@
     {
       "type": "tree",
       "eyebrow": "Causes · Timing",
-      "title": "The interval since HCT narrows the list of likely causes",
+      "title": "Time since HCT narrows the list of likely causes",
       "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
       "root": "New neurological sign after HCT: when did it start?",
       "branches": [
@@ -176,8 +173,7 @@
           "書上提到一個很實用的分類，就是看發生的時間。早期事件主要來自 conditioning 的藥物和免疫抑制劑，例如 busulfan 的癲癇、CNI 引起的 PRES、fludarabine 的 leukoencephalopathy。",
           "比較晚發生的，多半是免疫缺乏的後果，最主要就是感染。CNS 感染裡最常見的是 Aspergillus 這類黴菌，以及 EBV 和 HHV-6。",
           "第三支是我把第 53 章的內容整理出來的，屬於 speaker's summary。Myositis 常伴隨 chronic GVHD，myasthenia gravis 通常在 GVHD 出現之後才發生，CNS chronic GVHD 更不用說。Guillain-Barré 則例外，多在前三個月。",
-          "臨床症狀常常不典型，時間點是少數可以快速縮小範圍的線索。",
-          "所以先問移植第幾天、用什麼藥、有沒有 GVHD，就能把七大類縮成兩三類。"
+          "臨床症狀常常不典型，時間點是少數可以快速縮小範圍的線索。"
         ]
       }
     },
@@ -319,7 +315,7 @@
         2.6,
         2.6
       ],
-      "fontSize": 15,
+      "fontSize": 14,
       "rows": [
         [
           "Incidence",
@@ -342,6 +338,11 @@
           "Bilateral parieto-occipital edema on T2/FLAIR"
         ],
         [
+          "Risk factors",
+          "Renal failure, BP swings; voriconazole raises CNI levels",
+          "Hypertension, CNI, fludarabine, low Mg, aGVHD II–IV"
+        ],
+        [
           "CNI",
           "Reversible after CNI withdrawal if diagnosed early",
           "Stopping or switching the CNI did not change the course"
@@ -352,8 +353,6 @@
           ">80% resolve rapidly; no effect on TRM or survival"
         ]
       ],
-      "caption": "Ch. 42 risk factors: hypertension, CNI, fludarabine, HCT for hemoglobinopathy, low Mg, aGVHD II–IV (Hammerstrom 2013; Singer 2015)",
-      "captionY": 6.0,
       "notes": {
         "min": 2.0,
         "script": [
@@ -419,7 +418,7 @@
         "script": [
           "Fludarabine 的 acute toxic leukoencephalopathy 是 PRES 最重要的鑑別診斷，兩者的 MRI 都是雙側白質 T2 高訊號，乍看很像。",
           "關鍵在位置。PRES 從皮質下白質開始，以頂枕葉為主；fludarabine 的病灶在腦室周圍白質。症狀也有重疊，fludarabine 這邊是視覺障礙、感覺缺損和認知功能下降。",
-          "危險因子要背。腎功能差、年紀大、fludarabine 劑量高、之前有 CNS 疾病，或之前已經接受過 fludarabine-based 的 conditioning。Fludarabine 經腎臟排除，所以腎功能差的老年人用 Flu-based RIC 時要特別小心。",
+          "危險因子要背。腎功能差、年紀大、fludarabine 劑量高、之前有 CNS 疾病，或之前已經接受過 fludarabine-based 的 conditioning。所以腎功能差的老年病人用 Flu-based RIC 時要特別小心，這是我從危險因子推出來的。",
           "預後差別最大。PRES 早期處理多半可逆；fludarabine leukoencephalopathy 會留下不可逆的神經後遺症，中位存活只有兩個月，資料來自 Beitinjaneh 2011。",
           "病史欄位很有用。PRES 這邊要問最近有沒有加 voriconazole 這類會拉高 CNI 濃度的藥；fludarabine 這邊要問以前有沒有做過含 fludarabine 的 conditioning，或有沒有 CNS 疾病。",
           "在病房，如果一位老年、腎功能不好、用過 Flu-based conditioning 的病人出現認知退化，MRI 病灶在腦室周圍，就不要把它當成 PRES 等著恢復，而要及早跟家屬說明預後。"
@@ -503,7 +502,7 @@
           "HHV-6B 是 allo 移植後病毒性腦炎的主要原因，cord blood 移植風險更高。MRI 典型是 limbic encephalitis，CSF HHV-6 DNA 通常陽性，治療用 ganciclovir 或 foscarnet，這是考試重點。HSV 腦炎用 IV acyclovir 10 mg/kg 每八小時，至少 14 到 21 天。",
           "PML 是 JC virus，中位發生在移植後八個月，和 rituximab 等藥物有關，沒有特效藥。Toxoplasma 表現為局部神經缺損合併多發病灶，用 PCR 診斷，pyrimethamine 加 sulfadiazine 或 clindamycin。Nocardia 有三分之一一開始就侵犯 CNS，所以肺部 nocardiosis 的病人都要做腦部影像。",
           "EBV 相關的 PTLD 在第 12 堂。",
-          "使用這張表的方法是先看影像型態，再決定 CSF 要送哪些 PCR。局部多發病灶想 Toxoplasma、Nocardia 或黴菌；內側顳葉的 limbic pattern 想 HHV-6 和 HSV；白質多發、沒有占位效應、移植後幾個月才出現的，要想 PML。書上也說，早期的 preemptive 或標靶治療，是改善 CNS 感染預後的關鍵，不要等培養結果才開始用藥。"
+          "使用這張表的方法是先看影像型態，再決定 CSF 要送哪些 PCR。多發局部病灶想 Toxoplasma 或 Nocardia 的腦膿瘍；limbic encephalitis 的型態想 HHV-6；移植後數個月、用過 rituximab 的病人要想 PML。書上也說，早期的 preemptive 或標靶治療，是改善 CNS 感染預後的關鍵，不要等培養結果才開始用藥。"
         ],
         "reminders": [
           "Book inconsistency: Ch. 53 lists isavuconazole or voriconazole for CNS zygomycosis; Ch. 37 makes lipid amphotericin B first line for mucormycosis and prefers liposomal AmB 5 mg/kg in CNS infection.",
@@ -552,7 +551,7 @@
         "min": 1.5,
         "script": [
           "左邊是代謝性原因。尿毒性腦病變通常來自 CNI 腎毒性或 TMA；肝性腦病變來自 SOS/VOD 或嚴重的肝臟 GVHD；另外還有 diabetic ketoacidosis。書上提醒，鑑別時要想到 opioid 鎮靜、CNS 感染、CRS、全身性發炎反應和 HLH，不要一看到肝腎功能差就停在代謝性。",
-          "中間是出血。硬腦膜下血腫是最常見的一種，發生率 2.6%。危險因子包括移植後跌倒、長期嚴重血小板低下或輸注無效、grade III 到 IV 的 aGVHD，以及高血壓。要記住一個數字，CT 通常可以確診，但 20 到 25% 的 CNS 出血病人 CT 是陰性的，臨床懷疑高就要再做 MRI 或追蹤。",
+          "中間是出血。硬腦膜下血腫是最常見的一種，發生率 2.6%。危險因子包括移植後跌倒、長期嚴重血小板低下或輸注無效、grade III 到 IV 的 aGVHD，以及高血壓。要記住一個數字，CT 通常可以確診，但 20 到 25% 的 CNS 出血病人 CT 是陰性的，臨床懷疑高時，不能因為 CT 陰性就排除出血。",
           "右邊是血栓。危險因子有活動性感染、心房顫動、高凝狀態、之前有 VTE、高風險的惡性疾病、TMA 和 GVHD。",
           "病房實務上，血小板低又跌倒的病人，即使只是輕微頭痛，也要安排影像。",
           "考題常把 CT 陰性和持續頭痛放在一起，問下一步，答案是不能因為 CT 陰性就排除出血。"
@@ -603,7 +602,7 @@
         ]
       ],
       "caption": "ICI, immune checkpoint inhibitor; PNP, polyneuropathy",
-      "captionY": 5.6,
+      "captionY": 5.15,
       "notes": {
         "min": 2.0,
         "script": [
@@ -612,7 +611,7 @@
           "第二列 myositis，發生率 2 到 3%，常和 chronic GVHD 一起出現，以前用過 immune checkpoint inhibitor 的病人風險較高。表現是近端肌無力，CK 上升，EMG 是 myopathic pattern，MRI 可以診斷也可以追蹤治療反應，肌肉切片確診。類固醇通常一到六週有反應。",
           "第三列 myasthenia gravis 不到 1%，通常在 GVHD 之後出現。眼瞼下垂、臉部無力、複視、構音和吞嚥困難；EMG 看到動作電位遞減或 jitter 增加。治療是 cholinesterase inhibitor 加類固醇。",
           "三者的鑑別，看無力的分布和時間點，就能先猜到一半。",
-          "考試常把三者放在同一題當選項。表現是對稱性上行性無力加反射消失，就是 Guillain-Barré，先給 IVIG；近端肌無力加 CK 上升，是 myositis，用類固醇；眼瞼下垂和複視，症狀在一天之內會波動，就要想 myasthenia，用 cholinesterase inhibitor 加類固醇。Guillain-Barré 的病人要特別注意呼吸功能，肺活量下降時要及早轉加護病房。"
+          "考試常把三者放在同一題當選項。表現是對稱性上行性無力加反射消失，就是 Guillain-Barré，先給 IVIG；近端肌無力加 CK 上升，是 myositis，用類固醇；眼瞼下垂、複視和吞嚥困難，出現在 GVHD 之後，就要想 myasthenia，用 cholinesterase inhibitor 加類固醇。Guillain-Barré 的病人可能出現呼吸功能不全，書上把它列為最常見的症狀之一，所以要盡快完成 MRI、腰椎穿刺和神經傳導檢查，不要拖延治療。"
         ]
       }
     },
@@ -643,7 +642,7 @@
         "min": 1.5,
         "script": [
           "CNS 的 GVHD 被認為很少見，但書上說真實發生率可能被低估。NIH chronic GVHD 臨床試驗的共識承認三種型態。",
-          "第一種是脫髓鞘疾病，可以出現在大腦白質、視神經和脊髓，病程像 multiple sclerosis 一樣 relapsing-remitting。治療用類固醇脈衝，難治或復發的病人可以考慮 sphingosine-1-phosphate receptor agonist，例如 fingolimod，這是 Gauthier 2018 的報告。",
+          "第一種是脫髓鞘疾病，可以出現在大腦白質、視神經和脊髓，病程像 multiple sclerosis 一樣 relapsing-remitting。治療用類固醇脈衝，難治或復發的病人可以考慮 sphingosine-1-phosphate receptor agonist，例如 fingolimod，證據來自病例報告。",
           "第二種是腦血管型，最常見的是血管炎，可以侵犯腦實質和腦膜的小到大動脈。MRI 看到缺血病灶、微出血和白質多發訊號變化，腦切片可以確診，治療是類固醇加 cyclophosphamide。",
           "第三種是免疫媒介的腦炎，書上沒有給特定治療，重點是要重複做 CSF，一方面確認診斷，一方面排除感染性腦炎。三種都是排除診斷，先把感染和藥物排除乾淨，才輪到 GVHD。",
           "這三型都沒有大型試驗，書上的建議來自病例報告和小型系列，所以治療前最好有神經科一起討論，切片的時機也要個別評估。"
@@ -706,7 +705,7 @@
     {
       "type": "table",
       "eyebrow": "Diagnostic algorithm · Tests",
-      "title": "Each test in the work-up answers a specific question",
+      "title": "Each test answers a specific diagnostic question",
       "cite": "Duléry R, et al. EBMT Handbook 8th ed. 2024; Ch. 53",
       "head": [
         "Step",
@@ -763,8 +762,7 @@
           "影像要排除的有五件事，PRES、感染性或免疫性腦炎、實質浸潤、腦血管事件和血液疾病復發。MRI 對 PRES 和早期感染都比 CT 敏感。CSF 用來找感染、脫髓鞘神經病變和疾病復發；送檢時記得想到 HHV-6、HSV、JC virus 的 PCR。",
           "EEG 用在意識改變、幻覺或癲癇的病人，可以抓到 nonconvulsive seizure。EMG 用在神經病變、肌病變或神經肌肉型態的無力，也就是前面 Guillain-Barré、myositis 和 myasthenia 那一張。",
           "第八步是重複，第九步是切片。切片可以確認或排除伺機性感染、PML、血管炎、PTLD 和其他惡性疾病。第十步，神經科會診，書上說在每一步都很重要。",
-          "考試若問第一步做什麼，答案通常是回顧用藥史和代謝問題，而不是直接做切片。",
-          "CSF 也可以看是否有血液疾病在 CNS 復發，這點在 ALL 和高風險 AML 的病人尤其要記得送細胞學。"
+          "考試若問第一步做什麼，答案通常是回顧用藥史和代謝問題，而不是直接做切片。"
         ]
       }
     },
@@ -868,7 +866,7 @@
         "script": [
           "答案 A，IVIG。脫髓鞘多發神經病變，包括 Guillain-Barré，發生在 1 到 4% 的病人，多在移植後前三個月，這位病人第七週、上行性無力、反射消失、呼吸功能下降，完全符合。",
           "D 是陷阱。Rituximab 和 plasma exchange 是給 IVIG 沒有反應的病人，不是第一線。B 的類固醇脈衝加 fingolimod 是 CNS GVHD 脫髓鞘型的治療，病灶在中樞，不是周邊神經。C 是 myasthenia gravis 的治療，表現應該是眼瞼下垂和複視。",
-          "肺活量在掉，代表要密切監測呼吸，必要時轉加護病房，這點在病房比選藥更急。",
+          "肺活量在掉，代表呼吸功能不全已經開始，書上把它列為最常見的症狀之一，在病房要和選藥同時處理。",
           "這題也提醒一個原則，同樣是脫髓鞘，周邊和中樞的治療完全不同，先定位，再選藥。"
         ]
       }
@@ -876,7 +874,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · PML",
+      "eyebrow": "PML",
       "title": "PML is graded definite, probable or possible on CSF PCR and imaging",
       "cite": "Ljungman P, et al. EBMT Handbook 8th ed. 2024; Ch. 38",
       "head": [
@@ -925,7 +923,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Toxoplasma",
+      "eyebrow": "Toxoplasma",
       "title": "Toxoplasma encephalitis responds to pyrimethamine-based therapy",
       "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
       "head": [
@@ -978,7 +976,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · CNS mould infection",
+      "eyebrow": "CNS mould infection",
       "title": "Cerebral aspergillosis is treated with voriconazole or isavuconazole",
       "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
       "head": [
