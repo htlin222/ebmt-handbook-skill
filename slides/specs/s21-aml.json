@@ -311,7 +311,7 @@
           "MRD 的時間點有兩個用途。Induction 後早期測，用來確認緩解的深度、決定 post-remission treatment；post-remission 之後繼續測，則是為了抓即將發生的復發。所以從 ELN 2017 開始，在血液學 CR 之外，MRD negativity 也被當成一個 response end point。"
         ]
       },
-      "captionY": 5.0
+      "captionY": 5.2
     },
     {
       "type": "table",
@@ -756,7 +756,7 @@
         4.2,
         4.8
       ],
-      "fontSize": 15,
+      "fontSize": 16,
       "caption": "BU/CY/MEL (AML SCT-BFM 2007): TRM 9% under age 12, 31% above; avoid or use with caution in teenagers.",
       "cite": "Versluis J, et al. EBMT Handbook 8th ed. 2024; Ch. 70 · Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
@@ -769,7 +769,7 @@
           "兒童 MRD 的數字也可以參考。NOPHO-AML 2004 用 0.1% 當 cut-off，consolidation 前 MRD 陽性的病人五年 EFS 只有 11%，陰性的是 57%。"
         ]
       },
-      "captionY": 5.1
+      "captionY": 5.5
     },
     {
       "type": "mcq",
@@ -978,7 +978,7 @@
         ]
       },
       "caption": "+8 is the commonest extra anomaly; karyotype is falsely negative or inadequate in 20%.",
-      "captionY": 4.9
+      "captionY": 5.15
     },
     {
       "type": "table",

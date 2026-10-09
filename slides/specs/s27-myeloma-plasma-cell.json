@@ -910,7 +910,7 @@
       "type": "mcq",
       "eyebrow": "Board-style question 3 of 3",
       "title": "Question 3: manage this reaction after auto-HCT for POEMS",
-      "stem": "A 54-year-old man with POEMS syndrome (demyelinating polyneuropathy, IgA-λ, sclerotic bone lesions, high VEGF) had lenalidomide-dexamethasone, G-CSF-only mobilization and MEL 200 mg/m² auto-HCT. On day +9, as neutrophils recover, he has fever, rash, weight gain and bilateral lung infiltrates; cultures are negative. Best next step?",
+      "stem": "A 54-year-old man with POEMS syndrome (demyelinating polyneuropathy, IgA-λ, sclerotic bone lesions, high VEGF) had lenalidomide-dexamethasone, G-CSF-only mobilization and MEL 200 mg/m² auto-HCT. On day +9, as neutrophils recover, he has fever, rash, weight gain and lung infiltrates; cultures are negative. Next step?",
       "options": [
         "Start prednisone promptly",
         "Add an echinocandin and wait for cultures",
