@@ -299,7 +299,7 @@
         4.4
       ],
       "fontSize": 17,
-      "caption": "Ch. 70: MRD negativity is an ELN response end point. Ch. 71: about ¼ with flow MRD ≤ 0.1% after course 1 still relapse.",
+      "caption": "Ch. 71: about a quarter with flow MRD ≤ 0.1% after course 1 still relapse.",
       "cite": "Versluis J, et al. EBMT Handbook 8th ed. 2024; Ch. 70 · Gibson BES, et al. EBMT Handbook 8th ed. 2024; Ch. 71",
       "notes": {
         "min": 1.5,
@@ -310,7 +310,8 @@
           "MRD 也不是萬能。Course 1 之後 flow MRD 小於等於 0.1% 的病人，仍有大約四分之一會復發。MRD 陰性降低風險，但不排除復發。",
           "MRD 的時間點有兩個用途。Induction 後早期測，用來確認緩解的深度、決定 post-remission treatment；post-remission 之後繼續測，則是為了抓即將發生的復發。所以從 ELN 2017 開始，在血液學 CR 之外，MRD negativity 也被當成一個 response end point。"
         ]
-      }
+      },
+      "captionY": 5.0
     },
     {
       "type": "table",
@@ -767,7 +768,8 @@
           "Caption 的 BFM 2007 試驗值得記。加了 melphalan 的 BU/CY/MEL，12 歲以下 TRM 9%，青少年卻到 31%，所以這個年齡層要避免。復發後第二次移植的 TRM 超過 30%，可以考慮 RIC。",
           "兒童 MRD 的數字也可以參考。NOPHO-AML 2004 用 0.1% 當 cut-off，consolidation 前 MRD 陽性的病人五年 EFS 只有 11%，陰性的是 57%。"
         ]
-      }
+      },
+      "captionY": 5.1
     },
     {
       "type": "mcq",
@@ -940,8 +942,8 @@
       "rows": [
         [
           "Karyotype t(15;17)(q22;q21)",
-          "Very specific; extra anomalies in 30% (+8 most often)",
-          "Sensitivity 80%; 20% false-negative"
+          "Very specific; extra anomalies in 30%",
+          "Sensitivity 80%"
         ],
         [
           "FISH PML-RARA",
@@ -950,12 +952,12 @@
         ],
         [
           "RT-PCR",
-          "Specific, rapid, sensitive; isoform allows MRD",
+          "Specific, sensitive; isoform for MRD",
           "Artefacts, contamination"
         ],
         [
           "Anti-PML (PG-M3) staining",
-          "Specific, rapid, cheap; microspeckled pattern",
+          "Rapid, cheap; microspeckled pattern",
           "No isoform"
         ],
         [
@@ -974,7 +976,9 @@
         "script": [
           "四種診斷方法各有長短。RT-PCR 最實用，因為它能分出 isoform，之後才能追 MRD。少見的 RARA 變異 partner 中，PLZF 和 STAT5B 對 ATRA 有抗性，這是考題偶爾會出的點。"
         ]
-      }
+      },
+      "caption": "+8 is the commonest extra anomaly; karyotype is falsely negative or inadequate in 20%.",
+      "captionY": 4.9
     },
     {
       "type": "table",

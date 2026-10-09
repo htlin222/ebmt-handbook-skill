@@ -562,7 +562,7 @@
         "min": 1.5,
         "script": [
           "溶血和血栓型 PNH 的主角是 anti-C5 單株抗體。Eculizumab 讓大約一半病人脫離輸血，血栓明顯減少，整體存活也改善。Ravulizumab 是 eculizumab 改了四個胺基酸、半衰期延長的版本，每八週靜脈打一次，兩個 phase 3 分別收未治療和 eculizumab 治療中的病人，都證明不劣於 eculizumab。",
-          "Anti-C5 擋住的是末端補體，C3 還是會沉積在紅血球上，造成 extravascular hemolysis，所以發展出更上游的抑制劑。Pegcetacoplan 打 C3，phase III 收 eculizumab 治療下血紅素仍低於 10.5 的病人，第 16 週血紅素多升 3.84 g/dL，免輸血 85.4% 比 15.4%；但 LDH 沒有達到 non-inferiority。",
+          "Anti-C5 擋住的是末端補體，C3 還是會沉積在紅血球上，造成 extravascular hemolysis，所以發展出更上游的抑制劑。Pegcetacoplan 打 C3，phase III 收 eculizumab 治療下血紅素仍低於 10.5 的病人，治療 16 週時血紅素多升 3.84 g/dL，免輸血 85.4% 比 15.4%；但 LDH 沒有達到 non-inferiority。",
           "Danicopan 是口服 factor D 抑制劑，做的是 add-on 的 phase 3。Iptacopan 是口服 factor B 抑制劑，phase 2 十位中有八位血紅素恢復正常。有這些藥，PNH 走到移植的機會越來越少。",
           "Anti-C5 治療下如果仍然貧血，要想到 C3 沉積造成的 extravascular hemolysis，這是 proximal inhibitor 要解決的問題，而不是直接轉去移植。"
         ]

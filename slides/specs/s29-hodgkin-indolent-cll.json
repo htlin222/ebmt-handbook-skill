@@ -409,7 +409,7 @@
         {
           "head": "Checkpoint inhibitor bridge",
           "body": "Nivolumab or pembrolizumab work well, but raise aGVHD, SOS/VOD and hyperacute febrile syndrome.",
-          "extra": "Hold ≥ 6 weeks before allo; use PTCy"
+          "extra": "Hold ≥ 6 weeks; use PTCy"
         },
         {
           "head": "Donor and conditioning",
@@ -620,7 +620,7 @@
         {
           "label": "Double refractory",
           "box": "Failed both BTKi and BCL2i classes",
-          "out": "Consider alloHCT; poor outlook on drugs"
+          "out": "Poor outlook: consider alloHCT"
         },
         {
           "label": "TP53 or complex karyotype",
@@ -714,7 +714,7 @@
         },
         {
           "num": "40%",
-          "label": "Non-relapse mortality at 10 years"
+          "label": "Non-relapse mortality (10 y)"
         }
       ],
       "caption": "EBMT registry, pre-pathway-inhibitor era. Event-free at 5 years: 79% stay event-free for the next 5 years. NRM is lower in the inhibitor era.",

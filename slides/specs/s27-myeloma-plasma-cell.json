@@ -287,7 +287,7 @@
       ],
       "fontSize": 15,
       "caption": "AHCT at relapse in control arm: 89% (IFM 2009) vs 29% (DETERMINATION). EMN02 OS: tandem vs single vs VMP. In both IFM 2009 and DETERMINATION, MRD negativity predicted outcome better than cytogenetics.",
-      "captionY": 5.15,
+      "captionY": 4.95,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81 · Richardson PG, et al. NEJM 2022",
       "notes": {
         "min": 2.0,
@@ -346,7 +346,7 @@
       ],
       "fontSize": 15,
       "caption": "Ch. 81: consider tandem AHCT for high-risk cytogenetics and R-ISS 3; consolidation may be skipped in CR with undetectable MRD (not tested prospectively)",
-      "captionY": 5.25,
+      "captionY": 5.15,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81 · Stadtmauer EA, et al. JCO 2019",
       "notes": {
         "min": 1.5,
@@ -405,7 +405,7 @@
       ],
       "fontSize": 16,
       "caption": "Len meta-analysis (CALGB, IFM, GIMEMA): PFS gain in all subgroups; no OS gain in women > 60 with poor cytogenetics. Modest rise in second cancers; 30% of early stops due to toxicity or second cancer.",
-      "captionY": 4.9,
+      "captionY": 5.05,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81 · McCarthy PL, et al. JCO 2017",
       "notes": {
         "min": 1.5,
