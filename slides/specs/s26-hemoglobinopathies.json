@@ -1,0 +1,885 @@
+{
+ "id": "s26",
+ "slug": "hemoglobinopathies",
+ "week": 26,
+ "title": "HCT for thalassaemia and sickle cell disease",
+ "subtitle": "Session 26 · Ch. 80",
+ "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+ "refsPerSlide": 5,
+ "coverNotes": {
+  "min": 0.5,
+  "script": [
+   "各位好，第 26 堂談 hemoglobinopathy 的移植，也就是 sickle cell disease 和 thalassemia，對應 EBMT Handbook 第 80 章。兩個病都是非惡性疾病，移植的目標是治癒，同時不留下 GVHD 和長期毒性。接下來會講年齡切點、Pesaro 分級、conditioning 和 donor 選擇，最後用三題 board-style 題目收尾。"
+  ]
+ },
+ "references": [
+  "1. Cappelli B, Gluckman E, Corbacioglu S, de la Fuente J, Abboud MR. Hemoglobinopathies (sickle cell disease and thalassemia). In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, eds. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Springer, Cham; 2024. pp. 725–739. https://doi.org/10.1007/978-3-031-44080-9_80",
+  "2. de la Fuente J, Gluckman E, Makani J, Telfer P, Faulkner L, Corbacioglu S, Paediatric Diseases Working Party of the European Society for Blood and Marrow Transplantation. The role of haematopoietic stem cell transplantation for sickle cell disease in the era of targeted disease-modifying therapies and gene editing. Lancet Haematol. 2020;7(12):e902–11.",
+  "3. Bernaudin F, Socie G, Kuentz M, et al. Long-term results of related myeloablative stem cell transplantation to cure sickle cell disease. Blood. 2007;110:2749–56.",
+  "4. Gluckman E, Cappelli B, Bernaudin F, et al. Sickle cell disease: an international survey of results of HLA-identical sibling hematopoietic stem cell transplantation. Blood. 2017;129:1548–56.",
+  "5. Cappelli B, Volt F, Tozatto-Maio K, Scigliuolo GM, Ferster A, Dupont S, Simões BP, Al-Seraihy A, Aljurf MD, Almohareb F, Belendez C, Matthes S, Dhedin N, Pondarre C, Dalle JH, Bertrand Y, Vannier JP, Kuentz M, Lutz P, Michel G, Rafii H, Neven B, Zecca M, Bader P, Cavazzana M, Labopin M, Locatelli F, Magnani A, Ruggeri A, Rocha V, Bernaudin F, de La Fuente J, Corbacioglu S, Gluckman E, Eurocord, the Cellular Therapy and Immunobiology Working Party (CTIWP), and the Paediatric Diseases Working Party (PDWP) of the EBMT. Risk factors and outcomes according to age at transplantation with an HLA-identical sibling for sickle cell disease. Haematologica. 2019;104(12):e543–6.",
+  "6. Eapen M, Brazauskas R, Walters MC, Bernaudin F, Bo-Subait K, Fitzhugh CD, Hankins JS, Kanter J, Meerpohl JJ, Bolaños-Meade J, Panepinto JA, Rondelli D, Shenoy S, Williamson J, Woolford TL, Gluckman E, Wagner JE, Tisdale JF. Effect of donor type and conditioning regimen intensity on allogeneic transplantation outcomes in patients with sickle cell disease: a retrospective multicentre, cohort study. Lancet Haematol. 2019;6(11):e585–96.",
+  "7. de la Fuente J, Dhedin N, Koyama T, Bernaudin F, Kuentz M, Karnik L, Socié G, Culos KA, Brodsky RA, DeBaun MR, Kassim AA. Haploidentical bone marrow transplantation with post-transplantation cyclophosphamide plus thiotepa improves donor engraftment in patients with sickle cell anemia: results of an international learning collaborative. Biol Blood Marrow Transplant. 2019;25(6):1197–209.",
+  "8. Foell J, Schulte JH, Pfirstinger B, Troeger A, Wolff D, Edinger M, Hofmann P, Aslanidis C, Lang P, Holler E, Eggert A, Corbacioglu S. Haploidentical CD3 or α/β T-cell depleted HSCT in advanced stage sickle cell disease. Bone Marrow Transplant. 2019;54(11):1859–67.",
+  "9. Lucarelli G, Galimberti M, Giardini C, et al. Bone marrow transplantation in thalassemia. The experience of Pesaro. Ann N Y Acad Sci. 1998;850:270–5.",
+  "10. Mathews V, George B, Deotare U, et al. A new stratification strategy that identifies a subset of class III patients with an adverse prognosis among children with beta thalassemia major undergoing a matched related allogeneic stem cell transplantation. Biol Blood Marrow Transplant. 2007;13:889–94.",
+  "11. Baronciani D, Angelucci E, Potschger U, et al. Hemopoietic stem cell transplantation in thalassemia: a report from the European Society for Blood and Bone Marrow Transplantation Hemoglobinopathy Registry, 2000–2010. Bone Marrow Transplant. 2016;51:536–41.",
+  "12. Li C, Mathews V, Kim S, George B, Hebert K, Jiang H, Li C, Zhu Y, Keesler DA, Boelens JJ, Dvorak CC, Agarwal R, Auletta JJ, Goyal RK, Hanna R, Kasow K, Shenoy S, Smith AR, Walters MC, Eapen M. Related and unrelated donor transplantation for β-thalassemia major: results of an international survey. Blood Adv. 2019;3(17):2562–70.",
+  "13. Yesilipek MA, Uygun V, Kupesiz A, Karasu G, Ozturk G, Ertem M, Şaşmaz İ, Daloğlu H, Güler E, Hazar V, Fisgin T, Sezgin G, Kansoy S, Kuşkonmaz B, Akıncı B, Özbek N, İnce EÜ, Öztürkmen S, Küpesiz FT, Yalçın K, Anak S, Bozkurt C, Karakükçü M, Küpeli S, Albayrak D, Öniz H, Aksoylar S, Okur FV, Albayrak C, Yenigürbüz FD, Bozkaya İO, İleri T, Gürsel O, Karagün BŞ, Kintrup GT, Çelen S, Elli M, Aksoy BA, Yılmaz E, Tanyeli A, Akyol ŞT, Siviş ZÖ, Özek G, Uçkan D, Kartal İ, Atay D, Akyay A, Bilir ÖA, Çakmaklı HF, Kürekçi E, Malbora B, Akbayram S, Demir HA, Kılıç SÇ, Güneş AM, Zengin E, Özmen S, Antmen AB. Thalassemia-free and graft-versus-host-free survival: outcomes of hematopoietic stem cell transplantation for thalassemia major, Turkish experience. Bone Marrow Transplant. 2022;57(5):760–7.",
+  "14. Lüftinger R, Zubarovskaya N, Galimard JE, Cseh A, Salzer E, Locatelli F, Algeri M, Yesilipek A, de la Fuente J, Isgrò A, Alseraihy A, Angelucci E, Smiers FJ, La NG, Zecca M, Fisgin T, Unal E, Kleinschmidt K, Peters C, Lankester A, Corbacioglu S, EBMT Pediatric Diseases, Inborn Errors Working Parties. Busulfan-fludarabine- or treosulfan-fludarabine-based myeloablative conditioning for children with thalassemia major. Ann Hematol. 2022;101(3):655–65.",
+  "15. Khandelwal P, Yeh RF, Yu L, Lane A, Dandoy CE, et al. Graft-versus-host disease prophylaxis with abatacept reduces severe acute graft-versus-host disease in allogeneic hematopoietic stem cell transplant for beta-thalassemia major with busulfan, fludarabine, and thiotepa. Transplantation. 2021;105(4):891–6.",
+  "16. Ruggeri A, Eapen M, Scaravadou A, et al. Umbilical cord blood transplantation for children with thalassemia and sickle cell disease. Biol Blood Marrow Transplant. 2011;17:1375–82.",
+  "17. Mehta P, Singh A, Halder R, Verma M, Agrawal N, Ahmed R, Bhurani D. Immunosuppression boost with mycophenolate mofetil for mixed chimerism in thalassemia transplants. Transplant Cell Ther. 2023;29(2):122.e1–6.",
+  "18. Esrick EB, Lehmann LE, Biffi A, Achebe M, Brendel C, Ciuculescu MF, Daley H, MacKinnon B, Morris E, Federico A, Abriss D, Boardman K, Khelladi R, Shaw K, Negre H, Negre O, Nikiforow S, Ritz J, Pai SY, London WB, Dansereau C, Heeney MM, Armant M, Manis JP, Williams DA. Post-transcriptional genetic silencing of BCL11A to treat sickle cell disease. N Engl J Med. 2021;384(3):205–15.",
+  "19. Frangoul H, Altshuler D, Cappellini MD, Chen YS, Domm J, Eustace BK, Foell J, de la Fuente J, Grupp S, Handgretinger R, Ho TW, Kattamis A, Kernytsky A, Lekstrom-Himes J, Li AM, Locatelli F, Mapara MY, de Montalembert M, Rondelli D, Sharma A, Sheth S, Soni S, Steinberg MH, Wall D, Yen A, Corbacioglu S. CRISPR-Cas9 gene editing for sickle cell disease and β-thalassemia. N Engl J Med. 2021;384(3):252–60.",
+  "20. Yesilipek MA, Karasu G, Kaya Z, et al. A phase II, multicenter, single-arm study to evaluate the safety and efficacy of deferasirox after hematopoietic stem cell transplantation in children with beta-thalassemia major. Biol Blood Marrow Transplant. 2018;24:613–8."
+ ],
+ "slides": [
+  {
+   "type": "outline",
+   "eyebrow": "Haemoglobinopathies · Outline",
+   "title": "Four parts, from sickle cell disease to board questions",
+   "rows": [
+    [
+     "Sickle cell disease: indication, age and donor",
+     "Drug limits, registry survival, sibling HCT, age cutoffs, Fig. 80.2",
+     "5.5 min"
+    ],
+    [
+     "Sickle cell disease: conditioning and haplo HCT",
+     "MAC with ATG, FTT, RIC, PTCy and TCRαβ/CD19-depleted haplo",
+     "3.5 min"
+    ],
+    [
+     "Thalassaemia: risk, conditioning and donors",
+     "Pesaro class, age, FLU-based MAC, MUD, cord blood, haplo",
+     "8.5 min"
+    ],
+    [
+     "Chimerism, gene therapy, iron, board questions",
+     "Split chimerism and MMF, BCL11A editing, deferasirox, 3 MCQs",
+     "9.25 min"
+    ]
+   ],
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 1.0,
+    "script": [
+     "今天分四段。前兩段是 sickle cell disease，先看藥物能做到什麼、registry 的移植結果和年齡切點，再看 conditioning 跟 haploidentical 移植怎麼一步步改良。",
+     "第三段是 thalassemia，從 Pesaro classification 講到年齡、fludarabine-based conditioning 和 donor 選擇，這段最長，因為考題最多。",
+     "最後一段放兩個病共通的議題，包括 mixed chimerism、gene therapy 和移植後的鐵負荷，再用三題練習收尾。兩個病在 unrelated donor 上的結論剛好相反，這是今天最值得帶走的對比，後面會反覆回到這一點。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "section": "Sickle cell disease",
+   "eyebrow": "SCD · Disease-modifying therapy",
+   "title": "Disease-modifying drugs control SCD but do not cure it",
+   "head": [
+    "Agent",
+    "Indication",
+    "Status (Table 80.1)",
+    "Mechanism"
+   ],
+   "rows": [
+    [
+     "Hydroxycarbamide",
+     "VOC, acute chest, primary stroke;\nsevere anaemia",
+     "Standard care",
+     "↑ HbF and MCV;\n↓ WBC, reticulocytes"
+    ],
+    [
+     "Chronic transfusion",
+     "Treat and prevent acute and\nchronic complications",
+     "Standard care",
+     "Suppresses erythropoiesis;\n↓ HbS-containing RBC"
+    ],
+    [
+     "L-glutamine",
+     "Fewer vaso-occlusive crises",
+     "USA 2017 (≥ 5 y);\nnot Europe",
+     "↑ NAD redox ratio;\nless oxidative damage"
+    ],
+    [
+     "Voxelotor",
+     "↑ Hb, ↓ haemolysis markers",
+     "≥ 12 y: USA 2019, EU 2022\n[verify: status]",
+     "Allosteric modifier;\nblocks HbS polymerisation"
+    ],
+    [
+     "Crizanlizumab",
+     "Fewer vaso-occlusive crises",
+     "≥ 16 y; phase III failed 2023\n[verify: status]",
+     "Anti-P-selectin antibody;\nblocks adhesion"
+    ]
+   ],
+   "colW": [
+    2.6,
+    3.4,
+    3.2,
+    3.2
+   ],
+   "fontSize": 14,
+   "caption": "Effect on chronic vasculopathy is unpredictable; allo-HCT remains the only cure",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Table 80.1, after de la Fuente 2020)",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "先看 sickle cell disease 的藥物治療，這是 Table 80.1，改編自 de la Fuente 2020。Hydroxyurea 和慢性輸血是標準治療。Hydroxyurea 提高 HbF 和 MCV，降低白血球和網狀紅血球，用來預防 vaso-occlusive crisis、acute chest syndrome 和 primary stroke，嚴重貧血也建議使用。慢性輸血則是壓抑自身造血，降低含 HbS 紅血球的比例。",
+     "新藥有三個。L-glutamine 在美國 2017 年核准給五歲以上，歐洲沒有核准。Voxelotor 是 HbS polymerization 的 allosteric 抑制劑，可以提高血紅素、降低溶血指標。Crizanlizumab 是抗 P-selectin 的單株抗體，減少細胞黏附，但 2023 年的 phase III 沒有達到主要終點。",
+     "最下面一行才是這張的重點。這些藥能控制症狀，但對慢性血管病變的影響難以預測，allo-HCT 仍是唯一的根治方法。新藥的上市狀態變動很快，引用前要再確認。"
+    ],
+    "reminders": [
+     "TO CONFIRM BEFORE PRESENTING: Table 80.1 lists voxelotor (≥ 12 y, USA 2019, EU 2022) and crizanlizumab (≥ 16 y, USA 2019, EU 2020) as approved, while the same table notes the crizanlizumab phase III failed its primary endpoint in 2023. Check their current marketing status (and Taiwan availability) before quoting."
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "eyebrow": "SCD and thalassaemia · EBMT registry",
+   "title": "Adults with SCD now fare better after HCT than adults with thalassaemia",
+   "head": [
+    "EBMT registry, last decade",
+    "2-year OS, % (95% CI)"
+   ],
+   "rows": [
+    [
+     "SCD, children",
+     "95.6 (94.1–96.6)"
+    ],
+    [
+     "SCD, adults",
+     "93.5 (90.7–95.5)"
+    ],
+    [
+     "Thalassaemia, children",
+     "92.1 (90.8–93.2)"
+    ],
+    [
+     "Thalassaemia, adults",
+     "84.4 (78.1–89.0)"
+    ]
+   ],
+   "colW": [
+    6,
+    5.8
+   ],
+   "fontSize": 20,
+   "captionY": 5.0,
+   "caption": "Fig. 80.1: transplants in adult SCD rose steeply over the decade; children with thalassaemia remain the largest group",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Table 80.2, Fig. 80.1)",
+   "notes": {
+    "min": 1.0,
+    "script": [
+     "這是 EBMT registry 近十年的兩年 overall survival，Table 80.2。SCD 兒童 95.6%，成人 93.5%；thalassemia 兒童 92.1%，成人 84.4%。",
+     "最值得注意的是成人。成人 SCD 移植的歷史比 thalassemia 短得多，兩年 OS 卻比成人 thalassemia 高。Fig. 80.1 也顯示，成人 SCD 的移植數量這十年明顯上升，thalassemia 兒童仍是人數最多的一群。",
+     "Thalassemia 成人只有 84.4%，這個落差呼應等一下要講的年齡效應，thalassemia 移植越早做越好。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "eyebrow": "SCD · Matched sibling HCT",
+   "title": "Sibling HCT cures SCD best when done before adolescence",
+   "head": [
+    "Evidence",
+    "Finding"
+   ],
+   "rows": [
+    [
+     "MSD series (Bernaudin 2007)",
+     "OS 91–100%, EFS 73–100%"
+    ],
+    [
+     "1000 MSD HCT, 1986–2013 (Gluckman 2017)",
+     "5-year EFS 91.4%, OS 92.9%; 23 graft failures"
+    ],
+    [
+     "Age < 5 years (Cappelli 2019)",
+     "Excellent OS and EFS: offer MSD HCT early"
+    ],
+    [
+     "MSD, age cutoff 15 years",
+     "cGVHD can rise beyond 20%"
+    ],
+    [
+     "MUD vs MSD (Eapen 2019)",
+     "Worse EFS and OS, more cGVHD; worse from age ≥ 13"
+    ],
+    [
+     "8/8 MUD or cord blood",
+     "Available to < 18% of SCD patients"
+    ],
+    [
+     "Before HCT",
+     "Assess organ damage; discuss what can reverse"
+    ]
+   ],
+   "colW": [
+    5.2,
+    6.6
+   ],
+   "fontSize": 16,
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Sickle cell disease 移植的目標，是在器官損傷變成不可逆以前，把骨髓換成 donor 的造血。各中心的 sibling 移植系列，OS 介於 91 到 100%，EFS 介於 73 到 100%。最大的資料是 EBMT、Eurocord 和 CIBMTR 合計 1000 例 sibling 移植，五年 EFS 91.4%、OS 92.9%，graft failure 23 例。",
+     "年齡是最重要的預後因子。五歲以下的 OS 和 EFS 最好，所以 sibling 移植應該在併發症出現前早做。以 15 歲為切點，sibling 移植後 chronic GVHD 可以超過 20%。",
+     "Unrelated donor 這點和多數疾病不同。Eapen 2019 顯示 SCD 用 MUD 的 EFS、OS 都比 sibling 差，chronic GVHD 明顯較多，13 歲以上更差。SCD 病人能找到 8/8 MUD 或 cord blood 的機率又不到 18%。",
+     "移植前要完整評估器官損傷，腦灌流、骨壞死都有逆轉的報告，但要先和病人談清楚期待。"
+    ]
+   }
+  },
+  {
+   "type": "figure",
+   "eyebrow": "SCD · Age and donor strategy",
+   "title": "Age shifts both the risks and the preferred donor in SCD",
+   "fig": "ch80-fig2",
+   "alt": "U-shaped risk curve by age in SCD: about 3–10 years MSD/MUD/haplo; about 10–18 years lowest risk, MUD or haplo; over 18 years highest risk, haplo or gene therapy.",
+   "caption": "Fig. 80.2 (de la Fuente 2020). ~3–10 y: viral infections, difficult PK, VOD/SOS. ~10–18 y: little iron, few irreversible complications, consent, fertility preservation. > 18 y: vasculopathy, GVHD, rejection, TRM. *Based on donor availability",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Fig. 80.2, de la Fuente 2020)",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "這張 Fig. 80.2 出自 de la Fuente 2020，把年齡、風險和 donor 策略畫在同一張圖。縱軸是風險，曲線呈 U 字形。",
+     "大約三到十歲這一段，主要風險是病毒感染、藥物動力學不好掌握，還有 VOD/SOS。SCD 本身幾乎不造成死亡，donor 可以是 MSD、MUD 或 haplo，視可得性而定。",
+     "十到十八歲是谷底。鐵負荷少、不可逆的併發症還不多、VOD 風險低，病人可以自己同意，也還有機會做生育力保存，圖上建議 MUD 或 haplo。",
+     "十八歲以後風險快速上升，包括 PRES 這類神經毒性、VOD、acute 和 chronic GVHD、alloimmunization、rejection、TRM，以及不可逆的 SCD 併發症。這時圖上建議 haplo，或者走 gene editing 和 gene therapy。",
+     "圖上的谷底在青少年，和前一張「五歲以下最好」的說法看起來不同。前一張講的是 sibling 移植的存活，這張講的是整體風險組合和沒有 sibling 時的 donor 選擇。"
+    ],
+    "reminders": [
+     "Speaker's reading: Fig. 80.2 puts the lowest-risk window at about 10–18 years, while the text says MSD HCT outcomes are best under 5 years and cGVHD rises from age 13–15. The reconciliation in the last paragraph is the speaker's interpretation, not a sentence in Ch. 80."
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "section": "SCD conditioning and donors",
+   "eyebrow": "SCD · Conditioning",
+   "title": "Myeloablative conditioning with ATG remains the SCD standard",
+   "head": [
+    "Approach",
+    "Components",
+    "Result or rationale"
+   ],
+   "rows": [
+    [
+     "MAC, MSD (gold standard)",
+     "BU + CY or FLU;\nadd ATG to lower GVHD",
+     "EFS 73–96%, OS 91–100%"
+    ],
+    [
+     "FTT MAC, children\nand adults",
+     "Fludarabine, treosulfan,\nthiotepa",
+     "Less endothelial toxicity\nand blood–brain barrier passage"
+    ],
+    [
+     "FTT and fertility",
+     "Treosulfan instead of busulfan",
+     "Fertility more often preserved"
+    ],
+    [
+     "RIC in children",
+     "FLU-based, tailored",
+     "Aim: preserve fertility"
+    ],
+    [
+     "RIC in adults",
+     "FLU-based, tailored",
+     "Aim: less toxicity with organ damage"
+    ],
+    [
+     "Chemotherapy-free",
+     "Alemtuzumab + TBI 300 cGy",
+     "DFS 92%, OS 100%"
+    ]
+   ],
+   "colW": [
+    3.6,
+    4.0,
+    4.2
+   ],
+   "fontSize": 16,
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Fig. 80.3)",
+   "notes": {
+    "min": 2.0,
+    "script": [
+     "Sickle cell disease 的 sibling 移植，gold standard 仍是 myeloablative conditioning，EFS 73 到 96%，OS 91 到 100%。代價是長期的移植相關毒性，對已經有器官損傷的病人特別明顯。",
+     "傳統用 busulfan 加 cyclophosphamide 或 fludarabine，毒性和 GVHD 風險偏高，所以建議加 ATG。近年兒童和成人越來越常用 FTT，也就是 fludarabine、treosulfan、thiotepa。理由有兩個，內皮毒性較低、較少通過血腦屏障，而且比較能保留生育力。EBMT 中心實際用了哪些 regimen，可以看 Fig. 80.3。",
+     "RIC 的目的在兒童和成人不一樣。兒童是為了保留生育力，成人是為了減少已經被疾病拖垮的器官所承受的毒性，期待的是穩定的 mixed chimerism。Fludarabine-based RIC 的早期和長期毒性都低；完全不用化療的 alemtuzumab 加 300 cGy TBI，DFS 92%、OS 100%。",
+     "考試常把 SCD 跟 thalassemia 的 conditioning 放在一起比。SCD 這邊的關鍵字是 MAC 加 ATG、FTT，以及在特定族群使用的 RIC。"
+    ]
+   }
+  },
+  {
+   "type": "chain",
+   "eyebrow": "SCD · Haploidentical HCT",
+   "title": "Haploidentical HCT for SCD has moved from rejection to near-MSD results",
+   "steps": [
+    "Early haplo attempts:\ngraft failure 43%",
+    "NMA + PTCy\n(ATG, FLU, TT, CY, low TBI)",
+    "TCRαβ/CD19-depleted graft after FTT + ATG",
+    "Prospective stratified trial NCT04201210"
+   ],
+   "invert": 2,
+   "caption": "PTCy: excellent OS, low graft failure and mortality (de la Fuente 2019). TCRαβ/CD19: rapid engraftment, little GVHD, OS and DFS comparable to MSD (Foell 2019).",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Haploidentical 移植讓幾乎每個 SCD 病人都找得到 donor。早期嘗試的 graft failure 高達 43%，所以各團隊回頭改良 conditioning。",
+     "第一條路是 T-cell replete 加 PTCy。用 ATG、fludarabine、thiotepa、cyclophosphamide 加低劑量 TBI 的 nonmyeloablative conditioning，移植後再給 cyclophosphamide，OS 很好、graft failure 和死亡率都低。",
+     "第二條路是 ex vivo 的 TCRαβ 和 CD19 depletion，conditioning 用 FTT 加 ATG。單中心經驗顯示 engraftment 快、GVHD 少，OS 和 DFS 和 sibling 移植相當，現在正在 NCT04201210 這個前瞻性分層試驗裡驗證。",
+     "Unrelated donor 在 SCD 的 GVHD 風險仍高，haplo 的結果則越來越接近 sibling。對沒有 matched donor 的多數 SCD 病人，haplo 已經是可行的根治選項。"
+    ]
+   }
+  },
+  {
+   "type": "columns",
+   "section": "Thalassaemia",
+   "eyebrow": "Thalassaemia · Why transplant",
+   "title": "Thalassaemia care has improved, but only HCT is a standard cure",
+   "cols": [
+    {
+     "head": "Without HCT",
+     "items": [
+      "Chelation and MRI iron monitoring",
+      "Life expectancy now > 40 years",
+      "Still below the general population",
+      "Morbidity and poor QoL from childhood",
+      "Luspatercept cuts transfusions; impact TBD"
+     ]
+    },
+    {
+     "head": "Matched family donor HCT",
+     "items": [
+      "Only curative standard therapy",
+      "Lifelong transfusion independence",
+      "Reverses tissue iron load",
+      "Improves quality of life",
+      "Gene addition approved for some patients"
+     ]
+    }
+   ],
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 1.0,
+    "script": [
+     "接著進入 thalassemia。Transfusion-dependent thalassemia 的預後這二十年大幅進步，靠的是支持治療、鐵螯合和 MRI 監測組織鐵量，平均餘命已超過 40 歲，但仍低於一般人，而且從小就有明顯的疾病負擔。Luspatercept 可以減少輸血需求，長期影響還不清楚。",
+     "即使部分病人已有核准的 gene addition therapy，matched family donor 移植仍被視為唯一的標準根治方法。它帶來終身脫離輸血，組織鐵負荷可以逆轉，生活品質也會改善。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "eyebrow": "Thalassaemia · Pesaro class",
+   "title": "Pesaro class counts three chelation and liver risk factors",
+   "head": [
+    "Risk factor",
+    "Class 1",
+    "Class 2",
+    "Class 3"
+   ],
+   "rows": [
+    [
+     "Inadequate iron chelation",
+     "Absent",
+     "1 or 2 of 3\npresent",
+     "Present"
+    ],
+    [
+     "Hepatomegaly > 2 cm",
+     "Absent",
+     "1 or 2 of 3\npresent",
+     "Present"
+    ],
+    [
+     "Portal fibrosis",
+     "Absent",
+     "1 or 2 of 3\npresent",
+     "Present"
+    ]
+   ],
+   "colW": [
+    4.4,
+    2.2,
+    3,
+    2.2
+   ],
+   "fontSize": 20,
+   "captionY": 5.0,
+   "caption": "Validated in children with a matched family donor, not adults. Very high risk (Mathews 2007): class 3 with liver > 5 cm and age > 7 years.",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Table 80.3, Lucarelli 1998)",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Pesaro classification 是 thalassemia 移植最常考的分級，來自 Lucarelli 1998。三個危險因子，鐵螯合不足、肝腫大超過肋下 2 cm、portal fibrosis。三項都沒有是 class 1，三項都有是 class 3，有一到兩項是 class 2。",
+     "它是在接受 matched family donor 移植的兒童驗證的，前提是最佳的醫療照護。在醫療資源不足的地區，Mathews 從 class 3 裡再分出 very-high-risk 組，條件是肝臟超過肋下 5 cm、年齡大於 7 歲。",
+     "考題最常混淆的就是 2 cm 和 5 cm。2 cm 是 Pesaro 本身的肝腫大切點，5 cm 加 7 歲是 class 3 裡的 very-high-risk 子分組。另外，Pesaro 在成人沒有預測力，題目如果是 25 歲的病人，就不能直接套用。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "eyebrow": "Thalassaemia · Age and work-up",
+   "title": "Age now outweighs Pesaro class in thalassaemia HCT",
+   "head": [
+    "Point",
+    "Ch. 80"
+   ],
+   "rows": [
+    [
+     "FLU-based conditioning",
+     "Abrogated risk for all but the most iron-loaded"
+    ],
+    [
+     "EBMT (Baronciani 2016)",
+     "Best outcome up to age 14 years"
+    ],
+    [
+     "CIBMTR (Li 2019)",
+     "Optimal outcome up to age 7 years"
+    ],
+    [
+     "CIBMTR, 5-year EFS (Fig. 80.4)",
+     "≤ 6 y 86%; 7–15 y 80%; 16–25 y 63%"
+    ],
+    [
+     "Turkish cohort (Yesilipek 2022)",
+     "1469 patients, 25 centres: transplant young"
+    ],
+    [
+     "Iron and fibrosis work-up",
+     "Ferritin misleads; liver biopsy is gold standard"
+    ],
+    [
+     "Noninvasive option",
+     "FibroScan reliable for fibrosis in adults"
+    ],
+    [
+     "Centre experience",
+     "Independent factor: use designated centres"
+    ]
+   ],
+   "colW": [
+    4.8,
+    7.0
+   ],
+   "fontSize": 15,
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Fig. 80.4)",
+   "notes": {
+    "min": 2.0,
+    "script": [
+     "Fludarabine-based conditioning 出現以後，除了鐵負荷最重的病人，class 3 的額外風險大多被抹平，年齡變成主角。",
+     "EBMT 的 Baronciani 2016 認為 14 歲是結果最好的上限。CIBMTR 的 Li 2019 更嚴格，7 歲以前結果最好。Fig. 80.4 裡，六歲以下的五年 EFS 86%，7 到 15 歲 80%，16 到 25 歲只剩 63%，graft failure 也是最年長那組最高。土耳其 25 個中心、1469 例的經驗，同樣支持把移植放進早期的治療流程。",
+     "移植前要準確評估肝和心臟的鐵量。Serum ferritin 不一定反映鐵負荷的嚴重度，也看不出纖維化的程度。肝切片是 gold standard，但有侵入性風險；成人可以用 transient elastography，也就是 FibroScan，非侵入地預測鐵負荷造成的肝纖維化。",
+     "最後一點常被忽略。中心經驗本身就是獨立的預後因子，所以 thalassemia 移植應該集中在有經驗的指定中心做。"
+    ],
+    "reminders": [
+     "Ch. 80 text says CIBMTR outcomes are optimal 'up to 7 years of age', while Fig. 80.4 groups patients as ≤ 6, 7–15 and 16–25 years. Both are shown as printed."
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "eyebrow": "Thalassaemia · Conditioning",
+   "title": "Fludarabine-based MAC has replaced BU/CY in thalassaemia",
+   "head": [
+    "Element",
+    "Detail"
+   ],
+   "rows": [
+    [
+     "Old standard: BU/CY MAC",
+     "Hyperactive, allosensitised marrow; liver and heart toxicity"
+    ],
+    [
+     "Current: FLU + BU or TREO",
+     "No overall difference in outcome (Lüftinger 2022)"
+    ],
+    [
+     "Treosulfan vs busulfan",
+     "Trend to less toxicity but more graft failure"
+    ],
+    [
+     "Rejection in young children",
+     "Add thiotepa 10 mg/kg"
+    ],
+    [
+     "Pre-HCT marrow suppression",
+     "Hypertransfusion; hydroxycarbamide 30 + azathioprine 3 mg/kg"
+    ],
+    [
+     "Serotherapy",
+     "ATG/ATLG now widely used: better engraftment"
+    ],
+    [
+     "GVHD prophylaxis",
+     "+ Abatacept: less day +100 severe aGVHD (Khandelwal 2021)"
+    ],
+    [
+     "Busulfan and SOS/VOD",
+     "Defibrotide prophylaxis with IV BU; PK-guided BU dosing"
+    ]
+   ],
+   "colW": [
+    4.2,
+    7.6
+   ],
+   "fontSize": 15,
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Fig. 80.5)",
+   "notes": {
+    "min": 2.0,
+    "script": [
+     "早期 thalassemia 用 busulfan 加 cyclophosphamide 的 MAC，理由是病人骨髓活性高，又因大量輸血而被致敏。代價是 iron overload 加上 busulfan 和 cyclophosphamide 帶來的肝和心臟毒性。",
+     "現在已改成 fludarabine-based、降低毒性的 MAC，搭配 busulfan 或越來越常用的 treosulfan。Lüftinger 2022 的 EBMT 分析顯示兩者整體結果沒有差別，treosulfan 毒性有較少的趨勢，但 graft failure 較多。",
+     "年紀小的病人 rejection 風險最高，可以加 thiotepa 10 mg/kg。移植前也可以用 hypertransfusion 壓抑自身造血，或給 hydroxyurea 30 mg/kg 加 azathioprine 3 mg/kg。ATG 原本只用在 unrelated donor，發現它對 engraftment 有利以後，現在普遍使用。",
+     "GVHD 預防加上 abatacept，可以降低 day 100 的嚴重 acute GVHD，又不影響 engraftment 和存活。含靜脈 busulfan 的 conditioning 有用 defibrotide 預防 SOS/VOD 的經驗，不過很多國家只核准它用於治療；依 busulfan 藥物動力學調整劑量，也能改善 engraftment、減少毒性。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "eyebrow": "Thalassaemia · Donor and graft source",
+   "title": "Unrelated donors match sibling results in thalassaemia, unlike SCD",
+   "head": [
+    "Donor or source",
+    "Outcome in TDT",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Matched unrelated donor",
+     "Equivalent to related donor\n(CIBMTR; Turkish cohort)",
+     "Standard option; fewer\nnon-Caucasian donors"
+    ],
+    [
+     "Cord blood, single unit",
+     "Graft failure up to 57%\n(Ruggeri 2011)",
+     "Low stem cell dose"
+    ],
+    [
+     "Cord blood, double unit",
+     "5-year OS 88.3%,\nthalassaemia-free 73.9%",
+     "If no unit has\n> 25 × 10⁶ TNC/kg"
+    ],
+    [
+     "Haplo, CD34+ selection",
+     "Infections, graft failure",
+     "Historical approach"
+    ],
+    [
+     "Haplo, TCRαβ/CD19 or PTCy",
+     "Approaching MSD and\nMUD outcomes",
+     "Extended abatacept\nwith PTCy: less cGVHD"
+    ],
+    [
+     "Bone marrow",
+     "Less acute and chronic GVHD",
+     "Preferred source"
+    ],
+    [
+     "Peripheral blood",
+     "Good with adequate\nGVHD prophylaxis",
+     "Heavier recipients"
+    ]
+   ],
+   "colW": [
+    3.8,
+    4.3,
+    3.7
+   ],
+   "fontSize": 14,
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 2.0,
+    "script": [
+     "Donor 選擇是 thalassemia 和 SCD 最大的差別。高解析度 HLA 配對、支持治療和 fludarabine-based conditioning 進步以後，thalassemia 用 matched unrelated donor 的結果和 related donor 沒有顯著差異。CIBMTR 的真實世界資料一致，土耳其的分析裡 related 和 unrelated 的 GvHD-free thalassemia-free survival，hazard ratio 也相同。所以 MUD 是標準選項，限制在於非白人族群的 donor 可得性。",
+     "Unrelated cord blood 的問題是細胞數低，graft failure 可高達 57%。如果沒有單一 unit 超過 25 × 10⁶ TNC/kg，改用兩個 unit，五年 OS 88.3%、thalassemia-free survival 73.9%。",
+     "Haplo 早期用 CD34 selection，感染和 graft failure 都多。現在改用 TCRαβ/CD19 depletion 或 PTCy，結果已接近 related 和 unrelated 移植。幹細胞來源以骨髓為佳，GVHD 較少；體重大的病人，在 GVHD 預防足夠下也可以用周邊血。"
+    ]
+   }
+  },
+  {
+   "type": "tree",
+   "section": "Chimerism, gene therapy and follow-up",
+   "eyebrow": "Haemoglobinopathies · Mixed chimerism",
+   "title": "Stable mixed chimerism cures, but a falling donor share needs action",
+   "root": "Mixed chimerism after HCT for a haemoglobinopathy",
+   "invert": "root",
+   "branches": [
+    {
+     "label": "SCD, myeloid donor",
+     "box": "Split chimerism:\nfull donor myeloid",
+     "out": "Watch and wait;\nfull donor not needed"
+    },
+    {
+     "label": "TDT, T-cell driven",
+     "box": "Donor fraction\nfalling",
+     "out": "Keep or add MMF\nto raise donor share"
+    },
+    {
+     "label": "MMF not enough",
+     "box": "Donor lymphocyte\ninfusion",
+     "out": "GVHD risk;\nefficacy can be limited"
+    },
+    {
+     "label": "Haplo or RIC",
+     "box": "Higher risk of mixed\nchimerism and GF",
+     "out": "Pre-transplant\nimmunosuppression"
+    }
+   ],
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Mixed chimerism 在 hemoglobinopathy 很常見，SCD 小孩即使用 MAC，也有大約一到兩成。只要有部分 donor 細胞，骨髓就會優先製造 donor 型血紅素，SCD 的紅血球表型可以逆轉，GVHD 風險還更低。",
+     "SCD 的關鍵是做 split chimerism。Myeloid 已經是 full donor，就 watch and wait，不需要為了追求 full donor 做危險的介入，因為這是非惡性疾病。",
+     "Thalassemia 的 mixed chimerism 通常由 T 細胞驅動，可能走向 poor graft function 或 clonal evolution，所以要讓它穩定下來。第一步是加強免疫抑制，持續或加上 MMF 來提高 donor 比例。DLI 是替代方案，但有 GVHD 風險，效果也可能有限。Haplo 和 RIC 這類高風險移植，可以在移植前先做 pretransplantation immunosuppression，降低 mixed chimerism 和 graft failure。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "eyebrow": "Haemoglobinopathies · Gene therapy",
+   "title": "Gene addition and BCL11A editing are entering both diseases",
+   "head": [
+    "Approach",
+    "Sickle cell disease",
+    "Thalassaemia (TDT)"
+   ],
+   "rows": [
+    [
+     "Lentiviral β- or\nγ-globin addition",
+     "Paused 2021 after 3 leukaemias;\nBB305 vector not responsible",
+     "No malignancy after BU MAC;\nnow high transfusion freedom"
+    ],
+    [
+     "BCL11A shRNA\nlentivirus",
+     "Robust, stable HbF induction\n(Esrick 2021)",
+     "—"
+    ],
+    [
+     "CRISPR-Cas9, BCL11A\nerythroid enhancer",
+     "CLIMB 121 (NCT03745287):\nencouraging",
+     "Most transfusion independent;\nworks in β⁰/β⁰ too"
+    ],
+    [
+     "CD34+ collection",
+     "G-CSF contraindicated;\nplerixafor ± GRO-β",
+     "—"
+    ],
+    [
+     "Open question",
+     "Screen for CHIP before HCT\nor gene therapy?",
+     "Whom to prioritise\n(Baronciani 2021)"
+    ]
+   ],
+   "colW": [
+    3.4,
+    4.3,
+    4.1
+   ],
+   "fontSize": 14,
+   "caption": "Ch. 80 reports trial data; [verify: current approvals and Taiwan availability]",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Frangoul 2021)",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Gene therapy 分三條路線。Lentiviral vector 帶入修飾過的 β 或 γ globin 基因；2021 年因為 Lentiglobin 出現三例白血病而暫停，後來顯示 BB305 vector 不是 clonal transformation 的原因。Thalassemia 在 busulfan MAC 後接受 gene therapy，至今沒有惡性腫瘤報告；早期在非 β0/β0 基因型和兒童效果較好，製程改良後所有病人都有高比例長期脫離輸血。",
+     "另外兩條都針對 BCL11A，它會抑制 γ-globin。一個是 lentiviral shRNA，可以穩定提高 HbF；另一個是 CRISPR-Cas9 編輯 BCL11A 的 erythroid enhancer，thalassemia 病人大多脫離輸血，β0/β0 也有效。",
+     "實務上，SCD 收集 CD34 細胞禁用 G-CSF，會引發嚴重併發症，要改用 plerixafor。書上只有試驗資料，目前的核准狀態要另外確認。"
+    ],
+    "reminders": [
+     "TO CONFIRM BEFORE PRESENTING: Ch. 80 describes CRISPR-Cas9 BCL11A editing (CLIMB 121, NCT03745287) only as trial data and mentions 'the recent approval of a gene addition therapy for some patients with TDT' without naming it. Check current regulatory approval of gene addition and gene editing products for SCD and TDT, and Taiwan availability, before quoting.",
+     "Ch. 80 names 'CLIMB 121' for SCD and gives NCT03745287 for the CRISPR approach in both diseases; the table pairs them as the chapter does."
+    ]
+   }
+  },
+  {
+   "type": "chain",
+   "eyebrow": "Thalassaemia · After HCT",
+   "title": "Iron removal and lifelong follow-up continue after cure",
+   "steps": [
+    "Iron overload persists after HCT",
+    "Most centres: phlebotomy",
+    "Deferasirox 20 mg/kg/d after ≥ 6 mo, for 1 y",
+    "Lifelong follow-up for old and new damage"
+   ],
+   "invert": 2,
+   "caption": "Yesilipek 2018, phase II, single arm: safe; lower ferritin and liver and cardiac MRI iron",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 1.0,
+    "script": [
+     "Thalassemia 治癒以後，鐵負荷不會自己消失，多數中心用放血來移除多餘的鐵。",
+     "另一個選擇是 deferasirox。Yesilipek 2018 的 phase II 單臂試驗，在移植至少六個月後開始，每天 20 mg/kg，持續一年，安全，而且 ferritin、肝和心臟 MRI 鐵量都下降。這個劑量和起始時間是可以出題的細節。",
+     "治癒的病人生活品質明顯改善，但仍需要終身追蹤，處理移植前就存在的器官損傷，以及移植本身的晚期併發症。"
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "section": "Board questions",
+   "eyebrow": "Board-style question 1 of 3",
+   "title": "Question 1: choose the donor statement for this SCD patient",
+   "stem": "A 14-year-old boy with sickle cell disease has had a stroke and recurrent acute chest syndrome despite hydroxycarbamide. He has no HLA-identical sibling. An 8/8 matched unrelated donor and a haploidentical parent are available. Which statement is most accurate?",
+   "options": [
+    "MUD HCT gives the same OS and cGVHD as sibling HCT, as in thalassaemia",
+    "MUD HCT carries worse OS and more cGVHD than MSD, worse from age 13",
+    "Collect G-CSF-mobilised autologous PBSC first as a back-up graft",
+    "Haplo HCT is contraindicated because graft failure is 43%",
+    "Full donor chimerism is required; plan pre-emptive DLI"
+   ],
+   "answer": "B",
+   "answerTitle": "Answer B: in SCD, MUD HCT does worse than MSD HCT",
+   "explanation": "In SCD, MUD HCT gives worse OS and EFS and more cGVHD than MSD, with a threshold at age ≥ 13 (Eapen 2019). Equivalence with related donors holds for thalassaemia, not SCD. G-CSF is contraindicated in SCD. The 43% graft failure was early haplo; PTCy and TCRαβ/CD19 depletion now near MSD results. Mixed chimerism suffices.",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 0.75,
+    "script": [
+     "第一題。14 歲男孩，sickle cell disease，已經中風過，用了 hydroxyurea 仍反覆 acute chest syndrome。他沒有 HLA 相合的 sibling，但有一位 8/8 matched unrelated donor，也有 haploidentical 的父母。",
+     "問哪一個敘述最正確。注意病人的年齡，還有這題問的是 SCD，不是 thalassemia，兩者在 unrelated donor 上的結論不同。",
+     "[Pause for answers.]"
+    ]
+   },
+   "answerNotes": {
+    "min": 1.0,
+    "script": [
+     "答案是 B。Eapen 2019 顯示，SCD 用 MUD 的 OS、EFS 比 sibling 差，chronic GVHD 較多，13 歲以上更明顯，這個病人剛好 14 歲。",
+     "最容易選的陷阱是 A。MUD 和 related donor 結果相當，是 thalassemia 的結論，搬到 SCD 就錯了。C 錯，SCD 病人禁用 G-CSF。D 錯，43% 是早期 haplo 的數字，PTCy 或 TCRαβ/CD19 depletion 之後已接近 sibling。E 錯，myeloid 是 donor 的 mixed chimerism 就足以治療。"
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "eyebrow": "Board-style question 2 of 3",
+   "title": "Question 2: manage falling donor chimerism after thalassaemia HCT",
+   "stem": "An 8-year-old girl with transfusion-dependent β-thalassaemia received matched sibling bone marrow after fludarabine, treosulfan, thiotepa and ATG. She is transfusion independent with no GVHD. Over two months her donor chimerism has fallen from 95% to 70%; the recipient cells are mainly T cells. What is the best next step?",
+   "options": [
+    "Maintain or add mycophenolate mofetil to boost immunosuppression",
+    "Give DLI at once to restore full donor chimerism",
+    "No action: mixed chimerism never affects graft function",
+    "Plan a second HCT from a haploidentical donor",
+    "Start deferasirox 20 mg/kg/day now"
+   ],
+   "answer": "A",
+   "answerTitle": "Answer A: boost immunosuppression with MMF first",
+   "explanation": "Mixed chimerism in TDT is usually driven by mixed T-cell chimerism and is best addressed by enhancing immunosuppression, usually by maintaining or adding MMF (Mehta 2023). DLI is an alternative but carries GVHD risk and limited efficacy. Left alone, mixed chimerism can lead to poor graft function or clonal evolution.",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "min": 0.75,
+    "script": [
+     "第二題。8 歲女孩，transfusion-dependent β-thalassemia，接受 sibling 骨髓移植，conditioning 是 fludarabine、treosulfan、thiotepa 加 ATG。現在不需輸血，也沒有 GVHD。",
+     "兩個月內 donor chimerism 從 95% 掉到 70%，殘留的病人細胞主要是 T 細胞。下一步最好怎麼做？",
+     "[Pause for answers.]"
+    ]
+   },
+   "answerNotes": {
+    "min": 1.0,
+    "script": [
+     "答案是 A。Thalassemia 的 mixed chimerism 通常由 T 細胞驅動，第一步是加強免疫抑制，持續或加上 MMF，可以把 donor 比例拉高。",
+     "常見的錯誤是 B。DLI 是替代方案，但有 GVHD 風險，效果也有限，不是第一步。C 錯，donor 比例持續下滑可能走向 poor graft function 或 clonal evolution，要處理。D 太激進。E 的 deferasirox 是在移植六個月後用來移除鐵，和 chimerism 無關。"
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "eyebrow": "Board-style question 3 of 3",
+   "title": "Question 3: classify this child before thalassaemia HCT",
+   "stem": "A 9-year-old boy with β-thalassaemia major has received transfusions since infancy, with irregular iron chelation. His liver is 4 cm below the costal margin, and liver biopsy shows portal fibrosis. An HLA-identical sibling is available. Which statement is correct?",
+   "options": [
+    "He is Pesaro class 2, because his liver is < 5 cm",
+    "He is Pesaro class 3; FLU-based conditioning has reduced this risk",
+    "Pesaro class predicts HCT outcome equally well in adults",
+    "Serum ferritin alone is enough to stage his liver before HCT",
+    "HCT is contraindicated; continue transfusions and chelation"
+   ],
+   "answer": "B",
+   "answerTitle": "Answer B: three risk factors make him Pesaro class 3",
+   "explanation": "Inadequate chelation, hepatomegaly > 2 cm and portal fibrosis are all present: class 3. Liver > 5 cm with age > 7 years marks the very-high-risk subgroup, not the class itself. FLU-based conditioning has abrogated the excess risk for all but the most iron-loaded. Pesaro was validated in children, not adults; ferritin does not show fibrosis.",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Table 80.3)",
+   "notes": {
+    "min": 0.75,
+    "script": [
+     "第三題。9 歲男孩，β-thalassemia major，從嬰兒期就開始輸血，鐵螯合做得不規則。肝臟在肋下 4 cm，肝切片看到 portal fibrosis。他有一位 HLA 相合的 sibling。",
+     "問哪一個敘述正確。三個危險因子請逐一核對，再看選項裡的數字。",
+     "[Pause for answers.]"
+    ]
+   },
+   "answerNotes": {
+    "min": 1.0,
+    "script": [
+     "答案是 B。鐵螯合不足、肝腫大超過 2 cm、portal fibrosis 三項都有，就是 Pesaro class 3。Fludarabine-based conditioning 出現後，除了鐵負荷最重的病人，class 3 的額外風險大多被抹平，所以他仍該盡早接受 sibling 移植。",
+     "最常見的錯誤是 A，把 5 cm 搞混了。5 cm 加上年齡大於 7 歲，是 Mathews 在 class 3 裡再分出的 very-high-risk 組。C 錯，Pesaro 在成人預測力不好。D 錯，ferritin 看不出纖維化。E 錯，移植仍是唯一的標準根治方法。"
+    ]
+   }
+  },
+  {
+   "type": "columns",
+   "backup": true,
+   "eyebrow": "Speaker's summary · SCD vs thalassaemia",
+   "title": "SCD and thalassaemia differ on donors, age and adult outcome",
+   "cols": [
+    {
+     "head": "Sickle cell disease",
+     "items": [
+      "MUD worse than MSD; cutoff age ≥ 13",
+      "MSD best < 5 y; cGVHD > 20% from 15 y",
+      "Adult 2-year OS 93.5% (EBMT)",
+      "MAC + ATG or FTT; G-CSF contraindicated",
+      "No MSD: haplo with PTCy or TCRαβ/CD19"
+     ]
+    },
+    {
+     "head": "Thalassaemia (TDT)",
+     "items": [
+      "MUD equivalent to related donor",
+      "Best ≤ 7 y (CIBMTR) or ≤ 14 y (EBMT)",
+      "Adult 2-year OS 84.4% (EBMT)",
+      "FLU + BU or TREO; thiotepa, ATG",
+      "Pesaro class in children only"
+     ]
+    }
+   ],
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80",
+   "notes": {
+    "script": [
+     "這張是講者整理的對照表，把前面兩個病的重點並排。最常考的是 unrelated donor，SCD 比 sibling 差，thalassemia 則和 related donor 相當。"
+    ]
+   }
+  },
+  {
+   "type": "figure",
+   "backup": true,
+   "eyebrow": "Thalassaemia · Age effect",
+   "title": "Younger age brings better EFS and less graft failure in TDT",
+   "fig": "ch80-fig4",
+   "alt": "CIBMTR curves: adjusted 5-year EFS 86% at age 6 or younger, 80% at 7-15 years, 63% at 16-25 years; graft failure highest in the oldest group (p = 0.01).",
+   "caption": "Fig. 80.4 (Li 2019, CIBMTR). Adjusted EFS: ≤ 6 y 86%, 7–15 y 80%, 16–25 y 63% (p < 0.001). Graft failure highest at 16–25 years (p = 0.01). Text: optimal outcome up to 7 years.",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Fig. 80.4)",
+   "notes": {
+    "script": [
+     "這是 CIBMTR 的原始曲線。六歲以下 EFS 86%，16 到 25 歲只有 63%，graft failure 也在最年長組最高。書上文字說 7 歲以前結果最好，圖的分組則是 6 歲以下。"
+    ]
+   }
+  },
+  {
+   "type": "figure",
+   "backup": true,
+   "eyebrow": "Thalassaemia · Busulfan vs treosulfan",
+   "title": "Treosulfan and busulfan give similar survival with fludarabine",
+   "fig": "ch80-fig5",
+   "alt": "Overall survival curves to 2 years for BuFlu-based (n = 410) and TreoFlu-based (n = 362) conditioning; both above 90%; univariate p = 0.22, multivariate p = 0.68.",
+   "caption": "Fig. 80.5 (Lüftinger 2022, EBMT): BuFlu n = 410 vs TreoFlu n = 362; OS univariate p = 0.22, multivariate p = 0.68. Text: trend to less toxicity but more graft failure with treosulfan.",
+   "cite": "Cappelli B, et al. EBMT Handbook 8th ed. 2024; Ch. 80 (Fig. 80.5)",
+   "notes": {
+    "script": [
+     "如果有人問 treosulfan 和 busulfan 的比較，這是 Lüftinger 2022 的 EBMT 資料。兩年 OS 沒有差別，treosulfan 毒性較少的趨勢，但 graft failure 較多。"
+    ]
+   }
+  }
+ ]
+}

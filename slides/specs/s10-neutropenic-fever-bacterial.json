@@ -34,10 +34,26 @@
       "eyebrow": "Infections · Outline",
       "title": "Three chapters, from the first fever to the rare pathogen",
       "rows": [
-        ["Neutropenic fever (Ch. 35)", "Work-up, escalation vs de-escalation, persistent fever, stopping", "7.5 min"],
-        ["Bacterial infections (Ch. 36)", "Risk phases, Gram-positives, resistant Gram-negatives, CVC, prevention", "9.5 min"],
-        ["Other life-threatening infections (Ch. 39)", "Toxoplasma, tuberculosis, NTM, Listeria, Nocardia", "5 min"],
-        ["Board questions", "KPC carrier in shock, stopping antibiotics, nodules in cGVHD", "5.25 min"]
+        [
+          "Neutropenic fever (Ch. 35)",
+          "Work-up, escalation vs de-escalation, persistent fever, stopping",
+          "7.5 min"
+        ],
+        [
+          "Bacterial infections (Ch. 36)",
+          "Risk phases, Gram-positives, resistant Gram-negatives, CVC, prevention",
+          "9.5 min"
+        ],
+        [
+          "Other life-threatening infections (Ch. 39)",
+          "Toxoplasma, tuberculosis, NTM, Listeria, Nocardia",
+          "5 min"
+        ],
+        [
+          "Board questions",
+          "KPC carrier in shock, stopping antibiotics, nodules in cGVHD",
+          "5.25 min"
+        ]
       ],
       "notes": {
         "min": 1.0,
@@ -53,18 +69,48 @@
       "section": "Neutropenic fever",
       "eyebrow": "Neutropenic fever · Work-up",
       "title": "Two culture sets and a careful exam start every febrile episode",
-      "head": ["Step or finding", "Action or meaning"],
-      "rows": [
-        ["Blood cultures", "≥ 2 sets (aerobic + anaerobic bottle), 1 set via the CVC"],
-        ["Blood volume", "10 mL per bottle: volume drives detection"],
-        ["CVC exit or entry site", "Catheter infection"],
-        ["Perineal pain", "Perianal abscess"],
-        ["Skin or nail lesions", "Fungal infection"],
-        ["Abdominal defence, diarrhoea", "Neutropenic enterocolitis, C. difficile"],
-        ["Rhinorrhoea; pleuritic pain", "Respiratory virus; invasive mould"],
-        ["Lung focus suspected", "Lung CT: chest X-ray is too insensitive"]
+      "head": [
+        "Step or finding",
+        "Action or meaning"
       ],
-      "colW": [4.2, 8],
+      "rows": [
+        [
+          "Blood cultures",
+          "≥ 2 sets (aerobic + anaerobic bottle), 1 set via the CVC"
+        ],
+        [
+          "Blood volume",
+          "10 mL per bottle: volume drives detection"
+        ],
+        [
+          "CVC exit or entry site",
+          "Catheter infection"
+        ],
+        [
+          "Perineal pain",
+          "Perianal abscess"
+        ],
+        [
+          "Skin or nail lesions",
+          "Fungal infection"
+        ],
+        [
+          "Abdominal defence, diarrhoea",
+          "Neutropenic enterocolitis, C. difficile"
+        ],
+        [
+          "Rhinorrhoea; pleuritic pain",
+          "Respiratory virus; invasive mould"
+        ],
+        [
+          "Lung focus suspected",
+          "Lung CT: chest X-ray is too insensitive"
+        ]
+      ],
+      "colW": [
+        4.2,
+        8
+      ],
       "fontSize": 16,
       "cite": "Mikulska M. EBMT Handbook 8th ed. 2024; Ch. 35",
       "notes": {
@@ -72,6 +118,7 @@
         "script": [
           "Neutropenic 病人沒有 neutrophil，膿瘍、肺部浸潤、膿尿這些局部表現都出不來，發燒常常是唯一的症狀。發燒的原因很多，病毒、黴菌、ATG、輸血反應、CRS、mucositis、engraftment syndrome、GVHD 都有可能，但 Gram-negative，尤其 Pseudomonas aeruginosa，可以在幾小時內惡化致死，所以在排除之前，一律先當 Gram-negative bacteremia 處理。",
           "第一步是至少兩套 blood culture，一套是一瓶 aerobic 加一瓶 anaerobic。有 CVC 的話，其中一套從 CVC 抽。每瓶 10 mL，血量是偵測 bacteremia 和 candidemia 最關鍵的因素，病房最常見的問題就是抽太少。",
+          "臨床檢查還要看黏膜病灶和 CNS 表現，局部病灶想到黴菌或細菌膿瘍，意識混亂則可能是嚴重全身感染或病毒性腦炎。",
           "理學檢查要找細微的局部線索。CVC 出口紅腫想到導管感染，會陰部疼痛想到膿瘍，皮膚指甲病灶想到黴菌，腹部壓痛或腹瀉想到 neutropenic enterocolitis 或 C. difficile，流鼻水送鼻腔病毒檢測，肋膜性胸痛想到 mould。懷疑肺部時直接做 lung CT，因為 chest X-ray 在 neutropenia 的敏感度太低。"
         ]
       }
@@ -82,9 +129,21 @@
       "title": "Severity and resistance risk decide the first antibiotic",
       "root": "Febrile neutropenia: assess severity and MDR risk",
       "branches": [
-        {"label": "Low MDR risk", "box": "Escalation", "out": "Cefepime, ceftazidime or pip-tazo alone"},
-        {"label": "MDR risk, esp. severe", "box": "De-escalation", "out": "Carbapenem or new BL/BLI ± combination"},
-        {"label": "Known colonising strain", "box": "Regimen written in advance", "out": "Chosen by that strain's susceptibility"}
+        {
+          "label": "Low MDR risk",
+          "box": "Escalation",
+          "out": "Cefepime, ceftazidime or pip-tazo alone"
+        },
+        {
+          "label": "MDR risk, esp. severe",
+          "box": "De-escalation",
+          "out": "Carbapenem or new BL/BLI ± combination"
+        },
+        {
+          "label": "Known colonising strain",
+          "box": "Regimen written in advance",
+          "out": "Chosen by that strain's susceptibility"
+        }
       ],
       "invert": 1,
       "cite": "Mikulska M. EBMT Handbook 8th ed. 2024; Ch. 35",
@@ -92,7 +151,8 @@
         "min": 1.0,
         "script": [
           "抽完培養，接著做兩個風險評估。一個是臨床嚴重度，決定監測強度和門診病人要不要住院；另一個是抗藥 Gram-negative 的風險。高風險有三種情況，之前有抗藥菌 colonisation、曾經感染過抗藥菌，或單位本身抗藥菌很常見。",
-          "沒有抗藥風險的病人走 escalation，用單一的 anti-pseudomonal β-lactam。有抗藥風險，尤其表現嚴重的，走 de-escalation，一開始就涵蓋 MDR 菌。已知 colonising strain 的病人，可以在發燒之前就依它的藥敏把 empirical 處方寫在病歷上。"
+          "沒有抗藥風險的病人走 escalation，用單一的 anti-pseudomonal β-lactam。有抗藥風險，尤其表現嚴重的，走 de-escalation，一開始就涵蓋 MDR 菌。已知 colonising strain 的病人，可以在發燒之前就依它的藥敏把 empirical 處方寫在病歷上。",
+          "這兩個評估合起來，決定抗生素的涵蓋範圍、要不要加做其他檢查，以及接下來要多密切地監測惡化徵象。抗藥風險要同時看病人自己的 colonisation、感染史，以及單位的流行病學。"
         ]
       }
     },
@@ -100,15 +160,43 @@
       "type": "table",
       "eyebrow": "Neutropenic fever · Table 35.1",
       "title": "Escalation is the default; de-escalation covers MDR risk upfront",
-      "head": ["", "Escalation", "De-escalation"],
-      "rows": [
-        ["Start with", "Cefepime, ceftazidime or\npiperacillin-tazobactam alone", "Carbapenem or new BL/BLI,\n± aminoglycoside or Gram-positive cover"],
-        ["Who", "All patients without\nde-escalation criteria", "MDR colonised/infected or\nhigh-MDR centre, esp. if severe"],
-        ["Advantage", "Carbapenem sparing; less toxicity", "Active therapy before cultures:\nlower mortality"],
-        ["Limitation", "Inactive against isolated GNB:\nworse prognosis", "Antibiotic pressure, worst if\nnot de-escalated"],
-        ["Next step", "Change if fever persists 48–72 h", "Narrow at 72–96 h if no MDR isolated"]
+      "head": [
+        "",
+        "Escalation",
+        "De-escalation"
       ],
-      "colW": [2.1, 4.8, 5.4],
+      "rows": [
+        [
+          "Start with",
+          "Cefepime, ceftazidime or\npiperacillin-tazobactam alone",
+          "Carbapenem or new BL/BLI,\n± aminoglycoside or Gram-positive cover"
+        ],
+        [
+          "Who",
+          "All patients without\nde-escalation criteria",
+          "MDR colonised/infected or\nhigh-MDR centre, esp. if severe"
+        ],
+        [
+          "Advantage",
+          "Carbapenem sparing; less toxicity",
+          "Active therapy before cultures:\nlower mortality"
+        ],
+        [
+          "Limitation",
+          "Inactive against isolated GNB:\nworse prognosis",
+          "Antibiotic pressure, worst if\nnot de-escalated"
+        ],
+        [
+          "Next step",
+          "Change if fever persists 48–72 h",
+          "Narrow at 72–96 h if no MDR isolated"
+        ]
+      ],
+      "colW": [
+        2.1,
+        4.8,
+        5.4
+      ],
       "fontSize": 16,
       "caption": "Empirical vancomycin only for skin/CVC signs, pneumonia or a documented Gram-positive",
       "cite": "Mikulska M. EBMT Handbook 8th ed. 2024; Ch. 35",
@@ -118,6 +206,7 @@
           "這是書上的 Table 35.1。Escalation 是傳統做法，先用涵蓋 susceptible Enterobacteriaceae 和 Pseudomonas 的單一藥物，cefepime、ceftazidime 或 piperacillin-tazobactam，發燒持續 48 到 72 小時再調整。好處是省下 carbapenem，毒性也比較低。弱點在於萬一分離出的 Gram-negative 對起始藥物無效，預後會明顯變差。",
           "De-escalation 反過來，一開始就涵蓋 MDR Gram-negative，用 carbapenem 或新的 β-lactam/β-lactamase inhibitor，例如 ceftolozane-tazobactam 或 ceftazidime-avibactam，必要時合併 aminoglycoside 或 Gram-positive coverage。72 到 96 小時後如果沒有分離出 MDR 菌，不論是培養到敏感菌還是培養陰性，就降階。好處是培養結果出來前就給到有效藥物，死亡率較低；風險是沒有確實降階時，抗生素壓力非常大。",
           "Escalation 時，不建議常規用 carbapenem，也不建議常規合併 β-lactam 和 aminoglycoside，後者毒性較多，卻沒有臨床好處。起始藥物要依自己醫院最常見 Gram-negative 的藥敏來選。",
+          "De-escalation 原本是 ICU 重症病人的做法，後來才被提出用在 neutropenic 血液病人。Neutropenic ICU 病人和 HCT 病人的資料都顯示它安全可行，但各移植中心的實施程度並不一致。它的兩個核心，一是立刻給到對潛在致命 MDR 菌有效的治療，二是盡量減少不必要的廣效藥物，以免選出或誘發抗藥菌。",
           "底下這行常考。Vancomycin 這類 Gram-positive coverage，不論是起始治療或持續發燒，都不建議常規加上，除非有皮膚或 CVC 感染、肺炎，或已證實 Gram-positive 感染。Cochrane 的 Beyar-Katz 2017 也沒有看到常規加藥的效益。"
         ]
       }
@@ -128,10 +217,26 @@
       "title": "Stability decides what to do when fever persists",
       "root": "Fever persists on empirical antibiotics",
       "branches": [
-        {"label": "Stable", "box": "Usually no change", "out": "Slow response, virus, fungus, CRS?"},
-        {"label": "Day 2–3 of fever", "box": "GM/PCR results; lung CT", "out": "Diagnostic-driven antifungal"},
-        {"label": "Deteriorating", "box": "Aggressive work-up", "out": "Escalate antibiotics ± antifungal"},
-        {"label": "Diarrhoea", "box": "Test for C. difficile", "out": "Escalation alone may worsen CDI"}
+        {
+          "label": "Stable",
+          "box": "Usually no change",
+          "out": "Slow response, virus, fungus, CRS?"
+        },
+        {
+          "label": "Day 2–3 of fever",
+          "box": "GM/PCR results; lung CT",
+          "out": "Diagnostic-driven antifungal"
+        },
+        {
+          "label": "Deteriorating",
+          "box": "Aggressive work-up",
+          "out": "Escalate antibiotics ± antifungal"
+        },
+        {
+          "label": "Diarrhoea",
+          "box": "Test for C. difficile",
+          "out": "Escalation alone may worsen CDI"
+        }
       ],
       "invert": 2,
       "cite": "Mikulska M. EBMT Handbook 8th ed. 2024; Ch. 35",
@@ -148,14 +253,38 @@
       "type": "table",
       "eyebrow": "Neutropenic fever · Stopping antibiotics",
       "title": "Antibiotics can stop before neutrophil recovery",
-      "head": ["Source", "Population", "Rule or result"],
-      "rows": [
-        ["ECIL\n(Averbuch 2013; Lehrnbecher 2023)", "No documented infection;\nstable since fever onset", "Stop after ≥ 72 h IV if afebrile\n≥ 48 h, any ANC"],
-        ["How Long trial\n(Aguilar-Guisado 2017)", "157 high-risk febrile\nneutropenia, no documented focus", "Safe stop after 72 h apyrexia\nand clinical recovery"],
-        ["Short carbapenem\n(de Jonge 2022)", "281 patients,\n> 60% autologous HCT", "Stop at day 3: same failure,\nmore serious adverse events"],
-        ["Documented infection\n(Ch. 36)", "Bacteraemia or\nfocal infection", "≥ 7 days, eradicated,\nafebrile ≥ 4 days"]
+      "head": [
+        "Source",
+        "Population",
+        "Rule or result"
       ],
-      "colW": [3.6, 3.8, 4.8],
+      "rows": [
+        [
+          "ECIL\n(Averbuch 2013; Lehrnbecher 2023)",
+          "No documented infection;\nstable since fever onset",
+          "Stop after ≥ 72 h IV if afebrile\n≥ 48 h, any ANC"
+        ],
+        [
+          "How Long trial\n(Aguilar-Guisado 2017)",
+          "157 high-risk febrile\nneutropenia, no documented focus",
+          "Safe stop after 72 h apyrexia\nand clinical recovery"
+        ],
+        [
+          "Short carbapenem\n(de Jonge 2022)",
+          "281 patients,\n> 60% autologous HCT",
+          "Stop at day 3: same failure,\nmore serious adverse events"
+        ],
+        [
+          "Documented infection\n(Ch. 36)",
+          "Bacteraemia or\nfocal infection",
+          "≥ 7 days, eradicated,\nafebrile ≥ 4 days"
+        ]
+      ],
+      "colW": [
+        3.6,
+        3.8,
+        4.8
+      ],
       "fontSize": 16,
       "caption": "Restart antibiotics at once if fever returns",
       "captionY": 5.75,
@@ -185,8 +314,9 @@
       "notes": {
         "min": 1.0,
         "script": [
-          "細菌感染最常見的是 bloodstream infection，auto-HCT 大約 5 到 10%，allo-HCT 20 到 50%，多數在 engraftment 之前。Pre-engraftment 的風險來自 neutropenia 和屏障破壞，也就是 mucositis 和血管導管，Gram-positive cocci 和 Gram-negative 都有；haplo 和 cord blood engraftment 比較慢，風險更高。",
-          "Engraftment 到 day 100，主要是 CVC、免疫尚未重建，以及 GVHD 和它的治療。Day 100 以後是 humoral 和 cellular immunity 不足，要想到肺炎鏈球菌和 Haemophilus influenzae，少數是 mycobacteria、Nocardia、Listeria，這幾個在第三段再談。"
+          "細菌感染最常見的是 bloodstream infection，auto-HCT 大約 5 到 10%，allo-HCT 20 到 50%，多數在 engraftment 之前。Pre-engraftment 的風險來自 neutropenia 和屏障破壞，也就是 mucositis 和血管導管，Gram-positive cocci 和 Gram-negative 都有，E. coli 是 engraftment 前最常見的 Gram-negative；haplo 和 cord blood engraftment 比較慢，風險更高。",
+          "Engraftment 到 day 100，主要是 CVC、免疫尚未重建，以及 GVHD 和它的治療。Day 100 以後是 humoral 和 cellular immunity 不足，要想到肺炎鏈球菌和 Haemophilus influenzae，少數是 mycobacteria、Nocardia、Listeria，這幾個在第三段再談。",
+          "BSI 死亡的危險因子包括年紀大、steroid、持續 neutropenia、休克、MDR 菌，以及不適當的 empirical 治療。"
         ]
       }
     },
@@ -194,15 +324,50 @@
       "type": "table",
       "eyebrow": "Bacterial infections · Gram-positive",
       "title": "Gram-positive bacteraemia ranges from benign CoNS to lethal VS",
-      "head": ["Organism", "Share of BSI", "Key feature", "Treatment"],
-      "rows": [
-        ["CoNS", "7–63%", "≥ 2 positive cultures; CVC-related;\ngood prognosis", "Glycopeptide\n(methicillin resistance common)"],
-        ["S. aureus", "3–8%", "Attributable mortality 12–40%", "MSSA: cefazolin, oxacillin\nMRSA: vancomycin, daptomycin"],
-        ["Enterococci", "4–24%", "Later after HCT; VRE with GVHD,\nmucositis, broad antibiotics", "Ampicillin → vancomycin\nVRE: linezolid or daptomycin"],
-        ["Viridans streptococci", "7–24%", "Early; ARDS and septic shock;\ncytarabine mucositis", "Not ceftazidime; add vancomycin\nin septic shock"],
-        ["S. pneumoniae", "Late, years", "Mortality 13–30%;\ncGVHD, low IgG", "Vaccination; oral penicillin\nprophylaxis"]
+      "head": [
+        "Organism",
+        "Share of BSI",
+        "Key feature",
+        "Treatment"
       ],
-      "colW": [2.4, 1.7, 4.1, 4.1],
+      "rows": [
+        [
+          "CoNS",
+          "7–63%",
+          "≥ 2 positive cultures; CVC-related;\ngood prognosis",
+          "Glycopeptide\n(methicillin resistance common)"
+        ],
+        [
+          "S. aureus",
+          "3–8%",
+          "Attributable mortality 12–40%",
+          "MSSA: cefazolin, oxacillin\nMRSA: vancomycin, daptomycin"
+        ],
+        [
+          "Enterococci",
+          "4–24%",
+          "Later after HCT; VRE with GVHD,\nmucositis, broad antibiotics",
+          "Ampicillin → vancomycin\nVRE: linezolid or daptomycin"
+        ],
+        [
+          "Viridans streptococci",
+          "7–24%",
+          "Early; ARDS and septic shock;\ncytarabine mucositis",
+          "Not ceftazidime; add vancomycin\nin septic shock"
+        ],
+        [
+          "S. pneumoniae",
+          "Late, years",
+          "Mortality 13–30%;\ncGVHD, low IgG",
+          "Vaccination; oral penicillin\nprophylaxis"
+        ]
+      ],
+      "colW": [
+        2.4,
+        1.7,
+        4.1,
+        4.1
+      ],
       "fontSize": 15,
       "caption": "Daptomycin 8–12 mg/kg/day for BSI; never for pneumonia (inactivated by surfactant)",
       "cite": "Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36",
@@ -212,6 +377,7 @@
           "Gram-positive 依序看五種菌。CoNS 佔 BSI 的 7 到 63%，真正的 CoNS BSI 要至少兩套連續陽性，通常和 CVC 有關。Methicillin 抗藥很常見，所以用 glycopeptide，預後通常不錯。",
           "S. aureus 只佔 3 到 8%，attributable mortality 卻有 12 到 40%。MSSA 用 cefazolin 或 oxacillin；MRSA BSI 用 vancomycin 或 daptomycin，治療 BSI 時 daptomycin 考慮 8 到 12 mg/kg/day。Daptomycin 會被 surfactant 失活，不能拿來治療肺炎，這是很典型的考點。Linezolid 有骨髓抑制，移植病人要小心。",
           "Enterococci 佔 4 到 24%，較晚發生，E. faecium 比 E. faecalis 多。VRE 的危險因子是 colonisation、mucositis 和廣效抗生素，常見於狀況差、合併 GVHD 的病人，這也解釋了為什麼 empirical 涵蓋 VRE 沒有降低死亡率。VRE 用 linezolid 或 daptomycin，也可以 daptomycin 合併 ampicillin、ceftriaxone 或 ceftaroline。",
+          "MRSA 也有 vancomycin 敏感性下降的 VISA，部分菌株同時對 daptomycin 不敏感；其他有特定適應症的藥物還有 ceftaroline、lipoglycopeptide、delafloxacin 和 linezolid。",
           "Viridans streptococci 佔 7 到 24%，發生得早，可以合併 ARDS 和 septic shock。危險因子包括 cytarabine 引起的 mucositis、FQ 或 ceftazidime 暴露、制酸劑、MAC 和 haplo。它對 ceftazidime 不敏感，加上有 β-lactam 抗藥株，所以 neutropenic 病人出現 septic shock 時要加 vancomycin，這是前面不常規加 vancomycin 的重要例外。肺炎鏈球菌是晚期問題，死亡率 13 到 30%，預防那張再談。"
         ]
       }
@@ -220,16 +386,48 @@
       "type": "table",
       "eyebrow": "Bacterial infections · Enterobacterales",
       "title": "The β-lactamase type picks the drug for Enterobacterales",
-      "head": ["Mechanism", "Severe infection: treat with", "Note"],
-      "rows": [
-        ["ESBL", "Carbapenem", "Not pip-tazo or cefepime,\neven if susceptible in vitro"],
-        ["Inducible AmpC\n(E. cloacae, Citrobacter)", "Carbapenem", "Cefepime only if fully susceptible\nand ESBL excluded"],
-        ["KPC", "Meropenem-vaborbactam or\nceftazidime-avibactam", "Better than colistin-based;\nless nephrotoxic"],
-        ["OXA-48-like", "Ceftazidime-avibactam", "Alternative: cefiderocol"],
-        ["Metallo-β-lactamase\n(NDM, VIM)", "Aztreonam + ceftazidime-\navibactam, or cefiderocol", "—"],
-        ["CRE susceptible only\nto older agents", "More than one active drug", "Polymyxin, aminoglycoside,\ntigecycline, fosfomycin"]
+      "head": [
+        "Mechanism",
+        "Severe infection: treat with",
+        "Note"
       ],
-      "colW": [3.4, 4.4, 4.5],
+      "rows": [
+        [
+          "ESBL",
+          "Carbapenem",
+          "Not pip-tazo or cefepime,\neven if susceptible in vitro"
+        ],
+        [
+          "Inducible AmpC\n(E. cloacae, Citrobacter)",
+          "Carbapenem",
+          "Cefepime only if fully susceptible\nand ESBL excluded"
+        ],
+        [
+          "KPC",
+          "Meropenem-vaborbactam or\nceftazidime-avibactam",
+          "Better than colistin-based;\nless nephrotoxic"
+        ],
+        [
+          "OXA-48-like",
+          "Ceftazidime-avibactam",
+          "Alternative: cefiderocol"
+        ],
+        [
+          "Metallo-β-lactamase\n(NDM, VIM)",
+          "Aztreonam + ceftazidime-\navibactam, or cefiderocol",
+          "—"
+        ],
+        [
+          "CRE susceptible only\nto older agents",
+          "More than one active drug",
+          "Polymyxin, aminoglycoside,\ntigecycline, fosfomycin"
+        ]
+      ],
+      "colW": [
+        3.4,
+        4.4,
+        4.5
+      ],
       "fontSize": 14,
       "caption": "EBMT study (Averbuch 2017): GNB 50% resistant to non-carbapenem β-lactams, 18.5% CR, 35% MDR",
       "captionY": 5.95,
@@ -240,6 +438,7 @@
           "先看底下這行數字。EBMT 的多國前瞻性研究裡，一半的 Gram-negative 對 non-carbapenem β-lactam 抗藥，而這正是 febrile neutropenia 的 first-line；18.5% 對 carbapenem 抗藥，35% 是 MDR。Allo 比 auto 高，東南歐比西北歐高。Carbapenem-resistant 的危險因子是同一種菌的 colonisation 或感染、carbapenem 治療中 breakthrough，以及住過 ICU。",
           "ESBL 菌通常對 ceftriaxone 抗藥，體外可能看起來對其他 β-lactam 敏感，但嚴重感染仍然用 carbapenem，pip-tazo、ceftazidime、cefepime 即使藥敏顯示敏感也不建議。Enterobacter cloacae、Klebsiella aerogenes、Citrobacter freundii 有 inducible AmpC，治療中會產生抗藥，首選也是 carbapenem。",
           "Carbapenemase 分三類。KPC 用 meropenem-vaborbactam 或 ceftazidime-avibactam，結果比舊的 colistin-based regimen 好，腎毒性也低。OXA-48-like 用 ceftazidime-avibactam。Metallo-β-lactamase，像 NDM、VIM，用 aztreonam 加 ceftazidime-avibactam，或 cefiderocol。這組配對考試很愛考，尤其 MBL 要加 aztreonam。",
+          "Carbapenem 抗藥在 Enterobacterales 中以 Klebsiella pneumoniae 最常見。這幾個新藥在免疫低下 BSI 病人的臨床資料其實很有限，而且治療中、甚至沒有暴露過也有抗藥的報告，所以藥敏結果和感染科會診很重要。新的 β-lactam 組合腎毒性明顯低於 polymyxin 或 aminoglycoside 為主的 regimen。",
           "對 β-lactam 敏感的菌，不建議常規合併 aminoglycoside、polymyxin 或 FQ。只剩舊藥有效的 CRE，或拿不到新藥時，才用一種以上的有效藥物。"
         ]
       }
@@ -248,14 +447,38 @@
       "type": "table",
       "eyebrow": "Bacterial infections · Non-fermenters",
       "title": "Non-fermenters need agents matched to intrinsic resistance",
-      "head": ["Pathogen", "First choice", "Key point"],
-      "rows": [
-        ["P. aeruginosa,\nsusceptible", "Non-carbapenem β-lactam", "4–16% of BSI; mortality 39–79%;\n25–71% MDR"],
-        ["DTR P. aeruginosa", "Ceftolozane-tazobactam", "Resistance may emerge, with\nceftazidime-avibactam cross-resistance"],
-        ["S. maltophilia", "TMP/SMX; if severe add\nminocycline (preferred)", "Intrinsically resistant to\ncarbapenems, aminoglycosides"],
-        ["CRAB", "≥ 2 active agents; high-dose\nampicillin-sulbactam", "Mortality 49–95%;\nno routine cefiderocol"]
+      "head": [
+        "Pathogen",
+        "First choice",
+        "Key point"
       ],
-      "colW": [2.8, 4.4, 5.1],
+      "rows": [
+        [
+          "P. aeruginosa,\nsusceptible",
+          "Non-carbapenem β-lactam",
+          "4–16% of BSI; mortality 39–79%;\n25–71% MDR"
+        ],
+        [
+          "DTR P. aeruginosa",
+          "Ceftolozane-tazobactam",
+          "Resistance may emerge, with\nceftazidime-avibactam cross-resistance"
+        ],
+        [
+          "S. maltophilia",
+          "TMP/SMX; if severe add\nminocycline (preferred)",
+          "Intrinsically resistant to\ncarbapenems, aminoglycosides"
+        ],
+        [
+          "CRAB",
+          "≥ 2 active agents; high-dose\nampicillin-sulbactam",
+          "Mortality 49–95%;\nno routine cefiderocol"
+        ]
+      ],
+      "colW": [
+        2.8,
+        4.4,
+        5.1
+      ],
       "fontSize": 16,
       "caption": "Combination for β-lactam-susceptible PA is not routine, except severe infection in neutropenia",
       "captionY": 5.3,
@@ -265,6 +488,7 @@
         "script": [
           "Pseudomonas aeruginosa 佔 BSI 的 4 到 16%，死亡率 39 到 79%，25 到 71% 是 MDR，治療中也會產生抗藥。敏感的 PA 優先用 non-carbapenem β-lactam。DTR，difficult-to-treat，是指對 pip-tazo、ceftazidime、cefepime、aztreonam、兩種 carbapenem 和兩種 FQ 全部不敏感，首選 ceftolozane-tazobactam，但要留意治療中產生抗藥，並和 ceftazidime-avibactam 交叉抗藥。",
           "Stenotrophomonas maltophilia 會造成出血性肺炎，天生對 carbapenem 和 aminoglycoside 抗藥，所以在 carbapenem 治療中冒出來並不意外，首選 TMP/SMX。CRAB 多半和 ICU 有關，至少兩種有效藥物，以高劑量延長輸注的 ampicillin-sulbactam 為主，cefiderocol 因為死亡率較高，不建議常規使用。",
+          "Carbapenem 抗藥、但對其他 non-carbapenem β-lactam 仍敏感的 PA，可以用高劑量延長輸注的 non-carbapenem β-lactam。DTR PA 的其他選擇有 imipenem-relebactam 和 ceftazidime-avibactam。對所有 β-lactam 都抗藥時，選體外抗藥程度最低的 β-lactam 合併 aminoglycoside 或 polymyxin B。",
           "底下這行是例外條款，neutropenic 病人的嚴重 Pseudomonas 感染，常會先合併治療到病情穩定。"
         ]
       }
@@ -275,10 +499,26 @@
       "title": "Most catheter-related bacteraemias end with removing the line",
       "root": "CRBSI proven: time to positivity CVC vs vein > 120 min",
       "branches": [
-        {"label": "Organism", "box": "S. aureus, PA, fungi, mycobacteria", "out": "Remove CVC"},
-        {"label": "Complication", "box": "Shock, endocarditis, thrombophlebitis", "out": "Remove CVC"},
-        {"label": "Persistence or site", "box": "Positive > 72 h; tunnel or port pocket", "out": "Remove CVC"},
-        {"label": "None of these", "box": "Stable, uncomplicated", "out": "Salvage with antimicrobial lock"}
+        {
+          "label": "Organism",
+          "box": "S. aureus, PA, fungi, mycobacteria",
+          "out": "Remove CVC"
+        },
+        {
+          "label": "Complication",
+          "box": "Shock, endocarditis, thrombophlebitis",
+          "out": "Remove CVC"
+        },
+        {
+          "label": "Persistence or site",
+          "box": "Positive > 72 h; tunnel or port pocket",
+          "out": "Remove CVC"
+        },
+        {
+          "label": "None of these",
+          "box": "Stable, uncomplicated",
+          "out": "Salvage with antimicrobial lock"
+        }
       ],
       "invert": 3,
       "cite": "Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36",
@@ -287,6 +527,7 @@
         "script": [
           "CRBSI 在這幾種情況要懷疑，血液培養持續陽性、出口或 tunnel 感染，以及沖管時發冷發燒。確認方法是同時從 CVC 和周邊靜脈抽血，CVC 那瓶比周邊早超過 120 分鐘轉陽，也就是 differential time to positivity 大於 120 分鐘；另一種是半定量或定量培養。",
           "原則是拔管加全身抗生素。一定要拔的情況有四類，菌種是 S. aureus、P. aeruginosa、黴菌或 mycobacteria；嚴重 sepsis 合併血行動力學不穩；suppurative thrombophlebitis 或 endocarditis；適當抗生素下血液培養超過 72 小時仍陽性，或 tunnel、port pocket 感染。只有穩定、沒有併發症時，才考慮用 antimicrobial lock 保留導管。",
+          "NTM 的 CVC 感染，第 39 章也建議導管幾乎都要拔，和這張的 mycobacteria 一致。臨床上兩套血液培養要同時抽，並標清楚哪一套來自 CVC，否則 differential time to positivity 無法判讀。",
           "考題常給 S. aureus 或 Pseudomonas bacteremia 的病人，問要不要拔管，依這張圖答案幾乎都是要拔。"
         ]
       }
@@ -295,17 +536,44 @@
       "type": "table",
       "eyebrow": "Bacterial infections · Prevention",
       "title": "Fluoroquinolone prophylaxis trades fewer fevers for resistance",
-      "head": ["Measure", "Indication or evidence"],
-      "rows": [
-        ["Infection control", "Hand hygiene, chlorhexidine bathing; screen and cohort MDR"],
-        ["CRBSI bundle", "Expert sterile insertion, no femoral site, remove unused CVC"],
-        ["FQ prophylaxis", "Guidelines: adults with neutropenia expected ≥ 7 days"],
-        ["FQ: evidence", "No mortality fall; fever ~15% lower; BSI not lower in allo-HCT"],
-        ["FQ: harm", "CDI, microbiome loss (GVHD risk), FQ-resistant/MDR GNB"],
-        ["Late (> day 100)", "Oral penicillin for cGVHD or hypogammaglobulinaemia"],
-        ["IVIg; vaccination", "IVIg if IgG < 400 mg/dL; pneumococcal vaccination"]
+      "head": [
+        "Measure",
+        "Indication or evidence"
       ],
-      "colW": [3.0, 9.0],
+      "rows": [
+        [
+          "Infection control",
+          "Hand hygiene, chlorhexidine bathing; screen and cohort MDR"
+        ],
+        [
+          "CRBSI bundle",
+          "Expert sterile insertion, no femoral site, remove unused CVC"
+        ],
+        [
+          "FQ prophylaxis",
+          "Guidelines: adults with neutropenia expected ≥ 7 days"
+        ],
+        [
+          "FQ: evidence",
+          "No mortality fall; fever ~15% lower; BSI not lower in allo-HCT"
+        ],
+        [
+          "FQ: harm",
+          "CDI, microbiome loss (GVHD risk), FQ-resistant/MDR GNB"
+        ],
+        [
+          "Late (> day 100)",
+          "Oral penicillin for cGVHD or hypogammaglobulinaemia"
+        ],
+        [
+          "IVIg; vaccination",
+          "IVIg if IgG < 400 mg/dL; pneumococcal vaccination"
+        ]
+      ],
+      "colW": [
+        3.0,
+        9.0
+      ],
       "fontSize": 16,
       "cite": "Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36",
       "notes": {
@@ -313,6 +581,7 @@
         "script": [
           "預防先從感染控制開始，手部衛生、chlorhexidine 擦澡、單人房；流行時篩檢 colonisation、接觸隔離和 cohorting。CPE 的常規去 colonisation 沒有證據支持。CRBSI bundle 包括專門團隊無菌置放、避免 femoral、chlorhexidine 消毒，以及拔掉不需要的導管。",
           "FQ prophylaxis 在多個指引中仍建議用於預期 neutropenia 7 天以上的成人。不過 1980 到 2018 年的 meta-analysis 顯示死亡率沒有下降，febrile neutropenia 大約少 15%，BSI 的減少主要在 acute leukemia 和 auto-HCT，allo-HCT 沒有看到。代價包括 C. difficile、菌相改變可能增加 GVHD，以及 FQ-resistant 或 MDR Gram-negative。Allo-HCT 證據最弱這一點常被拿來出題。",
+          "要不要給 FQ prophylaxis，先看自己中心 Gram-negative 對 FQ 的抗藥率。抗藥率高時，預防效果被抵消，副作用卻全部留下。",
           "Day 100 以後，cGVHD 或 hypogammaglobulinemia 的病人給口服 penicillin，前提是當地抗藥率低，而且不論有沒有打過疫苗；IgG 低於 400 mg/dL 給 IVIg，再加上疫苗。"
         ]
       }
@@ -322,17 +591,44 @@
       "section": "Other life-threatening infections",
       "eyebrow": "Ch. 39 · Toxoplasmosis",
       "title": "Toxoplasmosis strikes seropositive allo-HCT recipients early",
-      "head": ["Topic", "Key facts (Table 39.2 for drugs)"],
-      "rows": [
-        ["Who", "Seropositive allo-HCT; aGVHD and its therapy; T-cell depletion"],
-        ["When; how often", "95% within 6 months; ~0.8% (< 0.4% to 2–3%)"],
-        ["Disease", "CNS (multiple lesions; MRI > CT), pneumonitis, myocarditis"],
-        ["Diagnosis", "qPCR in blood, CSF, BAL; histology definite, PCR probable"],
-        ["Treatment", "Pyrimethamine 200 mg load, then 50–75 mg/day + folinic acid"],
-        ["  plus one of", "Sulfadiazine 1–1.5 g q6–8h, or clindamycin 600 mg q6h"],
-        ["Prevention", "TMP/SMX 1 SS daily or 1 DS 4 days/week; else weekly qPCR"]
+      "head": [
+        "Topic",
+        "Key facts (Table 39.2 for drugs)"
       ],
-      "colW": [2.8, 9.2],
+      "rows": [
+        [
+          "Who",
+          "Seropositive allo-HCT; aGVHD and its therapy; T-cell depletion"
+        ],
+        [
+          "When; how often",
+          "95% within 6 months; ~0.8% (< 0.4% to 2–3%)"
+        ],
+        [
+          "Disease",
+          "CNS (multiple lesions; MRI > CT), pneumonitis, myocarditis"
+        ],
+        [
+          "Diagnosis",
+          "qPCR in blood, CSF, BAL; histology definite, PCR probable"
+        ],
+        [
+          "Treatment",
+          "Pyrimethamine 200 mg load, then 50–75 mg/day + folinic acid"
+        ],
+        [
+          "  plus one of",
+          "Sulfadiazine 1–1.5 g q6–8h, or clindamycin 600 mg q6h"
+        ],
+        [
+          "Prevention",
+          "TMP/SMX 1 SS daily or 1 DS 4 days/week; else weekly qPCR"
+        ]
+      ],
+      "colW": [
+        2.8,
+        9.2
+      ],
       "fontSize": 16,
       "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
       "notes": {
@@ -341,6 +637,7 @@
           "第 39 章的病原有一個共通點，就是嚴重的細胞免疫抑制，尤其是長期用 steroid 的 GVHD。先看 toxoplasma。它幾乎都是血清陽性病人的潛伏 cyst 再活化，所以移植前要知道病人的 serostatus。主要發生在 allo-HCT，95% 在六個月內，aGVHD 和它的治療是主要危險因子；沒有 GVHD 但做過 T-cell depletion 的也有風險。平均發生率約 0.8%，低盛行區低於 0.4%，高盛行區 2 到 3%。",
           "最常侵犯 CNS，表現是亞急性的局部神經學症狀，CT 常見多發雙側病灶，MRI 更敏感；肺炎和心肌炎也常見。診斷靠血、CSF 或 BAL 的 qPCR，組織學是 definite，PCR 是 probable，只有影像是 possible。",
           "治療是 pyrimethamine 200 mg loading，之後每天 50 到 75 mg，加 folinic acid，再配 sulfadiazine 或 clindamycin。適當治療下最多六成病人改善，神經學症狀通常一週內好轉。",
+          "移植後初次感染或再感染仍然可能，所以要避免生食任何肉類和飲用受污染的水。有在吃 TMP/SMX 預防的病人，不需要再做 qPCR 監測。Table 39.2 裡的 dapsone 100 mg 和 atovaquone 1500 mg 每天，是 TMP/SMX 的替代選擇。",
           "預防用 TMP/SMX，breakthrough 多半發生在一週吃不到 3 天的人，所以建議每天一顆 single-strength，或 double-strength 一週 4 天。沒有吃 TMP/SMX 的血清陽性病人，改用每週血液 qPCR 監測，類似 CMV 的 preemptive 做法。"
         ]
       }
@@ -349,15 +646,43 @@
       "type": "table",
       "eyebrow": "Ch. 39 · Mycobacteria",
       "title": "Tuberculosis is never colonisation; NTM often starts in the CVC",
-      "head": ["", "Tuberculosis", "Non-tuberculous mycobacteria"],
-      "rows": [
-        ["Risk", "Allo-HCT 2–10× general population;\nauto-HCT not higher", "MAC: severe steroid-dependent\ncGVHD"],
-        ["Disease", "~75% pulmonary; meningitis is the\ncommonest extrapulmonary site", "CVC 40%, skin 30%, lung 20%;\nMAC: lung or disseminated"],
-        ["Diagnosis", "PCR first; one colony is diagnostic;\nIGRA unreliable after HCT", "Isolate from the organ; lung\ncolonisation hard to exclude"],
-        ["Treatment", "Call ID at once; drugs by local\nresistance; mortality < 30%", "Remove CVC; macrolide +\nmoxifloxacin or levofloxacin"],
-        ["Screening", "ECIL scenarios only\n[verify: Taiwan LTBI policy]", "No role for screening\nor prophylaxis"]
+      "head": [
+        "",
+        "Tuberculosis",
+        "Non-tuberculous mycobacteria"
       ],
-      "colW": [2.0, 5.2, 5.1],
+      "rows": [
+        [
+          "Risk",
+          "Allo-HCT 2–10× general population;\nauto-HCT not higher",
+          "MAC: severe steroid-dependent\ncGVHD"
+        ],
+        [
+          "Disease",
+          "~75% pulmonary; meningitis is the\ncommonest extrapulmonary site",
+          "CVC 40%, skin 30%, lung 20%;\nMAC: lung or disseminated"
+        ],
+        [
+          "Diagnosis",
+          "PCR first; one colony is diagnostic;\nIGRA unreliable after HCT",
+          "Isolate from the organ; lung\ncolonisation hard to exclude"
+        ],
+        [
+          "Treatment",
+          "Call ID at once; drugs by local\nresistance; mortality < 30%",
+          "Remove CVC; macrolide +\nmoxifloxacin or levofloxacin"
+        ],
+        [
+          "Screening",
+          "ECIL scenarios only\n[verify: Taiwan LTBI policy]",
+          "No role for screening\nor prophylaxis"
+        ]
+      ],
+      "colW": [
+        2.0,
+        5.2,
+        5.1
+      ],
       "fontSize": 15,
       "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
       "notes": {
@@ -376,15 +701,43 @@
       "type": "table",
       "eyebrow": "Ch. 39 · Listeria and Nocardia",
       "title": "Listeria seeds the brain early; Nocardia needs a brain scan",
-      "head": ["", "Listeria monocytogenes", "Nocardia spp."],
-      "rows": [
-        ["Organism", "Gram-positive rod; foodborne;\ngrows at refrigerator temperature", "Branching, acid-fast Gram-positive\nrod; inhaled from soil"],
-        ["Host, timing", "Severe cellular IS; < 0.1% to 0.47%", "Late; steroid-dependent cGVHD;\n0.3–1.7% of allo-HCT"],
-        ["Disease", "Bacteraemia; CNS in 40–60%", "Cavitating nodules 90%;\nCNS in ~1/3, often silent"],
-        ["Treatment", "High-dose ampicillin + amino-\nglycoside, 3 weeks (CNS 6)", "High-dose TMP/SMX\nfor ≥ 6 months"],
-        ["TMP/SMX\nprophylaxis", "Probably protective (unproven)", "2–3 days/week does not protect"]
+      "head": [
+        "",
+        "Listeria monocytogenes",
+        "Nocardia spp."
       ],
-      "colW": [2.2, 5.0, 5.1],
+      "rows": [
+        [
+          "Organism",
+          "Gram-positive rod; foodborne;\ngrows at refrigerator temperature",
+          "Branching, acid-fast Gram-positive\nrod; inhaled from soil"
+        ],
+        [
+          "Host, timing",
+          "Severe cellular IS; < 0.1% to 0.47%",
+          "Late; steroid-dependent cGVHD;\n0.3–1.7% of allo-HCT"
+        ],
+        [
+          "Disease",
+          "Bacteraemia; CNS in 40–60%",
+          "Cavitating nodules 90%;\nCNS in ~1/3, often silent"
+        ],
+        [
+          "Treatment",
+          "High-dose ampicillin + amino-\nglycoside, 3 weeks (CNS 6)",
+          "High-dose TMP/SMX\nfor ≥ 6 months"
+        ],
+        [
+          "TMP/SMX\nprophylaxis",
+          "Probably protective (unproven)",
+          "2–3 days/week does not protect"
+        ]
+      ],
+      "colW": [
+        2.2,
+        5.0,
+        5.1
+      ],
       "fontSize": 15,
       "caption": "Every pulmonary nocardiosis needs brain CT or MRI, even without symptoms",
       "captionY": 5.85,
@@ -394,6 +747,7 @@
         "script": [
           "Listeria 是食物傳染的 Gram-positive 桿菌，冰箱溫度也能生長。唯一的危險因子是吃到被污染的食物，加上嚴重細胞免疫抑制，各中心報告的發生率從低於 0.1% 到 0.47%。幾乎都是 sepsis 合併 bacteremia，40 到 60% 有 CNS 侵犯，可以是腦膜炎、腦炎、腦膿瘍或 rhombencephalitis。治療是高劑量 ampicillin 加 aminoglycoside 三週，CNS 感染六週。EBMT 的 case-control 研究，存活率 48% 對照組 72%。",
           "Nocardia 是分枝狀、acid-fast 的 Gram-positive 桿菌，從土壤吸入，是晚期感染，典型病人有 steroid-dependent cGVHD。九成有肺部結節，傾向空洞化，最主要的鑑別診斷是 mould。大約三分之一一開始就有 CNS 侵犯，常常沒有症狀，所以肺部 nocardiosis 一律要照腦部影像。Basal meningitis 造成的 SIADH 也常見。治療是高劑量 TMP/SMX 至少六個月。",
+          "Nocardia 的培養中位數要 9 天才轉陽，最長可到 2 到 4 週，常常要靠痰或 BAL 直接看到分枝狀桿菌。",
           "最後一列是常見陷阱，一週兩到三天的 TMP/SMX 預防不了 Nocardia。"
         ]
       }
@@ -487,7 +841,7 @@
         "min": 0.75,
         "script": [
           "最後一題。57 歲男性，移植後 14 個月，因為 steroid-dependent chronic GVHD 持續吃 prednisolone，TMP/SMX 一週只吃兩天。現在發燒咳嗽，CT 有兩顆空洞化的肺結節，BAL 看到分枝狀、acid-fast 的 Gram-positive 桿菌。神經學檢查正常。",
-          "選項包括腦部影像、兩週後重做 BAL、加 voriconazole、四合一抗結核藥，以及總共三週的療程。題目問的是除了高劑量 TMP/SMX 之外，一定要做的事。",
+          "選項包括腦部影像、兩週後重做 BAL、加 voriconazole、四合一抗結核藥，以及總共三週的療程。題目問的是除了高劑量 TMP/SMX 之外，一定要做的事。注意他的移植後時間、免疫抑制，以及 TMP/SMX 的吃法。",
           "[Pause for answers.]"
         ]
       },
@@ -496,6 +850,7 @@
         "script": [
           "答 A。分枝狀、acid-fast 的 Gram-positive 桿菌，加上晚期、steroid-dependent 的 cGVHD，就是 Nocardia。大約三分之一的病人一開始就有 CNS 侵犯，而且可以沒有症狀，所以肺部 nocardiosis 一律要照腦部 CT 或 MRI。",
           "B 錯在 Nocardia 和結核菌一樣不會 colonise 呼吸道，培養到就是感染。C 的 mould 是最主要的鑑別診斷，但菌的型態已經給答案了。D 是把 acid-fast 直接等同結核。E 的三週是 Listeria 的療程，Nocardia 至少要六個月。",
+          "高劑量 TMP/SMX 之外，carbapenem、amikacin 和 linezolid 也有好結果。",
           "題幹裡一週兩天的 TMP/SMX 也是線索，2 到 3 天的排程預防不了 Nocardia，這和 PJP 預防的思維不同。"
         ]
       }
@@ -506,8 +861,25 @@
       "eyebrow": "Neutropenic fever · Differential",
       "title": "Neutropenic fever has many non-bacterial causes",
       "cols": [
-        {"head": "Infections beyond bacteria", "items": ["Viral infections (CMV, ADV, respiratory)", "Fungal infections", "Legionella, mycobacteria, Nocardia", "Toxoplasma"]},
-        {"head": "Non-infectious causes", "items": ["Drug (ATG) or transfusion reaction", "CRS, engraftment syndrome", "Mucositis", "GVHD, rejection, haemophagocytosis", "Underlying disease"]}
+        {
+          "head": "Infections beyond bacteria",
+          "items": [
+            "Viral infections (CMV, ADV, respiratory)",
+            "Fungal infections",
+            "Legionella, mycobacteria, Nocardia",
+            "Toxoplasma"
+          ]
+        },
+        {
+          "head": "Non-infectious causes",
+          "items": [
+            "Drug (ATG) or transfusion reaction",
+            "CRS, engraftment syndrome",
+            "Mucositis",
+            "GVHD, rejection, haemophagocytosis",
+            "Underlying disease"
+          ]
+        }
       ],
       "cite": "Mikulska M. EBMT Handbook 8th ed. 2024; Ch. 35",
       "notes": {
@@ -521,14 +893,38 @@
       "backup": true,
       "eyebrow": "Bacterial infections · Syndromes",
       "title": "Pneumonia, diarrhoea and CNS infection each have a rule",
-      "head": ["Syndrome", "Key facts", "Action"],
-      "rows": [
-        ["Pneumonia\n(11–24%)", "Atypical, rapid; hypoxaemia may\nbe the only sign", "Chest CT, bronchoscopy,\nimmediate empirical therapy"],
-        ["C. difficile\n(5–30%)", "May be paradoxically mild;\nmegacolon, perforation", "GDH EIA + NAAT +\ntoxin A/B EIA"],
-        ["Community\ndiarrhoea", "Shigella, Salmonella, Campylobacter:\nrare", "Stool culture only within\n3 days of admission"],
-        ["CNS", "Abscess (VS, S. aureus, Klebsiella);\nmeningitis (Listeria, IPD)", "MRI; cefotaxime/ceftriaxone\n+ ampicillin ± vancomycin"]
+      "head": [
+        "Syndrome",
+        "Key facts",
+        "Action"
       ],
-      "colW": [2.4, 5.0, 4.9],
+      "rows": [
+        [
+          "Pneumonia\n(11–24%)",
+          "Atypical, rapid; hypoxaemia may\nbe the only sign",
+          "Chest CT, bronchoscopy,\nimmediate empirical therapy"
+        ],
+        [
+          "C. difficile\n(5–30%)",
+          "May be paradoxically mild;\nmegacolon, perforation",
+          "GDH EIA + NAAT +\ntoxin A/B EIA"
+        ],
+        [
+          "Community\ndiarrhoea",
+          "Shigella, Salmonella, Campylobacter:\nrare",
+          "Stool culture only within\n3 days of admission"
+        ],
+        [
+          "CNS",
+          "Abscess (VS, S. aureus, Klebsiella);\nmeningitis (Listeria, IPD)",
+          "MRI; cefotaxime/ceftriaxone\n+ ampicillin ± vancomycin"
+        ]
+      ],
+      "colW": [
+        2.4,
+        5.0,
+        4.9
+      ],
       "fontSize": 16,
       "cite": "Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36",
       "notes": {
@@ -542,15 +938,36 @@
       "backup": true,
       "eyebrow": "Bacterial infections · Principles",
       "title": "Targeted therapy is narrow, well dosed and long enough",
-      "head": ["Principle", "Detail"],
-      "rows": [
-        ["Unstable or MDR-colonised", "Meropenem or β-lactam + aminoglycoside ± vancomycin, then narrow"],
-        ["Targeted therapy", "Narrowest, least toxic active drug; consult ID for resistant bacteria"],
-        ["Dosing", "Loading dose, then prolonged or continuous β-lactam infusion; TDM"],
-        ["Combination", "Not routine for β-lactam-susceptible GNB"],
-        ["Duration", "≥ 7 days; eradicated, signs resolved, afebrile ≥ 4 days"]
+      "head": [
+        "Principle",
+        "Detail"
       ],
-      "colW": [3.4, 8.6],
+      "rows": [
+        [
+          "Unstable or MDR-colonised",
+          "Meropenem or β-lactam + aminoglycoside ± vancomycin, then narrow"
+        ],
+        [
+          "Targeted therapy",
+          "Narrowest, least toxic active drug; consult ID for resistant bacteria"
+        ],
+        [
+          "Dosing",
+          "Loading dose, then prolonged or continuous β-lactam infusion; TDM"
+        ],
+        [
+          "Combination",
+          "Not routine for β-lactam-susceptible GNB"
+        ],
+        [
+          "Duration",
+          "≥ 7 days; eradicated, signs resolved, afebrile ≥ 4 days"
+        ]
+      ],
+      "colW": [
+        3.4,
+        8.6
+      ],
       "fontSize": 17,
       "cite": "Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36",
       "notes": {
@@ -564,16 +981,64 @@
       "backup": true,
       "eyebrow": "Ch. 39 · Table 39.3",
       "title": "Asian series show the highest tuberculosis risk after allo-HCT",
-      "head": ["Series", "Country", "TB/HCT × general population", "NTM", "Deaths"],
-      "rows": [
-        ["Ku 2001", "Taiwan", "8/255 allo × 13.1; 0/95 auto", "0", "ND"],
-        ["Fan 2015", "Taiwan", "32/1368 allo × 7; 7/672 auto × 2.5", "0", "20"],
-        ["Liu 2016 (abstract)", "Taiwan", "5/422 allo", "21/422", "11"],
-        ["Lee 2017", "Korea", "21/824 allo × 9.1", "NA", "1"],
-        ["de la Cámara 2000", "Spain", "12/2866 allo × 2.2; auto = GP", "NA", "3"],
-        ["Cordonnier 2004", "EBMT", "23/1513 allo; 8/3012 auto", "8", "5"]
+      "head": [
+        "Series",
+        "Country",
+        "TB/HCT × general population",
+        "NTM",
+        "Deaths"
       ],
-      "colW": [2.8, 1.6, 5.0, 1.3, 1.3],
+      "rows": [
+        [
+          "Ku 2001",
+          "Taiwan",
+          "8/255 allo × 13.1; 0/95 auto",
+          "0",
+          "ND"
+        ],
+        [
+          "Fan 2015",
+          "Taiwan",
+          "32/1368 allo × 7; 7/672 auto × 2.5",
+          "0",
+          "20"
+        ],
+        [
+          "Liu 2016 (abstract)",
+          "Taiwan",
+          "5/422 allo",
+          "21/422",
+          "11"
+        ],
+        [
+          "Lee 2017",
+          "Korea",
+          "21/824 allo × 9.1",
+          "NA",
+          "1"
+        ],
+        [
+          "de la Cámara 2000",
+          "Spain",
+          "12/2866 allo × 2.2; auto = GP",
+          "NA",
+          "3"
+        ],
+        [
+          "Cordonnier 2004",
+          "EBMT",
+          "23/1513 allo; 8/3012 auto",
+          "8",
+          "5"
+        ]
+      ],
+      "colW": [
+        2.8,
+        1.6,
+        5.0,
+        1.3,
+        1.3
+      ],
       "fontSize": 16,
       "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
       "notes": {

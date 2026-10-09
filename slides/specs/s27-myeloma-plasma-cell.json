@@ -37,10 +37,26 @@
       "eyebrow": "Plasma cell disorders · Outline",
       "title": "Four parts: myeloma first line, myeloma relapse, then rarer clones",
       "rows": [
-        ["Myeloma: AHCT in the first line", "Eligibility, staging, induction, AHCT trials, tandem, maintenance", "9.5 min"],
-        ["Myeloma: relapse and cellular therapy", "Salvage AHCT, allo-HCT in trials, BCMA CAR-T", "3 min"],
-        ["AL amyloidosis, POEMS and MIDD", "Cardiac staging, risk-adapted therapy, POEMS criteria, auto-HCT pitfalls", "9 min"],
-        ["Board questions", "High-risk myeloma, stage IIIb AL, POEMS after auto-HCT", "5 min"]
+        [
+          "Myeloma: AHCT in the first line",
+          "Eligibility, staging, induction, AHCT trials, tandem, maintenance",
+          "9.5 min"
+        ],
+        [
+          "Myeloma: relapse and cellular therapy",
+          "Salvage AHCT, allo-HCT in trials, BCMA CAR-T",
+          "3 min"
+        ],
+        [
+          "AL amyloidosis, POEMS and MIDD",
+          "Cardiac staging, risk-adapted therapy, POEMS criteria, auto-HCT pitfalls",
+          "9 min"
+        ],
+        [
+          "Board questions",
+          "High-risk myeloma, stage IIIb AL, POEMS after auto-HCT",
+          "5 min"
+        ]
       ],
       "cite": "Mohty M, et al. Ch. 81 · Minnema M, et al. Ch. 82 · Cook G, et al. Ch. 83; EBMT Handbook 8th ed. 2024",
       "notes": {
@@ -48,7 +64,8 @@
         "script": [
           "今天分四段。第一段大約十分鐘，講 newly diagnosed myeloma 的整條移植路線，誰能做 AHCT、怎麼分期、induction 用什麼、AHCT 到底帶來 PFS 還是 OS、第二次移植給誰，以及 lenalidomide maintenance。",
           "第二段講復發，包括 salvage AHCT、allo-HCT 為什麼只能在 trial 裡做，還有兩個 BCMA CAR-T 產品。",
-          "第三段是三個比較少見、但很愛考的疾病。AL amyloidosis 的重點是心臟分期決定治療強度；POEMS 的重點是診斷條件和移植後的 engraftment syndrome；MIDD 則看腎臟。最後三題，各對應一個疾病。"
+          "第三段是三個比較少見、但很愛考的疾病。AL amyloidosis 的重點是心臟分期決定治療強度；POEMS 的重點是診斷條件和移植後的 engraftment syndrome；MIDD 則看腎臟。最後三題，各對應一個疾病。",
+          "這三章篇幅都不長，所以今天會把書上的表格、劑量和 trial 名稱盡量放進來，三題也都直接從這三章出。"
         ]
       }
     },
@@ -57,17 +74,44 @@
       "section": "Myeloma: first line",
       "eyebrow": "Myeloma · Who gets AHCT",
       "title": "AHCT is standard for fit newly diagnosed myeloma, renal failure included",
-      "head": ["Question", "What Ch. 81 says"],
-      "rows": [
-        ["Standard of care", "HDT/AHCT for young and fit, newly diagnosed patients"],
-        ["Age in trials", "Capped at 65 to limit selection bias and toxicity"],
-        ["Older patients", "Median age 72 series: good results with MEL 140 mg/m²"],
-        ["Usual upper age", "Fit patients up to 70, even 75, in many centres"],
-        ["Renal impairment", "Not a contraindication; consider MEL 140 mg/m²"],
-        ["Dialysis-dependent", "More mucositis, infection; PFS, OS comparable"],
-        ["Conditioning", "IV MEL 200 mg/m²; busulfan or + bortezomib not better"]
+      "head": [
+        "Question",
+        "What Ch. 81 says"
       ],
-      "colW": [3.0, 8.6],
+      "rows": [
+        [
+          "Standard of care",
+          "HDT/AHCT for young and fit, newly diagnosed patients"
+        ],
+        [
+          "Age in trials",
+          "Capped at 65 to limit selection bias and toxicity"
+        ],
+        [
+          "Older patients",
+          "Median age 72 series: good results with MEL 140 mg/m²"
+        ],
+        [
+          "Usual upper age",
+          "Fit patients up to 70, even 75, in many centres"
+        ],
+        [
+          "Renal impairment",
+          "Not a contraindication; consider MEL 140 mg/m²"
+        ],
+        [
+          "Dialysis-dependent",
+          "More mucositis, infection; PFS, OS comparable"
+        ],
+        [
+          "Conditioning",
+          "IV MEL 200 mg/m²; busulfan or + bortezomib not better"
+        ]
+      ],
+      "colW": [
+        3.0,
+        8.6
+      ],
       "fontSize": 17,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
       "notes": {
@@ -75,7 +119,8 @@
         "script": [
           "Myeloma 的第一個問題是誰能做 AHCT。書上的立場很清楚，HDT 加 AHCT 仍是 young and fit、newly diagnosed 病人的 standard of care。Randomized trial 把年齡上限設在 65 歲，是為了減少 selection bias 和毒性，不代表 65 歲以上不能做。書上引用一個中位年齡 72 歲的研究，用 melphalan 140 mg/m² 結果很好，現在很多中心做到 70 歲，甚至 75 歲。",
           "腎功能不全本身不是禁忌，建議 melphalan 降到 140，因為這些病人比較容易出現 high-dose melphalan 的毒性。洗腎的病人 mucositis 和感染比較多，但 PFS 和 OS 跟配對的腎功能正常病人差不多，還有一部分病人移植後脫離洗腎。考題常把 renal failure 寫成禁忌，這是錯的。",
-          "最後一列是 conditioning。標準是 IV melphalan 200 mg/m²，換成 busulfan 毒性比較高又沒有勝出，加 bortezomib 也沒有好處，加 bendamustine 還在研究。所以記兩個數字就好，標準 200，年紀大或腎不好用 140。"
+          "最後一列是 conditioning。標準是 IV melphalan 200 mg/m²，換成 busulfan 毒性比較高又沒有勝出，加 bortezomib 也沒有好處，加 bendamustine 還在研究。所以記兩個數字就好，標準 200，年紀大或腎不好用 140。",
+          "病房實務上，評估的重點是 fitness 而不是年齡；六十多歲、體能好、只有輕度腎功能不全的病人，都應該轉介做移植評估。"
         ]
       }
     },
@@ -83,17 +128,44 @@
       "type": "table",
       "eyebrow": "Myeloma · Risk stratification",
       "title": "Three staging systems add cytogenetics and LDH to β2M and albumin",
-      "head": ["System", "Definition (Table 81.1)"],
-      "rows": [
-        ["ISS I", "β2M < 3.5 mg/L and albumin > 3.3 g/dL [verify: cut-off]"],
-        ["ISS III / II", "β2M > 5.5 mg/L / all remaining cases"],
-        ["R-ISS I", "ISS I, standard-risk cytogenetics and normal LDH"],
-        ["R-ISS III", "ISS III plus high-risk cytogenetics or high LDH"],
-        ["R2-ISS points", "ISS III 1.5; ISS II 1; del(17p) 1; high LDH 1; 1q+ 0.5"],
-        ["R2-ISS groups", "I: 0; II: 0.5–1; III: 1.5–2.5; IV: 3–5 points"],
-        ["High-risk FISH", "t(4;14), t(14;16) and/or del(17p)"]
+      "head": [
+        "System",
+        "Definition (Table 81.1)"
       ],
-      "colW": [2.8, 8.8],
+      "rows": [
+        [
+          "ISS I",
+          "β2M < 3.5 mg/L and albumin > 3.3 g/dL [verify: cut-off]"
+        ],
+        [
+          "ISS III / II",
+          "β2M > 5.5 mg/L / all remaining cases"
+        ],
+        [
+          "R-ISS I",
+          "ISS I, standard-risk cytogenetics and normal LDH"
+        ],
+        [
+          "R-ISS III",
+          "ISS III plus high-risk cytogenetics or high LDH"
+        ],
+        [
+          "R2-ISS points",
+          "ISS III 1.5; ISS II 1; del(17p) 1; high LDH 1; 1q+ 0.5"
+        ],
+        [
+          "R2-ISS groups",
+          "I: 0; II: 0.5–1; III: 1.5–2.5; IV: 3–5 points"
+        ],
+        [
+          "High-risk FISH",
+          "t(4;14), t(14;16) and/or del(17p)"
+        ]
+      ],
+      "colW": [
+        2.8,
+        8.8
+      ],
       "fontSize": 17,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
       "notes": {
@@ -102,7 +174,8 @@
           "這張是 Table 81.1 的三套分期，後面講 tandem 和 consolidation 都會用到。ISS 只看兩個數字，β2-microglobulin 小於 3.5 mg/L 而且 albumin 夠高是 stage I，β2-microglobulin 大於 5.5 是 stage III，其餘都是 stage II。",
           "R-ISS 在 ISS 上加了 FISH 和 LDH。R-ISS I 要 ISS I、standard-risk cytogenetics、LDH 正常三項都符合；R-ISS III 是 ISS III 再加上 high-risk cytogenetics 或 LDH 高。High-risk FISH 就是最下面那三個，t(4;14)、t(14;16) 和 del(17p)。",
           "R2-ISS 改成計分。ISS III 給 1.5 分，ISS II 給 1 分，del(17p) 和 LDH 高各 1 分，1q gain 給 0.5 分，加總 0 分是 I，3 到 5 分是 IV。考試最常考的是 high-risk FISH 的三個異常，還有 1q gain 只值 0.5 分。",
-          "表上 albumin 的 cutoff 照書上印的寫，報告前會再核對原始定義。"
+          "表上 albumin 的 cutoff 照書上印的寫，報告前會再核對原始定義。",
+          "臨床上診斷時就要送 FISH 和 LDH，否則 R-ISS 和 R2-ISS 都算不出來。這些分期後面會用來決定誰需要 tandem AHCT，R-ISS 3 和 high-risk FISH 正是書上建議考慮第二次移植的族群。"
         ],
         "reminders": [
           "TO CONFIRM BEFORE PRESENTING: Table 81.1 prints ISS stage I as albumin > 3.3 g/dL; check the original ISS definition (Greipp 2005) before quoting the number."
@@ -113,17 +186,44 @@
       "type": "table",
       "eyebrow": "Myeloma · Induction",
       "title": "Induction should be at least a triplet, ideally an anti-CD38 quadruplet",
-      "head": ["Comparison or trial", "Finding in Ch. 81"],
-      "rows": [
-        ["Novel agents vs VAD", "Thalidomide- or bortezomib-based induction wins"],
-        ["Doublet vs triplet", "VTD beats TD and VD; VTD also beats VCD"],
-        ["VTD × 6 vs × 3–4", "Deeper response, but more neuropathy"],
-        ["VRD (IFM)", "Longer PFS, response duration and OS"],
-        ["VRD-GEM (PETHEMA)", "ORR 85%; MRD-negative 58% after consolidation"],
-        ["Dara quadruplets", "Cassiopeia D-VTD, Griffin D-VRD: daratumumab adds"],
-        ["GMMG-HD7", "Isa-RVd vs RVd: MRD-negative 50.1% vs 35.6%"]
+      "head": [
+        "Comparison or trial",
+        "Finding in Ch. 81"
       ],
-      "colW": [3.6, 8.0],
+      "rows": [
+        [
+          "Novel agents vs VAD",
+          "Thalidomide- or bortezomib-based induction wins"
+        ],
+        [
+          "Doublet vs triplet",
+          "VTD beats TD and VD; VTD also beats VCD"
+        ],
+        [
+          "VTD × 6 vs × 3–4",
+          "Deeper response, but more neuropathy"
+        ],
+        [
+          "VRD (IFM)",
+          "Longer PFS, response duration and OS"
+        ],
+        [
+          "VRD-GEM (PETHEMA)",
+          "ORR 85%; MRD-negative 58% after consolidation"
+        ],
+        [
+          "Dara quadruplets",
+          "Cassiopeia D-VTD, Griffin D-VRD: daratumumab adds"
+        ],
+        [
+          "GMMG-HD7",
+          "Isa-RVd vs RVd: MRD-negative 50.1% vs 35.6%"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8.0
+      ],
       "fontSize": 17,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
       "notes": {
@@ -132,7 +232,8 @@
           "Induction 的目的有兩個，降低腫瘤負擔讓反應更深，同時不要傷到正常造血，才收得到幹細胞。歷史上的 VAD 已經被含 thalidomide 或 bortezomib 的方案取代。",
           "三藥勝過兩藥，VTD 比 TD 或 VD 好；VTD 也勝過 VCD，書上解釋為 IMiD 加 proteasome inhibitor 的協同作用。VTD 給六個 cycle 比三到四個反應更深，代價是 neuropathy。VRD 在 IFM 的研究延長 PFS、反應時間和 OS，PETHEMA 的 VRD-GEM 用 full-dose lenalidomide，consolidation 後 MRD 陰性 58%。",
           "再往上是加 anti-CD38。Cassiopeia 是 D-VTD 對 VTD，Griffin 是 D-VRD 對 VRD，都顯示加 daratumumab 有好處。Lyra 的 Dara-CyBorD 不論 cytogenetics，12 個月 PFS 87%；Dara-KRd 的 phase Ib ORR 100%，而且不影響收集幹細胞。GMMG-HD7 用 isatuximab，三個 cycle 後 MRD 陰性 50.1% 比 35.6%。",
-          "所以 key point 寫至少 triplet，最好是含 anti-CD38 的 quadruplet。"
+          "所以 key point 寫至少 triplet，最好是含 anti-CD38 的 quadruplet。",
+          "書上提到的新 phase 3 設計，多半是四個 cycle induction、AHCT、再兩個 cycle consolidation。考題問 induction 至少要幾個藥，答案是三個；問最理想的組合，是加上 anti-CD38 的四藥。"
         ]
       }
     },
@@ -140,15 +241,50 @@
       "type": "table",
       "eyebrow": "Myeloma · AHCT vs no AHCT",
       "title": "Upfront AHCT prolongs PFS, but overall survival gains are inconsistent",
-      "head": ["Trial", "Comparison", "PFS", "OS"],
-      "rows": [
-        ["IFM 2009", "VRD + AHCT vs VRD × 8; Len for 1 year", "Median 50 vs 36 mo", "3 y: 81% vs 82%"],
-        ["DETERMINATION", "VRD + AHCT vs VRD; Len until progression", "Median 68 vs 46 mo", "5 y: 81% vs 79%"],
-        ["EMN02/HO95", "AHCT (single or tandem) vs VMP; Len", "Median 57 vs 42 mo", "5 y: 80% vs 73% vs 72%"],
-        ["FORTE", "KRd + AHCT vs KCd + AHCT vs KRd × 12", "4 y: 69% vs 51% vs 56%", "4 y: 86% vs 76% vs 85%"],
-        ["Cardamon", "KCd + AHCT vs KCd × 4", "2 y: 75% vs 68%", "2 y: 94% vs 91%"]
+      "head": [
+        "Trial",
+        "Comparison",
+        "PFS",
+        "OS"
       ],
-      "colW": [2.1, 4.3, 2.8, 2.8],
+      "rows": [
+        [
+          "IFM 2009",
+          "VRD + AHCT vs VRD × 8; Len for 1 year",
+          "Median 50 vs 36 mo",
+          "3 y: 81% vs 82%"
+        ],
+        [
+          "DETERMINATION",
+          "VRD + AHCT vs VRD; Len until progression",
+          "Median 68 vs 46 mo",
+          "5 y: 81% vs 79%"
+        ],
+        [
+          "EMN02/HO95",
+          "AHCT (single or tandem) vs VMP; Len",
+          "Median 57 vs 42 mo",
+          "5 y: 80% vs 73% vs 72%"
+        ],
+        [
+          "FORTE",
+          "KRd + AHCT vs KCd + AHCT vs KRd × 12",
+          "4 y: 69% vs 51% vs 56%",
+          "4 y: 86% vs 76% vs 85%"
+        ],
+        [
+          "Cardamon",
+          "KCd + AHCT vs KCd × 4",
+          "2 y: 75% vs 68%",
+          "2 y: 94% vs 91%"
+        ]
+      ],
+      "colW": [
+        2.1,
+        4.3,
+        2.8,
+        2.8
+      ],
       "fontSize": 15,
       "caption": "AHCT at relapse in control arm: 89% (IFM 2009) vs 29% (DETERMINATION). EMN02 OS: tandem vs single vs VMP. In both IFM 2009 and DETERMINATION, MRD negativity predicted outcome better than cytogenetics.",
       "captionY": 5.15,
@@ -159,7 +295,8 @@
           "這是 Table 81.2 挑出的五個 trial，問的都是同一件事，novel agent 時代還需不需要 upfront AHCT。PFS 那一欄很一致，IFM 2009 中位數 50 比 36 個月，DETERMINATION 68 比 46 個月，EMN02 是 57 比 42 個月，移植組都比較長。",
           "OS 那一欄就不同了。IFM 2009 三年 81% 比 82%，DETERMINATION 五年 81% 比 79%，都沒有差異。Caption 是原因之一，IFM 2009 的對照組有 89% 在復發時做了 AHCT，DETERMINATION 只有 29%，可是延後移植的病人存活也沒有輸。",
           "這兩個 trial 還有一個共同發現，induction 後達到 MRD negativity 的人，不管有沒有做 AHCT，OS 都差不多；而且達到 MRD 陰性的 high-risk cytogenetics 病人，結果比 MRD 陽性的 standard-risk 病人還好。所以書上說 MRD 可能成為決定 consolidation 和 maintenance 的分層工具。",
-          "FORTE 和 Cardamon 用 carfilzomib，結論同樣是移植組 PFS 比較好。書上的結論是 AHCT 仍是 standard of care，好處主要在 PFS；MIDAS 和 MASTER-2 正在測試 quadruplet 加 MRD 能不能取代它。考試問 upfront AHCT 證實了什麼，答案是 PFS，不是 OS。"
+          "FORTE 和 Cardamon 用 carfilzomib，結論同樣是移植組 PFS 比較好。書上的結論是 AHCT 仍是 standard of care，好處主要在 PFS；MIDAS 和 MASTER-2 正在測試 quadruplet 加 MRD 能不能取代它。考試問 upfront AHCT 證實了什麼，答案是 PFS，不是 OS。",
+          "EMN02 的對照組不是新藥組合，而是 VMP，也就是 bortezomib、melphalan、prednisone，所以 PFS 差距最大，五年 OS 也是移植組數字較高。讀這張表要看清楚對照組用了什麼、maintenance 給多久，才不會把不同 trial 的數字混在一起比。"
         ],
         "reminders": [
           "Table 81.2 abbreviates carfilzomib regimens as CarLenDex and CarCyDex; the slide uses KRd and KCd. DETERMINATION is listed in Table 81.2 as LenBorDex vs LenBorDex + AHCT; the slide puts the AHCT arm first in both PFS and OS."
@@ -170,15 +307,43 @@
       "type": "table",
       "eyebrow": "Myeloma · Tandem and consolidation",
       "title": "Tandem AHCT helps high-risk myeloma; consolidation remains optional",
-      "head": ["Question", "EMN02/HO95", "StaMINA (BMT CTN 0702)"],
-      "rows": [
-        ["Arms", "Single vs tandem AHCT; VRD × 2 or not; then Len", "AHCT + VRD vs tandem vs single; all Len"],
-        ["Tandem", "PFS and OS better; ~30% lower risk of death, progression", "Not superior; > 30% never got the 2nd AHCT"],
-        ["Survival", "5-y PFS 54% vs 45%; 5-y OS 80% vs 73%", "38-mo PFS 59%, 58%, 54%; 6-y OS 73–76%"],
-        ["High-risk FISH", "Tandem benefit kept; independent PFS predictor", "No subgroup benefit reported"],
-        ["Consolidation", "VRD × 2 prolonged PFS, except in high-risk FISH", "Not superior to AHCT + Len"]
+      "head": [
+        "Question",
+        "EMN02/HO95",
+        "StaMINA (BMT CTN 0702)"
       ],
-      "colW": [2.4, 4.8, 4.6],
+      "rows": [
+        [
+          "Arms",
+          "Single vs tandem AHCT; VRD × 2 or not; then Len",
+          "AHCT + VRD vs tandem vs single; all Len"
+        ],
+        [
+          "Tandem",
+          "PFS and OS better; ~30% lower risk of death, progression",
+          "Not superior; > 30% never got the 2nd AHCT"
+        ],
+        [
+          "Survival",
+          "5-y PFS 54% vs 45%; 5-y OS 80% vs 73%",
+          "38-mo PFS 59%, 58%, 54%; 6-y OS 73–76%"
+        ],
+        [
+          "High-risk FISH",
+          "Tandem benefit kept; independent PFS predictor",
+          "No subgroup benefit reported"
+        ],
+        [
+          "Consolidation",
+          "VRD × 2 prolonged PFS, except in high-risk FISH",
+          "Not superior to AHCT + Len"
+        ]
+      ],
+      "colW": [
+        2.4,
+        4.8,
+        4.6
+      ],
       "fontSize": 15,
       "caption": "Ch. 81: consider tandem AHCT for high-risk cytogenetics and R-ISS 3; consolidation may be skipped in CR with undetectable MRD (not tested prospectively)",
       "captionY": 5.25,
@@ -189,7 +354,8 @@
           "Tandem AHCT 和 consolidation 的證據主要來自兩個 trial，結論剛好相反。EMN02 的 tandem 組反應深度增加，PFS 和 OS 都比較好，死亡和惡化風險降低大約 30%，五年 PFS 54% 比 45%。更重要的是 high-risk 族群也看得到效果，隨機到 double AHCT 是 PFS 的獨立預測因子。",
           "美國的 StaMINA 則是陰性，tandem 沒有勝過單次 AHCT 加 lenalidomide。要注意的是 tandem 組超過 30% 的病人其實沒有做第二次移植。",
           "Consolidation 也一樣。EMN02 兩個 cycle 的 VRD consolidation 延長 PFS，可是 del(17p)、t(4;14)、t(14;16) 這些 high-risk 病人沒有受益；StaMINA 也看不到好處。歐洲指引沒有正式建議，書上提的實務做法是看移植後反應深度，已經 CR 而且 MRD 測不到就可以省略。",
-          "考試的整合答案是，high-risk cytogenetics 或 R-ISS 3 考慮 tandem，consolidation 屬於選擇性。"
+          "考試的整合答案是，high-risk cytogenetics 或 R-ISS 3 考慮 tandem，consolidation 屬於選擇性。",
+          "StaMINA 三組 38 個月 PFS 是 59%、58%、54%，六年 OS 73% 到 76%，幾乎重疊。三成病人沒有接受第二次移植，ITT 分析自然會稀釋 tandem 的效果，這是解讀兩個 trial 差異時要記得的背景。"
         ],
         "reminders": [
           "Ch. 81 also states updated EMN02 3-year PFS as '63 months after one AHCT to 73.1 after two'; the units look wrong (probably %), so the slide uses the Table 81.2 5-year figures instead."
@@ -200,15 +366,43 @@
       "type": "table",
       "eyebrow": "Myeloma · Maintenance",
       "title": "Lenalidomide until progression is the standard maintenance after AHCT",
-      "head": ["Agent", "Result after AHCT", "Status"],
-      "rows": [
-        ["Thalidomide", "Better response, no OS gain; neuropathy, fatigue, worse QoL", "Not favoured"],
-        ["Lenalidomide", "PFS 52.8 vs 23.5 mo; death risk −25%; OS ~2.4 y longer", "Standard; FDA, EMA"],
-        ["Bortezomib ± IMiD", "Better PFS, not OS; subcutaneous", "Option"],
-        ["Ixazomib", "PFS 26.5 vs 21.3 mo vs placebo", "Not approved here"],
-        ["Anti-CD38 + Len", "Phase 3 trials (daratumumab, isatuximab) awaited", "Investigational"]
+      "head": [
+        "Agent",
+        "Result after AHCT",
+        "Status"
       ],
-      "colW": [2.8, 6.6, 2.4],
+      "rows": [
+        [
+          "Thalidomide",
+          "Better response, no OS gain; neuropathy, fatigue, worse QoL",
+          "Not favoured"
+        ],
+        [
+          "Lenalidomide",
+          "PFS 52.8 vs 23.5 mo; death risk −25%; OS ~2.4 y longer",
+          "Standard; FDA, EMA"
+        ],
+        [
+          "Bortezomib ± IMiD",
+          "Better PFS, not OS; subcutaneous",
+          "Option"
+        ],
+        [
+          "Ixazomib",
+          "PFS 26.5 vs 21.3 mo vs placebo",
+          "Not approved here"
+        ],
+        [
+          "Anti-CD38 + Len",
+          "Phase 3 trials (daratumumab, isatuximab) awaited",
+          "Investigational"
+        ]
+      ],
+      "colW": [
+        2.8,
+        6.6,
+        2.4
+      ],
       "fontSize": 16,
       "caption": "Len meta-analysis (CALGB, IFM, GIMEMA): PFS gain in all subgroups; no OS gain in women > 60 with poor cytogenetics. Modest rise in second cancers; 30% of early stops due to toxicity or second cancer.",
       "captionY": 4.9,
@@ -219,7 +413,8 @@
           "AHCT 不是 curative，CR 之後還是會復發，所以要 maintenance。Maintenance 要溫和、長期，和短期的 consolidation 不同。",
           "Thalidomide 提高反應率，但沒有 OS 好處，neuropathy 和疲倦讓生活品質下降，已經不用。Lenalidomide 是標準，CALGB、IFM、GIMEMA 三個 trial 的 meta-analysis，PFS 52.8 比 23.5 個月，死亡風險下降 25%，中位存活多大約 2.4 年。唯一例外是 60 歲以上、poor cytogenetics 的女性，OS 沒有改善。FDA 和 EMA 核准的用法是低劑量用到惡化或出現毒性。",
           "代價是 second primary malignancy 稍微增加，不過死於第二癌的時間兩組沒有差別；約 30% 提早停藥是因為毒性或第二癌，所以最佳療程長度仍未確定。",
-          "Bortezomib maintenance 改善 PFS 不改善 OS，又要皮下注射。Ixazomib 只多 5 個月 PFS，沒有在這個情境核准。Anti-CD38 加 lenalidomide 的 phase 3 結果還在等。"
+          "Bortezomib maintenance 改善 PFS 不改善 OS，又要皮下注射。Ixazomib 只多 5 個月 PFS，沒有在這個情境核准。Anti-CD38 加 lenalidomide 的 phase 3 結果還在等。",
+          "病房常被問 lenalidomide 要吃多久。目前核准的是用到惡化或無法耐受，但因為成本和第二癌，最佳時間仍是開放問題。考試若問哪一個 maintenance 同時改善 PFS 和 OS，只有 lenalidomide。"
         ]
       }
     },
@@ -230,10 +425,26 @@
       "title": "At relapse, salvage AHCT and allo-HCT have narrow roles beside CAR-T",
       "root": "Myeloma relapsing after first-line AHCT",
       "branches": [
-        {"label": "Relapse ≥ 2–3 y later", "box": "Salvage AHCT, MEL 200 mg/m²", "out": "Myeloma X: TTP 19 vs 11 mo, OS 67 vs 52 mo"},
-        {"label": "ReLApsE (GMMG)", "box": "Salvage AHCT + Len vs Rd alone", "out": "Feasible in 71%; no PFS or OS gain (ITT)"},
-        {"label": "Young, high risk", "box": "Allo-HCT in a clinical trial", "out": "GvM benefit offset by high TRM"},
-        {"label": "IMiD, PI, anti-CD38", "box": "BCMA CAR-T: ide-cel, cilta-cel", "out": "Deep responses, incl. EMD and high risk"}
+        {
+          "label": "Relapse ≥ 2–3 y later",
+          "box": "Salvage AHCT, MEL 200 mg/m²",
+          "out": "Myeloma X: TTP 19 vs 11 mo, OS 67 vs 52 mo"
+        },
+        {
+          "label": "ReLApsE (GMMG)",
+          "box": "Salvage AHCT + Len vs Rd alone",
+          "out": "Feasible in 71%; no PFS or OS gain (ITT)"
+        },
+        {
+          "label": "Young, high risk",
+          "box": "Allo-HCT in a clinical trial",
+          "out": "GvM benefit offset by high TRM"
+        },
+        {
+          "label": "IMiD, PI, anti-CD38",
+          "box": "BCMA CAR-T: ide-cel, cilta-cel",
+          "out": "Deep responses, incl. EMD and high risk"
+        }
       ],
       "invert": 3,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
@@ -243,7 +454,8 @@
           "復發之後有四條路。第一條是 salvage AHCT。英國的 Myeloma X 用 melphalan 200 再移植，對比每週 cyclophosphamide，time to progression 19 比 11 個月，OS 67 比 52 個月。所以第一次移植後間隔夠長，書上舉例至少兩到三年，而且病人 fit，可以考慮。",
           "第二條是德國的 ReLApsE，salvage AHCT 加 lenalidomide maintenance 對比 Rd。71% 的病人做得到移植，但 ITT 分析 PFS 和 OS 都沒有延長。所以書上的結論是，除了少數高度篩選的病人，復發時做 AHCT 的角色是存疑的。",
           "第三條是 allo。Biologic assignment 的 trial 結果互相矛盾，meta-analysis 顯示好處被高 TRM 抵銷。書上只說年輕、high-risk、反應不佳或早期復發的人，可以在 clinical trial 裡考慮。",
-          "第四條是黑色那一格，BCMA CAR-T，下一張看數字。"
+          "第四條是黑色那一格，BCMA CAR-T，下一張看數字。",
+          "Myeloma X 的對照組是復發後 VAD 再 induction，接每週 cyclophosphamide 400 mg/m² 共 12 週，比的是傳統化療。ReLApsE 的對照是現代的 Rd，移植就沒有勝出，新藥時代 salvage AHCT 的空間因此變小。"
         ]
       }
     },
@@ -251,15 +463,57 @@
       "type": "table",
       "eyebrow": "Myeloma · CAR-T",
       "title": "BCMA CAR-T, not allo-HCT, is the cellular option in relapsed myeloma",
-      "head": ["Product, n", "Median prior lines", "ORR", "Median PFS", "CRS / ICANS gr 3–4"],
-      "rows": [
-        ["Ide-cel, n = 128", "6", "73%", "9 mo", "5% / 3%"],
-        ["Ide-cel (KarMMa-3), n = 386", "3", "71%", "13 vs 4 mo (SOC)", "4% / 3%"],
-        ["Cilta-cel, n = 97", "6", "98%", "35 mo", "4% / 9%"],
-        ["Cilta-cel (CARTITUDE-4), n = 419", "2", "85%", "NR vs 12 mo (SOC)", "1% / 3%"],
-        ["ARI0002h (academic), n = 30", "4", "100%", "15 mo", "0% / 0%"]
+      "head": [
+        "Product, n",
+        "Median prior lines",
+        "ORR",
+        "Median PFS",
+        "CRS / ICANS gr 3–4"
       ],
-      "colW": [4.1, 1.7, 1.0, 3.0, 2.6],
+      "rows": [
+        [
+          "Ide-cel, n = 128",
+          "6",
+          "73%",
+          "9 mo",
+          "5% / 3%"
+        ],
+        [
+          "Ide-cel (KarMMa-3), n = 386",
+          "3",
+          "71%",
+          "13 vs 4 mo (SOC)",
+          "4% / 3%"
+        ],
+        [
+          "Cilta-cel, n = 97",
+          "6",
+          "98%",
+          "35 mo",
+          "4% / 9%"
+        ],
+        [
+          "Cilta-cel (CARTITUDE-4), n = 419",
+          "2",
+          "85%",
+          "NR vs 12 mo (SOC)",
+          "1% / 3%"
+        ],
+        [
+          "ARI0002h (academic), n = 30",
+          "4",
+          "100%",
+          "15 mo",
+          "0% / 0%"
+        ]
+      ],
+      "colW": [
+        4.1,
+        1.7,
+        1.0,
+        3.0,
+        2.6
+      ],
       "fontSize": 16,
       "caption": "Label in Ch. 81: > 3 prior lines incl. IMiD, PI and anti-CD38 [verify: current label]. KarMMa-3: 2–4 prior lines; CARTITUDE-4: 1–3 lines, Len-refractory.",
       "captionY": 4.75,
@@ -269,7 +523,8 @@
         "script": [
           "真正改變 relapsed myeloma 的是 BCMA CAR-T。兩個商業產品是 ide-cel 和 cilta-cel，書上寫的適應症是超過三線、而且用過 IMiD、PI 和 anti-CD38。後來的 phase 3 把它往前推，KarMMa-3 收 2 到 4 線，ide-cel 中位 PFS 13 個月，對照組 4 個月；CARTITUDE-4 收 lenalidomide-refractory、1 到 3 線，cilta-cel 中位 PFS 還沒到，對照組 12 個月。",
           "兩個產品比較，cilta-cel 在重度治療過的族群 ORR 98%、PFS 35 個月，但 grade 3–4 ICANS 9%，比 ide-cel 高。表上也看得到 high-risk cytogenetics 和 extramedullary disease 的病人占相當比例，反應一樣深。",
-          "ARI0002h 是西班牙的 academic product，分次給藥、三個月後加一劑 booster，ORR 100%，grade 3–4 CRS 和 ICANS 都是 0，代表 point-of-care CAR-T 可以降低成本。CRS 和 ICANS 的處理在第 20 堂講過。書上的 key point 也預告，中期內 AHCT 的角色會被 CAR-T 挑戰。"
+          "ARI0002h 是西班牙的 academic product，分次給藥、三個月後加一劑 booster，ORR 100%，grade 3–4 CRS 和 ICANS 都是 0，代表 point-of-care CAR-T 可以降低成本。CRS 和 ICANS 的處理在第 20 堂講過。書上的 key point 也預告，中期內 AHCT 的角色會被 CAR-T 挑戰。",
+          "KarMMa-3 和 CARTITUDE-4 的對照組都是標準治療組合，所以 CAR-T 在較早線的優勢是隨機比較出來的，不是單臂資料。考試問 BCMA 是什麼，是 B cell maturation antigen；問哪一個產品 ICANS 比較高，看表上的 9%。"
         ],
         "reminders": [
           "TO CONFIRM BEFORE PRESENTING: current EMA/FDA/TFDA labels for ide-cel and cilta-cel by number of prior lines; Ch. 81 states '>3 previous lines' and then reports KarMMa-3 and CARTITUDE-4 in earlier lines.",
@@ -282,17 +537,44 @@
       "section": "AL amyloidosis",
       "eyebrow": "AL amyloidosis · Diagnosis and risk",
       "title": "AL amyloidosis needs tissue proof, typing and cardiac staging",
-      "head": ["Step", "Ch. 82"],
-      "rows": [
-        ["Suspect", "M-protein + HFpEF, nephrotic proteinuria, neuropathy, CTS"],
-        ["Clone work-up", "FLC, serum/urine IFE, marrow, flow, iFISH, full-body scan"],
-        ["Prove amyloid", "Congo red, apple-green birefringence; fat, salivary, GI, BM"],
-        ["Type it", "IHC, immuno-EM, or laser microdissection + mass spec"],
-        ["Stage", "Mayo/European: NT-proBNP + troponin → I, II, IIIa, IIIb"],
-        ["Adverse clone", "BMPC > 10%, high dFLC; t(11;14) → HDM/HCT works better"],
-        ["Response goal", "VGPR (dFLC < 40 mg/L) or CR; organ response follows"]
+      "head": [
+        "Step",
+        "Ch. 82"
       ],
-      "colW": [2.6, 9.0],
+      "rows": [
+        [
+          "Suspect",
+          "M-protein + HFpEF, nephrotic proteinuria, neuropathy, CTS"
+        ],
+        [
+          "Clone work-up",
+          "FLC, serum/urine IFE, marrow, flow, iFISH, full-body scan"
+        ],
+        [
+          "Prove amyloid",
+          "Congo red, apple-green birefringence; fat, salivary, GI, BM"
+        ],
+        [
+          "Type it",
+          "IHC, immuno-EM, or laser microdissection + mass spec"
+        ],
+        [
+          "Stage",
+          "Mayo/European: NT-proBNP + troponin → I, II, IIIa, IIIb"
+        ],
+        [
+          "Adverse clone",
+          "BMPC > 10%, high dFLC; t(11;14) → HDM/HCT works better"
+        ],
+        [
+          "Response goal",
+          "VGPR (dFLC < 40 mg/L) or CR; organ response follows"
+        ]
+      ],
+      "colW": [
+        2.6,
+        9.0
+      ],
       "fontSize": 17,
       "cite": "Minnema M, et al. EBMT Handbook 8th ed. 2024; Ch. 82",
       "notes": {
@@ -300,7 +582,8 @@
         "script": [
           "AL amyloidosis 每年每百萬人 5 到 10 例，clonal plasma cell 很少數是 B cell，產生會 misfold 的 light chain，沉積在心、腎、肝、神經、腸胃道和軟組織。有 monoclonal gammopathy 的人，只要出現 HFpEF、nephrotic-range proteinuria、體重減輕、neuropathy、出血傾向或 carpal tunnel syndrome，就要想到它。",
           "診斷分三步。先評估 clone，free light chain、immunofixation、骨髓、flow、iFISH，加上全身影像排除 symptomatic myeloma。再用 Congo red 證明 amyloid，偏光下 apple-green birefringence，可以切腹部脂肪、唾液腺、上消化道或骨髓。最後一定要 typing，因為 ATTR、AA 的治療完全不同。",
-          "預後看兩邊。Clone 這邊，骨髓 plasma cell 超過 10%、dFLC 高都比較差；t(11;14) 的病人 high-dose melphalan 效果較好。器官這邊用 Mayo 加 European modification 的心臟分期，NT-proBNP 和 troponin，分 I、II、IIIa、IIIb。治療目標是 VGPR，也就是 dFLC 小於 40 mg/L，或 CR。"
+          "預後看兩邊。Clone 這邊，骨髓 plasma cell 超過 10%、dFLC 高都比較差；t(11;14) 的病人 high-dose melphalan 效果較好。器官這邊用 Mayo 加 European modification 的心臟分期，NT-proBNP 和 troponin，分 I、II、IIIa、IIIb。治療目標是 VGPR，也就是 dFLC 小於 40 mg/L，或 CR。",
+          "這個 clone 通常很小，可能只是 MGUS 或 smoldering 的大小，所以 work-up 要完整。另外 AL 也可以是侷限型，例如咽喉或膀胱，預後很好、治療方式完全不同，不在這一章的範圍。"
         ]
       }
     },
@@ -310,9 +593,21 @@
       "title": "AL first-line therapy is risk adapted by cardiac stage",
       "root": "Systemic AL amyloidosis: cardiac stage sets the intensity",
       "branches": [
-        {"label": "Stage I (≤ 20%)", "box": "± Induction, MEL 200 + autoHCT", "out": "Or Dara-CyBorD / CyBorD"},
-        {"label": "Stages II–IIIa", "box": "Dara-CyBorD, CyBorD or BMDex", "out": "Neuropathy: Mel-dex or Len-dex"},
-        {"label": "IIIb or NYHA III–IV", "box": "Dose-reduced: Dara mono, mod. CyBorD", "out": "Excluded from Andromeda"}
+        {
+          "label": "Stage I (≤ 20%)",
+          "box": "± Induction, MEL 200 + autoHCT",
+          "out": "Or Dara-CyBorD / CyBorD"
+        },
+        {
+          "label": "Stages II–IIIa",
+          "box": "Dara-CyBorD, CyBorD or BMDex",
+          "out": "Neuropathy: Mel-dex or Len-dex"
+        },
+        {
+          "label": "IIIb or NYHA III–IV",
+          "box": "Dose-reduced: Dara mono, mod. CyBorD",
+          "out": "Excluded from Andromeda"
+        }
       ],
       "invert": 2,
       "cite": "Minnema M, et al. EBMT Handbook 8th ed. 2024; Ch. 82 (Table 82.1) · Kastritis E, et al. NEJM 2021",
@@ -322,7 +617,8 @@
           "這是 Table 82.1。AL 的病人很脆弱，標準劑量常常受不了，所以治療強度看心臟分期。Low risk、可以移植的病人是少數，不超過 20%，可以考慮 melphalan 200 加 autoHCT，前面可加 induction；也可以用 Dara-CyBorD。",
           "中間的 stage II 到 IIIa 用 Dara-CyBorD 或 CyBorD，或 bortezomib-melphalan-dexamethasone；有明顯 neuropathy 的人改用 Mel-dex 或 Len-dex。",
           "黑色那一格是 high risk，定義是 stage IIIb 或 NYHA III、IV。這群人只能用減量的治療，例如 daratumumab 單藥或 modified CyBorD。",
-          "Andromeda 之後，EMA 在 2021 年核准 Dara-CyBorD 加 daratumumab maintenance 用在 stage I、II、IIIa。六個月時心臟反應 41.5% 比 22.2%，腎臟反應 53.0% 比 23.9%。它是多數病人的首選，但 IIIb 被排除在外，這點很常考。可以移植的病人如果血液反應不到 VGPR，仍然可以接 autoHCT。"
+          "Andromeda 之後，EMA 在 2021 年核准 Dara-CyBorD 加 daratumumab maintenance 用在 stage I、II、IIIa。六個月時心臟反應 41.5% 比 22.2%，腎臟反應 53.0% 比 23.9%。它是多數病人的首選，但 IIIb 被排除在外，這點很常考。可以移植的病人如果血液反應不到 VGPR，仍然可以接 autoHCT。",
+          "器官反應通常落後，會在血液學反應之後逐步出現，所以治療期間要頻繁追蹤血液學反應。除了心臟分期，選方案時還要看年齡、體能、eGFR、neuropathy 和收縮壓。"
         ]
       }
     },
@@ -330,17 +626,44 @@
       "type": "table",
       "eyebrow": "AL amyloidosis · Auto-HCT",
       "title": "Strict cardiac selection cut AL auto-HCT mortality from 20% to 2%",
-      "head": ["Criterion", "Usual threshold (Ch. 82)"],
-      "rows": [
-        ["Age, performance status", "≤ 70 years; PS 0–2"],
-        ["Heart", "NYHA I–II; NT-proBNP < 5000 ng/L; LVEF ≥ 45–50%"],
-        ["Blood pressure", "Systolic ≥ 90 mmHg (no severe orthostatic hypotension)"],
-        ["Kidney", "eGFR > 40 mL/min"],
-        ["Induction first", "Especially if ≥ 10% marrow plasma cells"],
-        ["Mobilization", "Reduced G-CSF, e.g. 10 μg/kg/day × 4–5 days"],
-        ["Conditioning", "MEL 200 mg/m²; lower dose → worse response and PFS"]
+      "head": [
+        "Criterion",
+        "Usual threshold (Ch. 82)"
       ],
-      "colW": [3.4, 8.2],
+      "rows": [
+        [
+          "Age, performance status",
+          "≤ 70 years; PS 0–2"
+        ],
+        [
+          "Heart",
+          "NYHA I–II; NT-proBNP < 5000 ng/L; LVEF ≥ 45–50%"
+        ],
+        [
+          "Blood pressure",
+          "Systolic ≥ 90 mmHg (no severe orthostatic hypotension)"
+        ],
+        [
+          "Kidney",
+          "eGFR > 40 mL/min"
+        ],
+        [
+          "Induction first",
+          "Especially if ≥ 10% marrow plasma cells"
+        ],
+        [
+          "Mobilization",
+          "Reduced G-CSF, e.g. 10 μg/kg/day × 4–5 days"
+        ],
+        [
+          "Conditioning",
+          "MEL 200 mg/m²; lower dose → worse response and PFS"
+        ]
+      ],
+      "colW": [
+        3.4,
+        8.2
+      ],
       "fontSize": 17,
       "cite": "Minnema M, et al. EBMT Handbook 8th ed. 2024; Ch. 82 · Sanchorawala V, et al. Amyloid 2022",
       "notes": {
@@ -349,7 +672,8 @@
           "AL 做 autoHCT，選病人是成敗關鍵。早期 TRM 大約 20%，把心臟 biomarker 放進篩選之後降到 2%。",
           "常用的條件是年齡 70 歲以下、PS 0 到 2、NYHA I 或 II，NT-proBNP 小於 5000 ng/L，LVEF 至少 45 到 50%，收縮壓至少 90，沒有嚴重的 orthostatic hypotension，eGFR 大於 40。骨髓 plasma cell 10% 以上、符合 smoldering 或 myeloma 定義的人，先給 induction 再收幹細胞。",
           "Mobilization 也和 myeloma 不同。G-CSF 可能誘發 capillary leak，在動員或 apheresis 時出現低血氧和低血壓，所以要減量，例如每天 10 μg/kg 給 4 到 5 天；腫瘤負擔低的人不需要 cyclophosphamide。Conditioning 用 melphalan 200，降劑量會讓血液反應和 PFS 變差，那種病人不如走非移植的治療。",
-          "結果很好，EBMT 資料中位存活超過 10 年，HOVON 104 的 TRM 是 0，五年 OS 86%。"
+          "結果很好，EBMT 資料中位存活超過 10 年，HOVON 104 的 TRM 是 0，五年 OS 86%。",
+          "這些門檻和 myeloma 很不一樣。Myeloma 洗腎也能做 auto，AL 卻要 eGFR 大於 40；同樣是 melphalan 200，myeloma 腎不好可以降到 140，AL 降劑量就失去意義。兩章對照時這裡最容易考。"
         ]
       }
     },
@@ -358,16 +682,40 @@
       "section": "POEMS and MIDD",
       "eyebrow": "POEMS · Diagnostic criteria",
       "title": "POEMS needs neuropathy, a clone, one major and one minor criterion",
-      "head": ["Category", "Criteria"],
-      "rows": [
-        ["Mandatory (both)", "Polyneuropathy; clonal plasma cell disorder (almost always λ)"],
-        ["Major (≥ 1 of 3)", "Castleman disease; sclerotic bone lesions; raised VEGF"],
-        ["Minor (≥ 1)", "Organomegaly; extravascular volume overload; endocrinopathy"],
-        ["Minor, continued", "Skin changes; papilledema; thrombocytosis/erythrocytosis"],
-        ["VEGF cut-off", "Plasma ≥ 200 pg/mL; serum ≥ 1920 pg/mL"],
-        ["Endocrine caveat", "Diabetes or thyroid disease alone does not count"]
+      "head": [
+        "Category",
+        "Criteria"
       ],
-      "colW": [3.0, 8.6],
+      "rows": [
+        [
+          "Mandatory (both)",
+          "Polyneuropathy; clonal plasma cell disorder (almost always λ)"
+        ],
+        [
+          "Major (≥ 1 of 3)",
+          "Castleman disease; sclerotic bone lesions; raised VEGF"
+        ],
+        [
+          "Minor (≥ 1)",
+          "Organomegaly; extravascular volume overload; endocrinopathy"
+        ],
+        [
+          "Minor, continued",
+          "Skin changes; papilledema; thrombocytosis/erythrocytosis"
+        ],
+        [
+          "VEGF cut-off",
+          "Plasma ≥ 200 pg/mL; serum ≥ 1920 pg/mL"
+        ],
+        [
+          "Endocrine caveat",
+          "Diabetes or thyroid disease alone does not count"
+        ]
+      ],
+      "colW": [
+        3.0,
+        8.6
+      ],
       "fontSize": 17,
       "caption": "Adapted from Dispenzieri 2017. Other features: clubbing, weight loss, hyperhidrosis, low B12, pulmonary hypertension, thrombosis.",
       "captionY": 5.0,
@@ -378,7 +726,8 @@
           "POEMS 是 polyneuropathy、organomegaly、endocrinopathy、monoclonal protein、skin changes 的縮寫，又叫 osteosclerotic myeloma、Takatsuki 或 Crow-Fukase syndrome，男性較多，好發在 50 到 60 歲。但診斷不需要五個字母都有。",
           "診斷公式是兩個 mandatory 加一個 major 加一個 minor。Mandatory 是 polyneuropathy 和 clonal plasma cell disorder，M-protein 幾乎都是 λ，通常是 IgA 或 IgG，量不超過 3 g/dL。Major 是 Castleman disease、sclerotic bone lesion、VEGF 上升三選一。",
           "VEGF 是和疾病活性最相關的 cytokine，plasma 200 pg/mL 以上、serum 1920 以上有診斷價值。Minor 有六項，其中 endocrinopathy 最常見的是 hypogonadism；因為糖尿病和甲狀腺異常太常見，單獨出現不算。",
-          "臨床上要和 CIDP 以及 CANOMAD 區分。一個 demyelinating neuropathy 的病人如果有 λ 的小 M-protein 加上 sclerotic lesion，就要抽 VEGF。"
+          "臨床上要和 CIDP 以及 CANOMAD 區分。一個 demyelinating neuropathy 的病人如果有 λ 的小 M-protein 加上 sclerotic lesion，就要抽 VEGF。",
+          "其他線索還有 PEST，papilledema、extravascular volume overload、sclerotic bone lesion、thrombocytosis 或 erythrocytosis，以及肺功能異常和血栓傾向。Castleman variant 如果沒有 plasma cell disorder，要當成另一個疾病。貧血或血小板低在 POEMS 很少見，除非合併 Castleman。"
         ]
       }
     },
@@ -388,9 +737,21 @@
       "title": "POEMS is irradiated when localized and treated systemically when not",
       "root": "POEMS syndrome: is the bone disease localized?",
       "branches": [
-        {"label": "Isolated or localized", "box": "Radiotherapy 35–50 Gy", "out": "Improves symptoms; can be curative"},
-        {"label": "Disseminated", "box": "Len-dex induction (mainstay)", "out": "Alternatives: Mel-dex, Cy ± dex"},
-        {"label": "Disseminated, fit", "box": "Auto-HCT, MEL 140–200 mg/m²", "out": "3-y PFS 84%, OS 94%; 1-y NRM 3.3%"}
+        {
+          "label": "Isolated or localized",
+          "box": "Radiotherapy 35–50 Gy",
+          "out": "Improves symptoms; can be curative"
+        },
+        {
+          "label": "Disseminated",
+          "box": "Len-dex induction (mainstay)",
+          "out": "Alternatives: Mel-dex, Cy ± dex"
+        },
+        {
+          "label": "Disseminated, fit",
+          "box": "Auto-HCT, MEL 140–200 mg/m²",
+          "out": "3-y PFS 84%, OS 94%; 1-y NRM 3.3%"
+        }
       ],
       "invert": 2,
       "cite": "Cook G, et al. EBMT Handbook 8th ed. 2024; Ch. 83 · Cook G, et al. Haematologica 2017",
@@ -400,7 +761,8 @@
           "POEMS 的治療先問一件事，骨病灶是不是侷限的。單一或少數侷限的病灶，放射治療 35 到 50 Gy，症狀會改善，甚至可以治癒。",
           "瀰散的病人，lenalidomide 加 dexamethasone 是 frontline 主力。替代方案有 Mel-dex、Cy 加或不加 dex；thalidomide 和 bortezomib 因為本身會造成 neuropathy，用途有限。支持性照顧，像復健和 orthotics，一定要做。",
           "體能好的瀰散病人可以做 autoHCT，可以 upfront，但多半先用 Len-dex 控制症狀。Conditioning 是 melphalan 140 到 200。EBMT 的資料 1 年 NRM 3.3%，最大的系列三年 PFS 84%、OS 94%，五年 PFS 74%、OS 89%。",
-          "預後方面，POEMS 是慢性病程，中位存活接近 14 年，很少轉成 myeloma。有 clubbing、extravascular volume overload、呼吸症狀、papilledema 或合併 Castleman 的人存活較短；血液學 CR、albumin 大於 3.2 g/dL、年輕的人較好。"
+          "預後方面，POEMS 是慢性病程，中位存活接近 14 年，很少轉成 myeloma。有 clubbing、extravascular volume overload、呼吸症狀、papilledema 或合併 Castleman 的人存活較短；血液學 CR、albumin 大於 3.2 g/dL、年輕的人較好。",
+          "反應評估也很特別。M-protein 很小，myeloma 的反應標準不適用，VEGF 又和疾病活性不完全一致，所以書上建議同時看四個面向，modified amyloid 血液學反應、VEGF、CT/PET，以及神經、肺功能和水腫的器官反應。"
         ]
       }
     },
@@ -408,16 +770,56 @@
       "type": "table",
       "eyebrow": "Auto-HCT · Three rare clones",
       "title": "Auto-HCT for AL, POEMS and MIDD shares melphalan but not its pitfalls",
-      "head": ["", "AL amyloidosis", "POEMS", "MIDD"],
-      "rows": [
-        ["Hallmark", "Congo red+ fibrils; heart, kidney", "Demyelinating PN; VEGF; λ", "Nonfibrillar κ deposits; kidney"],
-        ["Conditioning", "MEL 200 mg/m²", "MEL 140–200 mg/m²", "MEL 140–200 mg/m²"],
-        ["Mobilization", "Reduced G-CSF (capillary leak)", "G-CSF ± Cy; early if on Len", "G-CSF ± Cy 3 g/m²"],
-        ["Main pitfall", "Cardiac death if poorly selected", "Engraftment syndrome ≤ 50%", "Dialysis: give MEL after HD"],
-        ["Mortality", "TRM ~2% with selection", "1-y NRM 3.3%", "As other auto-HCT"],
-        ["Response", "VGPR/CR, then organ response", "Nerves improve over 6–9 mo", "Renal gain; kidney Tx if CR"]
+      "head": [
+        "",
+        "AL amyloidosis",
+        "POEMS",
+        "MIDD"
       ],
-      "colW": [2.0, 3.4, 3.2, 3.2],
+      "rows": [
+        [
+          "Hallmark",
+          "Congo red+ fibrils; heart, kidney",
+          "Demyelinating PN; VEGF; λ",
+          "Nonfibrillar κ deposits; kidney"
+        ],
+        [
+          "Conditioning",
+          "MEL 200 mg/m²",
+          "MEL 140–200 mg/m²",
+          "MEL 140–200 mg/m²"
+        ],
+        [
+          "Mobilization",
+          "Reduced G-CSF (capillary leak)",
+          "G-CSF ± Cy; early if on Len",
+          "G-CSF ± Cy 3 g/m²"
+        ],
+        [
+          "Main pitfall",
+          "Cardiac death if poorly selected",
+          "Engraftment syndrome ≤ 50%",
+          "Dialysis: give MEL after HD"
+        ],
+        [
+          "Mortality",
+          "TRM ~2% with selection",
+          "1-y NRM 3.3%",
+          "As other auto-HCT"
+        ],
+        [
+          "Response",
+          "VGPR/CR, then organ response",
+          "Nerves improve over 6–9 mo",
+          "Renal gain; kidney Tx if CR"
+        ]
+      ],
+      "colW": [
+        2.0,
+        3.4,
+        3.2,
+        3.2
+      ],
       "fontSize": 15,
       "cite": "Minnema M, et al. Ch. 82 · Cook G, et al. Ch. 83; EBMT Handbook 8th ed. 2024",
       "notes": {
@@ -426,7 +828,8 @@
           "把三個少見疾病的 autoHCT 放在一起比。共同點是都用 melphalan，AL 用 200，POEMS 和 MIDD 用 140 到 200。差別在陷阱。",
           "MIDD，monoclonal Ig deposition disease，最常見的是 light-chain deposition disease。和 amyloid 不同，它的沉積是 nonfibrillar、幾乎都是 κ、Congo red 不染色。腎臟一定受侵犯，immunofluorescence 看到 light chain 沿著基底膜沉積，造成 nodular glomerulosclerosis、nephrotic syndrome、高血壓和快速惡化的腎功能，診斷靠腎臟切片。傳統 myeloma 化療效果不好，autoHCT 給體況好、或對 myeloma-like 治療沒反應的人。洗腎的病人要在洗腎之後給 melphalan，達到 CR 還在洗腎的人可以考慮腎移植。",
           "POEMS 的陷阱是 engraftment syndrome，最高 50%，要盡快認出來並用 prednisone 治療，輸血需求和植入時間也會增加。用 cyclophosphamide 加 G-CSF 動員可以降低發生率；用了 lenalidomide 要早一點收幹細胞，induction 三個療程沒反應也要直接收。神經的恢復要 6 到 9 個月，完全恢復可能要 2 到 3 年。",
-          "AL 的陷阱是心臟，選錯病人死亡率就高；POEMS 則沒有 AL 那種器官毒性。Engraftment syndrome 的定義和處理在第 13 堂講過。"
+          "AL 的陷阱是心臟，選錯病人死亡率就高；POEMS 則沒有 AL 那種器官毒性。Engraftment syndrome 的定義和處理在第 13 堂講過。",
+          "考試如果給一個腎臟切片，nodular glomerulosclerosis、κ 沉積、Congo red 陰性，答案是 light-chain deposition disease，不是 AL amyloidosis。POEMS 移植後血液學 CR 大約三個月看得到，PET/CT 的反應可能要等到 12 個月。"
         ],
         "reminders": [
           "Ch. 83 refers to 'Chap. 20' for engraftment syndrome; it is covered in Ch. 42 (Session 13). Ch. 83 gives Cy 1.5–3 g/m² for POEMS mobilization and 3 g/m² for MIDD."
@@ -455,6 +858,7 @@
         "script": [
           "第一題。58 歲女性，新診斷 IgG myeloma，ISS III，FISH 有 del(17p)。Daratumumab-VRD 四個 cycle 後 VGPR，腎功能正常，有一位 HLA 相合的姊姊。Induction 之後的計畫，哪一個最符合書上的建議？",
           "A 是用姊姊做 allo 當標準 consolidation，B 是 melphalan 200 做 tandem AHCT 再接 lenalidomide，C 是 busulfan-melphalan，D 是單次 AHCT 加 thalidomide，E 是不做 AHCT、MRD 陰性就停藥。題目特別給了一位 HLA 相合的姊姊。",
+          "想一想 del(17p) 在前面哪一張表出現過，書上對這群人有特別的建議。",
           "[Pause for answers.]"
         ]
       },
@@ -463,7 +867,8 @@
         "script": [
           "答案是 B。Del(17p) 是 high-risk，書上的 key point 寫 double AHCT 可以考慮給這群病人，EMN02 的 tandem 在 high-risk 族群也保有 PFS 好處。Conditioning 是 melphalan 200，之後 lenalidomide maintenance。",
           "A 是主要陷阱，有 matched sibling 不代表要做 allo。Myeloma 的 allo 好處被 TRM 抵銷，書上明說只在 clinical trial 裡做。C 的 busulfan 毒性較高又沒有勝出；D 的 thalidomide 沒有 OS 好處，還有 neuropathy；E 停藥的策略沒有被證實。",
-          "選項裡刻意沒有 consolidation，因為 EMN02 的 VRD consolidation 在 high-risk cytogenetics 沒有改善 PFS。"
+          "選項裡刻意沒有 consolidation，因為 EMN02 的 VRD consolidation 在 high-risk cytogenetics 沒有改善 PFS。",
+          "Lenalidomide maintenance 在 meta-analysis 的各個 subgroup 都改善 PFS，死亡風險下降 25%，所以 high-risk 也不能省略。"
         ]
       }
     },
@@ -488,6 +893,7 @@
         "script": [
           "第二題。61 歲男性，切片證實 systemic AL amyloidosis，λ。NYHA III 心衰竭，NT-proBNP 9800，troponin 上升，收縮壓 85，心臟分期是 IIIb，eGFR 55。哪一個 first-line 最符合書上的建議？",
           "A 是 bortezomib induction 後 melphalan 200 加 auto，B 是降到 melphalan 140 做 auto，C 是 Andromeda 的全劑量 Dara-CyBorD，D 是減量治療，例如 daratumumab 單藥，E 是 RIC allo。",
+          "這題的數字很多，先把心臟分期和 auto 的門檻對一對，再看哪一個選項符合 Table 82.1。",
           "[Pause for answers.]"
         ]
       },
@@ -495,7 +901,8 @@
         "min": 1.0,
         "script": [
           "答案是 D。Stage IIIb 或 NYHA III、IV 就是 high risk，Table 82.1 給的是減量治療，daratumumab 單藥或 modified CyBorD。",
-          "C 是最主要的陷阱。Dara-CyBorD 是多數病人的首選，但 Andromeda 排除了 IIIb，EMA 的核准也只到 IIIa。A 和 B 都不行，NYHA III、NT-proBNP 超過 5000、收縮壓低於 90，三項都超出 auto 的條件；而且書上說 melphalan 降劑量反應和 PFS 都比較差，不是解決辦法。E 的 allo 只在 auto 之後復發、60 歲以下、器官功能保留的人討論。"
+          "C 是最主要的陷阱。Dara-CyBorD 是多數病人的首選，但 Andromeda 排除了 IIIb，EMA 的核准也只到 IIIa。A 和 B 都不行，NYHA III、NT-proBNP 超過 5000、收縮壓低於 90，三項都超出 auto 的條件；而且書上說 melphalan 降劑量反應和 PFS 都比較差，不是解決辦法。E 的 allo 只在 auto 之後復發、60 歲以下、器官功能保留的人討論。",
+          "如果同一位病人是 stage II，答案就變成全劑量 Dara-CyBorD；要到 stage I、而且符合心臟門檻，才考慮 melphalan 200 加 auto。"
         ]
       }
     },
@@ -520,6 +927,7 @@
         "script": [
           "第三題。54 歲男性，POEMS syndrome，有 demyelinating polyneuropathy、IgA-λ、sclerotic bone lesion 和高 VEGF。Len-dex 之後只用 G-CSF 動員，melphalan 200 做 auto。Day +9 白血球回升時，發燒、皮疹、體重增加、兩側肺浸潤，培養都是陰性。下一步最適合的是什麼？",
           "A prednisone，B 加 echinocandin 等培養，C tocilizumab，D defibrotide，E plasmapheresis。",
+          "注意發生的時間點和動員方式，這兩個細節書上都寫過；選項裡有兩個是其他移植或細胞治療併發症的藥。",
           "[Pause for answers.]"
         ]
       },
@@ -528,7 +936,8 @@
         "script": [
           "答案是 A。白血球回升時出現發燒、皮疹、體重增加和肺浸潤，培養陰性，這是 engraftment syndrome。POEMS 做 auto 之後最高一半的人會發生，書上要求及早認出並用 prednisone 治療。",
           "D 是主要陷阱。Defibrotide 治療的是 SOS/VOD，會有黃疸、肝腫大和體重增加，但這題沒有肝的表現。E 的 plasmapheresis 在 POEMS 只有個案報告。C 的 tocilizumab 是 CAR-T 之後 CRS 的藥。",
-          "還有一個預防的考點，用 cyclophosphamide 加 G-CSF 動員可以降低 engraftment syndrome，這位病人只用 G-CSF，風險就比較高。"
+          "還有一個預防的考點，用 cyclophosphamide 加 G-CSF 動員可以降低 engraftment syndrome，這位病人只用 G-CSF，風險就比較高。",
+          "Engraftment syndrome 發生時，輸血需求會比預期高，植入也會延遲，這也是書上提醒要早點認出、早點處理的原因。"
         ]
       }
     },
@@ -537,17 +946,44 @@
       "backup": true,
       "eyebrow": "Myeloma · Response criteria",
       "title": "Myeloma response is graded from PR to MRD negativity",
-      "head": ["Category", "Definition (Table 81.1)"],
-      "rows": [
-        ["MRD", "BM flow (CD38, CD138, CD45 + panel) or NGS at ≤ 10⁻⁵–10⁻⁶"],
-        ["Stringent CR", "CR + normal FLC ratio, no clonal plasma cells"],
-        ["CR", "Negative serum/urine IFE, < 5% BMPC, no plasmacytoma"],
-        ["VGPR", "Serum M-protein ↓ ≥ 90%; urine < 100 mg/24 h"],
-        ["PR", "Serum M ↓ ≥ 50%; urine ↓ ≥ 90% or < 200 mg/24 h"],
-        ["PD", "≥ 25% rise from nadir (serum ≥ 0.5 g/dL; urine ≥ 200 mg/24 h)"],
-        ["PD, other", "BMPC +10%; new bone lesion, plasmacytoma or hypercalcemia"]
+      "head": [
+        "Category",
+        "Definition (Table 81.1)"
       ],
-      "colW": [2.6, 9.0],
+      "rows": [
+        [
+          "MRD",
+          "BM flow (CD38, CD138, CD45 + panel) or NGS at ≤ 10⁻⁵–10⁻⁶"
+        ],
+        [
+          "Stringent CR",
+          "CR + normal FLC ratio, no clonal plasma cells"
+        ],
+        [
+          "CR",
+          "Negative serum/urine IFE, < 5% BMPC, no plasmacytoma"
+        ],
+        [
+          "VGPR",
+          "Serum M-protein ↓ ≥ 90%; urine < 100 mg/24 h"
+        ],
+        [
+          "PR",
+          "Serum M ↓ ≥ 50%; urine ↓ ≥ 90% or < 200 mg/24 h"
+        ],
+        [
+          "PD",
+          "≥ 25% rise from nadir (serum ≥ 0.5 g/dL; urine ≥ 200 mg/24 h)"
+        ],
+        [
+          "PD, other",
+          "BMPC +10%; new bone lesion, plasmacytoma or hypercalcemia"
+        ]
+      ],
+      "colW": [
+        2.6,
+        9.0
+      ],
       "fontSize": 17,
       "cite": "Mohty M, et al. EBMT Handbook 8th ed. 2024; Ch. 81",
       "notes": {
@@ -561,14 +997,50 @@
       "backup": true,
       "eyebrow": "AL amyloidosis · Auto-HCT outcomes",
       "title": "Recent series show low TRM and long survival after AL auto-HCT",
-      "head": ["Series", "Type, n", "Response", "TRM", "Overall survival"],
-      "rows": [
-        ["Landau 2017", "Retrospective, 143", "CR 43% at 12 mo", "5%", "Median 10.4 y"],
-        ["D’Souza 2015", "Retrospective, 1536", "ORR 71%; CR 37%", "5%", "5 y: 77%"],
-        ["Minnema 2019 (HOVON 104)", "Prospective, 50", "ORR 86%; CR 46%", "0%", "5 y: 86%"],
-        ["Abdallah 2020", "Retrospective, 651", "—", "—", "13 vs 11.4 y, early vs deferred"]
+      "head": [
+        "Series",
+        "Type, n",
+        "Response",
+        "TRM",
+        "Overall survival"
       ],
-      "colW": [3.4, 2.6, 2.4, 1.0, 2.6],
+      "rows": [
+        [
+          "Landau 2017",
+          "Retrospective, 143",
+          "CR 43% at 12 mo",
+          "5%",
+          "Median 10.4 y"
+        ],
+        [
+          "D’Souza 2015",
+          "Retrospective, 1536",
+          "ORR 71%; CR 37%",
+          "5%",
+          "5 y: 77%"
+        ],
+        [
+          "Minnema 2019 (HOVON 104)",
+          "Prospective, 50",
+          "ORR 86%; CR 46%",
+          "0%",
+          "5 y: 86%"
+        ],
+        [
+          "Abdallah 2020",
+          "Retrospective, 651",
+          "—",
+          "—",
+          "13 vs 11.4 y, early vs deferred"
+        ]
+      ],
+      "colW": [
+        3.4,
+        2.6,
+        2.4,
+        1.0,
+        2.6
+      ],
       "fontSize": 15,
       "caption": "D’Souza figures for the 2007–2012 cohort. EBMT registry (1993–2021): median OS > 10 years. Induction before HCT gives better hematologic responses (Gustine 2022).",
       "captionY": 4.3,
@@ -584,17 +1056,44 @@
       "backup": true,
       "eyebrow": "AL amyloidosis · Relapse and cellular therapy",
       "title": "Relapsed AL is treated with new agents, autoHCT or selected allo-HCT",
-      "head": ["Setting", "Ch. 82"],
-      "rows": [
-        ["Long response, tolerated", "Retreat with the same regimen"],
-        ["Short response", "Unexposed agents, autoHCT or a clinical trial"],
-        ["IMiDs", "Len or pom; Len start 15 mg/day, adjust to GFR"],
-        ["t(11;14)", "Venetoclax: very high VGPR/CR rate"],
-        ["Allo-HCT (EBMT 2006)", "19 patients; TRM 40%; 7 long-term CR, most with cGVHD"],
-        ["Allo-HCT today", "RIC after auto relapse; < 60 y, HLA-identical donor"],
-        ["BCMA CAR-T", "9 academic cases: all CR, organ responses seen"]
+      "head": [
+        "Setting",
+        "Ch. 82"
       ],
-      "colW": [3.6, 8.0],
+      "rows": [
+        [
+          "Long response, tolerated",
+          "Retreat with the same regimen"
+        ],
+        [
+          "Short response",
+          "Unexposed agents, autoHCT or a clinical trial"
+        ],
+        [
+          "IMiDs",
+          "Len or pom; Len start 15 mg/day, adjust to GFR"
+        ],
+        [
+          "t(11;14)",
+          "Venetoclax: very high VGPR/CR rate"
+        ],
+        [
+          "Allo-HCT (EBMT 2006)",
+          "19 patients; TRM 40%; 7 long-term CR, most with cGVHD"
+        ],
+        [
+          "Allo-HCT today",
+          "RIC after auto relapse; < 60 y, HLA-identical donor"
+        ],
+        [
+          "BCMA CAR-T",
+          "9 academic cases: all CR, organ responses seen"
+        ]
+      ],
+      "colW": [
+        3.6,
+        8.0
+      ],
       "fontSize": 17,
       "cite": "Minnema M, et al. EBMT Handbook 8th ed. 2024; Ch. 82 · Schönland SO, et al. Blood 2006 · Premkumar VJ, et al. 2021",
       "notes": {
@@ -608,17 +1107,44 @@
       "backup": true,
       "eyebrow": "POEMS · Clinical features",
       "title": "POEMS features follow the acronym, plus PEST and VEGF",
-      "head": ["Feature", "Ch. 83"],
-      "rows": [
-        ["Polyneuropathy", "Demyelinating, ascending, symmetric, sensorimotor; dominant"],
-        ["Organomegaly", "Hepatomegaly (50%), splenomegaly, lymphadenopathy"],
-        ["Endocrinopathy", "84%: gonadal > thyroid > pituitary > others"],
-        ["M-protein", "Almost always λ; IgA or IgG, ≤ 3 g/dL; BM < 5–10% PCs"],
-        ["Skin", "Hyperpigmentation, hypertrichosis, glomeruloid hemangioma"],
-        ["PEST and others", "Sclerotic lesions 95%; Castleman 11–30%; platelets ↑ 54%"],
-        ["Prognosis", "Median OS ~14 y; feature count does not affect survival"]
+      "head": [
+        "Feature",
+        "Ch. 83"
       ],
-      "colW": [2.8, 8.8],
+      "rows": [
+        [
+          "Polyneuropathy",
+          "Demyelinating, ascending, symmetric, sensorimotor; dominant"
+        ],
+        [
+          "Organomegaly",
+          "Hepatomegaly (50%), splenomegaly, lymphadenopathy"
+        ],
+        [
+          "Endocrinopathy",
+          "84%: gonadal > thyroid > pituitary > others"
+        ],
+        [
+          "M-protein",
+          "Almost always λ; IgA or IgG, ≤ 3 g/dL; BM < 5–10% PCs"
+        ],
+        [
+          "Skin",
+          "Hyperpigmentation, hypertrichosis, glomeruloid hemangioma"
+        ],
+        [
+          "PEST and others",
+          "Sclerotic lesions 95%; Castleman 11–30%; platelets ↑ 54%"
+        ],
+        [
+          "Prognosis",
+          "Median OS ~14 y; feature count does not affect survival"
+        ]
+      ],
+      "colW": [
+        2.8,
+        8.8
+      ],
       "fontSize": 17,
       "cite": "Cook G, et al. EBMT Handbook 8th ed. 2024; Ch. 83",
       "notes": {

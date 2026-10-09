@@ -117,7 +117,7 @@
           "移植後肺功能異常很常見，整體大約 25 到 55% 的病人會發生。過去大約一半的肺部併發症來自感染，廣效抗生素普及之後，比例已經往非感染性移動。非感染性肺損傷可以占 allo 移植非感染性死亡的一半。",
           "這張表是 American Thoracic Society 的分類，依照主要受傷的組織分三大類。肺實質包括 ARDS、BCNU 和放射線肺炎等。血管內皮這一類包括 PERDS、capillary leak、DAH、pulmonary VOD 和 TRALI。呼吸道上皮則是 ILD 和 BOS。",
           "打星號的這幾種，如果發生在移植早期，都可以歸到 IPS 這把大傘底下，所以 IPS 其實是一個排除性的總稱。",
-          "最後一列要特別記住，最常見的肺部併發症是 fluid overload 造成的肺水腫，反而不在這個分類裡。",
+          "最後一列是例外，最常見的肺部併發症是 fluid overload 造成的肺水腫，反而不在這個分類裡。",
           "這個分類的用意，是提醒我們同一張胸部影像背後，受傷的可能是肺實質、血管內皮，也可能是小呼吸道，處置方向完全不同。內皮這一群和第 13 堂講的 capillary leak、engraftment syndrome 是同一個家族，DAH 也在這一類。考試常問哪一個不在 ATS 分類裡，答案就是 fluid overload。"
         ]
       }
@@ -616,7 +616,7 @@
       "notes": {
         "min": 1.5,
         "script": [
-          "NIH 共識的 BOS 診斷，是其他部位有 cGVHD，再加上新出現、對支氣管擴張劑沒反應、合併 air trapping 的阻塞型缺損。三個 PFT 數字要記牢，FEV1/VC 小於 0.7 或低於第五百分位，FEV1 小於預測值 75% 且比基準下降 10% 以上，RV 大於預測值 120%。",
+          "NIH 共識的 BOS 診斷，是其他部位有 cGVHD，再加上新出現、對支氣管擴張劑沒反應、合併 air trapping 的阻塞型缺損。三個 PFT 門檻是FEV1/VC 小於 0.7 或低於第五百分位，FEV1 小於預測值 75% 且比基準下降 10% 以上，RV 大於預測值 120%。",
           "最新的 NIH 共識只靠肺功能就能診斷，不需要切片，所以叫 BOS，而不是需要病理的 BO。例外是肺為唯一的 cGVHD 器官，這時需要 VATS 切片確認。",
           "CT 在診斷時一定要做，目的是排除其他診斷；如果看到肺實質浸潤，代表另有診斷或合併其他問題。超過三成病人移植前的 CT 就有 air trapping，所以呼氣相 CT 的價值有限，BOS 的診斷主要靠 PFT。",
           "臨床上最常見的情境，是一位皮膚或口腔 cGVHD 的病人在門診 spirometry 發現 FEV1 下降，這時要先排除感染，再確認阻塞對支氣管擴張劑沒反應、RV 上升，就能直接診斷 BOS，不必等切片。"
@@ -879,9 +879,9 @@
       "answerNotes": {
         "min": 1.0,
         "script": [
-          "答案是 D。BAL 越洗越紅，就是 DAH，加上 TBI、高劑量 CY 和 engraftment 前這個時間點，都很典型。Auto 移植後的 DAH 預後比 allo 好。",
+          "正確的是 D。BAL 越洗越紅，就是 DAH，加上 TBI、高劑量 CY 和 engraftment 前這個時間點，都很典型。Auto 移植後的 DAH 預後比 allo 好。",
           "B 是最常見的錯誤，含鐵血素巨噬細胞可能要 72 小時才出現，沒看到不能排除。A 也錯，真正咳血很少見。C 錯在死因，直接死於出血的不到 15%，多數死於多重器官衰竭。E 剛好相反，非感染性 DAH 歸在 IPS 的大傘下。",
-          "這題的病人在 engraftment 前、接受過 TBI 和 Cy，都是 DAH 的典型背景。臨床上記住兩件事，診斷看 BAL 是否越洗越紅，預後要看是否演變成多重器官衰竭。"
+          "這題的病人在 engraftment 前、接受過 TBI 和 Cy，都是 DAH 的典型背景。臨床上有兩件事，診斷看 BAL 是否越洗越紅，預後要看是否演變成多重器官衰竭。"
         ]
       }
     },
@@ -913,7 +913,7 @@
       "answerNotes": {
         "min": 1.0,
         "script": [
-          "答案是 C。FEV1/VC 小於 0.7、FEV1 小於 75% 且下降超過 10%、RV 大於 120%，加上其他部位有 cGVHD，符合 NIH 的 BOS。唯一有 double-blind RCT 證明能改善 FEV1 的就是吸入型 budesonide/formoterol。",
+          "選 C。FEV1/VC 小於 0.7、FEV1 小於 75% 且下降超過 10%、RV 大於 120%，加上其他部位有 cGVHD，符合 NIH 的 BOS。唯一有 double-blind RCT 證明能改善 FEV1 的就是吸入型 budesonide/formoterol。",
           "A 是最常見的錯誤，只有肺是唯一 cGVHD 器官時才需要切片，這位病人有口腔和皮膚 GVHD。B 錯，steroid 對 BOS 效果很差。D 的 organizing pneumonia 屬於 ILD，CT 會有實質浸潤。E 剛好相反，azithromycin 可能增加癌症風險，早期使用尤其要小心。",
           "這題考的是 BOS 和 ILD 的分辨，以及治療證據的強度。看到阻塞型 PFT、air trapping、沒有實質浸潤，就是 BOS。"
         ]

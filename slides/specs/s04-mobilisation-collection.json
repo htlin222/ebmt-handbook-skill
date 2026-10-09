@@ -70,7 +70,7 @@
       "type": "table",
       "section": "Bone marrow harvest",
       "eyebrow": "Graft source · Marrow vs blood",
-      "title": "Marrow trades slower recovery for less chronic GVHD",
+      "title": "Marrow grafts engraft more slowly but cause less chronic GVHD",
       "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15 · Worel N, et al. Ch. 16",
       "head": [
         "Bone marrow graft",
@@ -242,7 +242,7 @@
         5.8
       ],
       "fontSize": 16,
-      "caption": "Transfusion: fluid replacement preferred, autologous blood second-best; never allogeneic blood in a healthy donor",
+      "caption": "Donor transfusion: fluids first, autologous blood second, never allogeneic blood",
       "captionY": 5.75,
       "notes": {
         "min": 1.5,
@@ -591,7 +591,7 @@
         },
         {
           "head": "Healthy allogeneic donors",
-          "body": "G-CSF fails in 5–10%. Plerixafor is not approved for donors, yet adding it raised CD34+ about three-fold",
+          "body": "G-CSF fails in 5–10%. Plerixafor is not approved for donors, yet adding it gave roughly 3-fold more CD34+ cells",
           "extra": "Ings 2006; Hölig 2021"
         },
         {
@@ -616,11 +616,11 @@
       "title": "Autografts are frozen within 72 hours and infused within 20 minutes",
       "cite": "Wuchter P. EBMT Handbook 8th ed. 2024; Ch. 20",
       "steps": [
-        "Hold ≤ 72 h at 2–6 °C",
-        "NC ≤ 4 × 10⁸/mL; DMSO 5–10%",
-        "Controlled rate 1–2 °C/min",
-        "Vapour-phase N₂ ≤ −140 °C",
-        "Thaw at bedside, infuse ≤ 20 min"
+        "Hold ≤ 72 h\nat 2–6 °C",
+        "NC ≤ 4 × 10⁸/mL\nDMSO 5–10%",
+        "Controlled rate\n1–2 °C/min",
+        "Vapour-phase N₂\n≤ −140 °C",
+        "Thaw at bedside,\ninfuse ≤ 20 min"
       ],
       "invert": 4,
       "caption": "Freezing within 48 h is preferred; if held > 24 h, NC ≤ 2 × 10⁸/mL. ACD-A 0.05–0.25 mL per mL. No routine DMSO washing. CD34+ cells stay viable up to 19 years; storage time does not affect recovery.",
@@ -638,7 +638,7 @@
     {
       "type": "table",
       "eyebrow": "Quality control · Release criteria",
-      "title": "An autograft is released only if it meets five criteria",
+      "title": "An autograft is released only when it meets all five criteria",
       "cite": "Wuchter P. EBMT Handbook 8th ed. 2024; Ch. 20",
       "head": [
         "Release criterion",

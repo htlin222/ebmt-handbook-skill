@@ -272,7 +272,8 @@
           "Auto 的幹細胞來源首選 mobilized peripheral blood。Conditioning 沒有 randomized 比較，但 BEAM 是首選。BCNU 300 mg/m² 在 day −6 給一次，etoposide 200 mg/m² 和 cytarabine 200 mg/m² 一天兩次，都從 day −5 給到 −2，melphalan 140 在 day −1。北美常用 CBV。TBI-based regimen 不建議，因為第二癌風險較高。",
           "Melphalan 的單位，書上印的是 140 mg/kg，這顯然是 mg/m² 的筆誤，上課前會再確認。",
           "Caption 是 BEAM 的晚期毒性。肺部的 chronic interstitial fibrosis 和 DLCO 下降 21%，第二腫瘤 20%。NRM 最常見的原因就是第二癌，風險是一般人的 12 倍，追蹤門診要記得篩檢。",
-          "BEAM 四個藥的順序和天數容易出配對題。BCNU 只給一次而且最早給，melphalan 也只給一次、放在最後一天，中間四天是 etoposide 和 cytarabine。肺部是 BEAM 最常見的晚期問題之一，追蹤時有咳嗽、喘或 DLCO 下降，要想到 chronic interstitial fibrosis。"
+          "BEAM 四個藥的順序和天數容易出配對題。BCNU 只給一次而且最早給，melphalan 也只給一次、放在最後一天，中間四天是 etoposide 和 cytarabine。肺部是 BEAM 最常見的晚期問題之一，追蹤時有咳嗽、喘或 DLCO 下降，要想到 chronic interstitial fibrosis。",
+          "第二腫瘤加上 metabolic syndrome 和心血管問題，代表 auto 後的長期追蹤不只是看復發。"
         ],
         "reminders": [
           "TO CONFIRM BEFORE PRESENTING: Ch. 89 prints melphalan 140 mg/kg/day; standard BEAM is 140 mg/m². Confirm against the printed book or another BEAM source."
@@ -298,7 +299,8 @@
           "Auto 之後會不會復發，第 89 章列了一串一致的不良預後因子：primary induction failure、第一次緩解短於 3 個月、第一線後 12 個月內復發、extranodal disease、B symptoms、復發時 advanced stage、salvage 抗藥，以及移植時仍有病灶。",
           "有這些因子的病人，auto 之後給 brentuximab vedotin consolidation。依據是 phase III 的 AETHERA，329 位 relapsed 或 refractory 病人，auto 後隨機分到最多 16 個 cycle 的 BV 或 placebo。中位 PFS 43 個月對 24 個月，P 值 0.0013，risk factor 越多，受益越明顯。",
           "BV 目前是唯一核准用在 post-auto consolidation 的藥，16 個 cycle 這個數字常出現在選項裡。",
-          "考題常常給一位第一線後 12 個月內就復發、或移植時仍有病灶的病人，問 auto 之後該做什麼，答案通常就是 BV consolidation。也要注意 AETHERA 的結果是 PFS，書上並沒有寫 OS 的差異。"
+          "考題常常給一位第一線後 12 個月內就復發、或移植時仍有病灶的病人，問 auto 之後該做什麼，答案通常就是 BV consolidation。也要注意 AETHERA 的結果是 PFS，書上並沒有寫 OS 的差異。",
+          "第一線的角色也在改變。Echelon-1 用 BV 取代 ABVD 裡的 bleomycin，晚期 HL 的 OS 改善，可以預期之後走到移植時已經用過 BV 的病人會越來越多。"
         ]
       }
     },
@@ -332,7 +334,8 @@
           "這是作者建議的演算法，簡化自 89.11 節的圖。Auto 之後復發，先問有沒有用過 BV，或是否對 BV 抗藥。沒用過就先給 BV；用過或沒有反應，就換 nivolumab、pembrolizumab 或臨床試驗。有反應的人可以觀察，或在年輕、體能好、有合適 donor 時考慮 allo。兩條路都沒反應，才回到傳統 salvage。",
           "預後的改善很明顯。EBMT 分析 1781 位 auto 後復發的成人，四年 OS 從 2006 到 2008 年的 32%，進步到 2015 到 2017 年的 63%。距離 auto 越久才復發越好；年紀大、體能差、bulky、extranodal 和 B symptoms 則較差。",
           "表上沒寫的數字放在 backup。Auto 後用 BV 的 ORR 75%，nivolumab 和 pembrolizumab 都是 69%。",
-          "書上把 allo 的條件寫得很具體，年輕、體能好、疾病有反應，而且有合適的 donor。四個條件少一個，觀察或繼續新藥都是可以接受的選擇，這就是原圖上灰色箭頭的意思，要和病人仔細討論利弊。"
+          "書上把 allo 的條件寫得很具體，年輕、體能好、疾病有反應，而且有合適的 donor。四個條件少一個，觀察或繼續新藥都是可以接受的選擇，這就是原圖上灰色箭頭的意思，要和病人仔細討論利弊。",
+          "Backup 裡還有 bendamustine、gemcitabine-based 化療和 CAR-T 等選擇，反應率差異很大。"
         ]
       }
     },
@@ -601,7 +604,8 @@
           "Allo 只考慮給挑選過的復發病人，條件是淋巴瘤明顯會縮短存活。三線治療後復發，尤其 auto 後復發，是合理的適應症。病人端要看年齡、共病、體能、HCT-CI 和病人自己的意願。",
           "Conditioning 沒有定論。Sibling donor 的 registry 顯示 MAC 和 RIC 三年 OS 71% 對 62%，P 值 0.15，沒有差異；unrelated donor 時，EBMT 的資料是 RIC 的 NRM 較低，PFS 和 OS 都較長。加上中位年齡 69 歲，多數專家建議 RIC。",
           "MSD 和 MUD 結果相近，沒有的話 haplo 加 PTCy 或 cord blood 都可行。GVHD prophylaxis 沒有偏好；做 T-cell depletion 要搭配 chimerism-directed DLI，四年 PFS 76%。Allo 後不需要 maintenance。",
-          "TCD 和 DLI 要一起看。T-cell depletion 降低 GVHD，但也移除了負責 GVL 的 alloreactive T cell，復發會變多。依 chimerism 補 DLI，等於把 GVL 加回來，所以這個系列四年復發只有 24%，GVHD 也不多。"
+          "TCD 和 DLI 要一起看。T-cell depletion 降低 GVHD，但也移除了負責 GVL 的 alloreactive T cell，復發會變多。依 chimerism 補 DLI，等於把 GVL 加回來，所以這個系列四年復發只有 24%，GVHD 也不多。",
+          "沒有 MSD 或 MUD 時，cord blood 和 PTCy haplo 在包括 FL 在內的 NHL 都已有可行性的報告。"
         ]
       }
     },
@@ -816,6 +820,7 @@
           "第三題。52 歲女性，CLL 帶 TP53 mutation，第一線持續吃 acalabrutinib 兩年後惡化。換成 venetoclax 加 rituximab，目前 partial response。HCT-CI 1 分，有 10/10 相合的 unrelated donor。",
           "選項有繼續 venetoclax、等它也失敗再說，auto，現在就轉介做 RIC allo，商業 CAR-T，以及因為 TP53 而做 MAC allo。",
           "這題要同時看三件事，遺傳學風險、用過幾類藥，以及現在疾病有沒有控制住。Donor 和 HCT-CI 都不是問題，重點在時機。",
+          "先決定該不該移植，再決定怎麼移植。",
           "[Pause for answers.]"
         ]
       },

@@ -1,3 +1,5 @@
 node_modules/
 qa/
 decks/*.pdf
+decks/.~lock.*
+decks/*.tmp

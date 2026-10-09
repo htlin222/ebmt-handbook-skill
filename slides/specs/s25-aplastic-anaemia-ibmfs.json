@@ -5,7 +5,7 @@
   "title": "HCT for aplastic anaemia, PNH and inherited marrow failure",
   "subtitle": "Session 25 · Ch. 78, 79",
   "cite": "Peffault de Latour R, et al. Ch. 78 · Diaz-de-Heredia C, et al. Ch. 79. EBMT Handbook 8th ed. 2024",
-  "refsPerSlide": 7,
+  "refsPerSlide": 12,
   "coverNotes": {
     "min": 0.5,
     "script": [
@@ -272,6 +272,11 @@
           "Any IST",
           "Time to recovery",
           "3–6 months; anti-infective\ncare drives survival"
+        ],
+        [
+          "Taiwan",
+          "Access and NHI coverage",
+          "[verify: hATG and EPAG\nin first-line SAA]"
         ]
       ],
       "colW": [
@@ -280,8 +285,6 @@
         3.9
       ],
       "fontSize": 15,
-      "caption": "[verify: horse ATG and eltrombopag availability and reimbursement in Taiwan]",
-      "captionY": 5.95,
       "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
       "notes": {
         "min": 1.5,
@@ -340,7 +343,7 @@
       ],
       "fontSize": 15,
       "caption": "FCC = fludarabine, cyclophosphamide, Campath (alemtuzumab)",
-      "captionY": 5.6,
+      "captionY": 5.95,
       "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
       "notes": {
         "min": 1.5,
@@ -559,8 +562,6 @@
         6.0
       ],
       "fontSize": 15,
-      "caption": "C3, factor D and factor B inhibitors target extravascular haemolysis left on anti-C5",
-      "captionY": 5.95,
       "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
       "notes": {
         "min": 1.5,
@@ -1026,7 +1027,7 @@
       ],
       "fontSize": 16,
       "caption": "Speaker's summary across Ch. 78 and Ch. 79",
-      "captionY": 5.6,
+      "captionY": 5.2,
       "cite": "Peffault de Latour R, et al. Ch. 78 · Diaz-de-Heredia C, et al. Ch. 79. EBMT Handbook 8th ed. 2024",
       "notes": {
         "script": [

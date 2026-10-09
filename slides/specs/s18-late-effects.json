@@ -659,8 +659,8 @@
       "rows": [
         [
           "Baseline",
-          "Family history, female sex, smoking,\nHTN, dyslipidaemia, DM",
-          "Also obesity, sedentary habit, CKD"
+          "Family history, female sex, smoking, HTN, DM",
+          "Also dyslipidaemia, obesity, inactivity, CKD"
         ],
         [
           "Anthracyclines",
@@ -674,7 +674,7 @@
         ],
         [
           "Other therapy",
-          "TBI, steroids; CY, Bu, melphalan,\nthiotepa",
+          "TBI, steroids, CY, Bu, melphalan, thiotepa",
           "PTCy: more early cardiac events\n(within 100 days)"
         ],
         [
@@ -684,19 +684,19 @@
         ],
         [
           "Other late effects",
-          "Hypogonadism, early menopause,\nhypothyroidism",
+          "Hypogonadism, early menopause, hypothyroidism",
           "Treat as CV risk factors"
         ]
       ],
       "colW": [
-        2.4,
-        5.0,
+        2.2,
+        5.2,
         4.4
       ],
-      "fontSize": 15,
+      "fontSize": 14,
       "cite": "Galvan ER, et al. EBMT Handbook 8th ed. 2024; Ch. 55",
       "caption": "First CV event by 15 years: up to 6% (EBMT); 7.5% allo vs 2.3% auto (Tichelli 2007a)",
-      "captionY": 6.02,
+      "captionY": 5.85,
       "notes": {
         "min": 1.5,
         "script": [

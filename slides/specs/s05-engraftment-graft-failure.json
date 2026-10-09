@@ -134,7 +134,8 @@
         "reminders": [
           "Ch. 21 defines complete chimerism as > 95% donor cells; Ch. 41 gives ≥ 95% as the common cut-off. Both shown with their source."
         ]
-      }
+      },
+      "captionY": 5.4
     },
     {
       "type": "table",
@@ -174,12 +175,12 @@
         ]
       ],
       "colW": [
-        4.2,
-        2.9,
-        4.3
+        3.9,
+        2.6,
+        4.9
       ],
       "fontSize": 17,
-      "captionY": 5.2,
+      "captionY": 5.55,
       "caption": "Sensitive assays find recipient cells in most samples: interpret them in the clinical context",
       "notes": {
         "min": 1.5,
@@ -237,7 +238,7 @@
         [
           "SCD, donor < 30%",
           "DLI might be considered",
-          "Mixed chimerism alone does not warrant DLI"
+          "MC alone does not warrant DLI"
         ]
       ],
       "colW": [
@@ -393,7 +394,8 @@
           "這張表最常見的考法有兩種。一是給 day +35 的 cord blood 病人 ANC 還沒起來，問是不是 primary GF，答案是還沒到 day +42。二是給一個血球低、chimerism 正常的病人，問診斷，答案是 poor graft function。",
           "診斷 GF 時，不能只看血球，一定要附上 chimerism 結果。"
         ]
-      }
+      },
+      "captionY": 4.95
     },
     {
       "type": "tree",
@@ -696,12 +698,8 @@
       ],
       "rows": [
         [
-          "Age < 30 years",
-          "1"
-        ],
-        [
-          "Karnofsky < 90%",
-          "1"
+          "Age < 30 years; Karnofsky < 90%",
+          "1 each"
         ],
         [
           "Disease: MDS 1; CLL or CML 2; MPN 3",
@@ -733,7 +731,6 @@
         3.0
       ],
       "fontSize": 16,
-      "captionY": 5.95,
       "caption": "Score > 6 at day +21: PPV 28–36%. Score < 7: NPV 81%",
       "notes": {
         "min": 1.5,
@@ -974,8 +971,8 @@
           "Fuji 2012",
           "220 (200 / 19)",
           "24 PB, 16 BM, 180 CB",
-          "CB 30%; PB-BM 70–75%",
-          "1 y: PB 58%, CB 28%"
+          "CB 30%; PB/BM 70–75%",
+          "1 y: PB 58%; CB 28%"
         ],
         [
           "Ferrá 2014",
@@ -993,9 +990,9 @@
         ]
       ],
       "colW": [
-        3.2,
-        2.0,
-        2.4,
+        3.1,
+        1.9,
+        2.6,
         2.2,
         1.9
       ],
