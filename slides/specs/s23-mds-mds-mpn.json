@@ -1,0 +1,1080 @@
+{
+ "id": "s23",
+ "slug": "mds-mds-mpn",
+ "session": 23,
+ "title": "HCT for MDS and MDS/MPN",
+ "subtitle": "Session 23 · Ch. 74, 76 (support: Ch. 75)",
+ "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74 · Onida F, Chalandon Y. Ch. 76",
+ "refsPerSlide": 7,
+ "coverNotes": {
+  "min": 0.5,
+  "script": [
+   "各位好，第 23 堂講 MDS 和 MDS/MPN 的移植，對應 EBMT Handbook 第 74 章和第 76 章，小兒 MDS 和 JMML 的第 75 章放在 backup。這兩類病除了 allo-HCT 之外，沒有其他治療被證實能改變病程，所以考點集中在三件事，誰該移植、什麼時候移植，以及移植前後怎麼處理。最後一樣是三題 board-style 題目。"
+  ]
+ },
+ "references": [
+  "1. Robin M, Gurnari C. Myelodysplastic neoplasms/syndromes (MDS). In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 669–77. https://doi.org/10.1007/978-3-031-44080-9_74",
+  "2. Onida F, Chalandon Y. Myelodysplastic/myeloproliferative neoplasms. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 685–94. https://doi.org/10.1007/978-3-031-44080-9_76",
+  "3. Niemeyer CM, Strahm B. Allogeneic hematopoietic cell transplantation in pediatric MDS including refractory cytopenia of childhood and in juvenile myelomonocytic leukemia. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 679–83. https://doi.org/10.1007/978-3-031-44080-9_75",
+  "4. Robin M, Porcher R, Adès L, Raffoux E, Michallet M, François S, Cahn J-Y, et al. HLA-matched allogeneic stem cell transplantation improves outcome of higher risk myelodysplastic syndrome a prospective study on behalf of SFGM-TC and GFM. Leukemia. 2015;29(7):1496–501. https://doi.org/10.1038/leu.2015.37.",
+  "5. Kröger N, Sockel K, Wolschke C, Bethge W, Schlenk RF, Wolf D, Stadler M, et al. Comparison between 5-azacytidine treatment and allogeneic stem-cell transplantation in elderly patients with advanced mds according to donor availability (VidazaAllo Study). J Clin Oncol. 2021;39(30):3318–27. https://doi.org/10.1200/JCO.20.02724.",
+  "6. Nakamura R, Saber W, Martens MJ, Ramirez A, Scott B, Oran B, Leifer E, et al. Biologic assignment trial of reduced-intensity hematopoietic cell transplantation based on donor availability in patients 50–75 years of age with advanced myelodysplastic syndrome. J Clin Oncol. 2021;39(30):3328–39. https://doi.org/10.1200/JCO.20.03380.",
+  "7. Cutler CS, Lee SJ, Greenberg P, Deeg HJ, Perez WS, Anasetti C, Bolwell BJ, et al. A decision analysis of allogeneic bone marrow transplantation for the myelodysplastic syndromes: delayed transplantation for low-risk myelodysplasia is associated with improved outcome. Blood. 2004;104(2):579–85.",
+  "8. Koreth J, Pidala J, Perez WS, Deeg HJ, Garcia-Manero G, Malcovati L, Cazzola M, et al. Role of reduced-intensity conditioning allogeneic hematopoietic stem-cell transplantation in older patients with de novo myelodysplastic syndromes: an international collaborative decision analysis. J Clin Oncol. 2013;31(21):2662–70.",
+  "9. de Witte T, Bowen D, Robin M, Malcovati L, Niederwieser D, Yakoub-Agha I, Mufti GJ, et al. Allogeneic hematopoietic stem cell transplantation for MDS and CMML: recommendations from an international expert panel. Blood. 2017;129(13):1753–62. https://doi.org/10.1182/blood-2016-06-724500.",
+  "10. DeFilipp Z, Ciurea SO, Cutler C, Robin M, Warlick ED, Nakamura R, Brunner AM, et al. Hematopoietic cell transplantation in the Management of Myelodysplastic Syndrome: an evidence-based review from the American Society for Transplantation and Cellular Therapy Committee on practice guidelines. Transplant Cell Ther. 2023;29(2):71–81. https://doi.org/10.1016/j.jtct.2022.11.014.",
+  "11. Voso MT, Leone G, Piciocchi A, Fianchi L, Santarone S, Candoni A, Criscuolo M, et al. Feasibility of allogeneic stem-cell transplantation after Azacitidine bridge in higher-risk myelodysplastic syndromes and low blast count acute myeloid leukemia: results of the BMT-AZA prospective study. Ann Oncol. 2017;28(7):1547–53. https://doi.org/10.1093/annonc/mdx154.",
+  "12. Kröger N, Iacobelli S, Franke G-N, Platzbecker U, Uddin R, Hübel K, Scheid C, et al. Dose-reduced versus standard conditioning followed by allogeneic stem-cell transplantation for patients with myelodysplastic syndrome: a prospective randomized phase III study of the EBMT (RICMAC trial). J Clin Oncol Off J Am Soc Clin Oncol. 2017;35(19):2157–64. https://doi.org/10.1200/JCO.2016.70.7349.",
+  "13. Scott BL, Pasquini MC, Logan BR, Juan W, Devine SM, Porter DL, Maziarz RT, et al. Myeloablative versus reduced-intensity hematopoietic cell transplantation for acute myeloid leukemia and myelodysplastic syndromes. J Clin Oncol Off J Am Soc Clin Oncol. 2017;35(11):1154–61. https://doi.org/10.1200/JCO.2016.70.7091.",
+  "14. Bejanyan N, Zhang M, Bo-Subait K, Brunstein C, Wang H, Warlick ED, Giralt S, et al. Myeloablative conditioning for allogeneic transplantation results in superior disease-free survival for acute myelogenous leukemia and myelodysplastic syndromes with low/intermediate but not high disease risk index: a center for international blood and marrow transplant research study. Transplant Cell Ther. 2021;27(1):68.e1–9. https://doi.org/10.1016/j.bbmt.2020.09.026.",
+  "15. Craddock C, Jackson A, Loke J, Siddique S, Hodgkinson A, Mason J, Andrew G, et al. Augmented reduced-intensity regimen does not improve postallogeneic transplant outcomes in acute Myeloid Leukemia. J Clin Oncol. 2021;39(7):768–78. https://doi.org/10.1200/JCO.20.02308.",
+  "16. Lindsley RC, Saber W, Mar BG, Redd R, Wang T, Haagenson MD, Grauman PV, et al. Prognostic mutations in myelodysplastic syndrome after stem-cell transplantation. N Engl J Med. 2017;376(6):536–47. https://doi.org/10.1056/NEJMoa1611604.",
+  "17. Gagelmann N, Eikema D-J, Stelljes M, Beelen D, de Wreede L, Mufti G, Knelange NS, et al. Optimized EBMT transplant-specific risk score in myelodysplastic syndromes after allogeneic stem-cell transplantation. Haematologica. 2019;104(5):929–36. https://doi.org/10.3324/haematol.2018.200808.",
+  "18. Kröger N, Zabelina T, de Wreede L, Berger J, Alchalby H, van Biezen A, Milpied N, et al. Allogeneic stem cell transplantation for older advanced MDS patients: improved survival with young unrelated donor in comparison with HLA-identical siblings. Leukemia. 2013;27(3):604–9. https://doi.org/10.1038/leu.2012.210.",
+  "19. Murthy G, Subramanian G, Kim S, Zhen-Huan H, Estrada-Merly N, Abid MB, Aljurf M, Bacher U, et al. Relapse and disease-free survival in patients with myelodysplastic syndrome undergoing allogeneic hematopoietic cell transplantation using older matched sibling donors vs younger matched unrelated donors. JAMA Oncol. 2022;8(3):404–11. https://doi.org/10.1001/jamaoncol.2021.6846.",
+  "20. Craddock C, Labopin M, Robin M, Finke J, Chevallier P, Yakoub-Agha I, Bourhis JH, et al. Clinical activity of Azacitidine in patients who relapse after allogeneic stem cell transplantation for acute myeloid leukemia. Haematologica. 2016;101(7):879–83. https://doi.org/10.3324/haematol.2015.140996.",
+  "21. Guièze R, Damaj G, Pereira B, Robin M, Chevallier P, Michallet M, Vigouroux S, et al. Management of Myelodysplastic Syndrome Relapsing after allogeneic hematopoietic stem cell transplantation: a study by the French Society of Bone Marrow Transplantation and Cell Therapies. Biol Blood Marrow Transplant. 2016;22(2):240–7. https://doi.org/10.1016/j.bbmt.2015.07.037.",
+  "22. Schmid C, de Wreede LC, van Biezen A, Finke J, Ehninger G, Ganser A, Volin L, et al. Outcome after relapse of myelodysplastic syndrome and secondary acute myeloid leukemia following allogeneic stem cell transplantation: a retrospective registry analysis on 698 patients by the chronic malignancies working Party of the European Society of blood and marrow transplantation. Haematologica. 2018;103(2):237–45. https://doi.org/10.3324/haematol.2017.168716.",
+  "23. Kungwankiattichai S, Ponvilawan B, Roy C, Tunsing P, Kuchenbauer F, Owattanapanich W. Maintenance with Hypomethylating agents after allogeneic stem cell transplantation in acute myeloid leukemia and myelodysplastic syndrome: a systematic review and meta-analysis. Front Med. 2022;9:801632. https://doi.org/10.3389/fmed.2022.801632.",
+  "24. Oran B, de Lima M, Garcia-Manero G, Thall PF, Lin R, Popat U, Alousi AM, et al. A phase 3 randomized study of 5-Azacitidine maintenance vs observation after transplant in high-risk AML and MDS patients. Blood Adv. 2020;4(21):5580–8. https://doi.org/10.1182/bloodadvances.2020002544.",
+  "25. Such E, Germing U, Malcovati L, et al. Development and validation of a prognostic scoring system for patients with chronic myelomonocytic leukemia. Blood. 2013;121:3005–15.",
+  "26. Elena C, Gall A, Such E, et al. Integrating clinical features and genetic lesions in the risk assessment of patients with chronic myelomonocytic leukemia. Blood. 2016;128:1408–17.",
+  "27. Itzykson R, Kosmider O, Renneville A, et al. Prognostic score including gene mutations in chronic myelomonocytic leukemia. J Clin Oncol. 2013;31:2428–36.",
+  "28. Patnaik MM, Itzykson R, Lasho T, et al. ASXL1 and SETBP1 mutations and their prognostic contribution in chronic myelomonocytic leukemia: a two-center study of 466 patients. Leukemia. 2014;28:2206–12.",
+  "29. Onida F, Ball G, Kantarjian HM, et al. Characteristics and outcome of patients with Philadelphia chromosome negative, bcr/abl negative chronic myelogenous leukemia. Cancer. 2002;95:1673–84.",
+  "30. Patnaik MM, Lasho TL, Finke CM, et al. Predictors of survival in refractory anemia with ring sideroblasts and thrombocytosis (RARS-T) and the role of next-generation sequencing. Am J Hematol. 2016;91:492–8.",
+  "31. Kröger N, Zabelina T, Guardiola P, et al. Allogeneic stem cell transplantation of adult chronic myelomonocytic leukaemia. A report on behalf of the chronic Leukaemia working Party of the European Group for blood and marrow transplantation (EBMT). Br J Haematol. 2002;118:67–73.",
+  "32. Symeonidis A, van Biezen A, de Wreede L, et al. Achievement of complete remission predicts outcome of allogeneic haematopoietic stem cell transplantation in patients with chronic myelomonocytic leukaemia. A study of the chronic malignancies working Party of the European Group for blood and marrow transplantation. Br J Haematol. 2015;171:239–46.",
+  "33. Liu HD, Ahn KW, Hu ZH, et al. Allogeneic hematopoietic cell transplantation for adult chronic myelomonocytic leukemia. Biol Blood Marrow Transplant. 2017;23:767–75.",
+  "34. Itonaga H, Aoki K, Aoki J, et al. Prognostic impact of donor source on allogeneic hematopoietic stem cell transplantation outcomes in adults with chronic myelomonocytic leukemia: a Nationwide retrospective analysis in Japan. Biol Blood Marrow Transplant. 2018;24:840–8.",
+  "35. Rovó A, Gras L, Piebenbroek B et al. Outcomes of CMML patients undergoing allo-HCT are significantly worse compared to MDS - A study of the CMWP of the EBMT. American Journal of Hematology. 2023. In press.",
+  "36. Onida F, de Wreede LC, van Biezen A, et al. Allogeneic stem cell transplantation in patients with atypical chronic myeloid leukaemia: a retrospective study from the chronic malignancies working Party of the European Society for blood and marrow transplantation. Br J Haematol. 2017;177:759–65.",
+  "37. Strahm B, Nöllke P, Zecca M, EWOG-MDS Study Group, et al. Hematopoietic stem cell transplantation for advanced myelodysplastic syndrome in children: results of the EWOG-MDS 98 study. Leukemia. 2011;25:455–62.",
+  "38. Strahm B, Albert M, Bierings M, et al. EWOG-MDS study SCT RC RIC 06: Reduced intensity conditioning for children and adolescents with refractory cytopenia of childhood. Bone Marrow Transplant. 2017;52:S103."
+ ],
+ "slides": [
+  {
+   "type": "outline",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74 · Onida F, Chalandon Y. Ch. 76",
+   "eyebrow": "MDS · MDS/MPN · Outline",
+   "title": "Two disease groups, one question: who needs allo-HCT, and when",
+   "rows": [
+    [
+     "MDS: risk, indication and timing",
+     "IPSS-R scoring, poor-risk features, Fig. 74.1 and 74.2",
+     "7.5 min"
+    ],
+    [
+     "MDS: conditioning, outcome and relapse",
+     "RIC vs MAC trials, risk factors, donor, relapse, maintenance",
+     "5 min"
+    ],
+    [
+     "MDS/MPN: CMML and the rare overlaps",
+     "WHO 2022, CPSS and other scores, indication, bridge, conditioning",
+     "9.5 min"
+    ],
+    [
+     "Board questions",
+     "Lower-risk MDS, CMML scoring, higher-risk MDS with excess blasts",
+     "5.25 min"
+    ]
+   ],
+   "notes": {
+    "min": 1.0,
+    "script": [
+     "今天分四段。前兩段是 MDS，先從 IPSS-R 算分開始，接著看哪些 lower-risk 病人要提早移植，以及書上 Figure 74.1 和 74.2 兩張流程圖。第二段講 conditioning 強度的 randomized trial、移植後的預後因子、donor 的選擇，還有復發和 maintenance。",
+     "第三段是 MDS/MPN，以 CMML 為主。WHO 2022 的診斷切點、CPSS 的算法、哪些 overlap 該移植、移植前怎麼 bridge、conditioning 怎麼選，大約九分半鐘。",
+     "最後三題 board-style 題目，前兩題考算分和適應症，第三題考 higher-risk MDS 合併 blast 偏高時的處理順序。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "section": "MDS",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · IPSS-R scoring (Table 74.1)",
+   "title": "IPSS-R scores marrow blasts, karyotype and depth of cytopenia",
+   "head": [
+    "Variable",
+    "Categories and points"
+   ],
+   "rows": [
+    [
+     "Marrow blasts",
+     "< 3% [0]; 3–4% [1]; 5–10% [2]; > 10% [3]"
+    ],
+    [
+     "Karyotype",
+     "Very good [0]; good [1]; intermediate [2]; poor [3]; very poor [4]"
+    ],
+    [
+     "Cytopenia",
+     "None [0]; mild [0.5]; moderate [1]; severe anaemia [1.5]"
+    ],
+    [
+     "  Very good karyotype",
+     "−Y, del(11q)"
+    ],
+    [
+     "  Good karyotype",
+     "Normal, del(5q), del(12p), del(20q), double incl. del(5q)"
+    ],
+    [
+     "  Intermediate karyotype",
+     "del(7q), −8, −19, i(17q), any other single or double clone"
+    ],
+    [
+     "  Poor karyotype",
+     "−7, inv(3)/t(3q)/del(3q), double incl. −7/del(7q), 3 abn."
+    ],
+    [
+     "  Very poor karyotype",
+     "Complex, > 3 abnormalities"
+    ]
+   ],
+   "colW": [
+    3.6,
+    8
+   ],
+   "fontSize": 15,
+   "caption": "Mild: PLT < 100 or ANC < 0.8 × 10⁹/L · moderate: Hb 8–10 g/dL or PLT < 50 · severe anaemia: Hb < 8 g/dL",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "MDS 的預後評估，書上用的是 2012 年的 Revised IPSS，也就是 Table 74.1。三個變數相加。Marrow blast 小於 3% 是 0 分，3 到 4% 是 1 分，5 到 10% 是 2 分，超過 10% 是 3 分。",
+     "Karyotype 的權重最大，從 very good 的 0 分到 very poor 的 4 分。Very good 只有 -Y 和 del(11q)。Normal karyotype、單獨的 del(5q)、del(20q) 都算 good。Monosomy 7、chromosome 3q 的異常，還有剛好三個異常，算 poor；超過三個異常才是 very poor。del(7q) 和 -7 分在不同組，這一點很常被拿來當陷阱。",
+     "Cytopenia 的定義在底下。Hb 小於 8 算 severe anemia，給 1.5 分；Hb 8 到 10 或血小板小於 50 算 moderate，1 分；血小板小於 100 或 ANC 小於 0.8 算 mild，0.5 分。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · IPSS-R risk groups",
+   "title": "Five IPSS-R groups span median survival from 8.8 to 0.8 years",
+   "head": [
+    "IPSS-R group",
+    "Points",
+    "Median OS (years)",
+    "Time to 25% AML (years)"
+   ],
+   "rows": [
+    [
+     "Very low",
+     "≤ 1.5",
+     "8.8",
+     "Not given"
+    ],
+    [
+     "Low",
+     "2–3",
+     "5.3",
+     "10.8"
+    ],
+    [
+     "Intermediate",
+     "4–4.5",
+     "3.0",
+     "3.2"
+    ],
+    [
+     "High",
+     "5–6",
+     "1.6",
+     "1.4"
+    ],
+    [
+     "Very high",
+     "> 6",
+     "0.8",
+     "0.73"
+    ]
+   ],
+   "colW": [
+    3,
+    2,
+    3,
+    3.6
+   ],
+   "fontSize": 20,
+   "caption": "Transplant trials define higher-risk MDS (HR-MDS) by the original IPSS: intermediate-2 or high",
+   "captionY": 5.2,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "加總之後分成五組。Very low 1.5 分以下，median OS 8.8 年；low 2 到 3 分，5.3 年；intermediate 4 到 4.5 分，3 年；high 5 到 6 分，1.6 年；very high 超過 6 分，只剩 0.8 年。右欄是 25% 病人轉成 AML 的時間，從 low 的 10.8 年掉到 very high 的 0.73 年。",
+     "要注意底下這一行。三個依 donor availability 分組的 prospective trial，用的是舊版 IPSS 的 intermediate-2 和 high 來定義 HR-MDS，intermediate-1 和 low 才是 LR-MDS。書上也提醒，LR-MDS 本身很異質，median survival 從 3 年到 10 年都有。",
+     "分子資料方面，WHO 和 ICC 2022 都把 SF3B1 突變和 biallelic TP53 列為獨立 entity，10 到 19% blast 的病例改稱 MDS/AML。SF3B1 突變預期存活超過 10 年，TP53 則多見於 HR-MDS。IPSS-M 加入突變資料，但在移植決策上的角色還在驗證中。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · Poor-risk features and evidence",
+   "title": "Poor-risk features move lower-risk MDS onto the transplant path",
+   "head": [
+    "Item",
+    "Chapter detail"
+   ],
+   "rows": [
+    [
+     "Poor-risk cytogenetics",
+     "Poor or very poor karyotype"
+    ],
+    [
+     "Persistent blast increase",
+     "Rise > 50%, or > 15% marrow blasts"
+    ],
+    [
+     "Life-threatening cytopenias",
+     "Trigger for HCT in lower-risk MDS"
+    ],
+    [
+     "High transfusion burden",
+     "> 2 units per month for 6 months"
+    ],
+    [
+     "No adverse karyotype or blast rise",
+     "Consider molecular testing"
+    ],
+    [
+     "Robin 2015; Kröger 2021;\nNakamura 2021",
+     "Prospective, by donor availability: HR-MDS\nwith a donor gains life expectancy"
+    ],
+    [
+     "Cutler 2004; Koreth 2013",
+     "LR-MDS: no benefit from upfront HCT"
+    ],
+    [
+     "de Witte 2017; DeFilipp 2023",
+     "HCT for HR-MDS, and LR-MDS with poor-risk\nfeatures or treatment failure"
+    ]
+   ],
+   "colW": [
+    4.8,
+    6.8
+   ],
+   "fontSize": 15,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "哪些 lower-risk 病人該提早移植，定義在 Figure 74.1 的註腳，叫 poor-risk features。Poor-risk karyotype；持續的 blast 上升，也就是增加超過 50%，或 marrow blast 超過 15%；危及生命的 cytopenia；以及高輸血負擔，每個月超過 2 個單位、持續 6 個月。這個輸血數字最常考。如果 karyotype 和 blast 都沒有問題，書上建議做 molecular testing。",
+     "下面是證據。Robin、Kröger 的 VidazaAllo 和 Nakamura 三個 trial 都依有沒有 donor 分組，HR-MDS 有 donor 的人存活期延長。Lower-risk 的兩個 decision analysis 則顯示 upfront 移植沒有好處，延到進展再移植比較好。",
+     "2017 年的 international expert panel 和 2023 年 ASTCT 的建議把兩邊合起來，HR-MDS 要移植，LR-MDS 出現這些 poor-risk features 或治療失敗也要移植。"
+    ]
+   }
+  },
+  {
+   "type": "tree",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · Lower-risk algorithm (Fig. 74.1)",
+   "title": "In lower-risk MDS, a poor-risk feature turns waiting into transplant",
+   "root": "IPSS-R very low, low or intermediate risk MDS",
+   "branches": [
+    {
+     "label": "Unfit",
+     "box": "Comorbidities or poor performance",
+     "out": "Non-transplant strategies"
+    },
+    {
+     "label": "Fit, no poor-risk feature",
+     "box": "Non-transplant strategies first",
+     "out": "Allo-HCT on failure"
+    },
+    {
+     "label": "Fit, poor-risk feature",
+     "box": "Donor available",
+     "out": "Allo-HCT"
+    }
+   ],
+   "invert": 2,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "這是 Figure 74.1，IPSS-R very low、low 和 intermediate 的流程。先分 fit 和 unfit，unfit 指的是多重 comorbidity 或 performance 差，這群人走非移植治療。",
+     "Fit 的病人再看有沒有上一張的 poor-risk features。沒有的話，先用 ELN 或 NCCN 建議的非移植治療，失敗之後才移植。有 poor-risk feature 又有 donor，就直接移植，這是反白的那一支。",
+     "Key point 的講法是，LR-MDS 可以等到疾病進展再移植。書上也特別寫，只要病人 fit、沒有嚴重 comorbidity、Karnofsky 好，移植沒有年齡上限。EBMT registry 裡 60 歲以上的病人在 2019 年已經占 MDS 移植的 52%，2006 年只有 24%。年紀本身不是不轉介的理由。"
+    ]
+   }
+  },
+  {
+   "type": "tree",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · Higher-risk algorithm (Fig. 74.2)",
+   "title": "In higher-risk MDS, marrow blasts decide whether to cytoreduce first",
+   "root": "IPSS-R (very) poor-risk MDS",
+   "branches": [
+    {
+     "label": "Unfit",
+     "box": "Comorbidities or poor performance",
+     "out": "Non-transplant strategies"
+    },
+    {
+     "label": "Fit, no donor",
+     "box": "No suitable donor",
+     "out": "Non-transplant strategies"
+    },
+    {
+     "label": "Fit, donor, blasts < 10%",
+     "box": "Upfront transplant",
+     "out": "Allo-HCT"
+    },
+    {
+     "label": "Fit, donor, blasts ≥ 10%",
+     "box": "Cytoreductive therapy",
+     "out": "Then allo-HCT"
+    }
+   ],
+   "invert": 3,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Figure 74.2 是 higher-risk 的流程。Unfit 或找不到合適 donor 的人走非移植治療。Fit 又有 donor 的人看 marrow blast，小於 10% 直接移植，10% 以上先做 cytoreduction 再移植。",
+     "移植前要不要治療，書上說仍有爭議。直接移植、HMA 單用或合併、化療都是可行選項。國際指引建議 blast 超過 10% 的人先 cytoreduction，但證據等級低。BMT-AZA 的 prospective study 顯示 azacitidine 當 bridge 可行；對移植前治療 refractory 的病人預後差。如果移植沒辦法很快排上，bridge 可以避免轉成 AML。",
+     "Key point 也提醒，HR-MDS 拖延移植會降低長期 relapse-free survival。所以 bridge 的目的只是讓病人順利走到移植，不是用來取代移植。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · Conditioning intensity",
+   "title": "RIC and MAC give similar survival in MDS; relapse is the trade-off",
+   "head": [
+    "Study",
+    "Design",
+    "Result"
+   ],
+   "rows": [
+    [
+     "RICMAC, EBMT\n(Kröger 2017)",
+     "n = 120, MDS or sAML;\nFLU/BU RIC vs CY/BU MAC",
+     "No difference in OS or RFS"
+    ],
+    [
+     "BMT CTN\n(Scott 2017)",
+     "n = 272, MDS or AML;\nrandomized RIC vs MAC",
+     "MDS subgroup: same OS,\nmore relapse after RIC"
+    ],
+    [
+     "CIBMTR DRI\n(Bejanyan 2021)",
+     "n = 4387, age 40–65;\nregistry",
+     "Low/int DRI: lower DFS with RIC\n(HR 1.19); high/very high: similar"
+    ],
+    [
+     "Craddock 2021",
+     "Phase 3: RIC vs\nsequential regimen",
+     "Similar outcomes"
+    ]
+   ],
+   "colW": [
+    2.8,
+    4.2,
+    4.8
+   ],
+   "fontSize": 17,
+   "caption": "Practice: conditioning by fitness; MAC only in eligible, fit and generally younger patients",
+   "notes": {
+    "min": 2.0,
+    "script": [
+     "Conditioning 強度在 MDS 有兩個 randomized trial。EBMT 的 RICMAC 收 120 位 MDS 或 secondary AML，FLU/BU 的 RIC 對 CY/BU 的 MAC，OS 和 RFS 都沒有差別。BMT CTN 收 272 位 MDS 或 AML，MDS subgroup 的 OS 一樣，但 RIC 的復發比較多。",
+     "CIBMTR 用 Disease Risk Index 分析 4387 位 40 到 65 歲的 MDS 和 AML。Low 和 intermediate DRI 的病人用 RIC，DFS 比較差，hazard ratio 1.19；high 和 very high DRI 則不受強度影響。Craddock 2021 的 phase 3 比較 RIC 和 sequential regimen，結果也相似。",
+     "這幾個研究的方向一致，RIC 的 NRM 較低、復發較多，兩者抵消，存活差不多。RIC 的價值在於把移植帶到原本不會被考慮的老年病人，key point 寫到已經有八十幾歲的人接受移植。",
+     "所以書上的結論是依 fitness 選，MAC 只給 eligible、fit、通常較年輕的病人。考題如果問 MAC 能不能改善 MDS 的 OS，依這些資料答案是否定的；但年輕、DRI 低到中等的病人，MAC 的 DFS 比較好。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · Outcome and donor",
+   "title": "Karyotype, TP53 and donor choice shape outcome after HCT for MDS",
+   "head": [
+    "Domain",
+    "Finding (Ch. 74)"
+   ],
+   "rows": [
+    [
+     "Disease",
+     "Poor/very poor karyotype incl. monosomal; HR-MDS"
+    ],
+    [
+     "Mutations (Lindsley 2017)",
+     "Biallelic TP53, ASXL1, RUNX1, RAS pathway"
+    ],
+    [
+     "Patient",
+     "Age; HCT-CI"
+    ],
+    [
+     "EBMT score (Gagelmann 2019)",
+     "Age, donor, PS, karyotype, recipient CMV,\nblasts, platelets"
+    ],
+    [
+     "MSD or MUD",
+     "Both suitable options"
+    ],
+    [
+     "Haploidentical",
+     "Promising, but excess NRM vs matched donors"
+    ],
+    [
+     "Cord blood",
+     "Less used: low cell dose, slow recovery"
+    ],
+    [
+     "Donor age (Kröger 2013;\nMurthy 2022)",
+     "Younger donors preferred"
+    ]
+   ],
+   "colW": [
+    4.6,
+    7
+   ],
+   "fontSize": 15,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "移植後的結果由疾病和移植兩方面決定。疾病端是 poor 和 very poor karyotype，包括 monosomal karyotype，以及 HR-MDS。突變方面，biallelic TP53、ASXL1、RUNX1 和 RAS pathway 都是獨立的不良因子。病人端是年紀和 HCT-CI。",
+     "EBMT 的 transplant-specific score 有七個變數，年紀、donor、performance status、karyotype、recipient CMV、blast 比例和血小板，預測移植後結果比舊的系統好。",
+     "Donor 方面，MSD 和 MUD 都可以。Haplo 越用越多，從 2006 年的 4.5% 增加到 2019 年的 20.5%，結果不錯，但 NRM 偏高，還追不上 matched donor。Cord blood 因為細胞數少、恢復慢，用得越來越少。MDS 病人和他的兄弟姊妹通常都老，所以 donor 年紀要考慮，年輕的 unrelated donor 可能比年長的 sibling 好。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "MDS · Relapse and maintenance",
+   "title": "Relapse after HCT for MDS needs cellular therapy; maintenance is unproven",
+   "head": [
+    "Strategy",
+    "Finding (Ch. 74)"
+   ],
+   "rows": [
+    [
+     "AZA at relapse\n(Craddock 2016, n = 181)",
+     "Better with low blasts and relapse > 6 months;\nadding DLI changed nothing"
+    ],
+    [
+     "DLI or 2nd HCT\n(Guièze 2016, n = 147)",
+     "Long-term survival 32% vs 6% with\nchemotherapy alone"
+    ],
+    [
+     "2nd allo-HCT\n(Schmid 2018)",
+     "Rescues some in CR, without prior GVHD,\nwith a new donor"
+    ],
+    [
+     "Pre-emptive AZA or DLI",
+     "Risk- or MRD-guided: biallelic TP53, complex karyotype"
+    ],
+    [
+     "HMA prophylaxis meta-analysis\n(Kungwankiattichai 2022)",
+     "Better survival"
+    ],
+    [
+     "AZA maintenance phase 3\n(Oran 2020)",
+     "No benefit over observation"
+    ]
+   ],
+   "colW": [
+    4.8,
+    6.8
+   ],
+   "fontSize": 15,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "復發仍是 MDS 移植失敗最常見的原因，而且復發後常常 refractory，或病人已經不夠 fit。預後看兩件事，移植到復發的時間，以及復發時的 blast，只有 molecular relapse 的人最好。",
+     "EBMT 181 位用 azacitidine 治療復發的病人，blast 低、移植後超過 6 個月才復發的效果較好，加 DLI 沒有改變結果。法國 147 位的資料，只有接受 DLI 或第二次移植的人能長期存活，32% 比上單用化療的 6%。第二次移植在 CR、沒有 GVHD 病史、找得到新 donor 的人可以救回一部分。",
+     "預防方面，biallelic TP53 或 complex karyotype 這類高風險病人，可以依風險或 MRD 做 pre-emptive azacitidine 或 DLI。Meta-analysis 顯示預防性 HMA 有存活好處，但唯一的 phase 3 是陰性，所以 maintenance 目前不是標準。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "section": "MDS/MPN",
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "MDS/MPN · WHO 2022 criteria (Table 76.1)",
+   "title": "WHO 2022 defines four MDS/MPN entities by blood and marrow findings",
+   "head": [
+    "Entity",
+    "Blood",
+    "Marrow / genetics"
+   ],
+   "rows": [
+    [
+     "CMML",
+     "Monocytes ≥ 0.5 × 10⁹/L and ≥ 10%;\nblasts < 20%",
+     "Blasts < 20%; dysplasia ≥ 1 lineage;\nnot CML, no TK fusion"
+    ],
+    [
+     "MD- vs MP-CMML",
+     "WBC < 13 vs ≥ 13 × 10⁹/L",
+     "CMML-1 and CMML-2 by blast %"
+    ],
+    [
+     "MDS/MPN with neutrophilia\n(ex-atypical CML)",
+     "IMC ≥ 10% of WBC; basophils < 2%;\nmonocytes < 10%",
+     "Dysgranulopoiesis; no BCR-ABL1,\nPDGFRA/B, FGFR1, PCM1-JAK2"
+    ],
+    [
+     "MDS/MPN-SF3B1-T",
+     "Anaemia; platelets ≥ 450 × 10⁹/L;\nblasts < 1%",
+     "SF3B1 mutation (or ≥ 15% RS);\nmarrow blasts < 5%"
+    ],
+    [
+     "MDS/MPN-NOS",
+     "Blasts < 20%",
+     "Overlap features; other criteria not met"
+    ]
+   ],
+   "colW": [
+    3.4,
+    4.2,
+    4.2
+   ],
+   "fontSize": 16,
+   "caption": "Monocytes 0.5–1.0 × 10⁹/L: a clonal cytogenetic or molecular abnormality is also required",
+   "notes": {
+    "min": 2.0,
+    "script": [
+     "MDS/MPN 是同時有 dysplasia 和 proliferation 的一群病，WHO 2022 分成四種。最常見的是 CMML，年發生率每十萬人 0.3 到 0.4，median age 74 到 79 歲。",
+     "CMML 的血液切點是 monocyte 絕對值至少 0.5 × 10⁹/L，而且占白血球 10% 以上，blast 小於 20%。底下的註腳要注意，monocyte 介於 0.5 到 1.0 之間時，還需要有 clonal 的 cytogenetic 或 molecular 異常。骨髓要排除 CML 和 tyrosine kinase fusion。WBC 13 是 MD-CMML 和 MP-CMML 的分界，這個 13 在 CPSS 會再出現。依 blast 比例現在只分 CMML-1 和 CMML-2 兩型。",
+     "MDS/MPN with neutrophilia 就是以前的 atypical CML。Immature myeloid cells 至少占白血球 10%，basophil 小於 2%，monocyte 小於 10%，而且沒有 BCR-ABL1、PDGFRA、PDGFRB、FGFR1 重組或 PCM1-JAK2。和 CML、CMML 的鑑別就靠這幾個數字。",
+     "SF3B1-T 是貧血加上血小板至少 450，有 SF3B1 突變，沒有的話要 ring sideroblast 至少 15%。不符合以上三種的歸入 NOS。考題常給一張 CBC 和骨髓報告，先要你分類，再判斷要不要移植，所以這幾個切點值得背熟。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "MDS/MPN · CPSS and CPSS-Mol",
+   "title": "CPSS and CPSS-Mol stratify CMML and set the transplant threshold",
+   "head": [
+    "Model",
+    "Variables [points]",
+    "Risk group: score (median OS, months)"
+   ],
+   "rows": [
+    [
+     "CPSS\n(Such 2013)",
+     "WBC ≥ 13 [1]; CMML-2 [1];\nCMML karyotype int/high [1/2]; TD [1]",
+     "Low 0 (72); Int-1 1 (31);\nInt-2 2–3 (13); High 4–5 (5)"
+    ],
+    [
+     "CPSS-Mol\n(Elena 2016)",
+     "WBC ≥ 13 [1]; BM blasts ≥ 5% [1];\ngenetic risk group [0–3]; TD [1]",
+     "Low 0 (NR); Int-1 1 (64);\nInt-2 2–3 (37); High ≥ 4 (18)"
+    ],
+    [
+     "CMML karyotype",
+     "Low: normal, isolated −Y;\nhigh: +8, complex (≥ 3), chromosome 7",
+     "Intermediate: all other abnormalities"
+    ],
+    [
+     "Genetic risk group",
+     "CMML karyotype + ASXL1, NRAS or\nSETBP1 [1], RUNX1 [2]",
+     "Feeds CPSS-Mol"
+    ]
+   ],
+   "colW": [
+    2.4,
+    5.2,
+    4.2
+   ],
+   "fontSize": 16,
+   "caption": "TD, red cell transfusion dependency; WBC in × 10⁹/L; NR, not reached (Table 76.2)",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "CMML 移植適應症用的是 CPSS 和 CPSS-Mol。CPSS 有四個變數，WBC 至少 13 給 1 分，CMML-2 給 1 分，CMML-specific karyotype intermediate 給 1 分、high 給 2 分，輸血依賴 1 分。Low 是 0 分，median OS 72 個月；intermediate-1 是 1 分，31 個月；intermediate-2 是 2 到 3 分，13 個月；high 是 4 到 5 分，只有 5 個月。",
+     "CPSS-Mol 把 CMML-2 換成 marrow blast 至少 5%，再把 karyotype 換成 genetic risk group，ASXL1、NRAS、SETBP1 各 1 分，RUNX1 2 分。",
+     "CMML 的 karyotype 分類和 IPSS-R 不同，normal 和 isolated -Y 是 low，trisomy 8、complex 和 chromosome 7 異常是 high，其餘都是 intermediate。考題通常給完整數據，要你自己算 CPSS。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "MDS/MPN · Other scores (Table 76.2)",
+   "title": "Other MDS/MPN scores weight ASXL1, blood counts and age",
+   "head": [
+    "Entity · model",
+    "Variables [points]",
+    "Score (median OS, months)"
+   ],
+   "rows": [
+    [
+     "CMML · GFM\n(Itzykson 2013)",
+     "Age > 65 [2]; WBC > 15 [3]; PLT < 100 [2];\nanaemia [2]; ASXL1 [2]",
+     "Low ≤ 4 (NR); int 5–7 (38.5);\nhigh ≥ 8 (14.4)"
+    ],
+    [
+     "CMML · MMM\n(Patnaik 2014)",
+     "Hb < 10 [2]; AMC > 10 [2]; IMC > 0% [2];\nPLT < 100 [1.5]; ASXL1 [1.5]",
+     "Low 0 (97); int-1 1.5–2 (59);\nint-2 2.5–4.5 (31); high ≥ 5 (16)"
+    ],
+    [
+     "MDS/MPN-N · MDACC\n(Onida 2002)",
+     "Age > 65 [1]; Hb ≤ 10 [1];\nWBC > 50 [1]",
+     "Low 0–1 (38); high 2–3 (9)"
+    ],
+    [
+     "SF3B1-T · Mayo\n(Patnaik 2016)",
+     "Hb < 10 [1]; abnormal karyotype [2];\nASXL1 [1]; SETBP1 [1]",
+     "Low 0 (80); int 1 (42);\nhigh ≥ 2 (11)"
+    ],
+    [
+     "MDS/MPN-NOS",
+     "No specific score or molecular marker",
+     "Median OS 12.4–33 (4 series)"
+    ]
+   ],
+   "colW": [
+    3,
+    5,
+    3.8
+   ],
+   "fontSize": 15,
+   "caption": "GFM anaemia: Hb < 10 g/dL (F) or < 11 g/dL (M); counts × 10⁹/L; Hb in g/dL",
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Table 76.2 還有其他幾個分數，認得變數就好。CMML 的 GFM 和 Mayo 的 MMM 都把 ASXL1 放進去。GFM 是年紀超過 65、白血球超過 15、血小板小於 100、貧血和 ASXL1，8 分以上是 high，median OS 14.4 個月。MMM 用 Hb、monocyte 絕對值超過 10、周邊有 immature myeloid cells、血小板和 ASXL1 frameshift 或 nonsense 突變。",
+     "MDS/MPN with neutrophilia 用 MD Anderson 的分數，年紀超過 65、Hb 10 以下、白血球超過 50，各 1 分。0 到 1 分 median OS 38 個月，2 到 3 分只有 9 個月。整體 median 大約 24 個月。",
+     "SF3B1-T 用 Mayo 的模型，異常 karyotype 給 2 分，貧血、ASXL1、SETBP1 各 1 分，high risk 只剩 11 個月。NOS 沒有專屬分數，四個系列的 median OS 在 12.4 到 33 個月之間。"
+    ]
+   }
+  },
+  {
+   "type": "tree",
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "MDS/MPN · Indication",
+   "title": "Allo-HCT is for high-risk CMML, MDS/MPN-N and NOS, rarely SF3B1-T",
+   "root": "Fit MDS/MPN patient without major comorbidity, up to 75",
+   "branches": [
+    {
+     "label": "CMML",
+     "box": "CPSS int-2 or high",
+     "out": "Allo-HCT recommended"
+    },
+    {
+     "label": "MDS/MPN-N",
+     "box": "Dismal course (median ~24 months)",
+     "out": "Allo-HCT recommended"
+    },
+    {
+     "label": "MDS/MPN-NOS",
+     "box": "Dismal course; TP53 mutation",
+     "out": "Always consider allo-HCT"
+    },
+    {
+     "label": "MDS/MPN-SF3B1-T",
+     "box": "Best prognosis (median ~6 years)",
+     "out": "Reserve for cytopenia or transformation"
+    }
+   ],
+   "invert": 3,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Key point 的說法是，沒有重大 comorbidity 的話，75 歲以內有三種病人建議移植：CPSS 或 CPSS-Mol 高風險的 CMML、MDS/MPN with neutrophilia，以及 MDS/MPN-NOS。CMML 的門檻是 intermediate-2 和 high，來自 2017 年的 international expert panel，2022 年 Robin 的國際合作研究比較移植和不移植，也支持這個建議。",
+     "NOS 預後普遍差，書上說合格的病人都應視為移植候選，有 TP53 突變的更要鼓勵移植。",
+     "反白的是例外。SF3B1-T 是 overlap 裡預後最好的，median survival 大約 6 年，治療比照 lower-risk MDS 和 MPN。只有 refractory cytopenia、高風險遺傳變化、進展或轉化時才移植。這些建議幾乎都來自回溯性資料，沒有 prospective trial，所以病人的選擇格外重要。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "MDS/MPN · Pre-transplant therapy",
+   "title": "Pre-transplant therapy in MDS/MPN controls disease rather than cures it",
+   "head": [
+    "Situation",
+    "Bridge or control (Ch. 76)"
+   ],
+   "rows": [
+    [
+     "High risk, marrow blasts < 10%",
+     "Upfront allo-HCT preferred"
+    ],
+    [
+     "CMML: rising WBC or organ infiltration",
+     "Hydroxyurea is the drug of choice"
+    ],
+    [
+     "CMML-2 or marrow blasts > 10%",
+     "HMA (ORR 40–50%) or AML-like induction"
+    ],
+    [
+     "MDS/MPN-N: leukocytosis",
+     "HU or IFN-α; induction if high blasts or AML"
+    ],
+    [
+     "MDS/MPN-N: mutations",
+     "ASXL1 43%, SETBP1 30%, ETNK1 16%; JAK2 0–7%"
+    ],
+    [
+     "MDS/MPN-SF3B1-T",
+     "Lenalidomide for transfusions; antiplatelet, cytoreduction"
+    ],
+    [
+     "MDS/MPN-NOS",
+     "HU or IFN-α if proliferative; HMA or lenalidomide\nif cytopenic"
+    ],
+    [
+     "Progression to AML (any entity)",
+     "Induction chemotherapy as a bridge"
+    ]
+   ],
+   "colW": [
+    4.8,
+    6.8
+   ],
+   "fontSize": 15,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "移植前治療的原則和 MDS 類似，blast 小於 10% 的高風險病人直接移植。不同的是，除了移植之外，沒有治療被證實能改變 MDS/MPN 的病程，所以移植前治療的目的是控制症狀，不是追求緩解。",
+     "CMML 看 proliferative 還是 dysplastic、blast 多少。白血球一直升或有器官浸潤，主要是脾腫大，首選 hydroxyurea。CMML-2 或 blast 超過 10%，可以用 HMA 或 AML-like induction 當 bridge，HMA 的反應率大約 40 到 50%。",
+     "MDS/MPN with neutrophilia 用 HU 或 interferon-α 控制白血球，blast 高或轉成 AML 時用 induction。最常見的突變是 ASXL1、SETBP1、ETNK1，JAK2 很少。SF3B1-T 的血栓風險高，常需要 antiplatelet 和 cytoreduction。任何一型轉成 AML，都用 induction 當移植的 bridge。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "MDS/MPN · Conditioning, source, relapse",
+   "title": "Conditioning follows age and HCT-CI; relapse is the main failure",
+   "head": [
+    "Decision",
+    "Chapter guidance"
+   ],
+   "rows": [
+    [
+     "Age < 60 and HCT-CI < 3",
+     "MAC: BU-CY, TBF, TTF or FB4; esp. proliferative"
+    ],
+    [
+     "Older, comorbid or in remission",
+     "RIC: BU/FLU, TREO10/FLU, reduced TBF/TTF"
+    ],
+    [
+     "Largest CMML series",
+     "MAC and RIC about equal; no outcome difference"
+    ],
+    [
+     "Advanced CMML",
+     "Fractionated 6–8 Gy TBI/FLU: improved outcome\n(one report)"
+    ],
+    [
+     "Stem cell source",
+     "Open; PBSC may cut graft failure and relapse,\nesp. with RIC"
+    ],
+    [
+     "Autologous HCT",
+     "Not recommended: no polyclonal harvest"
+    ],
+    [
+     "After HCT",
+     "cGVHD lowers relapse; DLI at low burden;\nHMA ± DLI under study"
+    ]
+   ],
+   "colW": [
+    4.4,
+    7.2
+   ],
+   "fontSize": 16,
+   "notes": {
+    "min": 1.5,
+    "script": [
+     "Conditioning 依 comorbidity、年紀、移植時的疾病狀態、donor 和幹細胞來源決定。小於 60 歲、HCT-CI 小於 3，可以用 MAC，例如 BU-CY、TBF、TTF 或 reduced-toxicity 的 FB4，特別是 proliferative 的 CMML。年紀大、有 comorbidity，或移植前已經緩解，選 RIC。兩個最大的 CMML 系列裡 MAC 和 RIC 大約各半，結果沒有差別。",
+     "幹細胞來源沒有定論，EBMT 的資料沒有差別，CIBMTR 則是 PBSC 較好，所以 PBSC 可能減少 graft failure 和復發。Autologous HCT 不建議，因為收不到 polyclonal 的幹細胞。",
+     "復發是 MDS/MPN 移植失敗的主因。有 chronic GVHD 的 CMML 病人復發較少，間接證明有 graft-versus-CMML 效應，低腫瘤負擔時 DLI 也有效。移植後 HMA 加不加 DLI，目前還在研究。"
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "section": "Board questions",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "Board-style question 1 of 3",
+   "title": "Question 1: lower-risk MDS with a heavy transfusion need",
+   "stem": "A 54-year-old man has MDS with IPSS-R low risk, a normal karyotype and 2% marrow blasts. Despite non-transplant therapy he has needed 3 units of red cells every month for the past 8 months. He is fit, without comorbidity, and has an HLA-matched sibling. What is the most appropriate next step?",
+   "options": [
+    "Continue transfusions until he progresses to higher-risk MDS",
+    "Refer for allogeneic HCT now",
+    "Avoid HCT, because lower-risk MDS does not benefit from transplant",
+    "Repeat IPSS-R in 12 months and transplant if it reaches high risk",
+    "Wait until marrow blasts exceed 10%, then transplant"
+   ],
+   "answer": "B",
+   "answerTitle": "Answer B: transfusion burden is a poor-risk feature",
+   "explanation": "More than 2 units per month for 6 months is a poor-risk feature (Fig. 74.1). A fit lower-risk patient with such a feature and a donor should proceed to HCT. Deferral (A, C, D) is right only without poor-risk features; 10% blasts is the threshold for pre-HCT cytoreduction, not for indication (E).",
+   "notes": {
+    "min": 0.75,
+    "script": [
+     "第一題。54 歲男性，IPSS-R low risk 的 MDS，normal karyotype，marrow blast 2%。已經用過非移植治療，過去 8 個月每個月仍要輸 3 單位紅血球。身體狀況好，有 HLA-matched sibling。",
+     "選項 A 是繼續輸血等進展，B 是現在轉介移植，C 是 lower-risk 不做移植，D 是一年後再算 IPSS-R，E 是等 blast 超過 10%。題目的關鍵在輸血量和持續時間。",
+     "[Pause for answers.]"
+    ]
+   },
+   "answerNotes": {
+    "min": 1.0,
+    "script": [
+     "答案是 B。每個月超過 2 單位、持續 6 個月，就是 Figure 74.1 的 poor-risk feature。這位病人每月 3 單位、已經 8 個月，fit 又有 donor，應該直接走移植。",
+     "主要陷阱是 C。Lower-risk MDS 不做 upfront 移植是對的，但前提是沒有 poor-risk features。A 和 D 也是同樣的錯，把等待當成所有 lower-risk 病人的答案。E 把 10% 這個切點用錯地方，它決定 higher-risk 病人移植前要不要 cytoreduction，不是移植的適應症。",
+     "這類題目的設計，就是把 IPSS-R low 這個標籤放在前面，引導大家選等待。真正決定答案的是後面的輸血量和時間。"
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "Board-style question 2 of 3",
+   "title": "Question 2: score this CMML and choose the approach",
+   "stem": "A 63-year-old woman has CMML-2 with WBC 18 × 10⁹/L, monocytes 4.0 × 10⁹/L, a normal karyotype and red cell transfusion dependence. Her HCT-CI is 1 and she has a matched unrelated donor. What is her CPSS risk group and the recommended approach?",
+   "options": [
+    "Low risk; observation",
+    "Intermediate-1; hydroxyurea and observation",
+    "Intermediate-2; refer for allogeneic HCT",
+    "High risk; palliative care only",
+    "Intermediate-2; autologous HCT after an HMA"
+   ],
+   "answer": "C",
+   "answerTitle": "Answer C: CPSS 3 points is intermediate-2, an HCT indication",
+   "explanation": "CPSS: WBC ≥ 13 (1) + CMML-2 (1) + normal karyotype (0) + transfusion dependence (1) = 3, intermediate-2. The expert panel limits allo-HCT in CMML to CPSS int-2 and high risk. Autologous HCT is not recommended in MDS/MPN (E).",
+   "notes": {
+    "min": 0.75,
+    "script": [
+     "第二題請大家自己算分。63 歲女性，CMML-2，白血球 18，monocyte 4.0，normal karyotype，需要輸紅血球。HCT-CI 1 分，有 matched unrelated donor。問她的 CPSS 分組和建議的處理。",
+     "A 是 low risk 觀察，B 是 intermediate-1 用 hydroxyurea，C 是 intermediate-2 轉介 allo-HCT，D 是 high risk 只做緩和治療，E 是 intermediate-2 做 autologous HCT。",
+     "[Pause for answers.]"
+    ]
+   },
+   "answerNotes": {
+    "min": 1.0,
+    "script": [
+     "答案是 C。白血球至少 13 得 1 分，CMML-2 得 1 分，normal karyotype 是 low，0 分，輸血依賴 1 分，總共 3 分，落在 intermediate-2 的 2 到 3 分。Expert panel 把 CMML 的移植限在 intermediate-2 和 high，她 63 歲、HCT-CI 低，正好符合。",
+     "E 的分組對，但 autologous HCT 在 MDS/MPN 不建議，因為收不到 polyclonal 的幹細胞。B 是算錯分數最常見的結果，通常漏算了 CMML-2 或輸血依賴。",
+     "她是 CMML-2，移植前可以討論先用 HMA。白血球 18 也代表 MP-CMML，增生明顯，如果 fit，conditioning 上比較傾向 MAC。"
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "cite": "Robin M, Gurnari C. EBMT Handbook 8th ed. 2024; Ch. 74",
+   "eyebrow": "Board-style question 3 of 3",
+   "title": "Question 3: higher-risk MDS with excess marrow blasts",
+   "stem": "A 68-year-old woman has newly diagnosed MDS with 14% marrow blasts and a poor-risk karyotype (IPSS-R very high). She has an excellent performance status, HCT-CI 1, and a 10/10 matched unrelated donor aged 25. Which plan is most consistent with Ch. 74?",
+   "options": [
+    "Supportive care only, because she is older than 65",
+    "Cytoreduction (e.g. azacitidine), then allo-HCT with RIC",
+    "Immediate MAC allo-HCT, because MAC improves overall survival in MDS",
+    "Azacitidine indefinitely; reserve HCT for progression to AML",
+    "Autologous HCT after induction chemotherapy"
+   ],
+   "answer": "B",
+   "answerTitle": "Answer B: cytoreduce above 10% blasts, then RIC allo-HCT",
+   "explanation": "Fit higher-risk MDS with a donor should be transplanted; there is no upper age limit if fit (A wrong). With ≥ 10% marrow blasts, cytoreduce first (Fig. 74.2); an azacitidine bridge is feasible (BMT-AZA). RICMAC and BMT CTN showed no OS gain with MAC (C). Delaying HCT lowers RFS (D).",
+   "notes": {
+    "min": 0.75,
+    "script": [
+     "第三題。68 歲女性，新診斷的 MDS，marrow blast 14%，poor-risk karyotype，IPSS-R very high。Performance 很好，HCT-CI 1 分，有一位 25 歲、10/10 matched 的 unrelated donor。",
+     "A 是年紀超過 65 只做支持治療，B 是先 cytoreduction 再做 RIC 移植，C 是馬上做 MAC 移植，D 是一直用 azacitidine、轉 AML 才移植，E 是 induction 後做 autologous HCT。",
+     "[Pause for answers.]"
+    ]
+   },
+   "answerNotes": {
+    "min": 1.0,
+    "script": [
+     "答案是 B。她是 fit 的 higher-risk MDS，又有年輕的 MUD，應該移植。Blast 14% 超過 10%，依 Figure 74.2 先做 cytoreduction，BMT-AZA 研究顯示 azacitidine 當 bridge 可行。68 歲依 fitness 選 RIC。",
+     "最主要的陷阱是 C。MAC 在 RICMAC 和 BMT CTN 兩個 trial 都沒有改善 OS，只是 RIC 復發多一點，68 歲用 MAC 只會增加 NRM。A 錯在年齡，書上說 fit 的病人沒有年齡上限。D 錯在拖延，HR-MDS 延後移植會降低長期 relapse-free survival。",
+     "Autologous HCT 不是 MDS 的選項。另外她的 donor 才 25 歲，正符合書上偏好年輕 donor 的建議。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "backup": true,
+   "cite": "Onida F, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 76",
+   "eyebrow": "MDS/MPN · Transplant series (Table 76.3)",
+   "title": "Relapse and TRM each claim about a third after HCT for CMML",
+   "head": [
+    "Study",
+    "n; median age",
+    "MAC / RIC",
+    "TRM / relapse",
+    "Survival"
+   ],
+   "rows": [
+    [
+     "Kröger 2002 (CMML)",
+     "50; 44",
+     "50 / 0",
+     "52% / 28%",
+     "5-y OS 21%"
+    ],
+    [
+     "Symeonidis 2015 (CMML)",
+     "513; 53",
+     "249 / 226",
+     "4-y 41% / 32%",
+     "4-y OS 33%"
+    ],
+    [
+     "Liu 2017 (CMML)",
+     "209; 57",
+     "105 / 99",
+     "5-y 28% / 52%",
+     "5-y OS 30%"
+    ],
+    [
+     "Itonaga 2018 (CMML)",
+     "159; 54",
+     "92 / 67",
+     "28% / 39%",
+     "3-y OS 33%"
+    ],
+    [
+     "Rovó 2023 (CMML)",
+     "1466; 60",
+     "36% / 64%",
+     "32% / 37%",
+     "5-y OS 37%"
+    ],
+    [
+     "Onida 2017 (MDS/MPN-N)",
+     "42",
+     "MAC 76%",
+     "Relapse 40%",
+     "5-y OS 51%, RFS 36%"
+    ]
+   ],
+   "colW": [
+    3.6,
+    1.9,
+    2,
+    2.4,
+    2.6
+   ],
+   "fontSize": 15,
+   "notes": {
+    "script": [
+     "Table 76.3 選了幾個 CMML 系列。最新的 EBMT 1466 位病人，5 年 OS 37%，TRM 32%，復發 37%。MDS/MPN with neutrophilia 的 EBMT 42 位，5 年 OS 51%，年輕、EBMT risk score 低的人較好。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "backup": true,
+   "cite": "Niemeyer CM, Strahm B. EBMT Handbook 8th ed. 2024; Ch. 75",
+   "eyebrow": "Paediatric MDS · Ch. 75",
+   "title": "Children with MDS are transplanted by blasts, karyotype and cellularity",
+   "head": [
+    "Setting",
+    "Chapter guidance"
+   ],
+   "rows": [
+    [
+     "RCC with −7, del(7q) or ≥ 2 aberrations",
+     "Transplant early; MAC (TREO-based); OS ~90%"
+    ],
+    [
+     "Hypocellular RCC, normal karyotype",
+     "RIC: TT/FLU OS 94% (Strahm 2017); now TREO/FLU;\nBM graft"
+    ],
+    [
+     "Mild RCC, no −7, ANC > 1 × 10⁹/L",
+     "Watch and observe"
+    ],
+    [
+     "Primary MDS-EB",
+     "MAC BU/CY/MEL: 5-y OS 63% (Strahm 2011)"
+    ],
+    [
+     "UBTF-TD (~1/3 of de novo MDS-EB)",
+     "Poor response to AML-type chemo; worse after HCT"
+    ],
+    [
+     "GATA2 or SAMD9/SAMD9L germline",
+     "Same outcome when stratified; screen family donors"
+    ],
+    [
+     "Therapy-related MDS",
+     "OS ≤ 20% with complex karyotype or TP53;\n~50% otherwise"
+    ]
+   ],
+   "colW": [
+    4.8,
+    6.8
+   ],
+   "fontSize": 15,
+   "notes": {
+    "script": [
+     "小兒 MDS 依 blast、karyotype 和骨髓細胞密度分流。Monosomy 7 要盡早用 MAC 移植；hypocellular、karyotype 正常的 RCC 用 RIC，BM 當來源。MDS-EB 用 BU/CY/MEL，5 年 OS 63%。"
+    ]
+   }
+  },
+  {
+   "type": "table",
+   "backup": true,
+   "cite": "Niemeyer CM, Strahm B. EBMT Handbook 8th ed. 2024; Ch. 75",
+   "eyebrow": "JMML · Ch. 75 (Table 75.1)",
+   "title": "JMML genotype predicts who needs HCT; about 80% do",
+   "head": [
+    "Subtype (share)",
+    "Features",
+    "Risk",
+    "HCT"
+   ],
+   "rows": [
+    [
+     "PTPN11 (41%)",
+     "Somatic; exclude Noonan syndrome",
+     "Most often high",
+     "Indicated"
+    ],
+    [
+     "NF1 (12%)",
+     "Germline NF1; older, higher platelets",
+     "Often high",
+     "Indicated"
+    ],
+    [
+     "NRAS (16%)",
+     "Somatic; some regress spontaneously",
+     "Heterogeneous",
+     "High-risk only"
+    ],
+    [
+     "KRAS (14%)",
+     "Median age 0.9 y; monosomy 7 frequent",
+     "Low or int",
+     "Most; some CR on AZA"
+    ],
+    [
+     "CBL (12%)",
+     "Germline; vasculopathy risk",
+     "Generally low",
+     "Rarely required"
+    ]
+   ],
+   "colW": [
+    2.4,
+    4.6,
+    2.2,
+    2.6
+   ],
+   "fontSize": 15,
+   "caption": "Pre-HCT azacitidine; BU/CY/MEL with BM graft; relapse risk: age ≥ 2 y, HbF ≥ 15%, secondary mutations, high methylation",
+   "notes": {
+    "script": [
+     "JMML 依 RAS pathway 的突變分五型，PTPN11 和 NF1 通常需要移植，CBL 很少需要。移植前用 azacitidine，conditioning 是 BU/CY/MEL，來源用 BM。年紀 2 歲以上、HbF 15% 以上、有次發突變和高甲基化的復發風險高。"
+    ]
+   }
+  }
+ ]
+}

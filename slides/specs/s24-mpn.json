@@ -1,0 +1,964 @@
+{
+  "id": "s24",
+  "slug": "mpn",
+  "week": 24,
+  "title": "HCT for myelofibrosis and CML",
+  "subtitle": "Session 24 · Ch. 77 (with Ch. 11)",
+  "cite": "Kröger N, McLornan DP, Chalandon Y. EBMT Handbook 8th ed. 2024; Ch. 77",
+  "refsPerSlide": 7,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，第 24 堂談 myeloproliferative neoplasms 的移植，對應 EBMT Handbook 第 77 章。前半是 primary 和 post-ET/PV myelofibrosis，後半是 CML。兩個病的共同點是 allo-HCT 仍是唯一能治癒的方法，但多數病人不需要馬上移植，所以今天的重點是風險分數和移植時機，最後用三題練習收尾。"
+    ]
+  },
+  "references": [
+    "1. Kröger N, McLornan DP, Chalandon Y. Myeloproliferative neoplasms. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 695–705. https://doi.org/10.1007/978-3-031-44080-9_77",
+    "2. Barba P, Rambaldi A. Evaluation and counseling of candidates. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 99–110. https://doi.org/10.1007/978-3-031-44080-9_11",
+    "3. Kroger NM, Deeg JH, Olavarria E, et al. Indication and management of allogeneic stem cell transplantation in primary myelofibrosis: a consensus process by an EBMT/ELN international working group. Leukemia. 2015a;29:2126–33.",
+    "4. Gangat N, Caramazza D, Vaidya R, et al. DIPSS plus: a refined dynamic international prognostic scoring system for primary myelofibrosis that incorporates prognostic information from karyotype, platelet count, and transfusion status. J Clin Oncol. 2011;29:392–7.",
+    "5. Guglielmelli P, Lasho TL, Rotunno G, et al. MIPSS70: mutation-enhanced international prognostic score system for transplantation-age patients with primary myelofibrosis. J Clin Oncol. 2018;36:310–8.",
+    "6. Gagelmann N, Ditschkowski M, Bogdanov R, et al. Comprehensive clinical-molecular transplant scoring system for myelofibrosis undergoing stem cell transplantation. Blood. 2019b;133:2233–42.",
+    "7. Kroger N, Holler E, Kobbe G, et al. Allogeneic stem cell transplantation after reduced-intensity conditioning in patients with myelofibrosis: a prospective, multicenter study of the chronic leukemia working Party of the European Group for blood and marrow transplantation. Blood. 2009;114:5264–70.",
+    "8. Rondelli D, Goldberg JD, Isola L, et al. MPD-RC 101 prospective study of reduced-intensity allogeneic hematopoietic stem cell transplantation in patients with myelofibrosis. Blood. 2014;124:1183–91.",
+    "9. Raj K, Olavarria E, Eikema D-J, et al. Family mismatched donor transplantation for myelofibrosis: a retrospective analysis of the EBMT chronic leukaemia working party. Blood. 2016;128:4655.",
+    "10. Robin M, Giannotti F, Deconinck E, et al. Unrelated cord blood transplantation for patients with primary or secondary myelofibrosis. Biol Blood Marrow Transplant. 2014;20:1841–6.",
+    "11. Kröger N, Sbianchi G, Sirait T, et al. Impact of prior JAK-inhibitor therapy with ruxolitinib on outcome after allogeneic hematopoietic stem cell transplantation for myelofibrosis: a study of the CMWP of EBMT. Leukemia. 2021;35:3551–60.",
+    "12. Wolschke C, Badbaran A, Zabelina T, et al. Impact of molecular residual disease post allografting in myelofibrosis patients. Bone Marrow Transplant. 2017;52:1526–9.",
+    "13. Kröger N, Thiele J, Zander A, et al. Rapid regression of bone marrow fibrosis after dose-reduced allogeneic stem cell transplantation in patients with primary myelofibrosis. Exp Hematol. 2007;35:1719–22.",
+    "14. Gratwohl A, Hermans J, Goldman JM, et al. Risk assessment for patients with chronic myeloid leukaemia before allogeneic blood or marrow transplantation. Chronic leukemia working Party of the European Group for blood and marrow transplantation. Lancet. 1998;352:1087–92.",
+    "15. Gratwohl A, Stern M, Brand R, et al. Risk score for outcome after allogeneic hematopoietic stem cell transplantation: a retrospective analysis. Cancer. 2009;115:4715–26.",
+    "16. Speck B, Bortin MM, Champlin R, et al. Allogeneic bone-marrow transplantation for chronic myelogenous leukaemia. Lancet. 1984;1:665–8.",
+    "17. Chalandon Y, Sbianchi G, Gras L, et al. Allogeneic hematopoietic cell transplantation in patients with chronic phase chronic myleloid leukemia in the era of third generation tyrosine kinase inhibitors: a study by the CMWP of the EBMT. Am J Hematol. 2023;98:112–21.",
+    "18. Copelan EA. Hematopoietic stem-cell transplantation. N Engl J Med. 2006;354:1813–26.",
+    "19. Apperley JF, Jones L, Hale G, et al. Bone marrow transplantation for patients with chronic myeloid leukaemia: T-cell depletion with Campath-1 reduces the incidence of graft-versus-host disease but may increase the risk of leukaemic relapse. Bone Marrow Transplant. 1986;1:53–66.",
+    "20. Ortí G, Gras L, Koster L, et al. Graft-versus-host prophylaxis with post transplant cyclophosphamide in chronic myeloid leukemia patients undergoing allogeneic hematopoietic cell transplantation from either an unrelated or mismatched related donor: a comparative study from the chronic malignancies working party of the EBMT (CMWP-EBMT). Transplant Cell Ther. 2023;S2666–6367(23):01573–7.",
+    "21. Kaeda J, O'Shea D, Szydlo RM, et al. Serial measurement of BCR-ABL transcripts in the peripheral blood after allogeneic stem cell transplantation for chronic myeloid leukemia: an attempt to define patients who may not require further therapy. Blood. 2006;107:4171–6.",
+    "22. Mackinnon S, Papadopoulos EB, Carabasi MH, et al. Adoptive immunotherapy evaluating escalating doses of donor leukocytes for relapse of chronic myeloid leukemia after bone marrow transplantation: separation of graft-versus-leukemia responses from graft-versus-host disease. Blood. 1995;86:1261–8.",
+    "23. Chalandon Y, Passweg JR, Schmid C, et al. Outcome of patients developing GVHD after DLI given to treat CML relapse: a study by the chronic leukemia working party of the EBMT. Bone Marrow Transplant. 2010;45:558–64.",
+    "24. Chalandon Y, Iacobelli S, Hoek J et al. Use of first or second generation TKI for CML after allogeneic hematopoietic stem cell transplantation: a study by the CMWP of the EBMT. In: EBMT annual meeting, Marseille, France, 2017.",
+    "25. DeFilipp Z, Anchetta R, Liu Y, et al. Maintenance tyrosine kinase inhibitors following allogeneic hematopoietic stem cell transplantation for chronic myelogenous leukemia: a center for international blood and marrow transplant research study. Biol Blood Marrow Transplant. 2020;26:472–9.",
+    "26. Guardiola P, Anderson JE, Bandini G, et al. Allogeneic stem cell transplantation for agnogenic myeloid metaplasia: a European Group for Blood and Marrow Transplantation, Societe Francaise de Greffe de Moelle, Gruppo Italiano per il Trapianto del Midollo Osseo, and Fred Hutchinson Cancer Research Center collaborative study. Blood. 1999;93:2831–8.",
+    "27. Deeg HJ, Gooley TA, Flowers ME, et al. Allogeneic hematopoietic stem cell transplantation for myelofibrosis. Blood. 2003;102:3912–8."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "MPN · Outline",
+      "title": "Two curable-only-by-HCT diseases, two different timing problems",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "rows": [
+        [
+          "Myelofibrosis",
+          "IPSS/DIPSS, DIPSS-plus, MIPSS70, indication, MTSS, donor, ruxolitinib, MRD",
+          "10.5 min"
+        ],
+        [
+          "Chronic myeloid leukaemia",
+          "EBMT score, phase, TKI failure, conditioning, BCR-ABL1 relapse and DLI",
+          "11.5 min"
+        ],
+        [
+          "Board questions",
+          "DIPSS and ruxolitinib; T315I in AP; molecular relapse after HCT",
+          "5.25 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分三段。第一段是 myelofibrosis，大約十分鐘。先把 IPSS、DIPSS、DIPSS-plus 和 MIPSS70 這幾個疾病分數分清楚，再看 EBMT/ELN 的移植適應症，接著是移植專用的 MTSS、donor 和 conditioning 的選擇，最後是 ruxolitinib 怎麼銜接移植，以及移植後用 driver mutation 追 MRD。",
+          "第二段是 CML，時間稍微多一點，因為這部分過去講得比較少。內容包括 EBMT 的 Gratwohl risk score、disease phase 的影響、TKI 時代誰還需要移植、conditioning 和 GVHD prophylaxis，以及移植後 BCR-ABL1 molecular relapse 的定義和 DLI。",
+          "最後三題 board-style 題目，前兩段各至少對應一題。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Myelofibrosis",
+      "eyebrow": "Myelofibrosis · Risk scoring",
+      "title": "DIPSS doubles the weight of anaemia in myelofibrosis",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Adverse factor",
+        "IPSS points",
+        "DIPSS points"
+      ],
+      "rows": [
+        [
+          "Age > 65 years",
+          "1",
+          "1"
+        ],
+        [
+          "Constitutional symptoms",
+          "1",
+          "1"
+        ],
+        [
+          "Hb < 100 g/L",
+          "1",
+          "2"
+        ],
+        [
+          "WBC > 25 × 10⁹/L",
+          "1",
+          "1"
+        ],
+        [
+          "Peripheral blood blasts ≥ 1%",
+          "1",
+          "1"
+        ],
+        [
+          "Low / Int-1: points (median OS)",
+          "0 (11.3 y) / 1 (7.9 y)",
+          "0 (NR) / 1–2 (14.2 y)"
+        ],
+        [
+          "Intermediate-2: points (median OS)",
+          "2 (4 y)",
+          "3–4 (4 y)"
+        ],
+        [
+          "High: points (median OS)",
+          "3–5 (2.3 y)",
+          "5–6 (1.5 y)"
+        ]
+      ],
+      "colW": [
+        5.4,
+        3.2,
+        3.2
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "PV 和 ET 本身預後好，不需要移植，除非進展成 post-ET/PV myelofibrosis 或 secondary AML。Primary 或 post-ET/PV myelofibrosis 是 Ph-negative MPN 裡預後最差的，median survival 大約 6 年，但從不到 2 年到超過 15 年都有，所以要靠風險分數分層。",
+          "IPSS 和 DIPSS 用同樣五個因子：年紀超過 65、constitutional symptoms、Hb 小於 100 g/L、白血球超過 25、周邊血 blast 至少 1%。差別只在 DIPSS 的貧血給 2 分，這一點考試最愛考。",
+          "看下面三列。DIPSS 的 intermediate-2 是 3 到 4 分，high 是 5 到 6 分，median OS 分別是 4 年和 1.5 年。移植適應症就是用 4 年、也就是不到 5 年這條線切的。",
+          "DIPSS 的 D 是 dynamic，病程中任何時間都可以重算，所以適合在追蹤時決定什麼時候該轉介移植。書上附了 DIPSS 和 DIPSS-plus 的線上計算器連結，臨床直接用就好。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Myelofibrosis · Refined scores",
+      "title": "DIPSS-plus adds karyotype and transfusion; MIPSS70 adds mutations",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Adverse factor",
+        "DIPSS-plus",
+        "MIPSS70"
+      ],
+      "rows": [
+        [
+          "DIPSS category: Int-1 / Int-2 / high",
+          "1 / 2 / 3",
+          "—"
+        ],
+        [
+          "Platelets < 100 × 10⁹/L",
+          "1",
+          "2"
+        ],
+        [
+          "Transfusion requirement",
+          "1",
+          "—"
+        ],
+        [
+          "Unfavourable karyotype (a)",
+          "1",
+          "—"
+        ],
+        [
+          "WBC > 25 × 10⁹/L; Hb < 100 g/L; symptoms",
+          "(in DIPSS)",
+          "2; 1; 1"
+        ],
+        [
+          "Marrow fibrosis ≥ grade 2; PB blasts ≥ 2%",
+          "—",
+          "1; 1"
+        ],
+        [
+          "CALR type 1 [verify: scored when absent]",
+          "—",
+          "1"
+        ],
+        [
+          "High-molecular-risk mutations: 1 / ≥ 2 (b)",
+          "—",
+          "1 / 2"
+        ]
+      ],
+      "colW": [
+        6.2,
+        2.6,
+        2.6
+      ],
+      "fontSize": 15,
+      "caption": "Median survival. DIPSS-plus: low 15.4, int-1 6.5, int-2 2.9, high 1.3 y. MIPSS70: low 27.7, int 7.1, high 2.3 y.",
+      "captionY": 5.95,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "DIPSS-plus 是在 DIPSS 的基礎上再加三個因子。DIPSS 的 int-1、int-2、high 分別換成 1、2、3 分，再加血小板小於 100、需要輸血、不良 karyotype 各 1 分。不良 karyotype 指的是 +8、−7 或 7q−、−5 或 5q−、i(17q)、12p− 和 11q23 rearrangement。High risk 的 median survival 只剩 1.3 年。",
+          "MIPSS70 是給移植年紀病人用的分數，把突變放進來。白血球超過 25 和血小板小於 100 各 2 分，貧血、症狀、fibrosis grade 2 以上、周邊 blast 至少 2% 各 1 分。High-molecular-risk mutation 指 IDH1/2、SRSF2、ASXL1 和 EZH2，一個 1 分，兩個以上 2 分。CALR type 1 這一列書上印成 1 分，原始分數是沒有 type 1 才給分，上台前要核對。",
+          "Post-ET/PV myelofibrosis 另有專用的 MYSEC 分數。這些分數回答的是不移植會活多久，下一張才是要不要移植。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Table 77.1 prints 'CALR typ1 (1 p)' for MIPSS70; check Guglielmelli 2018 whether the point is for absence of CALR type 1."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Myelofibrosis · Indication",
+      "title": "EBMT/ELN offers allo-HCT when expected survival is under five years",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "root": "Primary or post-ET/PV myelofibrosis, age < 70",
+      "branches": [
+        {
+          "label": "DIPSS int-2 / high",
+          "box": "Median survival < 5 years",
+          "out": "Recommend allo-HCT"
+        },
+        {
+          "label": "DIPSS int-1",
+          "box": "ASXL1 mutation or > 2% PB blasts",
+          "out": "Consider allo-HCT"
+        },
+        {
+          "label": "DIPSS int-1",
+          "box": "Refractory TD anaemia or bad karyotype",
+          "out": "Consider allo-HCT"
+        },
+        {
+          "label": "DIPSS low",
+          "box": "No high-risk features",
+          "out": "No indication (speaker's summary)"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "EBMT 和 ELN 的 consensus 建議，70 歲以下、預估 median survival 小於 5 年的 myelofibrosis 病人做 allo-HCT，也就是 IPSS 或 DIPSS intermediate-2 和 high risk。這個結論來自移植和不移植病人的比較，資料在 ruxolitinib 之前的年代。",
+          "Intermediate-1 不是一律不做。如果有額外的高風險特徵，包括 ASXL1 突變、周邊血 blast 超過 2%、refractory 的輸血依賴貧血，或 DIPSS-plus 定義的不良 karyotype，也可以考慮移植。Low risk 沒有移植適應症，這是我依 5 年門檻推論的 speaker's summary。",
+          "適應症成立之後，還要用移植專用的 MTSS 評估移植本身的風險。病人本身的因素裡年紀最重要，comorbidity 和 geriatric assessment 也會影響結果，但還沒有在 myelofibrosis 專門研究過。考題若給 72 歲的病人，要想到 70 歲這個上限。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Myelofibrosis · Transplant-specific score",
+      "title": "MTSS combines genotype, blood counts, age and donor to predict NRM",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77 · Barba P, et al. Ch. 11",
+      "head": [
+        "MTSS factor",
+        "Points",
+        "Risk group (score)",
+        "5-y OS / NRM"
+      ],
+      "rows": [
+        [
+          "Platelets < 150 × 10⁹/L",
+          "1",
+          "Low (0–2)",
+          "90% / 10%"
+        ],
+        [
+          "WBC > 25 × 10⁹/L",
+          "1",
+          "Intermediate (3–4)",
+          "77% / 22%"
+        ],
+        [
+          "Karnofsky < 90%",
+          "1",
+          "High (5)",
+          "50% / 36%"
+        ],
+        [
+          "Age ≥ 57 years",
+          "[verify: 1]",
+          "Very high (≥ 6)",
+          "34% / 57%"
+        ],
+        [
+          "Non-CALR/MPL driver genotype",
+          "2",
+          "",
+          ""
+        ],
+        [
+          "ASXL1 mutation",
+          "1",
+          "",
+          ""
+        ],
+        [
+          "HLA-mismatched unrelated donor",
+          "2",
+          "",
+          ""
+        ]
+      ],
+      "colW": [
+        4.6,
+        1.8,
+        3.0,
+        2.4
+      ],
+      "fontSize": 16,
+      "caption": "OS/NRM from Table 77.1. Ch. 11 quotes 5-y survival of 83 / 64 / 37 / 22% for the same four groups.",
+      "captionY": 5.95,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "DIPSS 和 MIPSS70 預測的是不移植的存活，MTSS 則是專門給要移植的病人，適用 primary 和 post-ET/PV myelofibrosis。七個因子：血小板小於 150、白血球超過 25、Karnofsky 小於 90%、年紀 57 歲以上、非 CALR 或 MPL 的 driver genotype、ASXL1 突變，以及 HLA-mismatched unrelated donor。Genotype 和 mismatched donor 各 2 分，年紀在書上的表沒有印分數，上台前要核對。",
+          "右邊是第 77 章的結果，low risk 5 年存活 90%、NRM 10%，very high 只剩 34%，NRM 高達 57%。第 11 章引用同一篇 Gagelmann 2019，但寫的是 83、64、37、22%，兩章數字不一樣，考試時看題目怎麼問，趨勢是一致的。",
+          "臨床上 MTSS 最有用的地方是 donor 這一項是可以改變的，找得到 matched donor 就能少 2 分。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Table 77.1 lists 'Age ≥ 57 years' without a point value; check Gagelmann 2019 (Blood 133:2233) for the age points.",
+          "Inconsistency inside the book: MTSS 5-y OS 90/77/50/34% (Table 77.1) vs 83/64/37/22% (Ch. 11, 11.1.4.2.5)."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Myelofibrosis · Donor and conditioning",
+      "title": "Donor type and age, not conditioning intensity, drive MF outcome",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Factor",
+        "Chapter data"
+      ],
+      "rows": [
+        [
+          "Sibling vs unrelated (MPD-RC 101, MEL/FLU)",
+          "OS 75% vs 32%; NRM 22% vs 59%"
+        ],
+        [
+          "HLA-mismatched donor; older age",
+          "Independent predictors of worse survival (EBMT RIC)"
+        ],
+        [
+          "Haploidentical with PTCy",
+          "Under study; EBMT 5-y survival only 38%"
+        ],
+        [
+          "Cord blood",
+          "High risk of graft failure"
+        ],
+        [
+          "MAC vs RIC",
+          "Similar outcome (retrospective); RIC ≈ two-thirds in EBMT"
+        ],
+        [
+          "Disease phase",
+          "Accelerated ≈ chronic phase; blast phase worse"
+        ]
+      ],
+      "colW": [
+        5.4,
+        6.4
+      ],
+      "fontSize": 17,
+      "caption": "Donor priority in Fig. 77.1: MSD > MUD > MMUD / haplo / cord",
+      "captionY": 5.6,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張整理移植本身的風險因子。最大的兩個是年紀和 HLA-mismatched donor，在 EBMT 的 BU/FLU RIC prospective study 都是存活變差的獨立因子。",
+          "Donor 的影響有多大，看 MPD-RC 101。66 位病人用 MEL/FLU RIC，sibling donor 的 OS 75%，unrelated donor 只有 32%，差別來自 NRM，22% 對 59%。Haplo 加 PTCy 還在研究中，EBMT 資料的 5 年存活只有 38%。Cord blood 的 graft failure 很高。",
+          "Conditioning 強度則沒有 prospective 比較，回溯性資料 MAC 和 RIC 結果相近。因為病人年紀偏大，RIC 占 EBMT 登錄的 myelofibrosis 移植大約三分之二。Accelerated phase 的移植結果和 chronic phase 差不多，blast phase 就明顯較差，所以別等到轉成 blast phase 才送。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Myelofibrosis · Before transplant",
+      "title": "Ruxolitinib prepares the patient, then is tapered before conditioning",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "steps": [
+        "Ruxolitinib ≥ 2 months: symptoms and spleen",
+        "Transplant while still responding",
+        "Careful taper before conditioning",
+        "Conditioning and stem cell infusion"
+      ],
+      "invert": 2,
+      "caption": "Very large spleen: splenectomy, or splenic irradiation (single cases). Fig. 77.1 also lists iron chelation before HCT.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "脾臟腫大是 myelofibrosis 的特徵，會影響 engraftment 和移植後的 graft function，所以移植前要先處理症狀和脾臟。",
+          "ELN 和 EBMT 建議移植前至少用 ruxolitinib 2 個月，改善 constitutional symptoms、縮小脾臟。反白的這一步最常考，conditioning 之前要小心慢慢減量，避免 rebound phenomenon，不能突然停。",
+          "第二格是時機。EBMT 的資料顯示，在 ruxolitinib 還有反應時去移植，結果比拖到 ruxolitinib 失敗才移植好。所以 ruxolitinib 是移植的 bridge，不是用來延後移植的理由。",
+          "脾臟非常大時可以考慮 splenectomy，脾臟放射則只有個案報告。書上的 Figure 77.1 也把 iron chelation 列為移植前的準備。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Myelofibrosis · After transplant",
+      "title": "Driver-mutation MRD after HCT guides donor lymphocyte infusion",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "steps": [
+        "~90% carry JAK2 V617F, CALR or MPL",
+        "Blood qPCR or digital PCR for MRD",
+        "No molecular remission by day +180",
+        "Off CNI, MRD-positive: give DLI"
+      ],
+      "invert": 2,
+      "caption": "Marrow fibrosis: complete or near-complete regression in ~60% by day +100 and ~90% by day +180; rapid regression predicts the best outcome.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "移植後的追蹤靠 driver mutation。大約 90% 的 myelofibrosis 帶有 JAK2 V617F、CALR 或 MPL 其中一個，可以用高敏感度的 qPCR 或 digital PCR 在周邊血追 MRD。",
+          "反白的是關鍵時間點。Hamburg 的單中心經驗發現，day 180 還沒達到 molecular remission 的病人，之後臨床復發明顯較多。因為有 graft-versus-myelofibrosis effect，分子或血液學復發時可以給 DLI，重新誘導 molecular remission。Figure 77.1 的做法是先停 calcineurin inhibitor，MRD 仍陽性再考慮 DLI。",
+          "骨髓纖維化在移植後消退得很快，day 100 大約 60% 達到完全或接近完全消退，day 180 增加到 90%。纖維化消得越快，長期結果越好，這也說明 fibrosis 是一個動態的過程。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "CML",
+      "eyebrow": "CML · EBMT risk score",
+      "title": "The EBMT (Gratwohl) score sums five pre-transplant factors, 0–7",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77 · Barba P, et al. Ch. 11",
+      "head": [
+        "Factor",
+        "0 points",
+        "1 point",
+        "2 points"
+      ],
+      "rows": [
+        [
+          "Recipient age",
+          "< 20 years",
+          "20–40 years",
+          "> 40 years"
+        ],
+        [
+          "Disease phase",
+          "First CP",
+          "Intermediate\n[verify: AP]",
+          "Blast crisis"
+        ],
+        [
+          "Diagnosis to HCT",
+          "< 12 months",
+          "≥ 12 months",
+          "—"
+        ],
+        [
+          "Donor",
+          "HLA-identical sibling",
+          "Unrelated",
+          "—"
+        ],
+        [
+          "Donor–recipient sex",
+          "Other",
+          "Female → male",
+          "—"
+        ]
+      ],
+      "colW": [
+        3.6,
+        2.8,
+        2.8,
+        2.6
+      ],
+      "fontSize": 18,
+      "caption": "CML, score 0 → 6–7: 5-y OS 76, 72, 60, 51, 39, 26, 14%; 5-y TRM 15 → 55% (Tables 11.3–11.4)",
+      "captionY": 5.3,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "CML 的疾病預後分數有 Sokal、Hasford 和較新的 ELTS，這些是用來決定 TKI 治療策略的。要評估移植本身的風險，用的是 EBMT 的 Gratwohl score，最早就是為 CML 設計，後來才推廣到所有疾病。",
+          "五個因子。年紀小於 20 歲 0 分，20 到 40 歲 1 分，超過 40 歲 2 分。Disease phase 是第一個 chronic phase 0 分，blast crisis 2 分，中間的 intermediate 1 分。診斷到移植小於 12 個月 0 分，超過 1 分。HLA-identical sibling 0 分，unrelated donor 1 分。最後是女性 donor 給男性病人 1 分。總分 0 到 7。",
+          "看下面的數字，CML 0 分的 5 年 OS 76%，到 6 到 7 分只剩 14%，5 年 TRM 從 15% 升到 55%。這是第 11 章的表，資料來自 Gratwohl 2009。",
+          "中間那格要注意。第 11 章的註腳把 CML 的 intermediate 寫成 accelerated 或 blastic 以外的狀態，原始文獻一般把 AP 歸在 intermediate，上台前要核對。考試若考 CML 的 Gratwohl score，最常見的陷阱是 female donor to male 和診斷到移植超過一年這兩項。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 11 Table 11.2 footnote defines CML 'intermediate' as 'another status than accelerated phase or blastic phase' and 'late' as blast crisis, leaving AP unassigned; check Gratwohl 1998 for where AP scores (usually intermediate = 1).",
+          "Ch. 11 table header says 'Advanced' while its footnote says 'Late' for the 2-point stage."
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "eyebrow": "CML · EBMT score then and now",
+      "title": "Survival rose in every EBMT score group, and the groups converged",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "fig": "ch77-fig2",
+      "alt": "Overall survival after allo-HCT for CML by EBMT risk score: (a) 1989–1996, (b) 2011–2021",
+      "caption": "(a) 3142 patients, 1989–1996 (Gratwohl 1998). (b) EBMT CMWP, 2011–2021: 5-y OS better by 11–41% across all scores; groups 2 and 3 now overlap. Recent referrals are less clear-cut, so read with caution.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "左邊是 Gratwohl 1998 的原始曲線，3142 位在 1989 到 1996 年移植的病人。0 到 1 分的 5 年存活大約七成，5 到 7 分掉到一成多，分得很開。",
+          "右邊是 EBMT CMWP 在 2011 到 2021 年的資料。每個分數組別的 5 年 OS 都進步了 11 到 41%，而且組別之間的差距縮小，2 分和 3 分幾乎重疊，現在可以合併成一組。",
+          "解讀時要小心。1990 年代所有 CML 都以移植為首選，現在移植的病人多半是 TKI 失敗或已經進展，轉介原因從登錄資料看不清楚。書上這段的病人數，內文寫 3185 位，圖說寫 3497 位，兩者不一致，引用時寫大約三千多位即可。"
+        ],
+        "reminders": [
+          "Inconsistency inside the book: Section 77.2.2 says the 2011–2021 analysis included 3185 patients; the Fig. 77.2b legend says 3497."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CML · Disease phase",
+      "title": "Phase still decides CML transplant outcome, and more arrive advanced",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Data set",
+        "CP1",
+        "AP",
+        "≥ CP2",
+        "BC"
+      ],
+      "rows": [
+        [
+          "IBMTR 1978–82: 3-y survival",
+          "63%",
+          "36%",
+          "—",
+          "12%"
+        ],
+        [
+          "EBMT 2011: share of CML HCT",
+          "46%",
+          "15%",
+          "25%",
+          "14%"
+        ],
+        [
+          "EBMT 2016: share of CML HCT",
+          "41%",
+          "11%",
+          "26%",
+          "22%"
+        ],
+        [
+          "EBMT 2021: share of CML HCT",
+          "37%",
+          "12%",
+          "18%",
+          "33%"
+        ]
+      ],
+      "colW": [
+        5.2,
+        1.6,
+        1.6,
+        1.6,
+        1.6
+      ],
+      "fontSize": 18,
+      "caption": "Relapse after HCT in CP: 7% (Speck 1984). Number of prior TKIs did not affect outcome; phase and performance status did (Chalandon 2023).",
+      "captionY": 4.6,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "第一列是 IBMTR 1978 到 1982 年 138 位病人的結果，3 年存活 chronic phase 63%，accelerated phase 36%，blast crisis 只有 12%，CP 移植的復發率 7%。Disease phase 的影響幾十年來都沒有變。",
+          "下面三列是 Table 77.2 挑出來的年份，是 TKI 帶來的副作用。2011 年 CML 的移植有 46% 在第一個 CP，到 2021 年只剩 37%，而 blast crisis 從 14% 增加到 33%。越來越多病人是在進展之後才被送來。",
+          "EBMT 在第三代 TKI 時代的分析發現，移植前用過幾種 TKI 不影響結果，disease phase 和 performance status 才有影響。所以照顧 CML 的醫師要密切追蹤，一出現 molecular progression 就送移植，不要等到 AP、BC 或已經回到 CP2 才送。Blast crisis 的病人則要先用 TKI 或化療回到第二個 CP 再移植。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CML · TKI era",
+      "title": "TKIs control most CML, but quiescent stem cells escape them",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Class",
+        "Agents",
+        "Chapter data"
+      ],
+      "rows": [
+        [
+          "First generation",
+          "Imatinib",
+          "~60% excellent long-term control;\na few can stop treatment"
+        ],
+        [
+          "Second generation",
+          "Bosutinib, dasatinib,\nnilotinib",
+          "CCyR at 1 year ~80% vs 65% on imatinib;\ndasatinib, nilotinib licensed first line"
+        ],
+        [
+          "Third generation",
+          "Ponatinib",
+          "Active against T315I"
+        ],
+        [
+          "STAMP inhibitor",
+          "Asciminib\n(ABL myristoyl pocket)",
+          "Active against T315I"
+        ],
+        [
+          "Early response",
+          "RQ-PCR BCR-ABL1\nat 3 and 6 months",
+          "Fall rate predicts long-term response;\nflags HCT candidates in year 1"
+        ]
+      ],
+      "colW": [
+        2.8,
+        3.4,
+        5.6
+      ],
+      "fontSize": 16,
+      "caption": "Autologous HCT: not recommended (0–1 per year in EBMT, 2017–2022)",
+      "captionY": 5.95,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "TKI 出現之後，移植從 CML 的首選退到第二、第三甚至第四線。Imatinib 讓大約 60% 的病人長期控制良好，少數人甚至可以停藥。Imatinib 失敗的病人，大約一半可以在第二代或第三代 TKI 重新取得緩解。",
+          "第二代有 bosutinib、dasatinib、nilotinib，第一年的 complete cytogenetic remission 大約 80%，imatinib 是 65%，所以 dasatinib 和 nilotinib 已核准作為第一線。對 T315I 有效的只有 ponatinib 和作用在 ABL myristoyl pocket 的 STAMP inhibitor asciminib，這一點很常考。",
+          "TKI 為什麼治不好？因為 quiescent 的白血病幹細胞不依賴 BCR-ABL signaling，TKI 打不到。RQ-PCR 在 3 個月和 6 個月看 BCR-ABL 下降速度，可以在第一年內找出日後需要移植的人。Autologous HCT 目前不建議，EBMT 每年只剩 0 到 1 例。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "CML · Indication",
+      "title": "CML goes to allo-HCT after TKI failure, T315I or progression",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "root": "CML on TKI: when to proceed to allo-HCT",
+      "branches": [
+        {
+          "label": "Chronic phase",
+          "box": "Failing 3rd- or 4th-line TKI, or T315I",
+          "out": "Allo-HCT recommended"
+        },
+        {
+          "label": "CP → AP on TKI",
+          "box": "Donor search now; regain TKI response",
+          "out": "Then allo-HCT"
+        },
+        {
+          "label": "Blast crisis",
+          "box": "2nd/3rd-gen TKI + induction chemo",
+          "out": "Allo-HCT once back in CP"
+        },
+        {
+          "label": "CP, earlier failure",
+          "box": "2nd-line failure or intolerance",
+          "out": "Debated: switch TKI or transplant"
+        }
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是第 77 章 key points 的移植適應症。Chronic phase 的病人在第三或第四線 TKI 失敗，或帶有 T315I 突變，建議移植。反白的就是這一格。",
+          "在 TKI 治療中從 CP 進展到 AP，不移植的結果不好，要立刻找 donor、轉介移植中心，先用 TKI 重新取得反應再移植。Blast crisis 則先用第二或第三代 TKI 加 induction chemotherapy 減積，回到 CP 之後再移植。",
+          "最右邊是灰色地帶。第一線用第二代 TKI 的病人失敗了，可以換另一個第二代、第三代或 asciminib，到底要馬上移植，還是等下一次失敗，書上說仍有爭議。所以選擇題如果出現第二線失敗，通常不會是唯一正確答案；T315I 或第三線以後失敗才是明確的移植適應症。AP 的處理要個別化，但不能拖。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CML · Conditioning, source, GVHD prophylaxis",
+      "title": "MAC with CY plus BU or TBI remains the CML benchmark",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Element",
+        "Chapter position"
+      ],
+      "rows": [
+        [
+          "MAC",
+          "CY + BU or CY + TBI: best long-term OS"
+        ],
+        [
+          "RIC (FLU + BU or MEL)",
+          "Older or comorbid only; more relapse, no better OS"
+        ],
+        [
+          "Advanced phase",
+          "MAC preferred for disease control"
+        ],
+        [
+          "Stem cell source",
+          "PBSC ~two-thirds; BM: less chronic GVHD;\nPBSC may cut graft failure and relapse with RIC"
+        ],
+        [
+          "GVHD prophylaxis",
+          "CSA + short-course MTX remains standard"
+        ],
+        [
+          "T-cell depletion",
+          "Less GVHD but more relapse (Apperley 1986)"
+        ],
+        [
+          "PTCy",
+          "Haplo: similar OS, slightly lower RFS vs MUD;\nMUD/MMUD: PTCy ≈ CNI + MTX"
+        ]
+      ],
+      "colW": [
+        3.8,
+        8.0
+      ],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "CML 最好的 conditioning 和 GVHD prophylaxis 其實還沒有定論，書上的立場是這樣。MAC 用 CY 加 BU 或 CY 加 TBI，長期存活最好。RIC 是為了讓年紀大或有 comorbidity 的病人也能移植，但沒有比 MAC 好，主要是復發較多。所以老人或 comorbidity 多的人用 FLU 加 BU 或 MEL 的 RIC，其他人，尤其是 advanced phase，要用 MAC 把病控制好。",
+          "Stem cell source 大約三分之二用 PBSC，整體結果沒有差別，BM 的 chronic GVHD 比較少也比較輕。在 advanced disease 或用 RIC 時，PBSC 可能可以降低 graft failure 和復發。",
+          "GVHD prophylaxis 的標準仍是 CSA 加 short-course MTX。1980 年代用 T-cell depletion 降低 GVHD，但復發增加，很多中心就放棄了，CML 是最早證明 graft-versus-leukaemia effect 的疾病之一。",
+          "PTCy 讓 haplo 和 mismatched unrelated donor 也可行。EBMT 的 CML 資料，haplo 的 OS 和 MUD 相近，RFS 稍低，但和 matched related 比沒有差。MUD 或 MMUD 用 PTCy 和傳統 CNI 加 MTX 相比，OS、RFS、復發和 NRM 都沒有差別。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CML · After transplant",
+      "title": "BCR-ABL1 defines molecular relapse, and DLI rescues most CP relapses",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Topic",
+        "Data"
+      ],
+      "rows": [
+        [
+          "Molecular relapse (a)",
+          "BCR-ABL/ABL1 > 0.02% in 3 samples ≥ 4 weeks apart"
+        ],
+        [
+          "Molecular relapse (b)",
+          "Clearly rising in 3 samples, last two > 0.02%"
+        ],
+        [
+          "Molecular relapse (c)",
+          "> 0.05% in 2 samples ≥ 4 weeks apart (Kaeda 2006)"
+        ],
+        [
+          "DLI for relapse in CP",
+          "Remission in 60–90%; escalating doses cut GVHD"
+        ],
+        [
+          "EBMT DLI cohort, n = 328",
+          "5-y OS 69%; DLI deaths 11%; GVHD 38% (death risk × 2.3)"
+        ],
+        [
+          "TKI ± DLI, n = 431",
+          "Any remission 42%; 5-y OS 60%, RFS 47%"
+        ],
+        [
+          "TKI maintenance (CIBMTR)",
+          "5-y LFS 42% vs 44% without (p = 0.65)"
+        ]
+      ],
+      "colW": [
+        4.2,
+        7.6
+      ],
+      "fontSize": 16,
+      "caption": "Definitions apply ≥ 4 months after HCT; any one of (a)–(c) is enough",
+      "captionY": 5.95,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "移植後 BCR-ABL1 要長期追蹤，因為有人超過 15 年才復發。Transcript 低或下降代表持續緩解，高或上升就預測復發。前 3 個月仍是 PCR 陽性很常見，尤其是 RIC 或 T-cell depletion，所以 molecular relapse 的定義只用在移植 4 個月以後。",
+          "三條符合一條即可。BCR-ABL/ABL1 超過 0.02%，連續三次、每次至少間隔 4 週；或三次明顯上升，最後兩次超過 0.02%；或超過 0.05%，兩次、間隔至少 4 週。0.02 配三次，0.05 配兩次，這兩組數字不要搞混。",
+          "CP 移植、CP 復發的病人，DLI 可以讓 60 到 90% 再緩解，逐步加量可以降低 GVHD。EBMT 328 位的 5 年存活 69%，DLI 相關死亡 11%，38% 出現某種 GVHD，有 GVHD 的人死亡風險高 2.3 倍。DLI 後 GVHD 的危險因子是第一次的 T-cell 劑量、移植到 DLI 的間隔和 donor 類型。",
+          "TKI 和 DLI 可以合併，但先後順序還沒有定論。EBMT 431 位只有 42% 達到某種緩解，可能因為一半以上原本就在 advanced phase 移植。預防性 TKI maintenance 在 CIBMTR 資料沒有好處。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: plan the transplant pathway in myelofibrosis",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "stem": "A 58-year-old man with primary myelofibrosis has night sweats and weight loss. Hb is 92 g/L, WBC 30 × 10⁹/L, blood blasts 0.5%, and the spleen is markedly enlarged. He has a matched sibling donor. Which plan best follows EBMT/ELN guidance?",
+      "options": [
+        "Ruxolitinib alone; transplant only after it fails",
+        "Ruxolitinib for ≥ 2 months, taper before conditioning, then allo-HCT",
+        "Ruxolitinib stopped abruptly when conditioning starts, then allo-HCT",
+        "No allo-HCT, because he is DIPSS intermediate-1",
+        "Autologous HCT after splenectomy"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: DIPSS int-2, ruxolitinib first, then a tapered switch to HCT",
+      "explanation": "DIPSS: symptoms (1) + Hb < 100 g/L (2) + WBC > 25 (1) = 4, intermediate-2: allo-HCT is recommended below age 70. Use ruxolitinib for ≥ 2 months and taper before conditioning to avoid rebound (C). Outcomes are better when transplanted while responding than after failure (A).",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題是 myelofibrosis。58 歲男性，primary myelofibrosis，有夜間盜汗和體重減輕，Hb 92 g/L，白血球 30，周邊血 blast 0.5%，脾臟明顯腫大，有 matched sibling donor。哪一個計畫最符合 EBMT/ELN 的建議？",
+          "先算 DIPSS，再想 ruxolitinib 要怎麼銜接移植。題目沒有給 driver mutation，只用 DIPSS 的五個臨床變數就夠了。",
+          "A 是用到失敗才移植，B 是至少兩個月再慢慢減量後移植，C 是 conditioning 時突然停藥，D 是 intermediate-1 不移植，E 是 splenectomy 後做 autologous。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。年紀 58，0 分；constitutional symptoms 1 分；Hb 小於 100 在 DIPSS 是 2 分；白血球超過 25 是 1 分；blast 小於 1%，0 分。總共 4 分，intermediate-2，70 歲以下建議移植。選 D 的人用了 IPSS 的算法，忘了貧血在 DIPSS 是 2 分。",
+          "A 是主要陷阱。Ruxolitinib 用來改善症狀、縮小脾臟，但資料顯示在還有反應時移植，比等失敗再移植好。C 錯在突然停藥，會有 rebound，要在 conditioning 前小心減量。",
+          "E 也不對，myelofibrosis 只有 allo-HCT 能治癒，脾臟處理只是移植前的輔助。脾臟對 ruxolitinib 沒反應又非常大，才考慮 splenectomy 或脾臟放射。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: CML progressing on a second-generation TKI",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "stem": "A 38-year-old man with chronic-phase CML started first-line dasatinib two years ago. BCR-ABL1 is now rising, blood blasts are 12% and a T315I mutation is found; the disease is classified as accelerated phase. A 10/10 matched unrelated donor is likely. What is the best next step?",
+      "options": [
+        "Switch to nilotinib and repeat RQ-PCR in 3 months",
+        "Increase the dasatinib dose and defer HLA typing",
+        "Ponatinib or asciminib, donor search now, allo-HCT after a new response",
+        "Immediate allo-HCT without further TKI therapy",
+        "High-dose therapy with autologous HCT"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: regain a response with a T315I-active drug, then transplant",
+      "explanation": "T315I and CP → AP progression on TKI are both transplant indications. Only ponatinib or asciminib act on T315I (A, B fail). For AP arising on therapy, start the donor search at once and transplant after a new TKI response (D skips this). Auto-HCT is not recommended (E).",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題是 CML。38 歲男性，chronic phase，兩年前第一線用 dasatinib。現在 BCR-ABL1 上升，周邊血 blast 12%，驗到 T315I，歸類為 accelerated phase。可能找得到 10/10 matched unrelated donor。下一步最好的處置是什麼？",
+          "這題要同時想兩件事，T315I 該用什麼藥，以及在治療中進展到 AP 的病人什麼時候移植。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C。T315I 只有第三代的 ponatinib 和 STAMP inhibitor asciminib 有效，所以換 nilotinib 的 A 和加量 dasatinib 的 B 都不對，B 還延後了 HLA typing。",
+          "主要陷阱是 D。T315I 和在 TKI 治療中從 CP 進展到 AP，都是移植適應症，但第 77 章的建議是立刻找 donor、轉介移植中心，同時用 TKI 重新取得反應，再進行移植。帶著活躍疾病直接移植，結果會比較差。E 的 autologous HCT 在 CML 已經不建議。",
+          "記住 phase 才是決定移植結果的因素，前面用過幾種 TKI 反而不影響，所以重點是讓病人在進入 BC 之前完成移植。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: BCR-ABL1 after allo-HCT for CML",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "stem": "A 45-year-old woman had MAC allo-HCT from a sibling for CML in first chronic phase. Immunosuppression is off and she has no GVHD. At months 5, 6 and 7, BCR-ABL/ABL1 is 0.03%, 0.04% and 0.06%. Marrow cytogenetics are normal. What is the most appropriate management?",
+      "options": [
+        "Observe: PCR positivity is expected during the first year",
+        "Molecular relapse: escalating-dose DLI, with or without a TKI",
+        "Second allo-HCT from an unrelated donor",
+        "A single high-dose DLI to maximise the graft-versus-leukaemia effect",
+        "Wait for cytogenetic relapse before any intervention"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: this meets the molecular relapse definition; start DLI",
+      "explanation": "Beyond month 4, > 0.02% in three samples ≥ 4 weeks apart, rising, is molecular relapse. DLI re-induces remission in 60–90% of CP relapses; escalating doses reduce GVHD (D). PCR positivity is expected only in the first ~3 months (A), and waiting for cytogenetic relapse loses the early window (E).",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題回到移植後。45 歲女性，CML 第一個 chronic phase，接受 sibling donor 的 MAC allo-HCT。免疫抑制劑已停，沒有 GVHD。第 5、6、7 個月的 BCR-ABL/ABL1 分別是 0.03%、0.04% 和 0.06%，骨髓 cytogenetics 正常。最適當的處置是什麼？",
+          "先對照三條 molecular relapse 的定義，再決定介入的方式。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。移植超過 4 個月，三次檢體、間隔至少 4 週，都超過 0.02%，而且持續上升，同時符合 (a) 和 (b)，就是 molecular relapse，最後一次 0.06% 也接近 (c) 的 0.05% 門檻。",
+          "A 是主要陷阱。移植後 PCR 陽性只在前 3 個月左右算常見，不是第一年都可以觀察。E 等到 cytogenetic relapse 才處理，就錯過了疾病量最低、DLI 效果最好的時機。",
+          "CP 復發的 DLI 有 60 到 90% 能再緩解。D 錯在一次給大劑量，逐步加量才能降低 GVHD，而 DLI 後的 GVHD 會讓死亡風險增加 2.3 倍。TKI 可以合併，順序沒有定論。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · Myelofibrosis trials",
+      "title": "Prospective RIC studies showed durable cure in myelofibrosis",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "head": [
+        "Study",
+        "Design",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Guardiola 1999",
+          "Multicentre MAC; median age 42",
+          "NRM 27%; graft failure 9%;\n5-y OS 47%, PFS 39%"
+        ],
+        [
+          "Deeg 2003 (Seattle)",
+          "n = 104, mostly MAC",
+          "5-y NRM 34%; 7-y OS 61%"
+        ],
+        [
+          "EBMT RIC (Kroger 2009)",
+          "n = 103, BU/FLU RIC;\nmedian age 55",
+          "1-y NRM 16%; 3-y relapse 22%;\n5-y PFS 51%, OS 67%"
+        ],
+        [
+          "EBMT RIC update",
+          "Median follow-up 60 months",
+          "8-y OS 65%; 5-y DFS 40%;\nrelapse 28%; 3-y NRM 21%"
+        ],
+        [
+          "MPD-RC 101 (Rondelli 2014)",
+          "n = 66, MEL/FLU RIC",
+          "OS sibling 75% vs URD 32%;\nNRM 22% vs 59%"
+        ]
+      ],
+      "colW": [
+        3.4,
+        3.8,
+        4.6
+      ],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "早期 MAC 的研究 NRM 大約三成，但已證明可以治癒。EBMT 的 BU/FLU RIC prospective study 收 103 位，1 年 NRM 16%，更新後 8 年 OS 65%，呈現穩定平台。MPD-RC 101 則顯示 unrelated donor 的 NRM 高達 59%。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "Backup · Myelofibrosis pathway",
+      "title": "Fig. 77.1 lays out myelofibrosis transplant care step by step",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "fig": "ch77-fig1",
+      "alt": "Timeline from pretransplant to relapse prevention in myelofibrosis",
+      "caption": "Pretransplant: chelation, JAK inhibition, spleen. Donor: MSD > MUD > MMUD / haplo / cord. Conditioning by age, disease status and comorbidity. GVHD prophylaxis by relapse risk. Molecular MRD; DLI if positive after CNI stop.",
+      "notes": {
+        "script": [
+          "這是書上的流程圖，把前面講的步驟串起來：移植前處理鐵沉積、症狀和脾臟，依序選 donor，依年紀、疾病狀態和 comorbidity 選 conditioning，移植後追分子 MRD，停 CNI 後仍陽性就考慮 DLI。"
+        ]
+      }
+    },
+    {
+      "type": "bullets",
+      "backup": true,
+      "eyebrow": "Backup · CML history and T-cell depletion",
+      "title": "Older CML strategies show the graft-versus-leukaemia effect at work",
+      "cite": "Kröger N, et al. EBMT Handbook 8th ed. 2024; Ch. 77",
+      "items": [
+        "Busulfan, hydroxycarbamide and radiotherapy controlled CP but never prevented blast crisis",
+        "BMT (syngeneic, then sibling, then unrelated) was the first treatment that cured CML",
+        "Autologous HCT: not recommended; role unknown for lack of randomised trials",
+        "Geneva, 23 sibling MAC with partial TCD (alemtuzumab) + escalating DLI: 15-y OS 95%",
+        "This Geneva series is unpublished data quoted in the chapter"
+      ],
+      "notes": {
+        "script": [
+          "CML 是第一個靠移植治癒的白血病。T-cell depletion 會增加復發，但日內瓦用部分 TCD 加上逐步加量的 DLI，23 位 sibling 移植的 15 年 OS 達 95%，不過這是未發表資料。"
+        ]
+      }
+    }
+  ]
+}

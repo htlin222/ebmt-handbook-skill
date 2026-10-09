@@ -1,0 +1,608 @@
+{
+  "id": "s05",
+  "slug": "engraftment-graft-failure",
+  "title": "Engraftment, chimerism and graft failure",
+  "subtitle": "Session 05 · Ch. 21, 41",
+  "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21 · Valcárcel D, et al. Ch. 41",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，今天是第 5 堂，談 engraftment、chimerism 和 graft failure，對應 EBMT Handbook 第 21 章和第 41 章。前半段看怎麼證明新的造血是 donor 來的，後半段看長不出來或長了又掉時怎麼分類、怎麼處理。最後三題 board-style 題目。"
+    ]
+  },
+  "refsPerSlide": 7,
+  "references": [
+    "1. Bader P, Kreyenberg H, Bacigalupo A. Documentation of engraftment and chimerism after HCT. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 183–8. https://doi.org/10.1007/978-3-031-44080-9_21",
+    "2. Valcárcel D, Sánchez-Ortega I, Sureda A. Graft failure. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 365–72. https://doi.org/10.1007/978-3-031-44080-9_41",
+    "3. Kharfan-Dabaja MA, Kumar A, Ayala E, Aljurf M, Nishihori T, Marsh R, et al. Standardizing definitions of hematopoietic recovery, graft rejection, graft failure, poor graft function, and donor Chimerism in allogeneic hematopoietic cell transplantation: a report on behalf of the American Society for Transplantation and Cellular Therapy. Transplant Cell Therapy. 2021;27(8):642–9. https://doi.org/10.1016/j.jtct.2021.04.007.",
+    "4. Blouin AG, Askar M. Chimerism analysis for clinicians: a review of the literature and worldwide practices. Bone Marrow Transplant. 2022;57(3):347–59.",
+    "5. Lion T, Watzinger F, Preuner S, et al. The EuroChimerism concept for a standardized approach to chimerism analysis after allogeneic stem cell transplantation. Leukemia. 2012;26:1821–8.",
+    "6. Fitzhugh CD, Abraham A, Hsieh MM. Alternative donor/unrelated donor transplants for the β-thalassemia and sickle cell disease. Adv Exp Med Biol. 2017;1013:123–53.",
+    "7. Thiede C, Bornhäuser M, Oelschlägel U, et al. Sequential monitoring of chimerism and detection of minimal residual disease after allogeneic blood stem cell transplantation (BSCT) using multiplex PCR amplification of short tandem repeat-markers. Leukemia. 2001;15:293–302.",
+    "8. Bornhäuser M, Oelschlaegel U, Platzbecker U, et al. Monitoring of donor chimerism in sorted CD34+ peripheral blood cells allows the sensitive detection of imminent relapse after allogeneic stem cell transplantation. Haematologica. 2009;94:1613–7.",
+    "9. Olsson RF, Logan BR, Chaudhury S, et al. Primary graft failure after myeloablative allogeneic hematopoietic cell transplantation for hematologic malignancies. Leukemia. 2015;29:1754–62.",
+    "10. Anasetti C, Logan BR, Lee SJ, et al. Peripheral-blood stem cells versus bone marrow from unrelated donors. N Engl J Med. 2012;367:1487–96.",
+    "11. Passweg JR, Zhang MJ, Rocha V, et al. Donor characteristics affecting graft failure, graft-versus-host disease, and survival after unrelated donor transplantation with reduced-intensity conditioning for hematologic malignancies. Biol Blood Marrow Transplant. 2011;17:1869–73.",
+    "12. Ciurea SO, Cao K, Fernadez-Vina M, et al. The European Society for Blood and Marrow Transplantation (EBMT) consensus guidelines for the detection and treatment of donor-specific anti-HLA antibodies (DSA) in haploidentical hematopoietic cell transplantation. Bone Marrow Transplant. 2018;53:521–34.",
+    "13. Moscardó F, Sanz J, Senent L, et al. Impact of hematopoietic chimerism at day +14 on engraftment after unrelated donor umbilical cord blood transplantation for hematologic malignancies. Haematologica. 2009;94:827–32.",
+    "14. Shahzad M, Siddiqui RS, Anwar I, Chaudhary SG, Ali T, Naseem M, et al. Outcomes with CD34-selected stem cell boost for poor graft function after allogeneic hematopoietic stem cell transplantation: asystematic review and meta-analysis. Transplantation and Cellular Therapy. 2021;27(10):877.e1–8. https://doi.org/10.1016/j.jtct.2021.07.012.",
+    "15. Nagler A, Labopin M, Swoboda R, et al. Long-term outcome of second allogeneic hematopoietic stem cell transplantation (HCT2) for primary graft failure in patients with acute leukemia in remission: a study on behalf of the acute leukemia working Party of the European Society for Blood And Marrow Transplantation. Bone Marrow Transplant. 2023;58:1008. https://doi.org/10.1038/s41409-023-02012-5.",
+    "16. Gaziev D, Polchi P, Lucarelli G, Galimberti M, Sodani P, Angelucci E, et al. Second marrow transplants for graft failure in patients with thalassemia. Bone Marrow Transplant. 1999;24(12):1299–306. https://doi.org/10.1038/Sj.Bmt.1702076.",
+    "17. Guardiola P, Kuentz M, Garban F, Blaise D, Reiffers J, Attal M, et al. Second early allogeneic stem cell transplantations for graft failure in acute leukaemia, chronic myeloid leukaemia and aplastic anaemia. French Society of Bone Marrow Transplantation. Br J Haematol. 2000;111(1):292–302.",
+    "18. Gyurkocza B, Cao TM, Storb RF, Lange T, Leisenring W, Franke GN, et al. Salvage allogeneic hematopoietic cell transplantation with fludarabine and low-dose total body irradiation after rejection of first allografts. Biol Blood Marrow Transplant. 2009;15(10):1314–22. https://doi.org/10.1016/j.bbmt.2009.06.011.",
+    "19. Schreiber J, Agovi M-A, Ho V, Ballen KK, Bacigalupo A, Lazarus HM, et al. Second unrelated donor hematopoietic cell transplantation for primary graft failure. Biol Blood Marrow Transplant. 2010;16(8):1099–106. https://doi.org/10.1016/j.bbmt.2010.02.013.",
+    "20. Fuji S, Nakamura F, Hatanaka K, Taniguchi S, Sato M, Mori S-I, et al. Peripheral blood as a preferable source of stem cells for salvage transplantation in patients with graft failure after cord blood transplantation: a retrospective analysis of the registry data of the Japanese Society for Hematopoietic Cell Transplantation. Biol Blood Marrow Transplant. 2012;18:1407–14.",
+    "21. Ferrá C, Sanz J, Díaz-Pérez M-A, Morgades M, Gayoso J, Cabrera J-R, et al. Outcome of graft failure after allogeneic stem cell transplant: study of 89 patients. Leuk Lymphoma. 2014;56(3):656–62. https://doi.org/10.3109/10428194.2014.930849."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Outline",
+      "title": "Four parts, from proving engraftment to rescuing a failed graft",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21 · Valcárcel D, et al. Ch. 41",
+      "rows": [
+        ["Engraftment and chimerism", "Count recovery, chimerism categories, STR-PCR and newer assays", "3 min"],
+        ["Chimerism in nonmalignant and malignant disease", "Rejection thresholds, relapse prediction, lineage-specific testing", "5 min"],
+        ["Graft failure: definitions and risk factors", "Primary, secondary, poor graft function; HRs, cell dose, DSA", "9.5 min"],
+        ["Prediction, management and three questions", "Olsson score, stepwise treatment, second allo-HCT, board questions", "9.75 min"]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是定義，neutrophil 和 platelet recovery 怎麼算，chimerism 怎麼分 complete、mixed、absent 和 split，以及用什麼方法測。",
+          "第二段看 chimerism 的臨床意義。同樣是 mixed chimerism，在 thalassaemia 和 sickle cell disease 代表 rejection 的風險，在 leukaemia 代表 relapse 的風險，處理的思路也不一樣。",
+          "第三段進入第 41 章，graft failure 的定義、risk factor、最低細胞劑量和 donor-specific antibody。最後一段是 Olsson score、分步處理和二次移植，再用三題收尾。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Engraftment and chimerism",
+      "eyebrow": "Engraftment · Definitions",
+      "title": "Count recovery and donor origin are defined by fixed cut-offs",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41 · Bader P, et al. Ch. 21",
+      "head": ["Term", "Definition", "Chapter"],
+      "rows": [
+        ["Neutrophil recovery", "First of 3 consecutive days with ANC ≥ 0.5 × 10⁹/L", "Ch. 41"],
+        ["Platelet recovery", "≥ 20 × 10⁹/L without transfusion for 7 consecutive days", "Ch. 41"],
+        ["Complete donor chimerism", "> 95% donor cells, myeloid and lymphoid", "Ch. 21"],
+        ["Mixed chimerism", "5–95% donor cells", "Ch. 21"],
+        ["Absent donor chimerism", "< 5% donor cells", "Ch. 21"],
+        ["Split chimerism", "Donor level differs between myeloid and lymphoid cells", "Ch. 21"]
+      ],
+      "colW": [3.4, 6.6, 1.4],
+      "fontSize": 17,
+      "caption": "Ch. 41: complete chimerism usually ≥ 95% (90–97.5% across centres); test T cells and granulocytes",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "上面兩行是 hematological recovery。Neutrophil recovery 是 ANC ≥ 0.5 × 10⁹/L 連續三天的第一天。Platelet recovery 是在沒有輸血的情況下，血小板 ≥ 20 × 10⁹/L 連續七天。考題常把三天和七天對調，或把血小板門檻改成 50，要看清楚。",
+          "下面四行是第 21 章的 chimerism 分類。Donor 細胞超過 95% 叫 complete chimerism，5 到 95% 是 mixed，低於 5% 是 absent。Myeloid 和 lymphoid 兩邊程度不同，叫 split chimerism。",
+          "第 41 章寫的 cutoff 是 ≥ 95%，各中心介於 90 到 97.5% 之間，建議分開測 T cell 和 granulocyte。這兩章的寫法差一點點，考試以 95% 為準就好。",
+          "血球回來不等於 donor 長出來。RIC 和 non-myeloablative conditioning 之後，recipient 自己的造血可能恢復，所以 allo 移植的 engraftment 一定要用 chimerism 確認來源。"
+        ],
+        "reminders": [
+          "Ch. 21 defines complete chimerism as > 95% donor cells; Ch. 41 gives ≥ 95% as the common cut-off. Both shown with their source."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Chimerism · Methods",
+      "title": "Fluorescent STR-PCR remains the gold standard for chimerism",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21",
+      "head": ["Method", "Marker", "Role and limits"],
+      "rows": [
+        ["RFLP, cytogenetics, red cell typing, FISH", "Polymorphic markers", "Historical; slow, not usable in every pair"],
+        ["VNTR-PCR (1990s)", "Variable tandem repeats", "Replaced by STR-PCR"],
+        ["STR-PCR, capillary electrophoresis", "Short tandem repeats", "Gold standard; detects about 1%"],
+        ["Quantitative real-time PCR", "SNPs or DIPs", "Microchimerism; less accurate"],
+        ["Digital PCR, NGS", "SNPs or DIPs", "Microchimerism; more accurate than qPCR"]
+      ],
+      "colW": [4.2, 2.9, 4.3],
+      "fontSize": 17,
+      "captionY": 5.2,
+      "caption": "Sensitive assays find recipient cells in most samples: interpret them in the clinical context",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "所有 chimerism 方法的原理都一樣，找 donor 和 recipient 之間不同的 polymorphic genetic marker。早期用 RFLP、cytogenetics、紅血球表型和 FISH，費時，而且不是每一對 donor 和 recipient 都能用。",
+          "PCR 出現後才真正普及。1990 年代先用 VNTR，後來改用 STR。Fluorescent primer 加 capillary electrophoresis，可以快速而準確地定量，到今天仍是 gold standard，敏感度大約 1%。",
+          "要測得更低，可以用 qPCR、digital PCR 或 NGS，標的是 SNP 或 DIP 這類 biallelic marker，用來偵測 microchimerism。三者敏感度差不多，但 dPCR 和 NGS 的準確度比 qPCR 好。缺點是太敏感，大部分樣本都會測到一點 recipient 細胞，必須放回臨床情境解讀。",
+          "不論用哪一種方法，流程要標準化，實驗室要有認證並參加 quality control。報告時寫清楚是 increasing mixed donor 還是 increasing mixed recipient chimerism，避免誤會方向。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Chimerism in disease",
+      "eyebrow": "Chimerism · Nonmalignant disease",
+      "title": "In nonmalignant disease, stable mixed chimerism can be enough",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21",
+      "head": ["Setting", "Chimerism finding", "Meaning"],
+      "rows": [
+        ["Nonmalignant disease, RIC", "Mixed chimerism is common", "Rejection is the main cause of failure"],
+        ["Nonmalignant disease, RIC", "Early full donor NK and T cells", "Supports sustained engraftment"],
+        ["Thalassaemia (Pesaro)", "Recipient cells rise to > 30%", "Rejection and transfusion need likely"],
+        ["SCD, healthy HbAA donor", "≥ 10% donor cells", "Enough to treat the disease"],
+        ["SCD, HbAS (trait) donor", "30–40% donor cells", "Needed with a carrier donor"],
+        ["SCD, Fitzhugh 2017 model", "20% donor myeloid cells", "Reverses the sickle phenotype"],
+        ["SCD, donor < 30%", "DLI might be considered", "Mixed chimerism alone does not warrant DLI"]
+      ],
+      "colW": [3.6, 3.7, 4.1],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "良性疾病移植的目標有三個，改善造血、矯正免疫，或補足缺少的酵素。目標不是消滅 recipient，所以不一定要完全換掉 recipient 造血，穩定的 mixed chimerism 常常就夠了。這些病人多半用強度較低的 conditioning，MC 很常見，失敗的主因是 rejection 或 non-engraftment。RIC 之後，早期 NK 和 T cell 就達到 full donor，和穩定 engraftment 有關。",
+          "Thalassaemia 的資料來自 Pesaro 的 Lucarelli 團隊。Recipient 細胞增加到超過 30% 的病人，最後 rejection、回到輸血依賴的機會高很多。但也有長期高比例 MC 仍然不用輸血的病人。DLI 可以把 MC 轉成 complete chimerism，只是目前沒有通用建議。",
+          "Sickle cell disease 的數字比較多。Donor 是正常 HbAA 時，10% donor 細胞就夠；donor 若是 HbAS carrier，需要 30 到 40%。Fitzhugh 的數學模型顯示，myeloid donor chimerism 20% 就能逆轉 sickle 表現型。",
+          "有 MC 本身不是給 DLI 的理由，donor 低於 30% 時才考慮。良性疾病給 DLI，GVHD 是要盡全力避免的代價，這是和 leukaemia 最大的不同。第 26 堂會再從疾病的角度談 thalassaemia 和 SCD。"
+        ],
+        "reminders": [
+          "The 10% and 30–40% SCD figures are from late-1990s studies quoted in Ch. 21; the 20% myeloid figure is the Fitzhugh model (reference 6)."
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Chimerism · Malignant disease",
+      "title": "In leukaemia, rising recipient chimerism heralds relapse",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21",
+      "steps": [
+        "Mixed chimerism in mononuclear cells",
+        "Weaker graft-versus-leukaemia effect",
+        "Higher risk of haematological relapse",
+        "Withdraw IS or give DLI to restore full donor"
+      ],
+      "invert": 3,
+      "caption": "Chimerism reflects alloreactivity and tolerance of the graft: a prognostic factor more than an indirect MRD marker",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "惡性疾病的邏輯完全反過來。1990 年代初的前瞻性研究就發現，mononuclear cell 出現 mixed chimerism 很常見，它會削弱 GvL effect，讓 leukaemia 比較容易復發。",
+          "最早是兒科 ALL 和 AML 的 serial chimerism 研究，MC 的病人之後 relapse 風險較高，後來成人的研究也證實。更重要的是，透過免疫介入，例如停掉或減少 immunosuppression、給 DLI，可以把 MC 轉回 complete chimerism，恢復 GvL，很多病人因此避開了 overt hematological relapse。",
+          "第 21 章強調一個定位。Chimerism 反映的是 graft 的 alloreactivity 和 tolerance，比較像一個 prognostic factor，而不是 MRD 的替代品。Chimerism 的變化是動態的，要用來預測 relapse，就必須短間隔、連續地追。DLI 的劑量和時機留到第 19 堂。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Chimerism · Lineage-specific testing",
+      "title": "Lineage-specific chimerism helps when no disease marker exists",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21",
+      "head": ["Setting", "Fraction tested", "Point"],
+      "rows": [
+        ["Any malignancy", "Whole blood, STR-PCR", "About 1% sensitivity: not an MRD tool"],
+        ["AML or MDS without a marker", "Sorted CD34+ cells", "Anticipates relapse in many patients"],
+        ["Precursor B-ALL", "CD10, CD19, CD34", "Correlates with MRD"],
+        ["T-lineage ALL", "CD3, CD4, CD5, CD8", "Correlates with MRD"],
+        ["Every patient monitored", "Serial, short intervals", "Onset of MC to relapse is often short"],
+        ["Best practice", "Chimerism plus MRD", "Basis for pre-emptive immunotherapy"]
+      ],
+      "colW": [3.6, 3.4, 4.4],
+      "fontSize": 17,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Whole blood 的 STR-PCR 只能看到大約 1% 的少數族群，所以第 21 章明講它不適合當 MRD marker。有疾病特異 marker 的病人，MRD 應該用其他方法測。",
+          "沒有 marker 的病人怎麼辦？MDS 幾乎都是這樣，AML 也常常是。這時可以把細胞分選後測 subpopulation 的 chimerism。Thiede 和 Bornhäuser 的研究顯示，測 sorted CD34+ 細胞的 chimerism，很多 AML 和 MDS 的 relapse 可以提早看到。",
+          "ALL 則依 lineage 分選。Precursor B-ALL 用 CD10、CD19、CD34，T-lineage 用 CD3、CD4、CD5、CD8，這些 subset 的 chimerism 和 MRD 有很好的相關。",
+          "限制是不是每個人都抓得到，而且從出現 MC 到 relapse 的間隔常常很短。所以要密集追，理想上和 MRD 一起判讀，作為 pre-emptive immunotherapy 的依據。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Graft failure",
+      "eyebrow": "Graft failure · Definitions",
+      "title": "Primary, secondary and poor graft function differ by course and chimerism",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Entity", "Definition (Kharfan-Dabaja 2021)", "Chimerism"],
+      "rows": [
+        ["Primary GF", "ANC < 0.5 × 10⁹/L by day +30, with pancytopenia\n(CBT: up to day +42)", "Tested to confirm"],
+        ["Secondary GF", "Counts fall after full recovery; needs products or G-CSF", "Tested to confirm"],
+        ["Poor graft function", "Transfusion or G-CSF dependence, no other cause", "Donor at target level"],
+        ["Graft rejection", "GF caused by immune rejection of donor cells by host cells", "—"]
+      ],
+      "colW": [2.6, 6.2, 2.6],
+      "fontSize": 17,
+      "caption": "GF: < 3–5% after auto or matched allo-HCT, up to 10% after haplo or CBT; OS 20–30% at 3–5 years",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "第 41 章直接採用 ASTCT 2021 Kharfan-Dabaja 的標準化定義。Primary graft failure 是 day +30 時 ANC 仍低於 0.5 × 10⁹/L，合併 pancytopenia；cord blood 放寬到 day +42。Secondary graft failure 是已經達到 neutrophil 和 platelet recovery 之後，血球又掉下來，需要輸血或 growth factor。兩者都要用 donor chimerism 確認。",
+          "Poor graft function 最容易和 secondary GF 混淆。它同樣是輸血或 growth factor 依賴，但前提是 donor 的 myeloid 和 lymphoid chimerism 都在目標範圍，而且排除了 relapse、藥物和感染。Graft rejection 則是 GF 的一種，原因是 host 細胞對 donor 細胞的免疫排斥。",
+          "分這麼細，是因為處理不同。Poor graft function 的 donor 細胞還在，只是功能不夠，可以用 TPO agonist 或 CD34 boost 補強，不需要再做 conditioning。GF 和 rejection 是 donor 造血不見了，常要走到二次移植。",
+          "下面是發生率。Auto 和 matched allo 低於 3 到 5%，haploidentical 和 cord blood 可以到 10%。預後很差，多數死於感染或出血，診斷後 3 到 5 年的 OS 只有 20 到 30%。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Graft failure · Diagnosis",
+      "title": "Classify cytopenia after allo-HCT by recovery history and chimerism",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "root": "Cytopenia after allo-HCT: ever recovered? donor chimerism?",
+      "branches": [
+        {"label": "Never recovered", "box": "ANC < 0.5 by day +30 (CBT +42)", "out": "Primary GF; confirm with chimerism"},
+        {"label": "Recovered, then fell", "box": "Donor chimerism lost", "out": "Secondary GF; rejection if immune"},
+        {"label": "Recovered, then fell", "box": "Donor chimerism at target", "out": "PGF once relapse, drugs, infection excluded"}
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "把上一張的定義變成病房上的流程。移植後血球低，先問兩件事，這個病人有沒有恢復過，以及 donor chimerism 是多少。",
+          "從來沒有恢復，day +30 ANC 還低於 0.5，cord blood 到 day +42 還是這樣，就是 primary GF，送 chimerism 確認。",
+          "恢復過又掉下來，就要看 chimerism。Donor 造血流失，是 secondary GF，若是 host 免疫排斥造成，叫 graft rejection。Donor chimerism 還在目標範圍，就是 poor graft function，但前提是先排除 relapse、藥物和感染。CMV 和其他病毒感染、ganciclovir 一類的骨髓毒性藥物，都是要先排除的原因。",
+          "最右邊這一格最常考。Chimerism 正常的病人不需要二次移植，第二題就是這個情境。"
+        ],
+        "reminders": [
+          "Ganciclovir is given as a speaker's example of a myelotoxic drug; Ch. 41 says only 'drugs' and 'drug toxicity'."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft failure · Risk factors",
+      "title": "Risk factors for graft failure are fixed, modifiable or peri-transplant",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Pretransplant, hard to modify", "Pretransplant, easy to modify", "Peri- and post-transplant"],
+      "rows": [
+        ["HLA mismatches", "Graft source", "CD34+ cell count"],
+        ["Non-malignant disease", "Conditioning", "Viral infections"],
+        ["Advanced disease", "T-cell depletion", "GVHD"],
+        ["Extensive marrow fibrosis", "Iron overload *", "Drug toxicity"],
+        ["Donor age", "HLA antibodies *", ""],
+        ["Splenomegaly", "Transfusion history *", ""]
+      ],
+      "colW": [3.8, 3.8, 3.8],
+      "fontSize": 17,
+      "captionY": 5.6,
+      "caption": "* Table 41.1 places these three across both pretransplant columns",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Graft failure 的原因多半是多重的。Table 41.1 把 risk factor 分成三欄。左邊是不容易改的，HLA mismatch、良性疾病、晚期疾病、骨髓纖維化、donor 年紀和脾臟腫大。",
+          "中間是可以改的，graft source、conditioning 和 T-cell depletion。Iron overload、HLA 抗體和輸血史在原表跨兩欄。右邊是移植期間的因素，CD34+ 劑量、病毒感染、GVHD 和藥物毒性。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft failure · Hazard ratios",
+      "title": "Donor type, graft source and ABO mismatch raise the risk of graft failure",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Factor", "Effect on graft failure"],
+      "rows": [
+        ["Unrelated donor vs HLA-identical sibling", "HR 1.38; HR 1.79 with ≥ 2 mismatches"],
+        ["BM vs PB graft, unrelated donor", "9% vs 3%; BM the only factor after RIC (HR 2.3)"],
+        ["Major ABO mismatch", "Primary GF HR 1.24"],
+        ["Cryopreserved graft", "Primary GF HR 1.43"],
+        ["Female donor to male recipient", "Primary GF HR 1.28"],
+        ["Splenomegaly", "Primary GF: MPN HR 3.92; MDS HR 2.24"],
+        ["Post-transplant G-CSF", "Primary GF HR 0.36 (protective)"],
+        ["Ex vivo T-cell depletion", "Higher primary GF in most studies"]
+      ],
+      "colW": [5.0, 6.4],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是有數字的 risk factor。Unrelated donor 相對 HLA-identical sibling，HR 1.38，兩個以上 mismatch 升到 1.79。Unrelated donor 用 bone marrow，GF 9% 對 peripheral blood 的 3%；Passweg 的 RIC 研究裡，BM 是唯一相關的 donor 因素，HR 2.3。",
+          "Major ABO mismatch、cryopreserved graft、female donor 給 male recipient，都會增加 primary GF。脾臟腫大在 MPN 的 HR 接近 4，MDS 是 2.24。Ex vivo T-cell depletion 在大多數研究也會增加 GF。反過來，移植後用 G-CSF 是保護因子，HR 0.36。",
+          "HLA 有一個細節。用高解析度、10 到 12 個 locus 配對的研究，在 MAC 和 RIC 都沒有看到 0 個和 1 個 mismatch 之間的 GF 差異。Haploidentical 大約 10%，比 matched 的 3 到 5% 高，只是沒有設計良好的比較研究。"
+        ],
+        "reminders": [
+          "Ch. 41 does not name the source for the ABO, cryopreservation, sex-mismatch, splenomegaly and G-CSF hazard ratios; quote them as 'Ch. 41'."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft failure · Cell dose",
+      "title": "Ch. 41 proposes a conservative minimum cell dose for each graft type",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Graft", "Transplant", "Minimum", "Optimum"],
+      "rows": [
+        ["Bone marrow", "Autologous", "TNC 2 × 10⁸/kg", "—"],
+        ["Bone marrow", "Allogeneic", "TNC 3 × 10⁸/kg", "—"],
+        ["Peripheral blood", "Autologous", "CD34+ > 1 × 10⁶/kg", "CD34+ > 2 × 10⁶/kg"],
+        ["Peripheral blood", "Allogeneic MAC", "CD34+ > 2 × 10⁶/kg", "CD34+ > 4 × 10⁶/kg"],
+        ["Peripheral blood", "Allogeneic RIC", "CD34+ > 2 × 10⁶/kg", "CD34+ 4–8 × 10⁶/kg"],
+        ["Cord blood, HLA 4–6/6", "Single unit", "TNC > 2.5–3 × 10⁷/kg\nCD34+ > 1 × 10⁵/kg", "—"]
+      ],
+      "colW": [2.9, 2.6, 3.2, 2.7],
+      "fontSize": 17,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "細胞劑量是 GF 風險裡少數可以事先掌握的。Table 41.2 是作者整理文獻後的保守建議，最低劑量到現在仍有爭議。",
+          "Bone marrow 用 total nucleated cell 計算，autologous 2 × 10⁸/kg，allogeneic 3 × 10⁸/kg。Peripheral blood 用 CD34+。Autologous 最低 1 × 10⁶/kg，理想 2 × 10⁶/kg。Allogeneic 不論 MAC 或 RIC，最低都是 2 × 10⁶/kg，理想值 MAC 大於 4 × 10⁶，RIC 是 4 到 8 × 10⁶。",
+          "Cord blood 的單位差了一個 log。TNC 要大於 2.5 到 3 × 10⁷/kg，CD34+ 大於 1 × 10⁵/kg，HLA 4 到 6/6 相合。",
+          "要提醒的是，autologous 的最低值在第 16 章寫的是 2 × 10⁶/kg，第 4 堂採用的也是這個數字，比這裡的 1 × 10⁶ 嚴格。考題出現 autologous PBSC 最低劑量時，2 × 10⁶/kg 是比較安全的答案。"
+        ],
+        "reminders": [
+          "Book inconsistency: Table 41.2 gives an autologous PB minimum of > 1 × 10⁶ CD34+/kg; Ch. 16 (and Session 04) gives 2 × 10⁶/kg. The table is shown as printed and the script flags the difference.",
+          "'Single unit' for cord blood is the speaker's label; Table 41.2 does not say single or double."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft failure · Anti-HLA antibodies",
+      "title": "Test for donor-specific anti-HLA antibodies before mismatched HCT",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Issue", "EBMT advice (Table 41.3, Ciurea 2018)"],
+      "rows": [
+        ["Prevalence", "Anti-HLA 10–40%; DSA 10–20%, higher in women, rises with pregnancies"],
+        ["Test", "Solid-phase assay; complement assay (C4d or C1q) if positive"],
+        ["Positive threshold", "MFI > 1000, especially > 5000 (not well validated)"],
+        ["When to test", "At donor selection and within the month before HCT"],
+        ["Remove antibody", "Plasmapheresis, 1–4 sessions, days −17 to −10 and after HCT"],
+        ["Block or neutralise", "Rituximab 375 mg/m²; 20–40 donor-antigen platelet units; IVIg"],
+        ["Block complement", "IVIg, eculizumab"]
+      ],
+      "colW": [3.0, 8.4],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Donor-specific anti-HLA antibody，簡稱 DSA，在 haploidentical、cord blood 和 unrelated 移植都會增加 GF，甚至降低 OS。Anti-HLA 抗體的盛行率 10 到 40%，DSA 10 到 20%，女性較高，每懷孕一次就增加。",
+          "檢測有兩類。Cell-based 的 direct test 需要 donor 活的淋巴球和病人血清，複雜費時，特異性低。現在常用的是 solid-phase assay，只要病人血清，快又簡單；陽性時再做 C4d 或 C1q 這類 complement assay，因為會結合補體的抗體最容易造成 GF。MFI 超過 1000，尤其超過 5000 算陽性，這個切點還沒有完整驗證。測的時機是選 donor 的時候，以及移植前一個月內。",
+          "Desensitisation 沒有公認的標準方案，常見的組合有三種機轉。移除抗體用 plasmapheresis，移植前一到四次。抑制抗體生成用 rituximab 375 mg/m²。中和抗體用帶有 donor 抗原的血小板 20 到 40 單位，或一個單位血的 buffy coat，在 day 1 輸注；IVIg 也可以。Eculizumab 和 IVIg 則用來阻斷補體活化。",
+          "經產婦找子女當 haploidentical donor，是最典型的高風險情境，第三題就是這個。Haplo 的 donor 選擇細節在第 3 堂。"
+        ],
+        "reminders": [
+          "Ch. 41 prints 'Cq1'; the slide uses the standard name C1q. Plasmapheresis is printed as 'days −10 to −17'; shown in chronological order."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Management",
+      "eyebrow": "Graft failure · Prediction",
+      "title": "A day +21 score is better at ruling graft failure out than in",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Olsson score item", "Points"],
+      "rows": [
+        ["Age < 30 years", "1"],
+        ["Karnofsky < 90%", "1"],
+        ["Disease: MDS 1; CLL or CML 2; MPN 3", "1–3"],
+        ["Advanced disease status", "1"],
+        ["HLA mismatched", "2"],
+        ["Graft: BM < 2.4 × 10⁸/kg 1; PB 2", "1–2"],
+        ["Conditioning without TBI", "2"],
+        ["GVHD prophylaxis: no CNI + MTX 2; TCD 3", "2–3"]
+      ],
+      "colW": [8.4, 3.0],
+      "fontSize": 16,
+      "captionY": 5.95,
+      "caption": "Score > 6 at day +21: PPV 28–36%. Score < 7: NPV 81%",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Olsson 等人在 day +21 設計了一個預測 GF 的分數。年紀小於 30 歲 1 分，Karnofsky 低於 90% 1 分。疾病方面 MDS 1 分，CLL 或 CML 2 分，MPN 3 分。晚期疾病 1 分，HLA mismatch 2 分。Graft 是 BM 而且 TNC 低於 2.4 × 10⁸/kg 給 1 分，PB 給 2 分。Conditioning 沒有 TBI 2 分。GVHD prophylaxis 不是 CNI 加 MTX 2 分，T-cell depletion 3 分。",
+          "分數大於 6 的 PPV 只有 28 到 36%，小於 7 的 NPV 則有 81%。這個分數適合用來安心，比較不適合用來下診斷。",
+          "書上對高風險病人的預防建議是，用 PB 當 graft、conditioning 加 low-dose TBI 或 ATG、移植後考慮 G-CSF，並在 day +14 就做骨髓 chimerism。單一 cord blood 的研究中，day +14 骨髓 donor chimerism 低於 65%，GF 風險較高，但不能直接套到其他移植。"
+        ],
+        "reminders": [
+          "Ch. 41 cites the score to Olsson 2015, whose cohort was myeloablative HCT for haematological malignancies; the points are copied as printed, including 'age < 30, 1 point' and 'PB, 2 points'."
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Graft failure · Management",
+      "title": "Manage graft failure stepwise, from supportive care to a second HCT",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "steps": [
+        "Stop toxic drugs\nTreat infection\nTry G-CSF",
+        "Adjust IS to chimerism\nTrial a TPO agonist",
+        "DLI if chimerism falls\nCD34 boost if PGF",
+        "Second allo-HCT"
+      ],
+      "invert": 3,
+      "caption": "Start as soon as GF is suspected. CD34 boost after 2–3 months without improvement; MSC are under study",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "一懷疑 GF 就開始處理，不必等到 day +30。第一步，停掉能停的骨髓毒性藥物、治療感染，G-CSF 效果有限，但值得一試。",
+          "第二步調整 immunosuppression。早期維持正確濃度；三到六個月後若有 mixed chimerism，尤其是 RIC，可以加快減量。Aplastic anaemia 則相反，通常建議加強 IST。這部分沒有共識。TPO agonist 的移植資料不多，但 eltrombopag 在 aplastic anaemia 的經驗和低毒性，支持在 DLI 或二次移植之前先試，對血小板低特別有用。",
+          "第三步分兩種情況。Donor chimerism 下降時考慮 DLI，但 GVHD 風險高。Poor graft function 可以給 CD34 boost，meta-analysis 顯示相對安全，可能改善存活，時機大約是初步處置兩到三個月沒有改善時。MSC 也有安全性資料。",
+          "最後才是二次 allo-HCT，下一張詳談。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Graft failure · Second HCT",
+      "title": "A second allo-HCT for graft failure needs conditioning and a DSA-free donor",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Item", "Recommendation (Table 41.5)"],
+      "rows": [
+        ["Donor", "Same or different donor alike; consider haplo; avoid DSA+"],
+        ["Conditioning", "Always required; RIC preferred"],
+        ["Post-transplant IS", "Required; CNI-based schemes most common"],
+        ["Stem cell source", "PB or BM, preferred to cord blood"],
+        ["Ex vivo TCD", "Avoid after immune rejection; an option for PGF"],
+        ["ATG or alemtuzumab", "Used to add IS and lower GVHD risk"],
+        ["Autologous backup", "Not formally recommended"]
+      ],
+      "colW": [3.4, 8.0],
+      "fontSize": 17,
+      "caption": "Nagler 2023: 243 patients with primary GF in acute leukaemia; engraftment 77.3%, 5-year OS 30.7%",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Table 41.5 是二次移植的建議。Donor 用原來的或換一個，結果差不多；換 donor 不會造成明顯延誤時可以換，也可以考慮 haploidentical。DSA 陽性的 donor 一律避開。",
+          "Conditioning 一定要做，以 RIC 較好。移植後一樣需要 immunosuppression，最常用 CNI-based。Graft source 選 PB 或 BM，兩者結果相近，都優於 cord blood。",
+          "T-cell depletion 要看原因。免疫排斥造成的 GF 要避免 ex vivo TCD；poor graft function 則可以考慮，因為能降低 GVHD。ATG 或 alemtuzumab 用來加強 IS，同時降低 GVHD。",
+          "事先凍存 autologous 幹細胞作為備援，效果有限，書上不正式建議。EBMT 243 位 acute leukaemia primary GF 的二次移植，engraftment 77.3%，5 年 OS 30.7%。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: plan chimerism monitoring in AML",
+      "cite": "Bader P, et al. EBMT Handbook 8th ed. 2024; Ch. 21",
+      "stem": "A 58-year-old man with AML (normal karyotype, no trackable molecular marker) underwent RIC matched sibling HCT in CR1. On day +60, whole-blood STR-PCR shows 100% donor chimerism. Which monitoring plan best follows the EBMT Handbook?",
+      "options": [
+        "Stop chimerism testing; full donor chimerism excludes relapse",
+        "Serial sorted CD34+ chimerism at short intervals, with MRD if possible",
+        "Whole-blood STR-PCR every 6 months as the MRD marker",
+        "One NGS chimerism test; any recipient signal means relapse",
+        "Marrow chimerism only if GVHD develops"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: serial CD34+ chimerism, combined with MRD",
+      "explanation": "Whole-blood STR-PCR detects only about 1% recipient cells and is not an MRD tool. Without a disease marker, chimerism in sorted CD34+ cells anticipates relapse in many AML and MDS patients. The interval from mixed chimerism to relapse is short, so tests must be serial and frequent.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。58 歲男性 AML，normal karyotype，沒有可追蹤的分子 marker，在 CR1 接受 RIC matched sibling 移植。Day +60 的 whole-blood STR-PCR 是 100% donor。接下來怎麼追最符合書上的建議？",
+          "五個選項分別是停止追蹤、分選 CD34+ 連續追、每半年 whole blood、單次 NGS，以及只在 GVHD 時測骨髓。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。這位病人沒有疾病特異的 marker，whole blood STR-PCR 只能看到大約 1%，100% donor 並不代表沒有殘存的 leukaemia。測 sorted CD34+ 細胞的 chimerism，可以在很多 AML 和 MDS 病人提早看到 relapse，而且要短間隔、連續地測，有 MRD 方法時一起判讀。",
+          "A 和 C 犯的是同一個錯，把 whole-blood chimerism 當 MRD。D 的問題在於 NGS 太敏感，大多數樣本都會測到一點 recipient 細胞，單次結果要放回臨床情境，而且重點在趨勢。E 把追蹤和 GVHD 綁在一起，沒有依據。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: name the cause of late cytopenia",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "stem": "A 50-year-old woman with AML received a matched unrelated PBSC graft. Neutrophils recovered on day +16 and platelets on day +24. At day +100 she needs platelets twice weekly and G-CSF. Marrow shows no leukaemia; CMV PCR negative; no myelotoxic drugs. Donor chimerism is 99% in T cells and granulocytes. Which is correct?",
+      "options": [
+        "Secondary graft failure; proceed to a second allo-HCT",
+        "Graft rejection; give donor lymphocyte infusion",
+        "Poor graft function; CD34 boost if initial measures fail",
+        "Mixed chimerism; taper immunosuppression rapidly",
+        "Primary graft failure; reinfuse cryopreserved autologous cells"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: full donor chimerism makes this poor graft function",
+      "explanation": "Transfusion or growth-factor dependence with donor chimerism at target and no relapse, drug or infection defines poor graft function. Secondary GF and rejection require loss of donor haematopoiesis. After initial measures (TPO agonist trial), a CD34 boost after about 2–3 months without improvement is supported.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。50 歲女性 AML，matched unrelated PBSC 移植。Neutrophil day +16 恢復，血小板 day +24 恢復。到 day +100，每週要輸兩次血小板，也需要 G-CSF。骨髓沒有 leukaemia，CMV PCR 陰性，沒有骨髓毒性藥物。T cell 和 granulocyte 的 donor chimerism 都是 99%。哪一個敘述正確？",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C，poor graft function。她曾經達到 neutrophil 和 platelet recovery，後來變成輸血和 G-CSF 依賴，但 donor chimerism 在兩個 lineage 都是 99%，又排除了 relapse、藥物和感染，完全符合定義。",
+          "最常被選的是 A。Secondary GF 的前提是 chimerism 證實 donor 造血流失，這位病人沒有，所以不需要二次移植。B 的 rejection 一樣會看到 chimerism 下降。D 的 chimerism 不是 mixed。E 的時間點不對，凍存自體細胞也不是書上建議的做法。",
+          "處理上先做初步措施，可以試 TPO agonist，兩到三個月沒有改善再考慮 CD34 boost。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: prepare a haploidentical HCT with DSA",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "stem": "A 46-year-old woman with high-risk AML has had three pregnancies. She has no matched donor; her only donor is a haploidentical son. Solid-phase testing finds an antibody against the son's HLA with MFI 8,000, and a C1q assay is positive. Which approach is most appropriate?",
+      "options": [
+        "Proceed unchanged; the MFI threshold is not validated",
+        "Desensitise with plasmapheresis, rituximab and IVIg before HCT",
+        "Use an ex vivo T-cell-depleted graft to prevent rejection",
+        "Choose bone marrow rather than peripheral blood",
+        "Intensify the myeloablative conditioning regimen"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: a complement-fixing DSA needs desensitisation",
+      "explanation": "MFI > 5000 with a positive complement assay marks a high-risk DSA. With no alternative donor, desensitisation (plasmapheresis, rituximab 375 mg/m², IVIg or donor-antigen platelets) is reasonable. TCD and BM raise GF risk; stronger MAC does not lower it.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。46 歲女性，high-risk AML，懷孕過三次。沒有 matched donor，唯一的 donor 是 haploidentical 的兒子。Solid-phase 檢測發現針對兒子 HLA 的抗體，MFI 8,000，C1q assay 陽性。哪一個做法最適當？",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。MFI 超過 5000，又能結合補體，是 GF 風險最高的 DSA。能換 donor 時避開最簡單，但這位病人沒有其他選擇，書上認為對高風險病人做 desensitisation 是合理的，可以用 plasmapheresis、rituximab 375 mg/m²、IVIg，或帶 donor 抗原的血小板。",
+          "A 雖然點出 MFI 切點沒有完整驗證，但 complement assay 陽性已經讓風險很明確。C 的 ex vivo TCD 和 D 的 bone marrow 都會增加 GF。E 也不對，加強 MAC 強度不會降低 GF。經產婦配子女是 DSA 最典型的組合，看到就要想到。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Graft failure · Second HCT outcomes",
+      "title": "Second allografts for graft failure engraft in most but cure a minority",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Study", "n (1° / 2° GF)", "Source", "Engrafted (day)", "OS"],
+      "rows": [
+        ["Gaziev 1999, thalassaemia", "32 (4 / 28)", "All BM", "67.7% (+19)", "60% at 3 y"],
+        ["Guardiola 2000", "82 (7 / 54)", "72 BM, 10 PB", "62% (+17)", "33% at 3 y"],
+        ["Gyurkocza 2009", "38 (18 / 20)", "36 PB, 1 BM, 1 CB", "87% (+15)", "42% at 4 y"],
+        ["Schreiber 2010", "122 (122 / 0)", "60 PB, 62 CB", "66%", "11% at 1 y"],
+        ["Fuji 2012", "220 (200 / 19)", "24 PB, 16 BM, 180 CB", "CB 30%; PB-BM 70–75%", "1 y: PB 58%, CB 28%"],
+        ["Ferrá 2014", "89 (49 / 40)", "61 PB, 6 BM, 8 CB", "85% (+15)", "31% at 5 y"],
+        ["Nagler 2023, acute leukaemia", "243 (all 1°)", "—", "77.3%", "30.7% at 5 y"]
+      ],
+      "colW": [3.2, 2.0, 2.4, 2.2, 1.9],
+      "fontSize": 14,
+      "notes": {
+        "script": [
+          "這是 Table 41.4 挑出的幾個系列。多數二次移植的 engraftment 在 60 到 90%，但長期 OS 大約三成。Fuji 的日本資料顯示，cord blood GF 之後的救援移植，用 PB 比用 cord blood 好。"
+        ],
+        "reminders": [
+          "Fuji 2012 is printed as 220 patients (1°, 200; 2°, 19), which sums to 219; shown as printed."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Graft failure · Conditioning",
+      "title": "More intense myeloablation does not prevent graft failure",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41",
+      "head": ["Conditioning question", "Ch. 41 statement"],
+      "rows": [
+        ["Higher-intensity MAC", "Does not reduce GF"],
+        ["RIC", "May be associated with higher GF risk"],
+        ["TBI", "Thought to reduce GF; no comparative studies confirm it"],
+        ["CY plus full-dose TBI vs BU", "No apparent reduction in GF"],
+        ["ATG with CY, aplastic anaemia", "Seems to reduce GF"],
+        ["2 Gy TBI added to FLU/CY, aplastic anaemia", "Did not reduce GF"]
+      ],
+      "colW": [5.4, 6.0],
+      "fontSize": 17,
+      "notes": {
+        "script": [
+          "Conditioning 和 GF 的關係。MAC 再加強也不會減少 GF，RIC 可能增加。TBI 一般認為有幫助，但沒有比較性研究證實。Aplastic anaemia 用 CY 加 ATG 似乎能減少 GF，FLU/CY 再加 2 Gy TBI 則沒有效果。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "Graft failure · Causes",
+      "title": "Graft failure has immune, cellular, stromal and toxic causes",
+      "cite": "Valcárcel D, et al. EBMT Handbook 8th ed. 2024; Ch. 41 (Fig. 41.1)",
+      "fig": "ch41-fig1",
+      "alt": "Seven causes converge on graft failure: immune rejection, low CD34, insufficient conditioning, donor HSC abnormalities, host microenvironment abnormalities, drugs and infections.",
+      "caption": "Fig. 41.1: immune rejection, low CD34 dose, insufficient conditioning, abnormal donor HSC, abnormal host microenvironment, drugs and infections. Most cases are multifactorial.",
+      "notes": {
+        "script": [
+          "Fig. 41.1 把 GF 的原因畫成七個來源，免疫排斥、CD34 不足、conditioning 不夠、donor 幹細胞異常、host 微環境異常、藥物和感染。多數病人不只一個原因，所以處理時要同時檢查。"
+        ]
+      }
+    }
+  ]
+}

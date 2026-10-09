@@ -1,0 +1,559 @@
+{
+  "id": "s11",
+  "slug": "invasive-fungal",
+  "title": "Invasive fungal diseases",
+  "subtitle": "Session 11 · Ch. 37",
+  "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+  "refsPerSlide": 6,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位早安，今天是第 11 堂，主題是 invasive fungal diseases，對應 EBMT Handbook 第 37 章。這次單獨一堂，會把 biomarker、分時期的預防和各菌種的首選藥講細一點；發燒的初步處置請參考第 10 堂。最後一樣有三題考題。"
+    ]
+  },
+  "references": [
+    "1. Maertens JA. Invasive fungal diseases. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 321–9. https://doi.org/10.1007/978-3-031-44080-9_37",
+    "2. Cesaro S, Tridello G, Blijlevens NS, et al. Incidence, risk factors and long-term outcome of acute Leukemia patients with early candidemia after allogeneic stem cell transplantation. a study by the acute Leukemia and infectious diseases working parties of EBMT. Clin Infect Dis 2018. https://doi.org/10.1093/cid/ciy150. [Epub ahead of print].",
+    "3. Yang J, Zhang J, Wei J, et al. Prolonged duration of lymphocyte deficiency, high-grade CRS, and ventilation are linked to fungal breakthrough in patients with hematologic malignancies 60 days after CAR-T infusion: a single center case-control study. J Infect Public Health. 2022;12:1521–30.",
+    "4. White PL, Barnes RA, Springer JS, et al. Clinical performance of aspergillus PCR for testing serum and plasma: a study by the European aspergillus PCR initiative. J Clin Microbiol. 2015;53:2832–7.",
+    "5. Mylonakis E, Clancy CJ, Ostrosky-Zeichner L, et al. T2 magnetic resonance assay for the rapid diagnosis of candidemia in whole blood: a clinical trial. Clin Infect Dis. 2015;60:892–9.",
+    "6. Maertens J, Lodewyck T, Donnelly JP, et al. Empiric vs preemptive antifungal strategy in high-risk neutropenic patients on fluconazole prophylaxis: a randomized trial of the European Organization for Research and Treatment of Cancer. Clin Infect Dis. 2023;76(4):674–82.",
+    "7. Tissot F, Agrawal S, Pagano L, et al. ECIL-6 guidelines for the treatment of invasive candidiasis, aspergillosis and mucormycosis in leukemia and hematopoietic stem cell transplant patients. Haematologica. 2017;102:433–44.",
+    "8. Maertens JA, Raad II, Marr KA, et al. Isavuconazole versus voriconazole for primary treatment of invasive mould disease caused by aspergillus and other filamentous fungi (SECURE): a phase 3, randomised-controlled, non-inferiority trial. Lancet. 2016c;387:760–9.",
+    "9. Maertens JA, Rahav G, Lee DG, et al. Posaconazole versus voriconazole for primary treatment of invasive aspergillosis: a phase 3, randomised, controlled, non-inferiority trial. Lancet. 2021;397(10273):499–509.",
+    "10. Marr KA, Schlamm HT, Herbrecht R, et al. Combination antifungal therapy for invasive aspergillosis: a randomized trial. Ann Intern Med. 2015;162:81–9.",
+    "11. Andes DR, Safdar N, Baddley JW, et al. Impact of treatment strategy on outcomes in patients with candidemia and other forms of invasive candidiasis: a patient-level quantitative review of randomized trials. Clin Infect Dis. 2012;54:1110–22.",
+    "12. Maschmeyer G, Helweg-Larsen J, Pagano L, et al. ECIL guidelines for treatment of pneumocystis jirovecii pneumonia in non-HIV-infected haematology patients. J Antimicrob Chemother. 2016;71:2405–13."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Outline",
+      "title": "Four parts, from who is at risk to which drug to give",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "rows": [
+        ["Epidemiology and risk periods", "Incidence by donor type, three risk windows, CAR-T recipients", "3 min"],
+        ["Diagnosis", "GM cut-offs, false results, BDG, PCR, yeast and PJP tests, CT signs", "7 min"],
+        ["Prophylaxis", "Phase-specific ECIL grades, GVHD, PJP", "3.5 min"],
+        ["Treatment and three board questions", "Strategies, aspergillosis, mucormycosis, Candida, PJP, TDM", "14 min"]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分成四段。第一段是流行病學，看哪一種移植的 IFD 風險最高，以及移植後三個風險時期，順帶提 CAR-T 病人。",
+          "第二段是診斷，份量最重。Galactomannan 的 cutoff、GM 和 β-D-glucan 的偽陽性與偽陰性、PCR、Candida 和 PJP 的檢驗，以及 CT 上的徵象，都是常考題。",
+          "第三段是預防。ECIL 的建議是分時期的，pre-engraftment 和有 GVHD 的時期用藥不同，再加上 PJP 預防。",
+          "最後一段是治療，包括 empirical、pre-emptive 和 directed 三種策略，各菌種的首選藥，以及 azole 的 TDM 目標，再用三題考題收尾。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Epidemiology and risk",
+      "eyebrow": "IFD · Epidemiology",
+      "title": "IFD is most frequent after unrelated, mismatched, haplo and cord HCT",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Setting", "Incidence or outcome"],
+      "colW": [5.5, 6.5],
+      "fontSize": 17,
+      "rows": [
+        ["Unrelated or mismatched allo-HCT", "8–10% at 12 months"],
+        ["Matched related allo-HCT", "6% at 12 months"],
+        ["Autologous HCT", "< 2% at 12 months"],
+        ["Haploidentical HCT, cord blood", "Up to 17%"],
+        ["Candidaemia by day +100 (EBMT, Cesaro 2018)", "1.2%; independent risk factor for NRM and OS"],
+        ["Invasive mould disease", "Crude mortality up to 60%"]
+      ],
+      "caption": "Proven or probable IFD independently predicts 1-year mortality after allo-HCT",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "先看發生率。12 個月的累積發生率，unrelated 或 mismatched 的 allo-HCT 大約 8 到 10%，matched related 約 6%，autologous 不到 2%。Haploidentical 和 cord blood 的報告最高可以到 17%。",
+          "Candida 的部分，在還沒有預防的年代，18 到 20% 的移植病人會發生 Candida 感染。Fluconazole 預防普及之後大幅下降，EBMT 的研究顯示 day 100 前 candidemia 只剩 1.2%，但它仍然是 NRM 和 OS 的獨立危險因子。",
+          "Mould infection 則越來越多，以 Aspergillus 為主，Mucorales 和 Fusarium 等 non-Aspergillus mould 少很多。Invasive mould disease 的 crude mortality 可以高到 60%。",
+          "Proven 或 probable IFD 是 allo-HCT 後一年死亡的獨立預測因子。Aspergillus、Candida 和 Pneumocystis 加起來，佔移植後 IFD 將近 90%。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "IFD · Risk periods",
+      "title": "IFD risk follows three periods after allogeneic HCT",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "steps": [
+        "Pre-engraftment: neutropenia, mucosal damage",
+        "Day +40 to +100: aGVHD, viral reactivation",
+        "Beyond day +100: cGVHD, slow immune recovery"
+      ],
+      "invert": 1,
+      "caption": "After CAR-T (Yang 2022): mechanical ventilation, high-grade CRS and prolonged lymphocyte deficiency within 60 days raise IFD risk",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "IFD 的風險分成三個時期。第一個是 pre-engraftment，neutropenia 和 mucosal damage 最嚴重，酵母菌從導管或腸道 translocation 進入血流，mould 則趁 neutrophil 缺乏時入侵。",
+          "第二個是 early post-engraftment，大約 day 40 到 day 100。這時 neutrophil 已經回來，但 acute GVHD 和病毒再活化最常見，T-cell immunity 有缺陷，再加上 steroid。書上的 key point 提醒，大部分 IFD 其實是在 engraftment 之後、GVHD 發作期間診斷的，所以這一格用黑底標出來。",
+          "第三個是 day 100 以後，chronic GVHD、免疫重建延遲，偶爾還有 secondary neutropenia。義大利 GITMO 也整理了各時期的危險因子。",
+          "CAR-T 病人另外看。輸注後 60 天內，需要機械通氣、高級別 CRS 和長時間淋巴球低下是主要危險因子。不過在 CAR-T 病人，IFD 並不是一年內死亡的危險因子，這點和 allo-HCT 不同。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Diagnosis",
+      "eyebrow": "Diagnosis · Galactomannan",
+      "title": "Serum GM is positive at ≥0.7 once or ≥0.5 on consecutive samples",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Specimen or assay", "Positivity", "Comment"],
+      "colW": [3.4, 4.4, 4.4],
+      "fontSize": 15,
+      "rows": [
+        ["Serum or plasma GM, early studies", "Index ≥ 1.5", "Older, less sensitive cut-off"],
+        ["Serum or plasma GM, ECIL", "Single ≥ 0.7 or consecutive ≥ 0.5", "Earlier detection, lower specificity"],
+        ["BAL fluid GM", "Index 1.0 recommended", "Higher threshold probably needed"],
+        ["CSF GM", "Index 1.0 suggested", "Suspected cerebral aspergillosis"],
+        ["Lateral flow assays", "Rapid single-sample, blood or BAL", "Each assay differs; verify locally"],
+        ["Cross-reactivity", "Fusarium, Penicillium, Acremonium,\nAlternaria, Histoplasma", "Mucorales are not detected"]
+      ],
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Mould infection 的診斷靠病理、影像和微生物檢查。病理雖然是 gold standard，但病人常有凝血問題，很少做切片，所以大多數 mould disease 只能歸為 probable 或 possible。培養又慢，血液培養對 mould 幾乎都是陰性，呼吸道檢體的 sensitivity 也只有低到中等。這就是 biomarker 這麼重要的原因。",
+          "Galactomannan 是黴菌細胞壁的分子，生長時會釋放出來，用 Platelia EIA 測。早期研究用 1.5 當 cutoff，ECIL 現在的定義是單次 serum 或 plasma 0.7 以上，或連續兩次 0.5 以上。Cutoff 降低之後，可以在臨床症狀和影像出現之前就抓到感染，代價是 specificity 下降。這兩個數字是考試最愛考的。",
+          "GM 也可以驗 BAL，建議 cutoff 是 1.0，但作者認為實際可能需要更高。懷疑 cerebral aspergillosis 時，CSF 也有人建議用 1.0。",
+          "Lateral flow assay 可以快速測單一檢體，但各家抗體和判讀標準不同，有些幾乎沒有驗證資料，實驗室要自己做 verification。",
+          "GM 會和 Fusarium、Penicillium、Histoplasma 等交叉反應，但偵測不到 Mucorales。GM 陰性不能排除 mucormycosis。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Diagnosis · Table 37.1",
+      "title": "GM and BDG have predictable false-positive and false-negative results",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["", "Galactomannan", "β-D-glucan"],
+      "colW": [3.0, 4.6, 4.6],
+      "fontSize": 15,
+      "rows": [
+        ["False positive · drugs", "Semi-synthetic β-lactams\n(much less often now)", "Semi-synthetic β-lactams"],
+        ["False positive · products", "Fresenius Kabi bag blood products;\ngluconate expanders; enteral feeds", "Cellulose-filtered IVIg, albumin, plasma;\ndialysis membranes; gauze"],
+        ["False positive · patient", "Myeloma; severe mucositis or gut GVHD;\nBifidobacterium in the gut", "Bacteraemia, e.g. Pseudomonas\naeruginosa"],
+        ["False negative", "Mould-active antifungals;\nmucolytic agents", "Concomitant antifungal agents"],
+        ["Not detected", "Mucorales", "Mucorales, some Cryptococcus"]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是 Table 37.1，兩種抗原檢驗的陷阱。Semi-synthetic β-lactam 兩者都會造成偽陽性，例如 amoxicillin-clavulanate 和 piperacillin/tazobactam，不過書上說這個問題現在比以前少很多。",
+          "GM 的偽陽性還包括 Fresenius Kabi 血袋收集的血品、含 gluconate 的輸液或冰品、enteral nutrition，以及病人本身的 myeloma、嚴重 mucositis、腸道 GVHD 和腸道的 Bifidobacterium。BDG 的偽陽性則來自經 cellulose 過濾的 IVIg、albumin、plasma，cellulose 透析膜、紗布，以及 Pseudomonas 這類細菌菌血症。",
+          "偽陰性方面，GM 在使用 mould-active 抗黴菌藥或 mucolytic 時會偏低，BDG 則是任何抗黴菌藥都會影響。病房最常遇到的是病人正在吃 posaconazole 預防，GM 一直陰性，這時陰性結果的意義有限。",
+          "兩者都測不到 Mucorales，BDG 也測不到部分 Cryptococcus。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Diagnosis · Other tests",
+      "title": "BDG, PCR and yeast tests each fill a different diagnostic gap",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Test", "Strength", "Limitation"],
+      "colW": [3.3, 4.6, 4.3],
+      "fontSize": 14,
+      "rows": [
+        ["β-D-glucan (Fungitell; WAKO)", "Broad: Candida, Aspergillus, Fusarium,\nPJP; NPV around 80–90%", "Poor specificity and PPV;\nmisses Mucorales"],
+        ["Aspergillus PCR", "Protocols standardised by EAPCRI", "Long held back by lack of\nstandardisation"],
+        ["Blood culture for Candida", "Gold standard; species and\nsusceptibility", "2–5 days; low sensitivity in\nchronic disseminated candidiasis"],
+        ["T2Candida panel", "Species in < 5 h; NPV ≈ 100% at\n5–10% prevalence", "Detects only five Candida species"],
+        ["Cryptococcal antigen", "Very sensitive", "Use when meningitis is suspected"],
+        ["PJP: immunofluorescence;\nBAL real-time PCR", "Most sensitive microscopy;\nnegative PCR rules out PJP", "Positive PCR may be colonisation"],
+        ["PJP: serum BDG", "Supports the diagnosis", "False negatives occur;\nother fungi also positive"]
+      ],
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "β-D-glucan 是很多真菌細胞壁的成分，涵蓋 Candida、Aspergillus、Fusarium 和 Pneumocystis，例外是 Mucorales 和部分 Cryptococcus。Fungitell 是 FDA 核准的版本，WAKO 則是單一檢體的平台。BDG 的 sensitivity 不錯，但 specificity 和 PPV 很差，它真正的價值是陰性，negative predictive value 大約 80 到 90%。",
+          "Aspergillus PCR 過去因為缺乏標準化而推不動，現在 EAPCRI 已經把 DNA 萃取和擴增流程標準化了。",
+          "Candida 的 gold standard 還是血液培養，但要 2 到 5 天，對 chronic disseminated candidiasis 的 sensitivity 尤其低。T2Candida 直接驗全血，5 小時內就能鑑定菌種，在 candidemia 盛行率 5 到 10% 的族群，NPV 幾乎 100%，缺點是只測五種 Candida。懷疑 cryptococcal meningitis 時，cryptococcal antigen 非常敏感。",
+          "PJP 的部分，immunofluorescence 是最敏感的顯微鏡方法。BAL 的 real-time PCR 陰性可以排除 PJP，陽性則可能只是 colonisation，要配合臨床。Serum BDG 陽性可以輔助診斷，但也有偽陰性，而且其他黴菌也會陽性。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Diagnosis · Imaging",
+      "title": "CT signs change over time and can point to Mucorales",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "root": "Thin-section multislice CT (or CT pulmonary angiography)",
+      "branches": [
+        {"label": "Early infection", "box": "Nodule with or without halo sign", "out": "Suggests invasive mould disease"},
+        {"label": "Neutrophil recovery", "box": "Air crescent sign", "out": "Usually a good outcome"},
+        {"label": "Mucorales clue", "box": "Reversed (inversed) halo sign", "out": "More suggestive of mucormycosis"}
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "傳統 X 光的 sensitivity 和 specificity 都太低，無法診斷也無法排除黴菌感染。現在首選是 thin-section multislice CT，CT pulmonary angiography 也越來越常用。Key point 也提醒，除了胸部，sinus CT 一樣重要。",
+          "Nodule 不論有沒有 halo sign，都提示 invasive mould disease。Halo sign 出現在感染早期，之後病灶就變得不具特異性，所以 CT 要早做。Neutrophil 恢復之後可能出現 air crescent sign，通常代表預後好，不是惡化。",
+          "Reversed halo sign，書上寫作 inversed halo，比較傾向 mucormycosis。這一點很重要，因為 voriconazole 對 Mucorales 無效，而 GM 也測不到 Mucorales，影像常常是唯一的線索。",
+          "FDG PET/CT 在複雜感染的診斷和追蹤上，角色也越來越多。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Prophylaxis",
+      "eyebrow": "Prophylaxis · Pre-engraftment",
+      "title": "Pre-engraftment prophylaxis depends on the centre's mould incidence",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Agent", "Dose", "ECIL grade or condition"],
+      "colW": [3.2, 4.4, 4.6],
+      "fontSize": 14,
+      "rows": [
+        ["Fluconazole", "400 mg/day", "Only if mould rate < 5% plus\nmould-directed work-up or therapy"],
+        ["Itraconazole", "200 mg IV q24h, then oral\nsolution 200 mg q12h", "B-I; better mould protection,\nlimited by toxicity"],
+        ["Voriconazole", "400 mg/day after loading", "B-I; no FFS, OS or IFD gain\nover fluconazole"],
+        ["Micafungin", "50 mg IV q24h", "B-I if mould rate low;\nC-I if high"],
+        ["Posaconazole", "Solution 200 mg q8h, or tablet/IV\n300 mg q24h after 300 mg q12h day 1", "B-II; inferred from AML/MDS\nneutropenia data"],
+        ["Aerosolised L-AmB + fluconazole", "—", "Not for low-incidence centres;\nB-II in higher-risk centres"],
+        ["IV liposomal AmB", "—", "C-II"]
+      ],
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "ECIL 的預防建議分時期。Pre-engraftment 的 neutropenic phase，fluconazole 400 mg/day 仍可使用，但只限 mould infection 發生率低於 5% 的中心，而且一定要搭配 mould-directed 的策略，也就是 biomarker 或 CT 監測，或 empirical therapy。發生率較高的中心要改用其他藥。",
+          "Itraconazole 先 IV 200 mg 每天一次，再改 oral solution 200 mg 每 12 小時，對 mould 的保護比 fluconazole 好，但毒性和耐受性限制了它。Voriconazole 400 mg/day 對比 fluconazole，fungal-free survival、OS、IFD 都沒有差別；對比 itraconazole 雖然 composite endpoint 較好，但主要是因為能吃比較久，不是效果更好。兩者都是 B-I。",
+          "Micafungin 50 mg 在低 mould 發生率的中心是 B-I，高發生率是 C-I，因為那個試驗低風險病人太多，也沒有預先規定的診斷流程。Posaconazole 在這個時期沒有直接研究，是從 AML/MDS 的資料推論來的，B-II。劑量要記，oral solution 200 mg 每 8 小時，tablet 或 IV 300 mg 每天一次，第一天先 300 mg 每 12 小時 loading。",
+          "Aerosolised liposomal amphotericin B 加 fluconazole，在高風險中心是 B-II，IV liposomal amphotericin B 則是 C-II。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Prophylaxis · GVHD and PJP",
+      "title": "Posaconazole covers GVHD and TMP/SMX covers PJP while IST lasts",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Situation", "Recommendation", "Note"],
+      "colW": [3.6, 4.4, 4.2],
+      "fontSize": 15,
+      "rows": [
+        ["High-risk GVHD, post-engraftment", "Posaconazole (A-I)", "Large double-blind trial"],
+        ["High-risk GVHD, post-engraftment", "Fluconazole strongly discouraged", "High mould risk and mortality"],
+        ["Chronic GVHD subgroup", "Posaconazole", "No difference shown in the trial"],
+        ["PJP, primary prophylaxis", "Oral TMP/SMX 2–3 times weekly", "Engraftment to ≥ 6 months and\nwhile IST continues"],
+        ["PJP, TMP/SMX not tolerated", "Pentamidine, atovaquone, dapsone", "Second-line alternatives"],
+        ["Environment", "HEPA rooms or portable HEPA filters", "No cover in the outpatient period"]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Engraftment 之後，有 GVHD 的病人 mould infection 的風險和死亡率都明顯上升。ECIL 強烈反對在 high-risk GVHD 的病人用 fluconazole 預防。首選是 posaconazole，oral solution 或 tablet、IV 都可以，等級 A-I，證據來自一個大型 double-blind 研究。不過在 chronic GVHD 這個次族群，研究沒有看到差別。",
+          "考試最常見的情境，就是 acute GVHD 開始用高劑量 steroid，病人卻還停在 fluconazole，正確答案是換成 posaconazole。",
+          "PJP 預防首選 oral TMP/SMX，一週兩到三次，從 engraftment 開始至少到 6 個月，只要免疫抑制還在就繼續。Pentamidine，不論吸入或靜脈，以及 atovaquone、dapsone，都是 TMP/SMX 不能用時的二線選擇。",
+          "HEPA 病房可以減少院內吸入孢子，但很多 IFD 發生在出院後的門診期間，這時環境措施就幫不上忙。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Treatment",
+      "eyebrow": "Treatment · Strategy",
+      "title": "Diagnostic-driven therapy cuts antifungal use without raising mortality",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "root": "High-risk neutropenia with fever on antibacterials",
+      "branches": [
+        {"label": "Empirical", "box": "Fever after 5–7 days of antibiotics", "out": "Caspofungin 70→50 mg or L-AmB 3 mg/kg (A-I)"},
+        {"label": "Pre-emptive", "box": "Positive GM, BDG, PCR or CT lesion", "out": "Same day-42 mortality, less antifungal use"},
+        {"label": "Directed", "box": "Proven or probable IFD", "out": "Drug chosen by the pathogen"}
+      ],
+      "invert": 1,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "除了預防，治療有三種策略。Empirical 是傳統做法，profound、prolonged neutropenia 在適當抗細菌治療 5 到 7 天後仍持續或再度發燒，就開廣效抗黴菌藥。這個做法從來沒有強力證據，會造成過度治療、毒性和花費，但在沒有影像和黴菌檢驗的中心仍是依靠。若採用，ECIL 建議 caspofungin 第一天 70 mg、之後每天 50 mg，或 liposomal amphotericin B 3 mg/kg，兩者都是 A-I。",
+          "Pre-emptive，也叫 diagnostic-driven，只有在 GM、BDG、PCR 篩檢陽性，或影像出現可疑病灶時才治療。EORTC 的 randomized trial，Maertens 2023，比較兩種策略，day 42 全死因死亡率和黴菌感染率沒有差別，但 pre-emptive 組抗黴菌藥的使用明顯減少。前提是中心每週做兩次 non-culture-based testing，而且隨時排得到 CT。",
+          "Directed therapy 則用在 proven 或 probable IFD，藥物依菌種決定，接下來幾張一一整理。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Treatment · Aspergillosis",
+      "title": "Voriconazole, isavuconazole or posaconazole is first line for aspergillosis",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Option", "Dose or evidence", "Point to remember"],
+      "colW": [3.3, 4.6, 4.3],
+      "fontSize": 14,
+      "rows": [
+        ["Voriconazole (A-I)", "6 mg/kg twice on day 1,\nthen 4 mg/kg twice daily", "TDM; check drug–drug interactions"],
+        ["Isavuconazole (A-I)", "200 mg t.i.d. for 2 days,\nthen 200 mg daily", "SECURE: as effective as voriconazole,\nday-42 mortality ≈ 20%; better tolerated"],
+        ["Posaconazole", "Maertens 2021: as effective as\nvoriconazole, safer", "Now a drug of choice;\nlimited CNS penetration"],
+        ["Azole + echinocandin upfront", "Marr 2015: not superior\nto monotherapy", "Not recommended"],
+        ["Liposomal AmB 3 mg/kg (B-I)", "Alternative primary therapy", "Azole intolerance, interactions,\nprior azole, azole resistance"],
+        ["AmB deoxycholate", "A-I against", "Less effective and more toxic"]
+      ],
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Invasive aspergillosis 的 first-line 是 voriconazole 或 isavuconazole，cerebral aspergillosis 也包括在內，ECIL-6 都是 A-I。Voriconazole 第一天 6 mg/kg 一天兩次，之後 4 mg/kg 一天兩次，要做 TDM，也要查 drug interaction。Isavuconazole 是 200 mg 一天三次共兩天，之後每天 200 mg。",
+          "SECURE trial 比較這兩個藥，效果相同，day 42 all-cause mortality 都在 20% 左右，isavuconazole 的肝毒性較少，drug interaction 也少一些。2021 年 posaconazole 對比 voriconazole 的試驗，效果相當、安全性較好，所以 posaconazole 現在也是首選之一，只是 CNS 穿透有限，腦部感染不適合。",
+          "Upfront 合併 azole 加 echinocandin，Marr 2015 的試驗沒有證實優於單藥，所以不建議。不能用 azole 的時候，liposomal amphotericin B 3 mg/kg 是替代的 primary therapy，理由包括不耐受、drug interaction、之前用過廣效 azole 預防，或證實 azole resistance。Azole resistance 在部分歐洲中心正在增加。",
+          "Conventional amphotericin B deoxycholate 是 A-I 反對使用，效果較差、毒性較高。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Treatment · Aspergillosis course",
+      "title": "Aspergillosis therapy lasts 6–12 weeks, and early CT growth is expected",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "steps": [
+        "Week 1: lesions may grow; not failure",
+        "Falling serum GM tracks response",
+        "Treat for 6–12 weeks",
+        "Secondary prophylaxis while IST continues"
+      ],
+      "invert": 0,
+      "caption": "Salvage therapy: global response about 40%, whatever the drug. Expert guidance on when to switch: Slavin 2021",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "治療開始後的第一週，CT 上的肺部病灶常常會變大，這是疾病本身的動力學，和預後不好沒有關係，不要因此判定失敗而換藥。",
+          "如果基線 serum GM 是升高的，GM 下降和治療反應相關，可以拿來追蹤。療程通常 6 到 12 週，結束時若仍在用免疫抑制，要接 secondary prophylaxis。",
+          "Salvage therapy 不論用哪一種藥，global response 只有 40% 左右，所以第一線就選對藥最重要。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Treatment · Non-Aspergillus moulds",
+      "title": "Mucormycosis needs lipid amphotericin B; fusariosis needs voriconazole",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Mould", "First line", "Afterwards or alternative"],
+      "colW": [3.0, 4.7, 4.5],
+      "fontSize": 15,
+      "rows": [
+        ["Mucorales", "Lipid AmB 5–10 mg/kg + surgical\ndebridement + control of host factors", "Oral posaconazole or isavuconazole\nonce stable, guided by susceptibility"],
+        ["Mucorales (ECIL-6 table)", "L-AmB 5 mg/kg (B-II); preferred\nin CNS infection or renal failure", "Posaconazole first line C-III:\nno supporting data"],
+        ["Fusarium", "Voriconazole + surgical debridement", "Posaconazole as salvage"],
+        ["Scedosporium", "Voriconazole", "Lomentospora prolificans:\nno standard treatment"],
+        ["Acremonium, Scopulariopsis", "No established optimal therapy", "Olorofim in late-stage development"]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Mucormycosis 的治療有三個部分，控制基礎疾病、外科清創，以及抗黴菌藥。清創往往是破壞性的。第一線是 lipid-based amphotericin B，正文寫 5 到 10 mg/kg，ECIL-6 表格的 liposomal amphotericin B 寫 5 mg/kg，B-II，有 CNS 感染或腎衰竭時優先選它。病情穩定之後，可以改口服 posaconazole 或 isavuconazole 在門診繼續，最好依藥敏結果。Posaconazole 當第一線是 C-III，沒有資料支持。",
+          "Hyalohyphomycosis 是一群異質的黴菌。Fusariosis 第一線用 voriconazole，能清創就清創，posaconazole 當 salvage。Scedosporium 也用 voriconazole，但 Lomentospora prolificans 目前沒有標準治療。Acremonium 和 Scopulariopsis 的最佳治療還沒有定論。新藥 olorofim 對這些難治的黴菌活性很好，包括 Lomentospora，正在後期試驗。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Treatment · Candida and PJP",
+      "title": "Echinocandins treat candidaemia; high-dose TMP/SMX treats PJP",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Topic", "Recommendation", "Details"],
+      "colW": [3.2, 4.5, 4.5],
+      "fontSize": 15,
+      "rows": [
+        ["Candidaemia, invasive candidiasis", "Echinocandin first line", "Step down when stable, after\nspecies and susceptibility"],
+        ["Candidaemia: catheter and duration", "Remove the CVC (strongly advised)", "14 days after the last\npositive blood culture"],
+        ["Fluconazole-era species", "N. glabrata, C. krusei:\nfluconazole-resistant", "C. parapsilosis predominates\nin southern Europe, Asia"],
+        ["Candida auris", "Multidrug or pandrug resistance", "Misidentified; susceptibility\ntesting is vital"],
+        ["PJP", "High-dose TMP/SMX for 3 weeks", "Alternative: primaquine\n+ clindamycin"],
+        ["PJP: after treatment", "Secondary prophylaxis", "Glucocorticoids case by case"]
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Invasive candidiasis 和 candidemia 的第一線是 echinocandin，拿到菌種和藥敏之後，臨床穩定就可以 step-down。強烈建議拔除中心靜脈導管，療程是最後一次陽性血液培養之後 14 天，不是退燒後，也不是第一次陰性後。",
+          "Fluconazole 預防改變了菌種分布，從對 fluconazole 敏感的 C. albicans，轉為抗藥的 non-albicans，例如 Nakaseomyces glabrata，舊名 C. glabrata，以及 C. krusei。地區差異也要知道，C. parapsilosis 在南歐、亞洲和南美比較多。Candida auris 會多重甚至全抗藥，常被誤鑑定，所以藥敏試驗非常重要。",
+          "PJP 的治療是高劑量 TMP/SMX 三週，替代是 primaquine 加 clindamycin，治療完要接 secondary prophylaxis。要不要加類固醇，書上說個案決定。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "eyebrow": "Treatment · Drug monitoring",
+      "title": "Azole TDM targets are 1–6, 2–4, and above 0.7 or 1 mg/L",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "items": [
+        {"num": "1–6", "label": "Voriconazole plasma target, mg/L (prophylaxis and treatment)"},
+        {"num": "2–4", "label": "Isavuconazole target, mg/L"},
+        {"num": ">0.7/>1", "label": "Posaconazole plasma target, mg/L: prophylaxis / treatment"}
+      ],
+      "caption": "ECIL-6 recommends TDM because azole exposure and drug interactions are unpredictable",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "使用 azole 時，血中濃度和藥物交互作用都很難預測，所以 ECIL-6 建議做 therapeutic drug monitoring。",
+          "Voriconazole 不論預防或治療，目標都是 1 到 6 mg/L。Isavuconazole 是 2 到 4。Posaconazole 分兩個目標，預防大於 0.7，治療大於 1 mg/L。",
+          "這三組數字很容易出成選擇題。病房裡病人在 posaconazole 預防下突破感染時，先查濃度，再判斷是藥物失敗還是吸收不足。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: prophylaxis once GVHD appears",
+      "answerTitle": "Answer B: switch to posaconazole",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "stem": "A 42-year-old woman with AML is on day +38 after matched unrelated donor allo-HCT. She engrafted on day +18 and has received fluconazole 400 mg/day as antifungal prophylaxis. She now has grade III acute GVHD of the skin and gut and starts high-dose corticosteroids. What is the best antifungal prophylaxis from now on?",
+      "options": [
+        "Continue fluconazole 400 mg/day with weekly serum galactomannan",
+        "Switch to posaconazole, with a plasma target above 0.7 mg/L",
+        "Switch to micafungin 50 mg IV daily",
+        "Add aerosolised liposomal amphotericin B to fluconazole",
+        "Stop prophylaxis and start empirical therapy if fever recurs"
+      ],
+      "answer": "B",
+      "explanation": "In high-risk GVHD, ECIL strongly advises against fluconazole; posaconazole is the drug of choice (A-I, large double-blind trial). The prophylactic posaconazole target is > 0.7 mg/L. Micafungin and aerosolised L-AmB data come from the pre-engraftment phase.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。42 歲女性，AML，matched unrelated donor allo-HCT 後 day 38，day 18 engraft，一直用 fluconazole 400 mg 預防。現在出現皮膚和腸道的 grade III acute GVHD，開始高劑量 steroid。接下來抗黴菌預防該怎麼做？",
+          "選項有繼續 fluconazole 加每週驗 GM、換 posaconazole、換 micafungin、加吸入型 liposomal amphotericin B，以及停預防改 empirical。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。這位病人已經 engraft，正處在 GVHD 加 steroid 的時期，mould infection 的風險和死亡率都很高。ECIL 強烈反對這時繼續用 fluconazole，首選是 posaconazole，A-I，證據來自大型 double-blind 試驗。預防的濃度目標是大於 0.7 mg/L。",
+          "A 是主要陷阱。加驗 GM 的 mould-directed 策略，是給 pre-engraftment、低 mould 發生率的中心用的，不適用於 high-risk GVHD。C 和 D 的資料都來自 pre-engraftment 時期，micafungin 在高 mould 中心只有 C-I。E 停掉預防更不對，ECIL 對這個時期是強烈建議預防。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: a lung lesion with negative antigens",
+      "answerTitle": "Answer B: lipid amphotericin and surgery",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "stem": "A 57-year-old man on day +120 after haploidentical HCT receives corticosteroids for GVHD and voriconazole prophylaxis. He develops fever and facial pain. Chest CT shows a reversed halo sign; sinus CT shows maxillary opacification with bone erosion. Serum galactomannan is < 0.5 on two samples and β-D-glucan is negative. What is the most appropriate management?",
+      "options": [
+        "Switch to isavuconazole 200 mg t.i.d. for 2 days, then daily",
+        "Lipid amphotericin B 5–10 mg/kg plus surgical debridement",
+        "Caspofungin 70 mg on day 1, then 50 mg daily",
+        "Continue voriconazole; negative GM and BDG exclude mould disease",
+        "Add anidulafungin to voriconazole"
+      ],
+      "answer": "B",
+      "explanation": "A reversed halo sign suggests mucormycosis, which GM and BDG do not detect. Lipid amphotericin B 5–10 mg/kg with surgical debridement and control of the underlying condition is first line. Posaconazole or isavuconazole is used orally only after stabilisation.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。57 歲男性，haploidentical HCT 後 day 120，因 GVHD 在用 steroid，預防用 voriconazole。現在發燒、臉部疼痛，胸部 CT 有 reversed halo sign，鼻竇 CT 顯示上頜竇混濁合併骨頭侵蝕。兩次 serum GM 都低於 0.5，BDG 也是陰性。",
+          "選項有換 isavuconazole、lipid amphotericin B 加清創、caspofungin、繼續 voriconazole，以及加上 anidulafungin。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。Reversed halo sign 比較傾向 mucormycosis，而 GM 和 BDG 都偵測不到 Mucorales，所以抗原陰性一點也不能排除，D 錯。",
+          "Mucormycosis 的第一線是 lipid-based amphotericin B，5 到 10 mg/kg，加上外科清創和控制基礎疾病。A 是主要陷阱，isavuconazole 和 posaconazole 只在病情穩定後當口服的後續治療，不是第一線。C 和 E 的 echinocandin 都不是 mucormycosis 的治療。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: yeast in the blood during neutropenia",
+      "answerTitle": "Answer B: echinocandin, remove the line, 14 days",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "stem": "A 35-year-old woman with ALL is neutropenic on day +9 after myeloablative allo-HCT, on fluconazole prophylaxis, with a tunnelled central venous catheter. Blood cultures drawn on day +9 grow a yeast identified as Nakaseomyces (Candida) glabrata; cultures from day +11 onward are negative. Which management is most appropriate?",
+      "options": [
+        "Increase fluconazole to 800 mg/day and keep the catheter",
+        "Echinocandin, remove the catheter, treat 14 days after the last positive culture",
+        "Echinocandin, keep the catheter, stop at neutrophil recovery",
+        "Liposomal amphotericin B 3 mg/kg empirically for 7 days",
+        "Voriconazole, remove the catheter, treat for 6–12 weeks"
+      ],
+      "answer": "B",
+      "explanation": "Echinocandins are first line for candidaemia, with step-down once stable and susceptibilities known. N. glabrata is often fluconazole-resistant. Catheter removal is strongly recommended. Treat 14 days after the last positive blood culture (here to about day +23; speaker's arithmetic).",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。35 歲女性，ALL，myeloablative allo-HCT 後 day 9，仍在 neutropenia，用 fluconazole 預防，身上有 tunnelled CVC。Day 9 抽的血液培養長出酵母菌，鑑定為 Nakaseomyces glabrata，也就是舊稱的 Candida glabrata，day 11 之後的培養都是陰性。",
+          "選項包括 fluconazole 加量、echinocandin 加拔管、echinocandin 留管、liposomal amphotericin B 七天，以及 voriconazole 治療 6 到 12 週。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。Candidemia 的第一線是 echinocandin，強烈建議拔除導管，療程是最後一次陽性血液培養之後 14 天。最後一次陽性是 day 9，所以大約治療到 day 23，這是我自己的推算。",
+          "A 不對，N. glabrata 常常對 fluconazole 抗藥，而且病人就是在 fluconazole 預防下突破感染的。C 是主要陷阱，留著導管、用 neutrophil 恢復決定停藥，都不符合書上的建議。D 的劑量是 empirical 的做法，不是 documented candidemia 的治療。E 的 6 到 12 週是 aspergillosis 的療程。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · Table 37.2",
+      "title": "ECIL-6 grades the polyenes and second-line options for both moulds",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Drug", "Invasive aspergillosis", "Mucormycosis"],
+      "colW": [4.0, 4.1, 4.1],
+      "fontSize": 15,
+      "rows": [
+        ["Liposomal AmB", "B-I; 3 mg/kg/day", "B-II; 5 mg/kg/day; preferred in\nCNS infection or renal failure"],
+        ["AmB lipid complex", "B-II; 5 mg/kg/day", "B-II"],
+        ["AmB colloidal dispersion", "C-I; less nephrotoxic, not more\neffective than deoxycholate", "C-II"],
+        ["AmB deoxycholate", "A-I against: less effective,\nmore toxic", "C-II"],
+        ["Posaconazole", "Not in ECIL-6 table", "C-III: no data for first line"],
+        ["Caspofungin", "C-II", "—"],
+        ["Itraconazole", "C-III", "—"],
+        ["Combinations", "Anidulafungin + voriconazole C-I;\nothers C-III", "C-III"]
+      ],
+      "notes": {
+        "script": [
+          "這是 Table 37.2 中 voriconazole、isavuconazole 以外的部分。Aspergillosis 用 liposomal amphotericin B 3 mg/kg 是 B-I，mucormycosis 則是 5 mg/kg，B-II。",
+          "Posaconazole 治療 aspergillosis 是 2021 年試驗之後才加入的，所以不在 ECIL-6 表內。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · Prophylaxis trials",
+      "title": "Each pre-engraftment prophylaxis grade rests on a specific trial flaw",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "head": ["Comparison", "Result", "Why the grade"],
+      "colW": [3.6, 4.4, 4.2],
+      "fontSize": 15,
+      "rows": [
+        ["Voriconazole vs fluconazole", "No difference in FFS, OS, IFD,\nIA, empirical use or toxicity", "B-I"],
+        ["Voriconazole vs itraconazole\noral solution", "Better composite end point", "Driven by longer tolerated use,\nnot efficacy"],
+        ["Itraconazole vs fluconazole", "Better protection against moulds", "B-I; toxicity and tolerability"],
+        ["Micafungin vs fluconazole", "Favoured micafungin", "Low-risk population; no\npre-defined IFD work-up"],
+        ["Posaconazole", "No pre-engraftment HCT study", "B-II; AML/MDS data"]
+      ],
+      "notes": {
+        "script": [
+          "這張補充 pre-engraftment 預防各藥等級背後的試驗。Voriconazole 對 itraconazole 的優勢來自能用得比較久，不是效果較好；micafungin 的試驗低風險病人太多，所以高 mould 中心只給 C-I。"
+        ]
+      }
+    },
+    {
+      "type": "bullets",
+      "backup": true,
+      "eyebrow": "Backup · Novel agents",
+      "title": "Three novel antifungals are in clinical evaluation for HCT patients",
+      "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
+      "items": [
+        "Rezafungin: long-acting echinocandin, studied as prophylaxis",
+        "Olorofim: first-in-class orotomide for moulds with few options; not Mucorales",
+        "Olorofim is active against Lomentospora prolificans",
+        "Opelconazole: azole for inhalation, adjunct to salvage therapy",
+        "Azole resistance in Aspergillus is emerging in some European centres"
+      ],
+      "notes": {
+        "script": [
+          "書上 key point 列出三個新藥。Rezafungin 是長效 echinocandin，研究用在預防；olorofim 用於治療選擇有限的 mould，但不含 Mucorales；opelconazole 是吸入型 azole，當 salvage 的輔助。"
+        ]
+      }
+    }
+  ]
+}

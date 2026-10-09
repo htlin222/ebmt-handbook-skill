@@ -1,0 +1,584 @@
+{
+  "title": "HCT for Hodgkin lymphoma, indolent lymphoma and CLL",
+  "subtitle": "Session 29 · Ch. 89, 84 and 85",
+  "cite": "EBMT Handbook 8th ed. 2024; Ch. 89 (Martínez) · 84 (Serroukh) · 85 (Schetelig)",
+  "refsPerSlide": 7,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，今天是第 29 堂，主題是 Hodgkin lymphoma、indolent lymphoma 和 CLL 的移植，對應 EBMT Handbook 第 89、84、85 章。這三個病的病程都很長，新藥也多，移植的位置一直在被重新定義。今天每個疾病都回答同一組問題，什麼時候做 auto、什麼時候做 allo、什麼時候先用藥，最後一樣用三題 board-style 題目收尾。"
+    ]
+  },
+  "references": [
+    "1. Martínez C, Bazarbachi A, Sureda A. Classical Hodgkin's lymphoma. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 799–808. https://doi.org/10.1007/978-3-031-44080-9_89",
+    "2. Serroukh Y, Montoto S. Indolent lymphoma. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 763–9. https://doi.org/10.1007/978-3-031-44080-9_84",
+    "3. Schetelig J, Dreger P. Chronic lymphocytic leukemia. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 771–5. https://doi.org/10.1007/978-3-031-44080-9_85",
+    "4. Moskowitz CH, Nademanee A, Masszi T, et al. Brentuximab vedotin as consolidation therapy after autologous stem-cell transplantation in patients with Hodgkin's lymphoma at risk of relapse or progression (AETHERA): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2015;385:1853–62.",
+    "5. Smith EP, Li H, Friedberg JW, et al. Tandem autologous hematopoietic cell transplantation for patients with primary progressive or recurrent Hodgkin lymphoma: a SWOG and Blood and Marrow Transplant Clinical Trials Network Phase II Trial (SWOG S0410/BMT CTN 0703). Biol Blood Marrow Transplant. 2018;24:700–7.",
+    "6. Bazarbachi A, Boumendil A, Finel H, et al. The outcome of patients with Hodgkin lymphoma and early relapse after autologous stem cell transplant has improved in recent years. Leukemia. 2022;36:1646–53.",
+    "7. Bazarbachi A, Boumendil A, Finel H, et al. Brentuximab vedotin prior to allogeneic stem cell transplantation in Hodgkin lymphoma: a report from the EBMT Lymphoma Working Party. Br J Haematol. 2018;181:86–96.",
+    "8. Martínez C, Gayoso J, Canals C, et al. Post-transplantation cyclophosphamide-based haploidentical transplantation as alternative to matched sibling or unrelated donor transplantation for Hodgkin lymphoma: a registry study of the Lymphoma Working Party of the European Society for Blood and Marrow Transplantation. J Clin Oncol. 2017;35:3425–32.",
+    "9. Genadieva-Stavrik S, Boumendil A, Dreger P, et al. Myeloablative versus reduced intensity allogeneic stem cell transplantation for relapsed/refractory Hodgkin's lymphoma in recent years: a retrospective analysis of the Lymphoma Working Party of the European Group for Blood and Marrow Transplantation. Ann Oncol. 2016;27:2251–7.",
+    "10. Chen R, Gopal AK, Smith SE, et al. Five-year survival and durability results of brentuximab vedotin in patients with relapsed or refractory Hodgkin lymphoma. Blood. 2016;128:1562–6.",
+    "11. Gopal AK, Ramchandren R, O'Connor OA, et al. Safety and efficacy of brentuximab vedotin for Hodgkin lymphoma recurring after allogeneic stem cell transplantation. Blood. 2012;120:560–8.",
+    "12. Herbaux C, Gauthier J, Brice P, et al. Efficacy and tolerability of nivolumab after allogeneic transplantation for relapsed Hodgkin lymphoma. Blood. 2017;129:2471–8.",
+    "13. Schouten HC, Qian W, Kvaloy S, et al. High-dose therapy improves progression-free survival and survival in relapsed follicular non-Hodgkin's lymphoma: results from the randomized European CUP trial. J Clin Oncol Off J Am Soc Clin Oncol. 2003;21(21):3918–27.",
+    "14. Pettengell R, Schmitz N, Gisselbrecht C, et al. Rituximab purging and/or maintenance in patients undergoing autologous transplantation for relapsed follicular lymphoma: a prospective randomized trial from the lymphoma working Party of the European Group for blood and marrow transplantation. J Clin Oncol. 2013;31(13):1624–30.",
+    "15. Gyan E, Foussard C, Bertrand P, et al. High-dose therapy followed by autologous purged stem cell transplantation and doxorubicin-based chemotherapy in patients with advanced follicular lymphoma: a randomized multicenter study by the GOELAMS with final results after a median follow-up of 9 years. Blood. 2009;113(5):995–1001.",
+    "16. Robinson SP, Canals C, Luang JJ, et al. The outcome of reduced intensity allogeneic stem cell transplantation and autologous stem cell transplantation when performed as a first transplant strategy in relapsed follicular lymphoma: an analysis from the lymphoma working party of the EBMT. Bone Marrow Transplant. 2013;48(11):1409–14.",
+    "17. Sureda A, Zhang M-J, Dreger P, et al. Allogeneic hematopoietic stem cell transplantation for relapsed follicular lymphoma: a combined analysis on behalf of the lymphoma working party of the EBMT and the lymphoma committee of the CIBMTR. Cancer. 2018;124(8):1733–42.",
+    "18. Robinson SP, Boumendil A, Finel H, et al. Reduced intensity allogeneic stem cell transplantation for follicular lymphoma relapsing after an autologous transplant achieves durable long-term disease control: an analysis from the lymphoma working party of the EBMT. Ann Oncol. 2016;27(6):1088–94.",
+    "19. Hari P, Carreras J, Zhang M-J, et al. Allogeneic transplants in follicular lymphoma: higher risk of disease progression after reduced intensity compared to myeloablative conditioning. Biol Blood Marrow Transplant. 2008;14(2):236–45.",
+    "20. Avivi I, Montoto S, Canals C, et al. Matched unrelated donor stem cell transplant in 131 patients with follicular lymphoma: an analysis from the lymphoma working Party of the European Group for blood and marrow transplantation. Br J Haematol. 2009;147(5):719–28.",
+    "21. Thomson KJ, Morris EC, Milligan D, et al. T-cell-depleted reduced-intensity transplantation followed by donor leukocyte infusions to promote graft-versus-lymphoma activity results in excellent long-term survival in patients with multiply relapsed follicular lymphoma. J Clin Oncol. 2010;28(23):3695–700.",
+    "22. Avivi I, Arcaini L, Ferretti VV, et al. High-dose therapy and autologous stem cell transplantation in marginal zone lymphomas: a retrospective study by the EBMT lymphoma working party and FIL-GITMO. Br J Haematol. 2018;182(6):807–15.",
+    "23. Kyriakou C, Canals C, Sibon D, et al. High-dose therapy and autologous stem-cell transplantation in Waldenström macroglobulinemia: the lymphoma working Party of the European Group for blood and marrow transplantation. J Clin Oncol. 2010;28(13):2227–32.",
+    "24. van Gelder M, de Wreede LC, Bornhauser M, et al. Long-term survival of patients with CLL after allogeneic transplantation: a report from the European Society for Blood and Marrow Transplantation. Bone Marrow Transplant. 2017;52:372–80."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Session 29 · Outline",
+      "title": "Three long-course diseases, one question: auto, allo or drugs",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 · Serroukh Y, et al. Ch. 84 · Schetelig J, et al. Ch. 85",
+      "rows": [
+        ["Classical Hodgkin lymphoma", "Salvage, BEAM auto-HCT, BV consolidation, allo after a failed autograft", "10.5 min"],
+        ["Follicular and other indolent lymphomas", "Who to transplant, CUP trial, auto first, RIC allo after auto", "6 min"],
+        ["Chronic lymphocytic leukaemia", "Pathway-inhibitor failure, TP53, Richter; MRD after alloHCT", "4 min"],
+        ["Board questions", "Three vignettes: cHL bridge, FL early relapse, high-risk CLL", "5.25 min"]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是 classical Hodgkin，大約十分鐘，從復發時的 salvage、BEAM auto-HCT、brentuximab vedotin consolidation，一路講到 auto 失敗之後的 allo。Hodgkin 的適應症表格和數字最多，也最常出題。",
+          "第二段是以 follicular lymphoma 為代表的 indolent lymphoma，重點是哪些病人值得移植，以及 auto 和 allo 怎麼取捨。第三段是 CLL，在 pathway inhibitor 的時代，allo 的適應症只剩三種情境，很好記。最後五分鐘做三題，剛好每一段各一題。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Classical Hodgkin lymphoma",
+      "eyebrow": "cHL · Salvage before auto-HCT",
+      "title": "Salvage aims at PET-negative chemosensitivity before auto-HCT",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (Tables 89.1, 89.2)",
+      "head": ["Salvage regimen", "ORR", "CR", "Note"],
+      "rows": [
+        ["DHAP", "89%", "21%", "Conventional chemotherapy"],
+        ["ESHAP", "67%", "50%", "Conventional chemotherapy"],
+        ["ICE", "88%", "67%", "Conventional chemotherapy"],
+        ["IGEV", "81%", "54%", "Gemcitabine-containing"],
+        ["BeGEV", "83%", "73%", "Gemcitabine-containing"],
+        ["Brentuximab vedotin (BV)", "50%", "12%", "Not auto candidate, ≥ 2 prior lines"],
+        ["Pembrolizumab", "69%", "22%", "Refractory or ≥ 3 prior lines"]
+      ],
+      "colW": [3.6, 1.3, 1.3, 5.0],
+      "fontSize": 16,
+      "caption": "No trial compares regimens. Rebiopsy is mandatory if relapse is ≥ 12 months after first-line therapy.",
+      "captionY": 5.55,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Hodgkin 第一次復發或 primary refractory，標準是 salvage 之後做 high-dose chemotherapy 加 auto-HCT。Salvage 前先做兩件事。距離第一線結束 12 個月以上的復發一定要重新切片，排除別的診斷，12 個月內也強烈建議。影像做 contrast CT 加 PET。",
+          "表上是 Table 89.2。DHAP 的 ORR 89%，CR 只有 21%；ICE 的 CR 67%；BeGEV 的 CR 73%。這些數字來自不同研究，沒有 trial 直接比較，所以選擇要看第一線用過什麼、累積毒性和能不能收集幹細胞。",
+          "Salvage 的目標是 chemosensitivity，書上把 PET-negative 當作 chemosensitive 的定義，它對 auto 後的結果影響最大。下面兩列不含化療，BV 單藥核准給不適合 auto、至少兩線化療失敗的人。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cHL · Auto-HCT indications",
+      "title": "Auto-HCT is standard for sensitive relapse, not for first remission",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (Table 89.3) · Smith EP, et al. 2018",
+      "head": ["Disease status", "EBMT 2022 (level)", "NRM", "5-y OS", "5-y PFS"],
+      "rows": [
+        ["First complete remission", "Not recommended (I)", "—", "—", "—"],
+        ["Sensitive relapse, no prior auto", "Standard of care (I)", "0–18%", "75%", "50%"],
+        ["Primary refractory disease", "Clinical option (III)", "0–18%", "30–36%", "15–38%"],
+        ["Sensitive relapse after auto\n(second auto-HCT)", "Clinical option (III)", "15%", "30%", "30%"],
+        ["Tandem auto, poor risk", "Can be considered", "0–5%", "54–84%", "49–55%"]
+      ],
+      "colW": [4.0, 2.8, 1.3, 1.6, 1.6],
+      "fontSize": 16,
+      "caption": "BNLI and GHSG/EBMT HD-R1: auto beat salvage chemo for EFS and FFTF, with no OS benefit.",
+      "captionY": 5.6,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "兩個 landmark randomized trial，1993 年的 BNLI 和 2002 年的 GHSG/EBMT HD-R1，都把 high-dose chemotherapy 加 auto 跟一般 salvage chemotherapy 比，EFS 和 FFTF 顯著較好，但 OS 沒有顯著差異。這句很常被拿來出是非題。",
+          "EBMT 2022 的適應症在表上。CR1 不建議做 auto，evidence level I。Chemosensitive relapse 而沒做過 auto 是 standard of care，五年 OS 75%、PFS 50%。Primary refractory 只是 clinical option，五年 OS 剩 30 到 36%。",
+          "做過 auto 再復發，第二次 auto 是 clinical option，NRM 15%，五年 OS 和 PFS 都是 30%。Tandem auto 給 poor-risk 病人，NRM 0 到 5%，現在有了 BV 和 checkpoint inhibitor，要不要做第二次 auto 需要重新評估。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cHL · Conditioning",
+      "title": "BEAM is the preferred auto-HCT conditioning, and TBI is avoided",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89",
+      "head": ["Regimen or drug", "Dose", "Day(s)"],
+      "rows": [
+        ["BCNU (carmustine)", "300 mg/m² × 1", "−6"],
+        ["Etoposide (VP)", "200 mg/m²", "−5 to −2"],
+        ["Cytarabine (Ara-C)", "200 mg/m² bid", "−5 to −2"],
+        ["Melphalan", "140 mg/m² × 1 [verify: book prints mg/kg]", "−1"],
+        ["CBV (CY, BCNU, VP)", "Commonly used in North America", "—"],
+        ["TBI-based regimens", "Not recommended: more second cancers", "—"]
+      ],
+      "colW": [3.6, 6.0, 2.0],
+      "fontSize": 17,
+      "caption": "Late effects of BEAM: lung 21%, infection 30%, metabolic 17%, CV 12%, second tumours 20%",
+      "captionY": 5.45,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Auto 的幹細胞來源首選 mobilized peripheral blood。Conditioning 沒有 randomized 比較，但 BEAM 是首選。BCNU 300 mg/m² 在 day −6 給一次，etoposide 200 mg/m² 和 cytarabine 200 mg/m² 一天兩次，都從 day −5 給到 −2，melphalan 140 在 day −1。北美常用 CBV。TBI-based regimen 不建議，因為第二癌風險較高。",
+          "Melphalan 的單位，書上印的是 140 mg/kg，這顯然是 mg/m² 的筆誤，上課前會再確認。",
+          "Caption 是 BEAM 的晚期毒性。肺部的 chronic interstitial fibrosis 和 DLCO 下降 21%，第二腫瘤 20%。NRM 最常見的原因就是第二癌，風險是一般人的 12 倍，追蹤門診要記得篩檢。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 89 prints melphalan 140 mg/kg/day; standard BEAM is 140 mg/m². Confirm against the printed book or another BEAM source."
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "cHL · Consolidation",
+      "title": "BV consolidation after auto-HCT prolongs PFS in high-risk cHL",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 · Moskowitz CH, et al. Lancet 2015",
+      "steps": [
+        "Salvage to PET-negative response",
+        "BEAM auto-HCT with mobilized PB",
+        "Risk factors for relapse present",
+        "BV consolidation, up to 16 cycles"
+      ],
+      "invert": 3,
+      "caption": "AETHERA (n = 329): median PFS 43 vs 24 months with placebo (P = 0.0013). The more risk factors, the larger the benefit. BV is the only drug approved for this use.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Auto 之後會不會復發，第 89 章列了一串一致的不良預後因子：primary induction failure、第一次緩解短於 3 個月、第一線後 12 個月內復發、extranodal disease、B symptoms、復發時 advanced stage、salvage 抗藥，以及移植時仍有病灶。",
+          "有這些因子的病人，auto 之後給 brentuximab vedotin consolidation。依據是 phase III 的 AETHERA，329 位 relapsed 或 refractory 病人，auto 後隨機分到最多 16 個 cycle 的 BV 或 placebo。中位 PFS 43 個月對 24 個月，P 值 0.0013，risk factor 越多，受益越明顯。",
+          "BV 目前是唯一核准用在 post-auto consolidation 的藥，16 個 cycle 這個數字常出現在選項裡。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "cHL · Relapse after auto-HCT",
+      "title": "After a failed autograft, prior BV exposure picks the next agent",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (algorithm, Sect. 89.11) · Bazarbachi A, et al. 2022",
+      "root": "cHL relapse after auto-HCT: prior BV or BV-resistant?",
+      "branches": [
+        {"label": "No", "box": "Brentuximab vedotin", "out": "Response: observe, or consider allo-HCT"},
+        {"label": "Yes, or no BV response", "box": "Nivolumab / pembrolizumab or trial", "out": "Response: observe, or consider allo-HCT"},
+        {"label": "No response", "box": "Conventional salvage or trial", "out": "Then consider allo-HCT"}
+      ],
+      "invert": 1,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是作者建議的演算法，簡化自 89.11 節的圖。Auto 之後復發，先問有沒有用過 BV，或是否對 BV 抗藥。沒用過就先給 BV；用過或沒有反應，就換 nivolumab、pembrolizumab 或臨床試驗。有反應的人可以觀察，或在年輕、體能好、有合適 donor 時考慮 allo。兩條路都沒反應，才回到傳統 salvage。",
+          "預後的改善很明顯。EBMT 分析 1781 位 auto 後復發的成人，四年 OS 從 2006 到 2008 年的 32%，進步到 2015 到 2017 年的 63%。距離 auto 越久才復發越好；年紀大、體能差、bulky、extranodal 和 B symptoms 則較差。",
+          "表上沒寫的數字放在 backup。Auto 後用 BV 的 ORR 75%，nivolumab 和 pembrolizumab 都是 69%。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "cHL · Allo-HCT indications",
+      "title": "Allo-HCT is standard for sensitive relapse after a failed autograft",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (Table 89.5)",
+      "head": ["Disease risk", "MSD", "MUD", "Alternative donor"],
+      "rows": [
+        ["First remission", "GNR (III)", "GNR (III)", "GNR (III)"],
+        ["Sensitive relapse, no prior auto", "Developmental (III)", "Developmental (III)", "GNR (III)"],
+        ["Sensitive relapse after auto", "Standard (II)", "Standard (II)", "Standard (II)"],
+        ["Refractory disease", "Developmental (II)", "Developmental (II)", "Developmental (III)"]
+      ],
+      "colW": [4.2, 2.5, 2.5, 2.5],
+      "fontSize": 17,
+      "caption": "3-y results: chemosensitive NRM 15–20%, OS 60–70%, PFS 40–50%; refractory NRM 20–30%, OS 40–50%, PFS 20–30%.",
+      "captionY": 4.75,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Allo 仍被視為 auto 後復發或進展的 cHL 唯一的治癒選擇。證據主要是 registry 分析、小型 phase II，以及 donor-versus-no-donor 的比較，PFS 和 OS 都有好處。",
+          "Table 89.5 的重點在第三列。Chemosensitive relapse 而且做過 auto，不論 MSD、MUD 或 alternative donor，都是 standard，evidence level II。Alternative donor 指 mismatched unrelated、haplo 和 cord blood。CR1 一律 generally not recommended；沒做過 auto 的 sensitive relapse 只是 developmental，alternative donor 甚至不建議。",
+          "移植前的 disease status 是最重要的預後因子，chemosensitive 的三年 OS 60 到 70%，refractory 只剩 40 到 50%。不過 PET-negative CR 對 allo 的意義，不像 auto 那麼明確。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "eyebrow": "cHL · Allo-HCT in the new-drug era",
+      "title": "Bridge with BV freely, but stop PD-1 blockade 6 weeks before allo",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 · Bazarbachi 2018 · Martínez 2017",
+      "blocks": [
+        {"head": "BV bridge", "body": "Usually 4–6 cycles. No washout needed before day 0. No added toxicity; may improve PS and disease status.", "extra": "May lower chronic GVHD (Bazarbachi 2018)"},
+        {"head": "Checkpoint inhibitor bridge", "body": "Nivolumab or pembrolizumab work well, but raise aGVHD, SOS/VOD and hyperacute febrile syndrome.", "extra": "Hold ≥ 6 weeks before allo; use PTCy"},
+        {"head": "Donor and conditioning", "body": "PB preferred. Haplo PTCy ≈ MSD/MUD with less GVHD. > 50% get RIC: less NRM, more relapse.", "extra": "Low-dose TBI worse; MAC case by case"}
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "新藥讓 allo 的時機變得不清楚，近兩年這個適應症的移植數量也在下降。BV 常被當作 bridge，通常給 4 到 6 個 cycle，最後一劑到 day 0 不需要 washout。它不增加移植相關毒性，還可能改善體能和疾病狀態，甚至減少 chronic GVHD。",
+          "Checkpoint inhibitor 就不一樣。Nivolumab、pembrolizumab 在移植前效果很好，但可能增加 acute GVHD、SOS/VOD 和 post-transplant hyperacute febrile syndrome。建議停藥至少 6 週再移植，GVHD prophylaxis 用 PTCy。BV 不用 washout、PD-1 要停 6 週，這組對比是典型考題。",
+          "右邊是 donor 和 conditioning。PTCy haplo 的結果和 MSD、MUD 相近，GVHD 較少。超過一半用 RIC，NRM 降低但復發增加；含 low-dose TBI 的方案較差。現在 MAC 的 NRM 已大幅下降，可以個別考慮。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "section": "Indolent lymphoma",
+      "eyebrow": "Follicular lymphoma · Who to transplant",
+      "title": "In follicular lymphoma, HCT is reserved for high-risk relapse",
+      "cite": "Serroukh Y, et al. EBMT Handbook 8th ed. 2024; Ch. 84",
+      "steps": [
+        "First line: immunochemo + maintenance, no HCT",
+        "Early relapse, transformation or multiple",
+        "Response to second-line reinduction",
+        "Auto-HCT first; RIC allo after auto failure"
+      ],
+      "invert": 3,
+      "caption": "Relapse within 2 years (POD24) and high-grade transformation predict poor survival; a high FLIPI at relapse may too. Discuss non-transplant options: R-lenalidomide, CAR-T, bispecifics.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Indolent lymphoma 佔所有淋巴瘤的三分之一，包括 follicular、marginal zone 和 lymphoplasmacytic，最常見的是 follicular。最大型的 HCT 研究以 FL 為主，所以結論以 FL 來講，再外推到其他亞型。特色是反覆復發，而 auto 和 allo 是復發後唯一有治癒可能的選擇。",
+          "第一線是 chemoimmunotherapy，之後用 rituximab 或 obinutuzumab maintenance，first line 沒有任何移植的位置。值得考慮 HCT 的只有三種人，第一線後兩年內復發，也就是 POD24，high-grade transformation，以及多次復發。",
+          "前提是 reinduction 有反應。多數歐洲專家把 auto 當第一次移植，allo 留給 auto 後復發的人。CAR-T 和 bispecific antibody 的角色還在試驗中釐清。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Follicular lymphoma · Auto-HCT",
+      "title": "Auto-HCT can cure a proportion of patients with relapsed FL",
+      "cite": "Serroukh Y, et al. EBMT Handbook 8th ed. 2024; Ch. 84 · Schouten 2003 · Pettengell 2013 · Gyan 2009",
+      "head": ["Evidence", "Design", "Result"],
+      "rows": [
+        ["CUP trial (Schouten 2003)", "Randomised, n = 140, relapsed FL", "2-y PFS 26% chemo vs 58% / 55%\n(purged / unpurged); OS better"],
+        ["EBMT-LYM-1 (Pettengell 2013)", "Rituximab-naïve, relapsed FL", "No gain from in vivo R purging;\nR maintenance prolongs PFS"],
+        ["Long-term series", "Auto-HCT in relapsed FL", "10-y PFS 31–50%"],
+        ["Older patients", "Age > 60; median age at\nrelapse 69", "TRM may exceed 10%"],
+        ["GOELAMS (Gyan 2009)", "Randomised; TBI conditioning", "More solid tumours and MDS/AML"]
+      ],
+      "colW": [3.6, 3.6, 4.6],
+      "fontSize": 16,
+      "caption": "BEAM is most used; bendamustine in place of BCNU may be less toxic. No proven role for purging.",
+      "captionY": 5.6,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Auto 的適應症很單純，復發後對第二線或之後的 reinduction 有反應。CUP trial 是唯一的 randomized study，140 位 relapsed FL，比較單純化療和 auto。兩年 PFS 化療組 26%，移植組 purged 58%、unpurged 55%，OS 也較好。長期追蹤十年 PFS 31 到 50%，所以 auto 對一部分病人可能是治癒性的。",
+          "EBMT-LYM-1 在沒用過 rituximab 的病人顯示，移植前用 rituximab 做 in vivo purging 沒有好處，但移植後 rituximab maintenance 延長 PFS。只是現在的病人幾乎都用過 rituximab，能否外推並不清楚。",
+          "毒性要算進去。60 歲以上的 TRM 可能超過 10%，而 relapsed FL 的中位年齡是 69 歲。GOELAMS 用 TBI conditioning，第二癌和 MDS/AML 明顯增加，因此可以先查骨髓的 clonal hematopoiesis 和染色體。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Follicular lymphoma · Auto vs allo",
+      "title": "Allo-HCT in FL trades less relapse for higher TRM than auto-HCT",
+      "cite": "Serroukh Y, et al. EBMT Handbook 8th ed. 2024; Ch. 84 · Robinson 2013, 2016 · Sureda 2018",
+      "head": ["Outcome", "Auto-HCT (EBMT, n = 726)", "Allo-HCT (EBMT/CIBMTR, n = 1567)"],
+      "rows": [
+        ["TRM", "3% at 1 year", "19% at 5 years"],
+        ["Relapse at 5 years", "47%", "29%"],
+        ["OS at 5 years", "72%", "61%"],
+        ["PFS at 5 years", "48%", "52%"]
+      ],
+      "colW": [3.0, 4.4, 4.4],
+      "fontSize": 18,
+      "caption": "RIC allo after a failed auto (Robinson 2016): 2-y NRM 27%, 5-y PFS 48%, 5-y OS 51%.",
+      "captionY": 4.75,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 EBMT 最新的兩個大系列。Auto 一年 TRM 只有 3%，五年復發 47%。Allo 五年 TRM 19%，復發降到 29%。結果 OS 是 auto 較高，72% 比 61%，PFS 則接近。Allo 的 GVL 效果確實存在，只是被 TRM 抵銷掉了。",
+          "Allo 的好處在於 graft 沒有淋巴瘤細胞污染、也沒接觸過 mutagenic agent，再加上 GVL。最大型的 auto 失敗後 RIC allo 系列來自 EBMT，兩年 NRM 27%，五年 PFS 48%、OS 51%，而且 allo 後的緩解期明顯比 auto 後長。",
+          "所以 auto 毒性較低、可能治癒一部分人，被當作第一次移植；RIC allo 是 auto 後復發的治癒選項。也有 EBMT 中心在特定病人直接以 allo 作為第一次移植。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Follicular lymphoma · Allo-HCT",
+      "title": "RIC is favoured for allo-HCT in FL, from any suitable donor",
+      "cite": "Serroukh Y, et al. EBMT Handbook 8th ed. 2024; Ch. 84 · Hari 2008 · Avivi 2009 · Thomson 2010",
+      "head": ["Question", "What Ch. 84 says"],
+      "rows": [
+        ["Indication", "Selected relapse; after 3 lines and especially after auto"],
+        ["MAC vs RIC, sibling donor", "Similar: 3-y OS 71% vs 62% (P = 0.15) (Hari 2008)"],
+        ["MAC vs RIC, unrelated", "RIC: lower NRM, longer PFS and OS (Avivi 2009)"],
+        ["Donor", "MSD ≈ MUD; haplo with PTCy or cord blood if none"],
+        ["T-cell depletion", "Add chimerism-directed DLI: 4-y PFS 76%, relapse 24%"],
+        ["Maintenance after allo", "No indication in indolent lymphoma"]
+      ],
+      "colW": [3.8, 8.0],
+      "fontSize": 17,
+      "caption": "Median age at FL relapse is 69, so most authorities recommend RIC; young fit patients may get more.",
+      "captionY": 5.55,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Allo 只考慮給挑選過的復發病人，條件是淋巴瘤明顯會縮短存活。三線治療後復發，尤其 auto 後復發，是合理的適應症。病人端要看年齡、共病、體能、HCT-CI 和病人自己的意願。",
+          "Conditioning 沒有定論。Sibling donor 的 registry 顯示 MAC 和 RIC 三年 OS 71% 對 62%，P 值 0.15，沒有差異；unrelated donor 時，EBMT 的資料是 RIC 的 NRM 較低，PFS 和 OS 都較長。加上中位年齡 69 歲，多數專家建議 RIC。",
+          "MSD 和 MUD 結果相近，沒有的話 haplo 加 PTCy 或 cord blood 都可行。GVHD prophylaxis 沒有偏好；做 T-cell depletion 要搭配 chimerism-directed DLI，四年 PFS 76%。Allo 後不需要 maintenance。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Chronic lymphocytic leukaemia",
+      "eyebrow": "CLL · Indications for alloHCT",
+      "title": "AlloHCT in CLL follows pathway-inhibitor failure or Richter",
+      "cite": "Schetelig J, Dreger P. EBMT Handbook 8th ed. 2024; Ch. 85",
+      "root": "CLL treated with BTKi and/or venetoclax: alloHCT?",
+      "branches": [
+        {"label": "Double refractory", "box": "Failed both BTKi and BCL2i classes", "out": "Consider alloHCT; poor outlook on drugs"},
+        {"label": "TP53 or complex karyotype", "box": "Failed one pathway-inhibitor class", "out": "Consider alloHCT"},
+        {"label": "Richter transformation", "box": "History of Richter, any drug exposure", "out": "AlloHCT if transplant-eligible"}
+      ],
+      "invert": 1,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "CLL 通常是 indolent，診斷本身不是治療的理由。開始治療的條件包括症狀、進行性貧血或血小板低下、lymphocyte doubling time 小於 6 個月、全身症狀、巨大脾臟或淋巴結，以及 Richter transformation。第一線是 covalent BTKi，或 venetoclax 加 obinutuzumab，或 ibrutinib 加 venetoclax；後兩者是 12 到 15 個月的 fixed duration。",
+          "第一線失敗就 class switch，BTKi 換 venetoclax，反之亦然。兩類都失敗叫 double refractory，預後很差。TP53 異常或 complex karyotype 的人，一類失敗就要考慮 allo。Richter 病史不論用過什麼藥都是適應症。",
+          "有個陷阱，第一線用 BTKi 加 venetoclax fixed duration，停藥後才失敗，不算 double refractory。書上也建議，只要一類 pathway inhibitor 失敗，就轉介移植中心諮詢。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "CLL · How to transplant",
+      "title": "In CLL, transplant in remission with RIC and let GVL do the work",
+      "cite": "Schetelig J, Dreger P. EBMT Handbook 8th ed. 2024; Ch. 85 (Key Points)",
+      "head": ["Topic", "Recommendation"],
+      "rows": [
+        ["Before conditioning", "Induce remission: BTKi, venetoclax, CD20 Ab; idelalisib"],
+        ["Donor, graft, GVHD prophylaxis", "No disease-specific criteria"],
+        ["Conditioning", "RIC best supported; MAC has no advantage"],
+        ["Evidence for GVL", "Refractory patients respond; less relapse with cGVHD"],
+        ["MRD after alloHCT", "PCR or flow to ≤ 1 in 10⁴; guides IS taper and DLI"],
+        ["NRM risk factors", "Age, PS or HCT-CI, partial match, adverse sex mismatch"],
+        ["Auto-HCT and CAR-T", "Auto only in Richter; CAR-T in clinical trials only"]
+      ],
+      "colW": [4.0, 7.8],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "CLL 移植的核心機轉是 GVL。證據有三個，refractory 的病人也能受益，有 chronic GVHD 的人復發較少，以及免疫調控能清除 MRD。所以疾病沒控制時結果就變差，移植前要先誘導緩解，用 BTKi、venetoclax、CD20 抗體，idelalisib 也可以 bridge，但對 double refractory 效果有限。",
+          "Donor、graft 和 GVHD prophylaxis 沒有 CLL 特有的選擇。Conditioning 以 RIC 的證據最充分，MAC 沒有優勢；不過年輕、體能好但疾病控制差的人，可以考慮較高強度。",
+          "移植後的 MRD 用 PCR 或 flow，敏感度達到萬分之一。MRD 下降常常比較慢，和免疫重建有關，可用來決定 immunosuppression 減量和 DLI。Auto 只用在 Richter，CAR-T 目前只在臨床試驗。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "eyebrow": "CLL · Long-term outcome",
+      "title": "About one in three patients with CLL is event-free 10 years after alloHCT",
+      "cite": "Schetelig J, Dreger P. EBMT Handbook 8th ed. 2024; Ch. 85 · van Gelder M, et al. 2017",
+      "items": [
+        {"num": "28%", "label": "Event-free survival at 10 years"},
+        {"num": "35%", "label": "Overall survival at 10 years"},
+        {"num": "40%", "label": "Non-relapse mortality at 10 years"}
+      ],
+      "caption": "EBMT registry, pre-pathway-inhibitor era. Event-free at 5 years: 79% stay event-free for the next 5 years. NRM is lower in the inhibitor era.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "這三個數字來自 pathway inhibitor 之前的大型 EBMT registry。十年 EFS 28%、OS 35%、NRM 40%。五年時仍無事件的 394 位病人，接下來五年保持無事件的機率是 79%，這就是 allo 可能治癒 CLL 的主要證據。",
+          "晚期失敗由復發和 NRM 各佔一半。兩年 NRM 的危險因子是年紀大、體能差、unrelated donor 和不利的性別配對。進入 pathway inhibitor 時代後 NRM 已經下降，移植後復發也還能用所有核准的 CLL 藥物治療。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: bridge a Hodgkin relapse to allo-HCT",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89",
+      "stem": "A 27-year-old woman with classical Hodgkin lymphoma relapses 5 months after BEAM auto-HCT; she had received brentuximab vedotin as consolidation. After 4 cycles of nivolumab she is in PET-negative complete response. Her only donor is a haploidentical brother. Which plan is most appropriate?",
+      "options": [
+        "Proceed to allo-HCT one week after the last nivolumab dose",
+        "Hold nivolumab ≥ 6 weeks, then haplo allo-HCT with PTCy",
+        "Second auto-HCT with TBI-based conditioning",
+        "Decline the haplo donor and wait for a matched unrelated donor",
+        "Low-dose TBI-based RIC to lower the relapse risk"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: wash out checkpoint inhibitors and use PTCy",
+      "explanation": "Allo-HCT is the curative option after auto-HCT failure. Checkpoint inhibitors before allo-HCT may raise acute GVHD, SOS/VOD and hyperacute febrile syndrome, so hold them ≥ 6 weeks and use PTCy. Haplo PTCy gives results similar to MSD/MUD. TBI is avoided in auto-HCT; low-dose TBI RIC had higher relapse.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。27 歲女性，classical Hodgkin，BEAM auto 之後用過 BV consolidation，五個月就復發。四個 cycle 的 nivolumab 後達到 PET-negative CR，唯一的 donor 是半相合的哥哥。",
+          "A 是最後一劑 nivolumab 一週後就移植，B 是停藥至少 6 週、用 PTCy 做 haplo，C 是 TBI 的第二次 auto，D 是放棄 haplo、等 unrelated donor，E 是 low-dose TBI 的 RIC。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。Auto 失敗後的 cHL，allo 是治癒選項，而 sensitive relapse after auto 不論 donor 都是 standard。Checkpoint inhibitor 移植前使用，可能增加 acute GVHD、SOS/VOD 和 hyperacute febrile syndrome，所以停藥至少 6 週，並用 PTCy。",
+          "A 是主要陷阱，把 BV 的規則套到 PD-1 上；BV 不需要 washout，PD-1 需要。D 不對，haplo 加 PTCy 的結果和 MSD、MUD 相近，GVHD 甚至更少。C 和 E 都踩到 TBI，auto 不建議 TBI，low-dose TBI 的 RIC 復發較高、存活較差。",
+          "題目先講她用過 BV，這是為了對應演算法，用過 BV 才走 PD-1 那一支。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: consolidate an early follicular lymphoma relapse",
+      "cite": "Serroukh Y, et al. EBMT Handbook 8th ed. 2024; Ch. 84",
+      "stem": "A 54-year-old man with grade 1–2 follicular lymphoma relapses 15 months after starting bendamustine-rituximab followed by rituximab maintenance. Biopsy shows no transformation. Second-line chemoimmunotherapy achieves a complete metabolic response. He is fit and has an HLA-matched sister. Which next step is best supported by the EBMT Handbook?",
+      "options": [
+        "Observation; transplant has no role in follicular lymphoma",
+        "Auto-HCT with BEAM conditioning",
+        "Myeloablative allo-HCT from his sister as the first transplant",
+        "Auto-HCT with TBI-based conditioning and rituximab-purged graft",
+        "Allo-HCT followed by rituximab maintenance"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: early relapse in response goes to auto-HCT first",
+      "explanation": "Relapse within 2 years of first-line therapy predicts poor survival and justifies HCT once disease is controlled. Most European authorities choose auto-HCT first (lower toxicity, may cure some) and keep RIC allo-HCT for relapse after auto. BEAM is widely used; purging has no proven role and TBI raises MDS/AML. No maintenance after allo.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。54 歲男性，follicular lymphoma grade 1 到 2，bendamustine-rituximab 加 rituximab maintenance，開始治療後 15 個月復發，切片沒有轉化。第二線化學免疫治療達到 complete metabolic response，體能好，有 HLA 相合的姊姊。",
+          "選項是觀察、BEAM 的 auto、姊姊的 MAC allo、TBI 加 purging 的 auto，以及 allo 後 rituximab maintenance。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。第一線後兩年內復發，也就是 POD24，存活較差，疾病控制後就應考慮 HCT，所以 A 錯。多數歐洲專家把 auto 當第一次移植，毒性低、能治癒一部分人，BEAM 是最常用的 conditioning。",
+          "C 是主要干擾項，有 sibling donor 不代表要先做 allo，allo 留給 auto 後復發；而且 FL 多數用 RIC。D 錯在 purging 沒有證實的好處，TBI 又增加 MDS/AML。E 錯在 allo 後的 indolent lymphoma 沒有 maintenance 的適應症。",
+          "如果題目改成 auto 後才復發，答案就會變成 RIC allo，這是同一個考點的另一面。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: decide on alloHCT in high-risk CLL",
+      "cite": "Schetelig J, Dreger P. EBMT Handbook 8th ed. 2024; Ch. 85",
+      "stem": "A 52-year-old woman with CLL carrying a TP53 mutation progresses after 2 years of continuous first-line acalabrutinib. Venetoclax-rituximab now gives a partial response. She has an HCT-CI of 1 and a 10/10 matched unrelated donor. Which recommendation is most appropriate?",
+      "options": [
+        "Continue venetoclax; consider alloHCT only after venetoclax also fails",
+        "Auto-HCT to consolidate the response",
+        "Refer now for alloHCT with reduced-intensity conditioning in remission",
+        "Commercial CD19 CAR-T cells instead of alloHCT",
+        "Myeloablative alloHCT because TP53-mutated CLL needs maximal intensity"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: TP53 plus one failed inhibitor class is an alloHCT indication",
+      "explanation": "TP53 aberration or complex karyotype with failure of one pathway-inhibitor class is an alloHCT indication; waiting for double refractoriness is required only without these. Transplant in remission. RIC has the best data and MAC no advantage. Auto-HCT has no role outside Richter; CAR-T only in trials.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。52 歲女性，CLL 帶 TP53 mutation，第一線持續吃 acalabrutinib 兩年後惡化。換成 venetoclax 加 rituximab，目前 partial response。HCT-CI 1 分，有 10/10 相合的 unrelated donor。",
+          "選項有繼續 venetoclax、等它也失敗再說，auto，現在就轉介做 RIC allo，商業 CAR-T，以及因為 TP53 而做 MAC allo。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C。TP53 異常或 complex karyotype 的病人，只要一類 pathway inhibitor 失敗就是 allo 的適應症，而且要趁有反應時移植，因為疾病未控制時結果明顯變差。",
+          "A 是主要陷阱，等到兩類都失敗才移植，只適用於沒有 TP53 或 complex karyotype 的人；書上也提醒，allo 應該在完全抗藥之前就考慮。B 錯，auto 除了 Richter 之外沒有角色。D 錯，CLL 目前沒有核准的 CAR-T 產品，只能在試驗中使用。E 錯，MAC 沒有優於 RIC，CLL 靠的是 GVL。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "cHL · Relapse after auto-HCT",
+      "title": "Many agents can control cHL that relapses after auto-HCT",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (Table 89.4) · Chen R, et al. 2016",
+      "head": ["Option", "Result (Table 89.4)"],
+      "rows": [
+        ["Brentuximab vedotin", "ORR 75%, CR 34%; PFS 5.6 months"],
+        ["Nivolumab (after auto and BV)", "ORR 69%, CR 16%; median PFS 12–18 months"],
+        ["Pembrolizumab", "ORR 69%, CR 22%; PFS 72% at 6 months"],
+        ["Gemcitabine-based chemotherapy", "ORR 69–86%, EFS 10%"],
+        ["Bendamustine", "ORR 53–78%, CR 29–33%"],
+        ["Tislelizumab", "ORR 82%, CR 63%"],
+        ["CAR-T cells", "ORR 39–100%, CR 50%"],
+        ["Second auto-HCT", "NRM 15%; 5-year OS and PFS 30%"]
+      ],
+      "colW": [4.4, 7.4],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "Auto 後復發的選擇很多，BV、nivolumab、pembrolizumab 的 ORR 都在 70% 左右。Lenalidomide 只有 19%，everolimus 47%。這些多半是 bridge，真正有治癒機會的還是 allo。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "cHL · Relapse after allo-HCT",
+      "title": "Relapse after allo-HCT can respond to DLI, BV or nivolumab",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (Table 89.6) · Gopal 2012 · Herbaux 2017",
+      "head": ["Option", "Result (Table 89.6)"],
+      "rows": [
+        ["DLI alone", "ORR 33–54%"],
+        ["DLI + brentuximab vedotin", "ORR 69% (CR 54%); PFS 5.5 months"],
+        ["DLI + bendamustine", "ORR 55% (CR 16%); PFS 6 months"],
+        ["Brentuximab vedotin (Gopal 2012)", "ORR 50–69%, CR 31–38%; median PFS 7–8 months"],
+        ["Nivolumab (Herbaux 2017)", "ORR 77–95%, CR 42–55%; 1-year PFS 58%"]
+      ],
+      "colW": [4.6, 7.2],
+      "fontSize": 17,
+      "notes": {
+        "script": [
+          "Allo 後復發預後很差，有些病人只能 palliative care。DLI 單用 ORR 33 到 54%，合併 BV 可以到 69%。Nivolumab 的 ORR 最高，但要留意它在 allo 後誘發 GVHD 的風險。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Indolent lymphoma · MZL and WM",
+      "title": "Auto-HCT results in marginal zone lymphoma and Waldenström",
+      "cite": "Serroukh Y, et al. EBMT Handbook 8th ed. 2024; Ch. 84 · Avivi I, et al. 2018 · Kyriakou C, et al. 2010",
+      "head": ["Outcome", "MZL, auto (EBMT, n = 199)", "WM, auto (EBMT, n = 158)"],
+      "rows": [
+        ["TRM", "9% at 5 years", "3.8% at 1 year"],
+        ["Relapse at 5 years", "38%", "52%"],
+        ["OS at 5 years", "73%", "69%"],
+        ["EFS / PFS at 5 years", "EFS 53%", "PFS 40%"],
+        ["Second malignancy at 5 years", "6%", "8.4%"]
+      ],
+      "colW": [3.8, 4.0, 4.0],
+      "fontSize": 18,
+      "caption": "No specific allo-HCT reports for either disease, owing to small numbers.",
+      "captionY": 5.3,
+      "notes": {
+        "script": [
+          "Marginal zone 和 Waldenström 的 auto 結果和 FL 相近，五年 OS 約七成。Allo 因為病例太少，沒有專門的報告。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "cHL · Authors' algorithm",
+      "title": "The Ch. 89 algorithm runs from salvage to auto, BV and allo-HCT",
+      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (Sect. 89.11, modified from Jethava et al.)",
+      "fig": "ch89-figa",
+      "alt": "Flowchart: primary refractory or first-relapse cHL, second- or third-line chemotherapy, auto-HCT with BV consolidation if high risk; at relapse, BV if BV-naive, otherwise nivolumab, pembrolizumab or trial; responders observe or consider allo-HCT; non-responders receive conventional salvage then consider allo-HCT.",
+      "caption": "PCT, prospective clinical trial. Allo-HCT in young, fit patients with responding disease and a donor. Grey arrows: either option acceptable after weighing patient and transplant risks.",
+      "notes": {
+        "script": [
+          "這是第 89 章的原圖，主線的 tree 由它簡化。灰色箭頭代表觀察和 allo 兩者都可以接受，要和病人仔細討論。"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1005 @@
+{
+  "id": "s17",
+  "slug": "vaccination",
+  "week": 17,
+  "title": "Vaccination after HCT",
+  "subtitle": "Session 17 · Ch. 29",
+  "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+  "refsPerSlide": 6,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，今天是第 17 堂，主題是移植後的疫苗接種，內容來自 EBMT Handbook 第八版第 29 章，作者是 de la Cámara 和 Meisel。這一章篇幅不長，但時間點、劑數、禁忌條件非常密集，考題多半從這些數字出。前半段講原則和 ECIL 7 的成人時程，後半段看各個疫苗、兒童和家屬，最後三題收尾。"
+    ]
+  },
+  "references": [
+    "1. de la Cámara R, Meisel R. Vaccinations. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, editors. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Cham: Springer; 2024. p. 249–64. https://doi.org/10.1007/978-3-031-44080-9_29",
+    "2. Cordonnier C, Einarsdottir S, Cesaro S, Di Blasi R, Mikulska M, Rieger C, et al. Vaccination of haemopoietic stem cell transplant recipients: guidelines of the 2017 European Conference on Infections in Leukaemia (ECIL 7). Lancet Infect Dis. 2019;19(6):e200–e12.",
+    "3. Shigayeva A, Rudnick W, Green K, et al. Invasive pneumococcal disease among immunocompromised persons: implications for vaccination programs. Clin Infect Dis. 2016;62:139–47.",
+    "4. Ljungman P, de la Camara R, Perez-Bercoff L, et al. Outcome of pandemic H1N1 infections in hematopoietic stem cell transplant recipients. Haematologica. 2011;96:1231–5.",
+    "5. Roberts MB, Bak N, Wee LYA, Chhetri R, Yeung DT, Lewis I, Hiwase DK. Clinical effectiveness of conjugate pneumococcal vaccination in hematopoietic stem cell transplantation recipients. Biol Blood Marrow Transplant. 2020;26(2):421–7.",
+    "6. Bastidas A, de la Serna J, El Idrissi M, Oostvogels L, Quittet P, Lopez-Jimenez J, et al. Effect of recombinant zoster vaccine on incidence of herpes zoster after autologous stem cell transplantation: a randomized clinical trial. JAMA. 2019;322(2):123–33.",
+    "7. Takahata M, Hashino S, Onozawa M, et al. Hepatitis B virus (HBV) reverse seroconversion (RS) can be prevented even in non-responders to hepatitis B vaccine after allogeneic stem cell transplantation: long-term analysis of intervention in RS with vaccine for patients with previous HBV infection. Transplant Infect Dis. 2014;16:797–801.",
+    "8. Rubin LG, Levin MJ, Ljungman P, et al. 2013 IDSA clinical practice guideline for vaccination of the immunocompromised host. Clin Infect Dis. 2014;58:e44–100.",
+    "9. Ifversen M, Meisel R, Sedlacek P, Kalwak K, Sisinni L, Hutt D, et al. Supportive care during pediatric hematopoietic stem cell transplantation: prevention of infections. A report from workshops on Supportive Care of the Paediatric Diseases Working Party (PDWP) of the European Society for Blood and Marrow Transplantation (EBMT). Front Pediatr. 2021;29:705179. https://doi.org/10.3389/fped.2021.705179.",
+    "10. Ljungman P, Cordonnier C, Einsele H, et al. Vaccination of hematopoietic cell transplant recipients. Bone Marrow Transplant. 2009;44:521–6.",
+    "11. Cesaro S, Ljungman P, Mikulska M, Hirsch HH, von Lilienfeld-Toal M, Cordonnier C, et al. Recommendations for the management of COVID-19 in patients with haematological malignancies or haematopoietic cell transplantation, from the 2021 European Conference on Infections in Leukaemia (ECIL 9). Leukemia. 2022;36(6):1467–80."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Outline",
+      "title": "Four parts, from principles to the household",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "rows": [
+        [
+          "Principles",
+          "Why vaccinate, never vaccinated, live vs non-live, when to delay",
+          "5.5 min"
+        ],
+        [
+          "The ECIL 7 adult schedule",
+          "Table 29.1 vaccine by vaccine, then a 3-to-24-month timeline",
+          "5.5 min"
+        ],
+        [
+          "Vaccine by vaccine",
+          "Pneumococcus, influenza, VZV, HBV and serology, the rest",
+          "7.5 min"
+        ],
+        [
+          "Children, contacts, three questions",
+          "PDWP 2021 schedule, donors and household, board MCQs",
+          "8.25 min"
+        ]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分成四段。第一段是原則，包括為什麼每個移植病人都要打、為什麼要當成從來沒打過、live 和 non-live 的分界，以及哪些情況才可以延後。",
+          "第二段是 ECIL 7 的成人時程，也就是書上的 Table 29.1，我會拆成兩張表，再整理成一條從三個月到二十四個月的時間軸。整堂課最常出現的三個時間點是三個月、六個月和二十四個月，請大家在每一張表上留意它們分別對應哪一類疫苗。",
+          "第三段逐一看重點疫苗，pneumococcus、influenza、VZV、HBV 加上抗體檢測，其他疫苗放在同一張表。最後是兒童的 PDWP 建議、donor 和家屬，接著三題考題。旅遊疫苗和 COVID 放在 backup。長期追蹤的其他項目，像第二癌和內分泌，留到第 18 堂。"
+        ]
+      }
+    },
+    {
+      "type": "numbers",
+      "section": "Principles",
+      "eyebrow": "Principles · Why vaccinate",
+      "title": "Vaccine-preventable infections are frequent and lethal after HCT",
+      "items": [
+        {
+          "num": "50×",
+          "label": "Invasive pneumococcal disease vs general population (Shigayeva 2016)"
+        },
+        {
+          "num": "< 1 in 5",
+          "label": "HCT recipients with invasive pneumococcal disease who had been vaccinated"
+        },
+        {
+          "num": "6%",
+          "label": "Influenza deaths; one-third pneumonia, 10% ventilated (Ljungman 2011)"
+        }
+      ],
+      "caption": "Routine for every recipient: auto and allo, adults (90% of HCTs) and children. FACT-JACIE requires a written post-HCT vaccination SOP.",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "第 29 章開宗明義，疫苗是所有移植病人的 routine practice，auto 和 allo、大人和小孩都算。成人特別重要，因為成人佔了九成的 HCT。",
+          "看這三個數字。Invasive pneumococcal disease 在 HCT 病人是一般人的五十倍，可是得病的人當中不到五分之一打過疫苗。Influenza 在 HCT 有三分之一變成肺炎，10% 要插管，6% 死亡，大約是一般族群死亡率的一百到三百倍。",
+          "書上給兩個理由。對個人，常見感染像 pneumococcus、influenza、HBV 有安全的疫苗，罕見但致命的 tetanus、diphtheria、measles、polio 也只能靠疫苗預防。對群體，大量沒打疫苗的移植病人會形成免疫缺口。FACT-JACIE 也要求中心要有書面的疫苗 SOP。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Principles · Live or not",
+      "title": "Every recipient restarts as never vaccinated; live vaccines wait",
+      "root": "Post-HCT recipient = never vaccinated",
+      "branches": [
+        {
+          "label": "Non-live",
+          "box": "Inactivated, subunit, conjugate",
+          "out": "Safe; give on schedule even with GVHD"
+        },
+        {
+          "label": "Live, conditional",
+          "box": "MMR, varicella, yellow fever",
+          "out": "≥ 24 m, no GVHD, no IS, no relapse, no IVIG"
+        },
+        {
+          "label": "Live, never",
+          "box": "OPV, BCG, Zostavax, nasal flu",
+          "out": "Also oral typhoid and oral rotavirus"
+        }
+      ],
+      "invert": 1,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "整章最重要的原則在這裡。移植前打過的疫苗，不論是病人自己還是 donor 打的，移植後都無法維持保護，所以 post-HCT 病人要當成 never vaccinated，整套重來。這和 solid organ transplant 剛好相反，SOT 重視的是移植前接種。移植前有抗體，也不是移植後不打的理由，因為大多數人會失去免疫力。",
+          "左邊是 non-live vaccine，包括 inactivated、subunit、conjugate，安全性和一般人一樣，也沒有證據會誘發或加重 GVHD，唯一的例外是 SARS-CoV-2 疫苗。書上也提醒，現有的研究多半是 BM 或 PB、MAC 的病人，cord blood、RIC 和 haplo 的經驗很少，所以這些族群的建議主要是外推。",
+          "中間是有條件的 live vaccine，MMR、varicella 和 yellow fever。條件要全部成立，移植滿 24 個月、沒有 GVHD、沒有免疫抑制、原發疾病沒有復發，距離上次 IVIG 至少三個月，最好八個月。右邊是永遠禁忌的 live vaccine，包括 oral polio、BCG、Zostavax、鼻噴的 influenza，以及口服 typhoid 和 rotavirus。考題只要有一個條件不符合，live vaccine 就是不打。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Principles · When to delay",
+      "title": "Delay non-live vaccines only for a short list of reasons",
+      "head": [
+        "Situation",
+        "What Ch. 29 says"
+      ],
+      "rows": [
+        [
+          "Rituximab in the past 6 months",
+          "Postpone; ECIL: start > 6 months after the last dose"
+        ],
+        [
+          "IgG < 3 g/L",
+          "Postpone (profound hypogammaglobulinaemia)"
+        ],
+        [
+          "Uncontrolled grade 3–4 aGVHD, infection or ICU",
+          "Postpone until the patient is stable"
+        ],
+        [
+          "Current ATG",
+          "Postpone"
+        ],
+        [
+          "GVHD controlled on treatment",
+          "Do not delay"
+        ],
+        [
+          "Waiting for CD4 > 200/μL",
+          "No data support any lymphocyte threshold"
+        ],
+        [
+          "IVIG",
+          "Non-live unaffected; live ≥ 3 (ideally 8) months later"
+        ]
+      ],
+      "colW": [
+        5,
+        6.8
+      ],
+      "fontSize": 17,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "書上的原則是，延後 non-live vaccine 應該是例外。可以延後的理由只有四類。六個月內用過 rituximab，ECIL 建議最後一劑之後超過六個月再開始，而且抗體反應不確定，打完可以驗抗體。IgG 低於 3 g/L 的嚴重 hypogammaglobulinemia。病情不穩，例如沒控制的 grade 3 到 4 acute GVHD、沒控制的感染、住在 ICU。以及正在使用 ATG。",
+          "下面三列是常見的錯誤延後。GVHD 已經用藥控制住，不應延後，這些病人感染風險更高，即使反應打折也有好處。有些中心要等 CD4 超過 200 才開始，但沒有任何數據支持特定的淋巴球門檻，等待只會拉長沒有保護的時間。",
+          "IVIG 不會抑制 non-live vaccine 的反應，只影響 live vaccine，要隔至少三個月，理想是八個月。考題很喜歡拿 controlled cGVHD 或 CD4 數字當陷阱。Rituximab 的影響特別長，流感疫苗前一年內用過 rituximab，就常常產生不了保護性抗體。病人如果剛因為 PTLD 或 cGVHD 用了 rituximab，整個計畫要往後挪。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Principles · Response",
+      "title": "Later, conjugate vaccines given off immunosuppression respond best",
+      "head": [
+        "Factor",
+        "Effect on vaccine response"
+      ],
+      "rows": [
+        [
+          "Time from HCT",
+          "Later is better; > 12 months usually best (PCV excepted)"
+        ],
+        [
+          "Vaccine type",
+          "T-cell-dependent (conjugate) > T-cell-independent"
+        ],
+        [
+          "GVHD or ongoing IS",
+          "Lower response, mainly polysaccharide vaccines"
+        ],
+        [
+          "Not impaired by GVHD/IS",
+          "Conjugate Hib, PCV, meningococcal; IPV; DT"
+        ],
+        [
+          "Rituximab",
+          "Lower response to tetanus, influenza, SARS-CoV-2"
+        ],
+        [
+          "Platelets < 50 × 10⁹/L",
+          "IPV, PCV SC; influenza intradermal"
+        ],
+        [
+          "Intramuscular injection",
+          "Safe if platelets ≥ 30–50, ≤ 23-gauge, 2-min pressure"
+        ]
+      ],
+      "colW": [
+        4.2,
+        7.6
+      ],
+      "fontSize": 17,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張整理影響疫苗反應的因素。時間是最大的變數，越晚打反應越好，通常超過十二個月最好，例外是 pneumococcal conjugate vaccine，三個月開始也不比較差。",
+          "疫苗種類方面，T-cell-dependent 的 conjugate vaccine 會產生 memory，保護比較久，T-cell-independent 的 polysaccharide 疫苗反應差。GVHD 或免疫抑制會降低反應，受影響最大的就是 polysaccharide 疫苗；conjugate 的 Hib、pneumococcus、meningococcus，還有 IPV 和 diphtheria-tetanus，在 GVHD 下反應仍然保留。Rituximab 會降低 tetanus、influenza 和 SARS-CoV-2 的抗體反應。",
+          "最後是給藥途徑。很多疫苗是肌肉注射，血小板低於 50 時，IPV 和 PCV 可以改皮下，influenza 可以打皮內。血小板在 30 到 50 以上、用 23 號或更細的針、壓兩分鐘，肌肉注射是安全的。劑量和一般人相同，劑與劑之間至少隔一個月。",
+          "這張表背後的邏輯是 T cell 的重建比 B cell 慢。Conjugate vaccine 把多醣接在蛋白上，可以借用 T cell 的幫忙，所以在 GVHD 和免疫抑制下仍然有效；純 polysaccharide 疫苗完全靠 B cell，移植後早期幾乎打不出反應。這也是為什麼 pneumococcus 要先打 PCV，再用 PPSV23 擴大涵蓋。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "ECIL 7 schedule",
+      "eyebrow": "ECIL 7 · Table 29.1, part 1",
+      "title": "ECIL 7 starts PCV at 3 months and most other vaccines at 6",
+      "head": [
+        "Vaccine",
+        "Doses",
+        "Start after HCT",
+        "Grade"
+      ],
+      "rows": [
+        [
+          "Pneumococcal conjugate (PCV)",
+          "3",
+          "3 months",
+          "AI"
+        ],
+        [
+          "Pneumococcal polysaccharide, 4th dose\n(PCV instead if GVHD, BIIr)",
+          "1",
+          "12 months, ≥ 8 weeks after last PCV",
+          "BI"
+        ],
+        [
+          "Influenza, inactivated",
+          "1 (2 in special cases)",
+          "> 6 months, yearly, lifelong;\nfrom 3 months in an outbreak",
+          "AIIr\nBIIr"
+        ],
+        [
+          "Haemophilus influenzae conjugate",
+          "3",
+          "3 or 6 months",
+          "BIIr"
+        ],
+        [
+          "Diphtheria-tetanus (DT > Td)",
+          "3",
+          "From 6 months",
+          "BIu"
+        ],
+        [
+          "Pertussis, acellular (DTaP > Tdap)",
+          "3",
+          "6–12 months",
+          "CIII"
+        ],
+        [
+          "Inactivated polio",
+          "3",
+          "6–12 months",
+          "BIIu"
+        ],
+        [
+          "Meningococcal conjugate (local policy)",
+          "2",
+          "From 6 months",
+          "BIIu"
+        ]
+      ],
+      "colW": [
+        4.8,
+        2.2,
+        3.9,
+        1.1
+      ],
+      "fontSize": 14,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這是 ECIL 7 的建議，Cordonnier 2019，也就是書上的 Table 29.1 前半。最早開始的是 pneumococcal conjugate vaccine，移植後三個月開始，三劑，證據等級 AI，是整張表唯一的 A-I。第四劑在十二個月給 23 價的 polysaccharide vaccine，距離最後一劑 PCV 至少八週；如果有 GVHD，polysaccharide 反應差，第四劑改用 PCV。考題常把 PCV 三個月和 influenza 六個月對調，或者把 PPSV23 放到最前面，這兩個陷阱要特別小心。",
+          "Inactivated influenza 在移植超過六個月開始，等級 AIIr，之後每年打、終身持續，只要病人還被判斷為免疫抑制。社區流行時可以提早到三個月。提早打的、嚴重 GVHD 或淋巴球低的人，可以在三到四週後補第二劑。",
+          "Hib conjugate 三劑，三或六個月開始。Diphtheria-tetanus 從六個月開始，DT 比 Td 好；acellular pertussis 和 inactivated polio 在六到十二個月，各三劑，這三種劑間隔一到兩個月。Meningococcal conjugate 兩劑，從六個月開始，依各國建議和當地盛行率。其他沒特別註明的，劑間隔一個月。Auto-HCT 用同一份時程，只是部分證據等級不同。",
+          "另外，表上的時間是開始的時間，不是唯一的時間。病人如果因為上一張講的理由延後，回來之後還是從頭照順序補齊，不需要因為晚打而減少劑數。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "ECIL 7 · Table 29.1, part 2",
+      "title": "HBV, HPV and the live vaccines come with conditions",
+      "head": [
+        "Vaccine",
+        "Who",
+        "Doses",
+        "Start",
+        "Grade"
+      ],
+      "rows": [
+        [
+          "Hepatitis B",
+          "Seronegative, or immunity lost at 6 m",
+          "3 (0, 1, 6 m)",
+          "6–12 months",
+          "BIIt"
+        ],
+        [
+          "Hepatitis B",
+          "Past infection, anti-HBs < 10 IU/L",
+          "3",
+          "6–12 months",
+          "BIII"
+        ],
+        [
+          "Hepatitis B",
+          "Seronegative, donor anti-HBc positive",
+          "—",
+          "Before HCT",
+          "BIII"
+        ],
+        [
+          "HPV",
+          "As for the general population",
+          "Per label",
+          "6–12 months",
+          "BIIu"
+        ],
+        [
+          "Measles (MMR)",
+          "Seronegative; no GVHD, IS, relapse, IVIG",
+          "1 (2 children)",
+          "≥ 24 m (≥ 12 m if outbreak)",
+          "BIIu"
+        ],
+        [
+          "Rubella (MMR)",
+          "Seronegative women of childbearing age",
+          "1",
+          "≥ 24 months",
+          "CIIu"
+        ],
+        [
+          "Varicella, live",
+          "Seronegative, same conditions as measles",
+          "1 (± 2nd)",
+          "> 24 months",
+          "BIIr"
+        ],
+        [
+          "Zoster, live",
+          "Nobody",
+          "—",
+          "Not recommended",
+          "DIII"
+        ]
+      ],
+      "colW": [
+        2.4,
+        4.3,
+        1.9,
+        2.8,
+        1.0
+      ],
+      "fontSize": 14,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Table 29.1 的後半，每一個都有附帶條件。Hepatitis B 分三種人。移植前血清陰性，或移植前打過但六個月時已經沒有抗體，在六到十二個月打三劑，0、1、6 個月。以前感染過、anti-HBs 低於 10 的人，同樣六到十二個月開始。比較特別的是血清陰性的病人配上 anti-HBc 陽性的 donor，要在移植前就打。這個情況的目的，是讓病人在移植前先有保護，避免從 donor 這端帶來 HBV 的風險。打完三劑之後一到兩個月，anti-HBs 仍然低於 10 的人，可以考慮再給一輪三劑，不過第二輪的效益並不確定。",
+          "HPV 依各國一般族群的建議，六到十二個月開始。接著是 live vaccine。Measles 要血清陰性，而且沒有 GVHD、沒有免疫抑制、沒有復發、近幾個月沒有 IVIG，最早 24 個月；只有在 measles 流行、免疫抑制輕微時，可以提早到十二個月，這個等級只有 CIII。Rubella 的對象是血清陰性、有生育可能的女性。另外要知道，這些 live vaccine 在 24 個月之前、或有 active GVHD 和免疫抑制時，書上一律寫成禁忌，等級 DIII。成人兩劑 varicella 是選項，不是常規。",
+          "Live varicella vaccine 可以考慮給血清陰性、符合同樣條件、移植超過 24 個月的人，移植前血清陰性的成人可以加第二劑。最下面的 live zoster vaccine 不建議，等級 DIII。這一張的 24 個月和 DIII，是選擇題最常拿來做陷阱的地方。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "ECIL 7 · Timeline",
+      "title": "The adult calendar runs from 3 to 24 months after HCT",
+      "steps": [
+        "3 m: PCV × 3; Hib 3 or 6 m",
+        "6 m: influenza, DT, MenC",
+        "6–12 m: HBV, IPV, aP, HPV",
+        "12 m: PPSV23 (PCV if GVHD)",
+        "≥ 24 m: MMR, varicella if fit"
+      ],
+      "invert": 4,
+      "caption": "Speaker's summary of Table 29.1. Influenza from 3 months in an outbreak; same schedule after auto-HCT. Only the last box contains live vaccines.",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "把兩張表收成一條時間軸，這是我自己的整理。三個月開始 PCV 三劑，Hib 可以三個月或六個月開始。六個月加上 inactivated influenza、diphtheria-tetanus 和 meningococcal conjugate。六到十二個月補上 HBV、inactivated polio、acellular pertussis 和 HPV。十二個月是第四劑 pneumococcus，一般用 PPSV23，有 GVHD 就改 PCV。",
+          "最後一格是黑色的，因為只有它是 live vaccine，MMR 和 varicella，要等 24 個月以上，而且病人要完全符合條件。前面四格全部是 non-live，GVHD 控制住就照表打。時間軸上的劑數都是三劑，只有 meningococcal 兩劑、PPSV23 一劑、influenza 每年一劑。記劑數的時候，可以記成 non-live 的基本系列三劑、間隔至少一個月。",
+          "書上強調沒有一個適用所有病人的時程，每個中心要自己訂，但原則是簡單、時序清楚、不要增加回診次數，最好和醫院的預防醫學部門和基層醫師合作。實務上很多中心把疫苗門診和移植後三、六、十二、二十四個月的評估綁在一起。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Vaccine by vaccine",
+      "eyebrow": "Pneumococcus",
+      "title": "Conjugate vaccine first: PCV outperforms the polysaccharide vaccine",
+      "head": [
+        "Feature",
+        "PCV (conjugate)",
+        "PPSV23 (polysaccharide)"
+      ],
+      "rows": [
+        [
+          "Valency in Ch. 29",
+          "13-valent (10-valent in some countries)",
+          "23-valent"
+        ],
+        [
+          "Immune response",
+          "T-cell-dependent, boostable",
+          "T-cell-independent, no boost"
+        ],
+        [
+          "Response after HCT",
+          "54–98% after 3 doses (5 trials)",
+          "Poor, especially with GVHD"
+        ],
+        [
+          "Timing",
+          "From 3 months; 3 m not inferior to 9 m",
+          "12 months, ≥ 8 weeks after PCV"
+        ],
+        [
+          "Role",
+          "Always first; 4th dose if GVHD",
+          "Broadens response; rescues some"
+        ],
+        [
+          "Clinical effect",
+          "Better IPD prevention (Roberts 2020)",
+          "Less effective than PCV"
+        ]
+      ],
+      "colW": [
+        2.8,
+        4.6,
+        4.4
+      ],
+      "fontSize": 16,
+      "caption": "[verify: PCV15/PCV20 in the current Taiwan post-HCT schedule]",
+      "captionY": 5.75,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Pneumococcus 有兩類疫苗。Conjugate vaccine，書上寫的是 13 價，有些國家用 10 價，T-cell-dependent，有 boost 效果。五個試驗三劑之後的反應率 54 到 98%，其中四個用 7 價、一個用 13 價，遠比 polysaccharide 好。Allo-HCT 後三個月開始，不輸給九個月開始。病人之所以得到 invasive pneumococcal disease，很多時候不是疫苗沒效，而是根本沒有打。三個月開始這個時間點，就是要盡早把這段空窗補起來。",
+          "PPSV23 是 polysaccharide，T-cell-independent，沒有 boost 效果，GVHD 時反應特別差。它的角色是在 PCV 之後擴大和加強反應，部分 PCV 沒反應的人打了 PPSV23 會有反應。所以順序永遠是 PCV 在前。有 GVHD 的病人尤其如此，polysaccharide 打了也沒有反應，所以第四劑直接換成 PCV。",
+          "臨床效果方面，Roberts 2020 顯示 PCV 預防 invasive pneumococcal disease 比 PS 好，auto 和 allo 都一樣。抗體可以在 24 個月評估，但驗了之後要補打還是整套重打，目前沒有定論。下方括號是提醒，書上只談到 13 價，新一代 PCV 在台灣移植後的用法要另外確認。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 29 discusses only PCV13 (and PCV10/PCV7); check whether PCV15 or PCV20 has replaced PCV13 in current guidelines and in the Taiwan post-HCT schedule."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Influenza",
+      "title": "Influenza is severe after HCT and needs a yearly, lifelong vaccine",
+      "head": [
+        "Item",
+        "Ch. 29"
+      ],
+      "rows": [
+        [
+          "Presentation",
+          "20% of confirmed cases are afebrile"
+        ],
+        [
+          "Outcome (Ljungman 2011)",
+          "One-third pneumonia, 10% ventilated, 6% die"
+        ],
+        [
+          "Cardiovascular link",
+          "Up to 1/3 of flu deaths are CV; 8% CVD at 10 y post-HCT"
+        ],
+        [
+          "Vaccine efficacy",
+          "80% fewer confirmed infections (retrospective)"
+        ],
+        [
+          "Timing",
+          "Poor serology < 6 months; cellular boost from 3 months"
+        ],
+        [
+          "Poor response",
+          "Rituximab in prior year, active GVHD, low lymphocytes"
+        ],
+        [
+          "Second dose",
+          "Marginal benefit; 3–4 weeks later in selected patients"
+        ],
+        [
+          "Contraindicated",
+          "Live attenuated (intranasal) influenza vaccine"
+        ]
+      ],
+      "colW": [
+        4.0,
+        7.8
+      ],
+      "fontSize": 16,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Influenza 在 HCT 病人有兩個陷阱。兩成確診的人不發燒，而且病程兇，Ljungman 2011 的 H1N1 資料是三分之一肺炎、10% 插管、6% 死亡，還可能有致命的腦炎和心肌炎。一般族群裡多達三分之一的流感死亡是心血管死亡，而 HCT 病人十年有 8% 發生 CVD，所以流感疫苗也有間接的心血管好處。",
+          "疫苗效果方面，一個回溯研究顯示病毒確診感染減少約 80%。六個月內打，血清反應很差，不過三個月起就能加強細胞免疫，所以流行時可以提早。接種前一年內用過 rituximab、active GVHD、淋巴球低，都會讓反應變差。第二劑的好處只有邊際，留給嚴重 GVHD、淋巴球低或三個月就提早打的人。兒童有一個 phase II 試驗，高劑量 60 μg 比標準 15 μg 免疫原性更好，但注射部位反應較多。高劑量在成人 HCT 的角色，書上沒有給結論。",
+          "鼻噴的 live attenuated influenza vaccine 是禁忌。因為病人自己反應不好，家人和醫護人員都要打。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Varicella-zoster virus",
+      "title": "Acyclovir prevents VZV; only the subunit vaccine has RCT data",
+      "root": "VZV prevention: acyclovir ≥ 1 y allo, 3–6 m auto",
+      "branches": [
+        {
+          "label": "Live, low titre",
+          "box": "Varicella (Varivax, Varilrix)",
+          "out": "Seronegative only, > 24 m, strict criteria"
+        },
+        {
+          "label": "Live, high titre",
+          "box": "Zoster (Zostavax): > 14× virus",
+          "out": "Contraindicated in all guidelines"
+        },
+        {
+          "label": "Adjuvanted subunit",
+          "box": "Recombinant gE + AS01B (Shingrix)",
+          "out": "Auto RCT: 68.2% efficacy; allo unproven"
+        }
+      ],
+      "invert": 2,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "VZV 的預防主力不是疫苗，是 acyclovir 或 valacyclovir 預防，allo-HCT 至少一年，auto-HCT 三到六個月。",
+          "疫苗有三種。左邊的 live varicella vaccine 是低病毒量，只給血清陰性、移植超過 24 個月、符合所有條件的人，因為安全疑慮，實務上很少用。中間的 Zostavax 是高病毒量，比 varicella vaccine 多十四倍以上，所有指引都禁忌；書上提到有致死的 vaccine-strain disseminated VZV，有些甚至在移植好幾年後才打。",
+          "右邊是 adjuvanted subunit vaccine，recombinant gE 加上 AS01B adjuvant，肌肉注射兩劑，相隔 60 天，核准用於 18 歲以上、帶狀疱疹高風險的成人。Bastidas 2019 在 auto-HCT 的 phase 3 試驗，第一劑在移植後 50 到 70 天，第二劑一到兩個月後，預防 zoster 的效力 68.2%，預防 post-herpetic neuralgia 89%。NCCN 建議用於 auto-HCT，allo 可以考慮，但 allo 沒有 randomized data，效果和安全性尚未建立。這個試驗發表在 ECIL 7 之後，所以 ECIL 指引沒有評論它，但很多中心已經把它放進常規時程。注意它不是用來預防水痘原發感染的。",
+          "考題常見的組合是 auto-HCT 後兩三個月的病人，問哪一種 zoster 疫苗有證據，答案就是右邊這個。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Hepatitis B · Serology",
+      "title": "HBV vaccine prevents reverse seroconversion even without a response",
+      "head": [
+        "Topic",
+        "Ch. 29"
+      ],
+      "rows": [
+        [
+          "Response rate",
+          "40–70% reach anti-HBs > 10 mIU/mL"
+        ],
+        [
+          "At risk of reverse seroconversion",
+          "HBsAg negative, anti-HBs and/or anti-HBc before HCT"
+        ],
+        [
+          "Non-responders",
+          "Vaccine still prevents reverse seroconversion (Takahata 2014)"
+        ],
+        [
+          "Post-vaccine check",
+          "Anti-HBs ≥ 1 month after the 3rd dose"
+        ],
+        [
+          "Anti-HBs < 10 mIU/mL",
+          "Second 3-dose series; 40 μg doses in adults (IDSA)"
+        ],
+        [
+          "Pre-vaccine serology",
+          "Measles in adults (BIIu); varicella before live vaccine (BIIr)"
+        ],
+        [
+          "Long-term",
+          "HBV, measles, tetanus, diphtheria, polio titres every 4–5 y"
+        ]
+      ],
+      "colW": [
+        4.4,
+        7.4
+      ],
+      "fontSize": 16,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "HBV 疫苗在移植後只有 40 到 70% 的人 anti-HBs 超過 10，比健康人差很多。可是沒有反應的人打了也有好處。移植前 HBsAg 陰性、但有 anti-HBs 或 anti-HBc 的人，就是 resolved infection，移植後有 reverse seroconversion 的風險。Takahata 2014 顯示，即使是疫苗 non-responder，接種也能預防 reverse seroconversion，推測是疫苗誘發的 memory T cell 和 cytotoxic T cell 在作用。這一點在 HBV 盛行的台灣特別實用。臨床上，resolved HBV 的病人除了打疫苗，還是要依照第 12 堂提到的方式監測 HBV DNA，疫苗是額外的保護，不是取代。",
+          "大部分疫苗打前打後都不需要驗血清，例外就列在下面。HBV 在第三劑後一個月以上驗 anti-HBs，低於 10 就考慮再一輪三劑，IDSA 建議青少年和成人用 40 μg 的高劑量，但第二輪的效益不確定。成人打 measles 前要驗抗體，陰性才打；考慮 varicella vaccine 時也只給血清陰性的人。Pneumococcal 抗體可以在 24 個月驗，但驗完要補一劑還是重打整套，還要前瞻性研究。",
+          "長期追蹤時，大約每四到五年驗一次 HBV、measles、tetanus、diphtheria 和 polio 的免疫力。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Other vaccines",
+      "title": "Each remaining vaccine has its own reason and its own limit",
+      "head": [
+        "Vaccine",
+        "Why vaccinate",
+        "Key point"
+      ],
+      "rows": [
+        [
+          "Measles",
+          "Severe, fatal pneumonia or encephalitis",
+          "Live only; ≥ 24 m, strict criteria"
+        ],
+        [
+          "Rubella",
+          "Prevent congenital rubella",
+          "Seronegative women of childbearing age"
+        ],
+        [
+          "Mumps",
+          "No severe cases reported after HCT",
+          "No routine indication; comes in MMR"
+        ],
+        [
+          "HPV",
+          "Genital HPV in ~40% of women long-term",
+          "VLP vaccine, 3 doses; grade BIIu–CIII"
+        ],
+        [
+          "Polio",
+          "Imported virus still a threat",
+          "IPV only; OPV risks paralytic polio"
+        ],
+        [
+          "Tetanus, diphtheria",
+          "Tetanus in soil; diphtheria back in Europe",
+          "DT preferred over Td"
+        ],
+        [
+          "Pertussis",
+          "No severe adult case after HCT",
+          "Aim is to stop transmission"
+        ],
+        [
+          "SARS-CoV-2",
+          "Recommended for all HCT recipients",
+          "May worsen or elicit GVHD in allo"
+        ]
+      ],
+      "colW": [
+        2.6,
+        4.7,
+        4.5
+      ],
+      "fontSize": 15,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "其他疫苗每一個打的理由都不同。Measles 在 HCT 有嚴重甚至致死的肺炎和腦炎，是為了保護病人。Rubella 沒有嚴重病例，打的理由是預防先天性 rubella。Mumps 也沒有嚴重病例，本身沒有 routine 適應症，只是包在 MMR 裡一起打。這三個都只有 live vaccine。",
+          "HPV 是 virus-like particle 疫苗，不會感染。長期追蹤接近四成女性有生殖道 HPV 感染，鱗狀細胞癌是移植後最常見的實體腫瘤，長期免疫抑制治療 cGVHD 會增加風險。HCT 的經驗很少，所以推薦等級只有 BIIu 到 CIII，建議三劑。Polio 只用 IPV，oral polio 有 paralytic polio 的風險。",
+          "Tetanus 在環境中隨時可能暴露，diphtheria 在歐洲 2009 到 2014 年增加了 280%。Pertussis 在成人 HCT 沒有嚴重病例，打的目的是避免傳播。SARS-CoV-2 是唯一可能誘發或加重 GVHD 的 non-live vaccine，決定接種時機時要考慮，詳細在第 12 堂。RSV 已有兩種疫苗核准用於 60 歲以上，但還沒有在 HCT 研究過。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "section": "Children and contacts",
+      "eyebrow": "Children · PDWP-EBMT 2021",
+      "title": "Children restart combination vaccines at a fixed 6 months",
+      "fig": "ch29-fig1",
+      "alt": "EBMT PDWP consensus timeline for vaccination of children after allo-HCT, 6 to 26 months",
+      "caption": "Ifversen 2021. DTaP-IPV-HBV/Hib and PCV13 from 6 months if engrafted and platelets ≥ 50 × 10⁹/L, regardless of donor, GVHD or IST. Optional vaccines from 12 months. MMR-V ≥ 24 months, only if immunocompetent.",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "兒童有自己的共識，是 EBMT 小兒工作組 2021 年的建議，Ifversen 2021，也就是 Fig. 29.1。灰色是 routine，移植後六個月開始用新生兒的六合一 DTaP-IPV-HBV-Hib 加上 PCV13，連續三個月各一劑，十八個月再補一劑。只要白血球已經 engraft、血小板 50 以上就開始，不管 donor 或 graft 種類、GVHD、免疫抑制或免疫重建的指標，而且不論實際年齡都用這個六合一。這個 fixed time point 的做法，是根據英國的回溯資料、德國的 IKAST 前瞻性試驗，以及 PCV13 的試驗。和成人比較，兒童的特點是不看 GVHD 或免疫重建，到時間就打。",
+          "白框是 optional，meningococcal ACWY 和 Men B 從十二個月開始，PPSV23 在 24 個月。HPV 給所有青少年，從十二個月開始。最右邊虛線框的 MMR-V 是 live vaccine，至少 24 個月，而且要停免疫抑制、沒有 GVHD 都滿三個月，也沒有在用 IVIG。",
+          "Influenza 每年打，移植後第一次要兩劑。在 IVIG 補充期間打 non-live vaccine 是安全的，只是可能沒反應，停 IVIG 三個月後再驗抗體。COVID-19 疫苗只要是 non-live、non-replicating，也建議所有 allo-HCT 的孩子打，可以提早到三個月。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Donors and contacts · Table 29.3",
+      "title": "Household contacts and staff are part of the vaccine programme",
+      "head": [
+        "Who / vaccine",
+        "Recommendation"
+      ],
+      "rows": [
+        [
+          "Donor",
+          "No vaccination solely for the recipient's benefit"
+        ],
+        [
+          "Donor, live vaccines",
+          "Avoid MMR, varicella, zoster within 4 weeks of harvest"
+        ],
+        [
+          "Contacts and HCWs: influenza",
+          "Inactivated, yearly while in contact"
+        ],
+        [
+          "Seronegative contacts: varicella",
+          "2 doses ≥ 28 days apart; avoid contact if rash"
+        ],
+        [
+          "Live intranasal influenza in a contact",
+          "Avoid contact with the patient for 7 days"
+        ],
+        [
+          "Oral polio in the household",
+          "Do not give; 4–6-week furlough if given"
+        ],
+        [
+          "Rotavirus-vaccinated infant",
+          "No contact with stools or diapers for 4 weeks"
+        ],
+        [
+          "MMR, yellow fever, oral typhoid",
+          "Can be given to contacts safely"
+        ]
+      ],
+      "colW": [
+        4.8,
+        7
+      ],
+      "fontSize": 16,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "疫苗計畫不只是病人，還包括同住的家人和醫護人員，這是 Table 29.3。Donor 方面，指引不建議只為了受者的利益去打疫苗；不過 donor 打 tetanus、diphtheria、PCV7 和 Hib 確實能改善受者移植後的免疫，如果 donor 本來就該打，在採集前至少打一劑對受者也有利。Live vaccine 要避開採集前四週，以免病原經由 graft 傳給病人。",
+          "家人和醫護每年打 inactivated influenza。血清陰性的人打 varicella 兩劑，相隔至少 28 天，接種後出疹就要避免接觸病人，直到疹子結痂。醫護人員方面，除了 influenza，血清陰性的人也要打 measles。",
+          "最常考的是家人打 live vaccine 怎麼辦。鼻噴的 live influenza，七天內避免接觸；oral polio 在病人家中不能給，因為糞便會排出病毒，萬一打了要隔離四到六週。家中嬰兒打 rotavirus，病人四週內不要碰尿布和糞便。MMR、yellow fever 和口服 typhoid 給家人是安全的。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: vaccinate a patient with controlled chronic GVHD",
+      "stem": "A 46-year-old man is 7 months after a matched sibling allo-HCT for AML. He has mild oral and skin chronic GVHD, controlled on prednisolone 10 mg/day and cyclosporine. He has had no rituximab, ATG or IVIG; platelets are 120 × 10⁹/L. Which vaccination plan is most appropriate today?",
+      "options": [
+        "Defer all vaccines until immunosuppression has stopped",
+        "Give pneumococcal conjugate and inactivated influenza vaccines now",
+        "Give MMR now if he is measles-seronegative",
+        "Give live-attenuated zoster vaccine (Zostavax)",
+        "Vaccinate only once the CD4 count exceeds 200/μL"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: controlled GVHD does not delay non-live vaccines",
+      "explanation": "GVHD under control should not delay non-live vaccines, and conjugate vaccines still respond during GVHD or IS. ECIL 7: PCV from 3 months, inactivated influenza from 6 months. MMR needs ≥ 24 months with no GVHD and no IS; Zostavax is contraindicated. No data support any CD4 threshold.",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。46 歲男性，matched sibling allo-HCT 治療 AML 之後七個月，有輕微的口腔和皮膚 chronic GVHD，用 prednisolone 每天 10 mg 加 cyclosporine 控制住。沒用過 rituximab、ATG 或 IVIG，血小板 12 萬。今天要打疫苗，哪個計畫最適當。",
+          "選項 A 是等免疫抑制停掉再全部一起打，B 是現在打 PCV 和 inactivated influenza，C 是血清陰性就打 MMR，D 是 Zostavax，E 是等 CD4 超過 200。先判斷每個選項是 live 還是 non-live，再看移植後的月數。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確的是 B。GVHD 已經用藥控制住，不是延後 non-live vaccine 的理由，而且 conjugate vaccine 在 GVHD 和免疫抑制下仍有反應。PCV 從三個月開始，influenza 從六個月開始，他七個月，兩個都該打了。",
+          "A 是最大的陷阱，很多人直覺要等免疫抑制停掉，但書上說延後 non-live vaccine 應該是例外，可以延後的只有 rituximab、IgG 低於 3、病情不穩和正在用 ATG。C 的 MMR 是 live vaccine，要滿 24 個月、沒有 GVHD 也沒有免疫抑制。D 的 Zostavax 永遠禁忌。E 的 CD4 門檻沒有數據支持。cGVHD 病人感染風險更高，即使反應打折，打的獲益還是比較大。",
+          "這題的關鍵字是 controlled，看到控制住的 GVHD，就想到不要延後 non-live vaccine。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: time a live vaccine after IVIG",
+      "stem": "A 32-year-old woman is 30 months after allo-HCT for ALL. She has had no GVHD, stopped all immunosuppression 12 months ago and remains in remission. Pre-vaccine testing shows she is measles- and rubella-seronegative. She received IVIG 6 weeks ago for recurrent sinusitis. What is the best plan for MMR?",
+      "options": [
+        "Give MMR today, since she is beyond 24 months",
+        "Postpone MMR until at least 3, ideally 8, months after the last IVIG",
+        "Never give MMR after allo-HCT; rely on herd immunity",
+        "Give MMR only after a CD4 count above 200/μL",
+        "Give MMR today together with live-attenuated zoster vaccine"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: live vaccines wait 3 to 8 months after IVIG",
+      "explanation": "She meets the MMR criteria (seronegative, ≥ 24 months, no GVHD, no IS, no relapse) except recent IVIG. Live vaccines are given at least 3 and ideally 8 months after the last IVIG; non-live vaccines are unaffected. Rubella vaccination targets seronegative women of childbearing potential. Live zoster vaccine is contraindicated.",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。32 歲女性，ALL 做 allo-HCT 之後 30 個月，從來沒有 GVHD，一年前停掉所有免疫抑制，疾病仍然緩解。接種前檢查 measles 和 rubella 都是血清陰性。六週前因為反覆鼻竇炎打過一次 IVIG。MMR 要怎麼安排最好。",
+          "選項 A 是今天就打，因為已經超過 24 個月；B 是延到最後一次 IVIG 之後至少三個月，理想是八個月；C 是 allo-HCT 後永遠不打 MMR；D 是等 CD4 超過 200；E 是今天和 live zoster vaccine 一起打。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確的是 B。她幾乎符合 MMR 的所有條件，超過 24 個月、血清陰性、沒有 GVHD、沒有免疫抑制、沒有復發，又是有生育可能的女性，rubella 也是適應症。唯一卡住的是六週前的 IVIG，live vaccine 要在最後一次 IVIG 之後至少三個月、理想是八個月才打。",
+          "A 是主要陷阱，只看 24 個月，忽略了 IVIG。這個條件只影響 live vaccine，如果今天要打的是 PCV 或 influenza，IVIG 不是延後的理由。C 不對，MMR 在符合條件時是建議施打的。D 的 CD4 門檻沒有數據。E 的 live zoster vaccine 在所有指引都是禁忌。",
+          "所以 live vaccine 的題目，要把條件逐一檢查完，時間、血清、GVHD、免疫抑制、復發、IVIG，一項都不能漏。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: prevent zoster after autologous HCT",
+      "stem": "A 58-year-old man with myeloma is 60 days after high-dose melphalan and autologous HCT. He is VZV-seropositive and takes acyclovir prophylaxis. He asks about a vaccine against herpes zoster. Which approach is supported by a randomized trial in this setting?",
+      "options": [
+        "Live-attenuated zoster vaccine (Zostavax) now, as he is seropositive",
+        "Adjuvanted recombinant zoster vaccine, 2 doses 1–2 months apart, from now",
+        "Live varicella vaccine once he is 12 months from transplant",
+        "No vaccine; continue acyclovir for 5 years instead",
+        "Wait until the CD4 count exceeds 200/μL, then give any zoster vaccine"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: the adjuvanted subunit vaccine works after auto-HCT",
+      "explanation": "In the phase 3 RCT in auto-HCT (Bastidas 2019), 2 doses of adjuvanted recombinant VZV gE vaccine, the first at 50–70 days, gave 68.2% efficacy against zoster and 89% against post-herpetic neuralgia. Zostavax is contraindicated; live varicella vaccine needs > 24 months. Acyclovir is given 3–6 months after auto-HCT.",
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。58 歲男性，multiple myeloma，高劑量 melphalan 加 autologous HCT 之後 60 天。VZV 血清陽性，正在吃 acyclovir 預防。他問能不能打帶狀疱疹的疫苗。在這個情境下，哪一種做法有 randomized trial 支持。",
+          "選項 A 是因為血清陽性，現在打 Zostavax；B 是 adjuvanted recombinant zoster vaccine 兩劑，間隔一到兩個月，從現在開始；C 是十二個月時打 live varicella vaccine；D 是不打疫苗，acyclovir 吃五年；E 是等 CD4 超過 200 再打任何一種。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確的是 B。Bastidas 2019 是在 auto-HCT 做的 phase 3 隨機雙盲試驗，adjuvanted recombinant zoster vaccine 第一劑在移植後 50 到 70 天，第二劑一到兩個月後，預防 zoster 的效力 68.2%，預防 post-herpetic neuralgia 89%，耐受性好。他正好在 60 天。",
+          "A 是陷阱，血清陽性不代表 Zostavax 可以打，它的病毒量比 varicella vaccine 高十四倍以上，所有指引都禁忌。C 的 live varicella vaccine 要超過 24 個月，而且是給血清陰性的人。D 的 acyclovir 在 auto-HCT 一般給三到六個月。E 的 CD4 門檻同樣沒有依據。",
+          "Allo-HCT 的病人如果問同樣的問題，答案就不同了，因為 allo 沒有 randomized data，只能個別考慮。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Travel · Table 29.2",
+      "title": "Travel vaccines are judged one by one, and some mean do not travel",
+      "head": [
+        "Vaccine",
+        "Recommendation (Ljungman 2009)"
+      ],
+      "rows": [
+        [
+          "Any contraindicated vaccine",
+          "Advise not to travel to the endemic area (CIII)"
+        ],
+        [
+          "Tick-borne, Japanese B encephalitis",
+          "Local policy in endemic areas (CIII); timing unknown"
+        ],
+        [
+          "Rabies (killed)",
+          "Pre-exposure after 12–24 m; post-exposure + Ig any time"
+        ],
+        [
+          "Yellow fever (live)",
+          "Limited data (CIII); may favour use if endemic exposure"
+        ],
+        [
+          "Hepatitis A",
+          "As general population (CIII); Ig for exposure"
+        ],
+        [
+          "Typhoid, inactivated IM",
+          "No data (DIII); oral live typhoid contraindicated"
+        ],
+        [
+          "Cholera",
+          "Not recommended (DIII)"
+        ]
+      ],
+      "colW": [
+        4.6,
+        7.2
+      ],
+      "fontSize": 17,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "script": [
+          "這是旅遊疫苗，Table 29.2。如果需要的疫苗是禁忌，就建議病人不要去流行區。Rabies 暴露前接種延到 12 到 24 個月，暴露後隨時可以打疫苗加免疫球蛋白；口服 typhoid 是 live vaccine，禁忌。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Children · PDWP rules",
+      "title": "The paediatric consensus rests on six practical rules",
+      "head": [
+        "Item",
+        "PDWP-EBMT recommendation (Ifversen 2021)"
+      ],
+      "rows": [
+        [
+          "Start",
+          "DTaP-IPV-HBV-Hib and PCV13 at 6 months, platelets ≥ 50"
+        ],
+        [
+          "Regardless of",
+          "Donor or graft type, GVHD, IST, immune recovery"
+        ],
+        [
+          "Optional vaccines",
+          "Preferably from 12 months; PPSV23 at 24 months"
+        ],
+        [
+          "Influenza",
+          "Yearly; 2 doses at the first post-HCT vaccination"
+        ],
+        [
+          "COVID-19 (non-live)",
+          "All allo-HCT children; may start at 3 months"
+        ],
+        [
+          "Live MMR-V",
+          "≥ 24 months; no GVHD or IST for ≥ 3 months; off IVIG"
+        ],
+        [
+          "Antibody checks",
+          "Before and 1 month after primary series if GVHD, IST, IVIG"
+        ]
+      ],
+      "colW": [
+        3,
+        8.8
+      ],
+      "fontSize": 17,
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "script": [
+          "兒童的六個原則。固定六個月開始六合一和 PCV13，不管 GVHD 或免疫抑制；optional 疫苗盡量從十二個月開始，不要干擾 routine。Live MMR-V 要 24 個月以上，停免疫抑制和沒有 GVHD 至少三個月；有 GVHD、免疫抑制或 IVIG 的孩子，在第一輪前後驗抗體。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "backup": true,
+      "eyebrow": "SARS-CoV-2 and RSV",
+      "title": "SARS-CoV-2 and RSV vaccines are newer and less settled",
+      "blocks": [
+        {
+          "head": "SARS-CoV-2",
+          "body": "Specific EBMT and ECIL 9 guidance (Cesaro 2022). Risk of eliciting or worsening GVHD after allo-HCT; weigh when timing.",
+          "extra": "Protein-subunit vaccine may carry lower GVHD risk"
+        },
+        {
+          "head": "RSV",
+          "body": "1–12% of adults with haematological malignancy or HCT; 38% progress to LRTI; mortality 32%.",
+          "extra": "Abrysvo and Arexvy: approved ≥ 60 y, not studied in HCT"
+        },
+        {
+          "head": "Children",
+          "body": "Non-live COVID-19 vaccines for all allo-HCT children, may start at 3 months; antibodies before and 4 weeks after.",
+          "extra": "Then revaccinate yearly, as for influenza"
+        }
+      ],
+      "cite": "de la Cámara R, et al. EBMT Handbook 8th ed. 2024; Ch. 29",
+      "notes": {
+        "script": [
+          "SARS-CoV-2 疫苗是唯一可能誘發或加重 GVHD 的 non-live vaccine，決定時機時要考慮，protein-subunit 疫苗風險可能較低。RSV 疫苗只核准用於 60 歲以上，還沒有 HCT 的資料。"
+        ]
+      }
+    }
+  ]
+}

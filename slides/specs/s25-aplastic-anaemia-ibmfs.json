@@ -1,0 +1,589 @@
+{
+  "id": "s25",
+  "slug": "aplastic-anaemia-ibmfs",
+  "week": 25,
+  "title": "HCT for aplastic anaemia, PNH and inherited marrow failure",
+  "subtitle": "Session 25 · Ch. 78, 79",
+  "cite": "Peffault de Latour R, et al. Ch. 78 · Diaz-de-Heredia C, et al. Ch. 79. EBMT Handbook 8th ed. 2024",
+  "refsPerSlide": 7,
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，第 25 堂談骨髓衰竭的移植，對應 EBMT Handbook 第 78 章的 severe aplastic anemia 和 PNH，以及第 79 章的 Fanconi anemia 和其他遺傳性骨髓衰竭。這些都是非惡性疾病，移植不需要 GvL，目標是治癒又不留下 GVHD。地中海型貧血和鐮刀型貧血留到第 26 堂。最後一樣用三題 board-style 題目收尾。"
+    ]
+  },
+  "references": [
+    "1. Peffault de Latour R, Risitano A, Kulasekararaj A, Dufour C. Acquired bone marrow failure: severe aplastic anemia and paroxysmal nocturnal hemoglobinuria. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 707–715. doi:10.1007/978-3-031-44080-9_78",
+    "2. Diaz-de-Heredia C, Bierings M, Dalle JH, Fioredda F, Strahm B. Fanconi anemia and other hereditary bone marrow failure syndromes. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 717–724. doi:10.1007/978-3-031-44080-9_79",
+    "3. Camitta BM. Criteria for severe aplastic anaemia. Lancet. 1988;1(8580):303–4.",
+    "4. Bacigalupo A, Socie G, Lanino E, et al. Fludarabine, cyclophosphamide, antithymocyte globulin, with or without low dose total body irradiation, for alternative donor transplants, in acquired severe aplastic anemia: a retrospective study from the EBMT-SAA Working Party. Haematologica. 2010;95(6):976–82.",
+    "5. Marsh JC, Gupta V, Lim Z, et al. Alemtuzumab with fludarabine and cyclophosphamide reduces chronic graft-versus-host disease after allogeneic stem cell transplantation for acquired aplastic anemia. Blood. 2011;118(8):2351–7.",
+    "6. Townsley DM, Scheinberg P, Winkler T, et al. Eltrombopag added to standard immunosuppression for aplastic anemia. N Engl J Med. 2017;376(16):1540–50.",
+    "7. Peffault de Latour R, Kulasekararaj A, Iacobelli S, et al. Eltrombopag added to immunosuppression in severe aplastic anemia. N Engl J Med. 2022;386(1):11–23.",
+    "8. Samarasinghe S, Webb DKH. How I manage aplastic anaemia in children. Br J Haematol. 2012;157(1):26–40.",
+    "9. Dufour C, Veys P, Carraro E, et al. Similar outcome of upfront-unrelated and matched sibling stem cell transplantation in idiopathic paediatric aplastic anaemia. A study on behalf of the UK Paediatric BMT Working Party, Paediatric Diseases Working Party and Severe Aplastic Anaemia Working Party of EBMT. Br J Haematol. 2015a;171(4):585–94.",
+    "10. Petit AF, Kulasekararaj AG, Eikema DJ, et al. Upfront unrelated donor hematopoietic stem cell transplantation in patients with idiopathic aplastic anemia: a retrospective study of the Severe Aplastic Anemia Working Party of European Bone Marrow Transplantation. Am J Hematol. 2022;97(1):E1–3.",
+    "11. Pulsipher MA, Lehmann LE, Bertuch AA, et al. A study assessing the feasibility of randomization of pediatric and young adult patients between matched unrelated donor bone marrow transplantation and immune-suppressive therapy for newly diagnosed severe aplastic anemia: a joint pilot trial of the North American Pediatric Aplastic Anemia Consortium and the Pediatric Transplantation and Cellular Therapy Consortium. Pediatr Blood Cancer. 2020;67(10):e28444.",
+    "12. Olnes MJ, Scheinberg P, Calvo KR, et al. Eltrombopag and improved hematopoiesis in refractory aplastic anemia. N Engl J Med. 2012;367(1):11–9.",
+    "13. Desmond R, Townsley DM, Dumitriu B, et al. Eltrombopag restores trilineage hematopoiesis in refractory severe aplastic anemia that can be sustained on discontinuation of drug. Blood. 2014;123(12):1818–25.",
+    "14. Peffault de Latour R, Chevret S, Jubert C, et al. Unrelated cord blood transplantation in patients with idiopathic refractory severe aplastic anemia: a nationwide phase 2 study. Blood. 2018;132(7):750–4.",
+    "15. DeZern AE, Eapen M, Wu J, et al. Haploidentical bone marrow transplantation in patients with relapsed or refractory severe aplastic anaemia in the USA (BMT CTN 1502): a multicentre, single-arm, phase 2 trial. Lancet Haematol. 2022;9(9):e660–9.",
+    "16. Prata PH, Eikema DJ, Afansyev B, et al. Haploidentical transplantation and posttransplant cyclophosphamide for treating aplastic anemia patients: a report from the EBMT Severe Aplastic Anemia Working Party. Bone Marrow Transplant. 2020;55(6):1050–8.",
+    "17. DeZern A, Zahurak ML, Symons HJ, et al. Alternative donor BMT with post-transplant cyclophosphamide as initial therapy for acquired severe aplastic anemia. Blood. 2023;141(25):3031–8.",
+    "18. Peffault de Latour R, Schrezenmeier H, Bacigalupo A, et al. Allogeneic stem cell transplantation in paroxysmal nocturnal hemoglobinuria. Haematologica. 2012;97(11):1666–73.",
+    "19. Hillmen P, Young NS, Schubert J, et al. The complement inhibitor eculizumab in paroxysmal nocturnal hemoglobinuria. N Engl J Med. 2006;355(12):1233–43.",
+    "20. Lee JW, Sicre de Fontbrune F, Wong Lee Lee L, et al. Ravulizumab (ALXN1210) vs eculizumab in adult patients with PNH naive to complement inhibitors: the 301 study. Blood. 2019;133(6):530–9.",
+    "21. Kulasekararaj AG, Hill A, Rottinghaus ST, et al. Ravulizumab (ALXN1210) vs eculizumab in C5-inhibitor-experienced adult patients with PNH: the 302 study. Blood. 2019;133(6):540–9.",
+    "22. Hillmen P, Szer J, Weitz I, et al. Pegcetacoplan versus Eculizumab in paroxysmal nocturnal hemoglobinuria. N Engl J Med. 2021;384(11):1028–37.",
+    "23. Risitano AM, Röth A, Soret J, et al. Addition of iptacopan, an oral factor B inhibitor, to eculizumab in patients with paroxysmal nocturnal haemoglobinuria and active haemolysis: an open-label, single-arm, phase 2, proof-of-concept trial. Lancet Haematol. 2021;8(5):e344–54.",
+    "24. Peffault de Latour R, Porcher R, Dalle JH, et al. Allogeneic hematopoietic stem cell transplantation in Fanconi anemia: the European Group for Blood and Marrow Transplantation experience. Blood. 2013;122:4279–86."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Marrow failure · Outline",
+      "title": "Four parts, from acquired aplasia to inherited marrow failure",
+      "rows": [
+        ["SAA: diagnosis and first-line choice", "Camitta criteria and workup; sibling HCT, IST + eltrombopag, upfront MUD", "7.5 min"],
+        ["Refractory SAA and PNH", "Second-line tree, haplo marrow with PTCy, PNH and complement inhibitors", "6 min"],
+        ["Inherited marrow failure syndromes", "Fanconi anaemia, SCN and SDS, DBA, CAMT, telomere disease; EBMT rules", "8 min"],
+        ["Board-style questions", "Sibling HCT in SAA, haplo graft for refractory SAA, FA conditioning", "5.25 min"]
+      ],
+      "cite": "Peffault de Latour R, et al. Ch. 78 · Diaz-de-Heredia C, et al. Ch. 79. EBMT Handbook 8th ed. 2024",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是後天 SAA 的診斷和第一線治療，包括 Camitta criteria、要排除哪些疾病，以及 sibling 移植、IST 加 eltrombopag、upfront MUD 三條路怎麼選。",
+          "第二段是 IST 失敗以後的路，haplo 骨髓移植加 PTCy 是近幾年進步最大的地方，接著看 PNH，移植在補體抑制劑時代還剩多少空間。",
+          "第三段換到遺傳性骨髓衰竭，Fanconi anemia 講得最細，再把 SCN、Shwachman-Diamond、Diamond-Blackfan、CAMT 和 dyskeratosis congenita 並排比較，最後收在 EBMT 的共通原則。三題練習放在最後，每題都對應前面某一張投影片。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Aplastic anaemia and PNH",
+      "eyebrow": "SAA · Diagnosis",
+      "title": "SAA needs marrow cellularity < 30% plus two of three low counts",
+      "head": ["Step", "What Ch. 78 requires"],
+      "rows": [
+        ["Marrow", "Haematopoietic cellularity < 30%"],
+        ["Blood (≥ 2 of 3)", "ANC < 0.5 · retics < 60 · PLT < 20 (all × 10⁹/L)"],
+        ["Very severe", "[verify: ANC < 0.2 × 10⁹/L; not defined in Ch. 78]"],
+        ["Exclude", "MDS, myelofibrosis, hypocellular AL, inherited BMF (FA, TBD)"],
+        ["Genetic and immune", "NGS or WES/WGS; immune screen in children"],
+        ["Cytogenetics", "Up to 10%: del(20q), +8, del13q, −Y (not MDS-defining)"],
+        ["PNH clone", "Concomitant in 40%; no haemolysis → treat as SAA"],
+        ["When to treat", "Moderate AA: may watch; SAA or transfusion need: no delay"]
+      ],
+      "colW": [3.0, 8.8],
+      "fontSize": 16,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "SAA 的診斷要兩件事同時成立。骨髓 hematopoietic cellularity 小於 30%，再加上三項血球中至少兩項，ANC 小於 0.5、reticulocyte 絕對值小於 60、血小板小於 20，單位都是 10⁹/L。這是 1988 年的 Camitta criteria。Very severe 的切點書上沒有寫，我標了 verify。",
+          "SAA 本質上是排除診斷。MDS、myelofibrosis、hypocellular acute leukemia 都要排除，更要排除 Fanconi anemia 和 telomere biology disease。這些病人如果被當成後天 SAA，用標準 SAA conditioning 去移植，結果很差，所以書上建議做 NGS panel 或 whole exome、whole genome；兒童另外做免疫篩檢。",
+          "約一成免疫性 SAA 有 del(20q)、trisomy 8、del13q、loss of Y，都不算 MDS-defining。單獨、低 VAF 的體細胞突變也沒有診斷意義。PNH clone 有四成同時出現，沒有血管內溶血就照 SAA 處理。東亞的發病率約是歐美的三倍。",
+          "一旦符合 SAA 或已經需要輸血，就不要拖，先控制出血和感染，同時送家族 HLA typing 和 MUD search。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: very severe AA cut-off (ANC < 0.2 × 10⁹/L) is not stated in Ch. 78, although its key points use the term 'very severe'; also check whether the Taiwan board uses the Camitta cellularity < 25% wording rather than Ch. 78's < 30%."
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "SAA · First-line algorithm",
+      "title": "Age and a matched sibling decide first-line SAA therapy",
+      "root": "Idiopathic SAA that needs treatment",
+      "branches": [
+        {"label": "MSD and age < 40", "box": "BM HCT: CY + ATG;\nCSA + MTX", "out": "Engraftment 95%;\n2-year OS 90%"},
+        {"label": "10/10 MUD, age < 20", "box": "Upfront MUD HCT\nwithin 2–3 months", "out": "Many centres now offer it first line"},
+        {"label": "No MSD or age ≥ 40", "box": "Horse ATG + CSA\n+ eltrombopag", "out": "Refractory or relapse →\nsecond-line tree"}
+      ],
+      "invert": 0,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78 (Fig. 78.1)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是書上 Fig. 78.1 的左半部，第一線只看兩件事，年齡，以及有沒有 HLA-identical sibling。",
+          "左邊，有 matched sibling、小於 40 歲，直接做骨髓移植，cyclophosphamide 加 ATG，GVHD 預防用 CSA 加 MTX。Engraftment 95%，兩年 OS 90%。",
+          "中間是近年的改變。小於 20 歲、有 10/10 MUD、而且兩到三個月內能完成移植，upfront MUD 已經是很多中心的第一線選擇。書上 key points 寫的是 20 歲以下，圖上寫小於 20，考試照 20 歲這個數字記就好。",
+          "右邊，沒有 sibling，或 40 歲以上，用 horse ATG 加 CSA 加 eltrombopag。這組 refractory 或 relapse 的病人，再進入第二線的流程，後面另一張樹狀圖會講。",
+          "背後的邏輯是 SAA 不需要 GvL，移植的好處完全來自換掉被免疫攻擊的骨髓。年紀越輕、donor 越好，移植的優勢就越明顯；40 歲以上移植毒性和 GVHD 上升，IST 就排到前面。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "SAA · Sibling HCT",
+      "title": "Sibling marrow HCT for SAA relies on ATG in the conditioning",
+      "head": ["Element", "Ch. 78 detail"],
+      "rows": [
+        ["Conditioning", "CY + ATG: serotherapy prevents both rejection and GVHD"],
+        ["Older patients", "Low-dose TBI 200 cGy lowers graft failure"],
+        ["Other serotherapy", "Alemtuzumab also works: T-cell depletion is the key"],
+        ["GVHD prophylaxis", "CSA + MTX"],
+        ["Graft", "Bone marrow, transplanted early"],
+        ["Outcome", "Engraftment 95%; OS 90% at 2 years"],
+        ["Late effects", "Avascular necrosis, endocrine; secondary cancer very rare"],
+        ["Limits", "Toxicity and GVHD rise > 40 years or with high comorbidity"]
+      ],
+      "colW": [3.0, 8.8],
+      "fontSize": 16,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張把 sibling 移植的細節攤開。Conditioning 是 cyclophosphamide 加 ATG。ATG 放在 conditioning 裡同時做兩件事，預防 GVHD，也預防 graft failure，因為 SAA 本身就是 T 細胞媒介的免疫疾病，受者殘存的 T 細胞會排斥移植物。",
+          "年紀較大的病人加 200 cGy 低劑量 TBI，可以再降低 graft failure，這來自 Bacigalupo 2010 的 EBMT 資料。換成 alemtuzumab 也有效，證明關鍵在 T-cell directed serotherapy 本身，而不是哪一個藥。",
+          "GVHD 預防用 CSA 加 MTX，幹細胞來源用骨髓。結果是 engraftment 95%，兩年 OS 90%。長期副作用以 avascular necrosis 和內分泌問題為主，續發癌症非常少。",
+          "限制在 40 歲以上和 comorbidity index 高的病人，移植毒性和 GVHD 都上升，這就是第一線流程用 40 歲當分界的原因。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "SAA · Immunosuppressive therapy",
+      "title": "Adding eltrombopag to horse ATG and CSA raised response rates",
+      "head": ["Study", "Design", "Result"],
+      "rows": [
+        ["NIH cohort\n(Townsley 2017)", "hATG + CSA + EPAG from day 1\n(best cohort)", "6-month CR 58%, ORR 94%;\n2-year OS 97%"],
+        ["Same cohort", "Relapse and clonal evolution", "Similar to historical IST"],
+        ["EBMT phase 3\n(Peffault de Latour 2022)", "Open-label RCT, untreated SAA:\nhATG + CSA ± EPAG", "Primary endpoint met:\nmore CR at month 3"],
+        ["Same trial", "6-month ORR (CR + PR)", "68% vs 41%; faster,\nmore transfusion-free"],
+        ["Same trial", "Safety", "Similar in both arms"],
+        ["Any IST", "Time to recovery", "3–6 months; anti-infective\ncare drives survival"]
+      ],
+      "colW": [3.7, 4.2, 3.9],
+      "fontSize": 15,
+      "caption": "[verify: horse ATG and eltrombopag availability and reimbursement in Taiwan]",
+      "captionY": 5.95,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "沒有 sibling 的病人走 IST。Horse ATG 加 CSA 用了四十年，各種改良都失敗，直到 eltrombopag 加進來。",
+          "NIH 的 Townsley 2017，最好的一組從 day 1 就三種藥一起給，六個月 CR 58%、ORR 94%，兩年存活 97%。Relapse 和 clonal evolution 的比例和歷史資料差不多，加藥沒有增加這個風險。",
+          "EBMT 接著做 open-label 的 phase 3 隨機試驗，主要終點是三個月的 CR，達標。六個月 ORR，也就是 CR 加 PR，從 41% 提高到 68%。反應更快、更多人脫離輸血，安全性相近。所以 key points 寫明，ATG 加 CSA 加 eltrombopag 是不適合移植病人的新標準。",
+          "病房裡要先和病人講清楚，即使反應很好，血球也要三到六個月才會回來。SAA 整體存活的進步，大部分來自感染照護，尤其是抗黴菌治療。台灣能不能用到 horse ATG、eltrombopag 怎麼給付，我標了 verify。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: availability of horse ATG in Taiwan and current NHI reimbursement of eltrombopag in first-line SAA; Ch. 78 does not address either."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "SAA · Upfront unrelated HCT",
+      "title": "Upfront matched unrelated HCT now rivals sibling HCT in children",
+      "head": ["Cohort", "Setting", "Result"],
+      "rows": [
+        ["UK, 44 children\n(Samarasinghe 2012)", "10/10 MUD, FCC;\n40 had failed IST", "5-year FFS 95%"],
+        ["UK, 29 children\n(Dufour 2015a)", "First-line UD, FCC;\n5 had 1-Ag mismatch", "OS 96%, EFS 92%;\none death"],
+        ["Same study", "vs MRD HCT, IST, UD HCT\nafter IST failure", "Like MRD; better than IST\nand post-IST UD HCT"],
+        ["EBMT SAAWP\n(Petit 2022)", "Upfront UD HCT", "Positive results"],
+        ["North America\n(Pulsipher 2020)", "MUD BMT vs ATG + CSA,\nfeasibility study", "Feasible; likely better\nthan IST (small numbers)"]
+      ],
+      "colW": [3.8, 4.0, 4.0],
+      "fontSize": 15,
+      "caption": "FCC = fludarabine, cyclophosphamide, Campath (alemtuzumab)",
+      "captionY": 5.6,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "為什麼要把 MUD 移植往前移？小孩對 IST 的反應比大人好，可是長期來看，relapse、CSA dependence 和 clonal evolution 的風險都高。",
+          "英國的 44 位小孩接受 10/10 MUD 移植，其中 40 位之前 IST 失敗，conditioning 是 FCC，也就是 fludarabine、cyclophosphamide 加 Campath，五年 FFS 95%。",
+          "接著英國另一組 29 位小孩，直接 upfront 做 unrelated 移植，其中五位是一個 antigen mismatch。OS 96%、EFS 92%，只有一例死亡。和歷史對照比較，結果和 MRD 移植相當，比 IST 好，也比 IST 失敗後才做 unrelated 移植好。韓國、EBMT 和北美的資料方向一致，不過北美那個研究的人數很少。",
+          "所以書上的條件是 10/10 MUD、年輕、而且診斷後兩到三個月內能完成移植。台灣找 unrelated donor 的時間如果拖太久，這條路就不成立，要回到 IST。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "SAA · Second line",
+      "title": "After IST failure, age and donor decide the second-line route",
+      "root": "SAA refractory to, or relapsed after, IST",
+      "branches": [
+        {"label": "Young, 10/10 MUD", "box": "Matched unrelated BMT", "out": "Better if ≤ 30 y, < 1 year,\nBM graft, CMV status"},
+        {"label": "Older, MRD, fit", "box": "Sibling HCT", "out": "If no significant comorbidity"},
+        {"label": "No suitable MUD", "box": "Haplo BMT + PTCy,\nor cord blood", "out": "More rejection, infection, GVHD"},
+        {"label": "No HCT", "box": "Eltrombopag, repeat IST, androgens", "out": "Eltrombopag ORR 40%,\nsome trilineage"}
+      ],
+      "invert": 0,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78 (Fig. 78.1)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是 Fig. 78.1 的右下半部。IST 無效或復發以後，一樣看年齡、comorbidity 和 donor。",
+          "年輕、有 10/10 MUD，建議移植。MUD 的結果已經進步到 OS 和 MRD 沒有統計差異，原因是 allele level 配對、支持療法、GVHD 預防、conditioning 加入 fludarabine 和低劑量 TBI。有利因素有四個，30 歲以下、診斷一年內移植、用骨髓不用周邊血，以及 CMV status。考題常把這些條件藏在 vignette 裡。",
+          "年紀較大但有 MRD、沒有明顯 comorbidity，也應考慮移植。沒有合適 MUD，就是 haplo 或 cord blood，下一張細講。",
+          "不走移植的病人，單用 eltrombopag 在 refractory SAA 的 ORR 約 40%，有些是三系反應，即使第一線已經用過也可能有效。另外是再一次 IST，androgen 最近也重新被檢視。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "SAA · Alternative donors",
+      "title": "Haplo marrow with PTCy and ATG now cures over 80% of refractory SAA",
+      "head": ["Study", "Patients and protocol", "Result"],
+      "rows": [
+        ["Historic alternative\ndonors", "MMUD, CB, haplo;\nmostly children", "Long-term OS about 60%"],
+        ["Cord blood\n(Peffault de Latour 2018)", "IST-refractory children", "Good results"],
+        ["BMT CTN 1502\n(DeZern 2022)", "R/R, median 24.9 y; NMA + PTCy\n+ ATG 2.5 mg/kg total", "OS > 80%;\nlow GVHD and TRM"],
+        ["Same study: graft", "BM preferred over PB", "> 2.5 × 10⁸ NC/kg\nideal body weight"],
+        ["EBMT SAAWP\n(Prata 2020)", "36 patients, median 42 y,\n2010–2017", "1-year OS 78%;\n93% if Baltimore-like"],
+        ["First line\n(DeZern 2023)", "27 patients, same protocol", "3-year OS 92%; aGVHD II–IV 7%,\ncGVHD 4%; TBI 400 cGy: 100%"]
+      ],
+      "colW": [3.7, 4.0, 4.1],
+      "fontSize": 15,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Alternative donor 包括 mismatched unrelated、cord blood 和 haplo，rejection、感染和 GVHD 都比 MRD 或 MUD 高。歷史資料的長期 OS 約六成，而且多數是小孩。",
+          "進步最大的是 haplo 加 PTCy，第 3 堂講過的 Baltimore protocol。BMT CTN 1502 收 relapsed 或 refractory 的年輕病人，中位年齡 24.9 歲，nonmyeloablative conditioning 加 PTCy，OS 超過 80%，GVHD 和 TRM 都低。三個細節要記，在原本的 Baltimore protocol 加上總量 2.5 mg/kg 的 ATG，用骨髓不用周邊血，骨髓有核細胞要大於 2.5 × 10⁸/kg ideal body weight。",
+          "EBMT 36 位、中位年齡 42 歲的病人，一年 OS 78%，用 Baltimore-like protocol 的達 93%。DeZern 2023 把 haplo 移到第一線，27 位病人三年 OS 92%，grade II–IV aGVHD 7%，cGVHD 4%，TBI 400 cGy 那一組 OS 和 GRFS 都是 100%。美國作者因此提議年輕病人第一線就做。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "PNH · Role of HCT",
+      "title": "A PNH clone rarely changes the SAA plan; thrombosis rules out HCT",
+      "head": ["Question", "Ch. 78 answer"],
+      "rows": [
+        ["Biology", "Somatic PIG-A (X-linked) → no GPI anchor → no CD55/CD59"],
+        ["Clinical picture", "Intravascular haemolysis, thrombophilia, marrow failure"],
+        ["Main cause of death", "Thrombosis"],
+        ["AA with a PNH clone", "Treat the AA; the clone does not change the algorithm"],
+        ["After thrombosis", "No HCT: high risk of toxicity"],
+        ["Where HCT remains", "AA/PNH; haemolytic PNH without complement inhibitor"],
+        ["Conditioning", "SAA-like for marrow failure; BU-based MAC if cellular"],
+        ["GVHD", "Prevent it: a non-malignant disease needs no GvL"]
+      ],
+      "colW": [3.3, 8.5],
+      "fontSize": 16,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "PNH 是 hematopoietic stem cell 的 PIG-A 體細胞突變，這個基因在 X 染色體上。GPI anchor 的合成一開始就被擋住，CD55 和 CD59 這兩個補體調節蛋白掛不上細胞膜，紅血球就被補體打破，造成血管內溶血。臨床上是溶血、血栓、骨髓衰竭三者的組合，而且會隨病程改變。死亡主因是血栓。",
+          "移植的角色現在很有限。合併 aplastic anemia 時，PNH clone 不改變 SAA 的流程，即使 clone 大到有溶血、同時用補體抑制劑，也還是先處理 AA。發生過血栓的病人不建議移植，毒性太高。",
+          "真的要移植，骨髓衰竭的病人用 SAA-like conditioning 最好；骨髓正常或高度增生的 PNH，過去用過含 busulfan 的 MAC。PNH 和 SAA 一樣不需要 GvL，GVHD 能避免就避免。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "PNH · Complement inhibitors",
+      "title": "Anti-C5 antibodies made complement inhibition the PNH standard",
+      "head": ["Agent", "Target", "Evidence in Ch. 78"],
+      "rows": [
+        ["Eculizumab", "C5, IV", "About half transfusion-free;\nfewer thromboses; better OS"],
+        ["Ravulizumab", "C5, IV every 8 weeks", "Non-inferior to eculizumab\nin two phase 3 trials"],
+        ["Pegcetacoplan", "C3", "Phase III vs eculizumab (Hb < 10.5):\nHb +3.84 g/dL at week 16"],
+        ["Same trial", "Transfusion avoidance", "85.4% vs 15.4%; LDH not non-inferior"],
+        ["Danicopan", "Factor D, oral", "Phase 3 add-on for poor\nresponders to eculizumab"],
+        ["Iptacopan", "Factor B, oral", "Phase 2 add-on, n = 10:\n8 normalised Hb"]
+      ],
+      "colW": [2.6, 3.2, 6.0],
+      "fontSize": 15,
+      "caption": "C3, factor D and factor B inhibitors target extravascular haemolysis left on anti-C5",
+      "captionY": 5.95,
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "溶血和血栓型 PNH 的主角是 anti-C5 單株抗體。Eculizumab 讓大約一半病人脫離輸血，血栓明顯減少，整體存活也改善。Ravulizumab 是 eculizumab 改了四個胺基酸、半衰期延長的版本，每八週靜脈打一次，兩個 phase 3 分別收未治療和 eculizumab 治療中的病人，都證明不劣於 eculizumab。",
+          "Anti-C5 擋住的是末端補體，C3 還是會沉積在紅血球上，造成 extravascular hemolysis，所以發展出更上游的抑制劑。Pegcetacoplan 打 C3，phase III 收 eculizumab 治療下血紅素仍低於 10.5 的病人，第 16 週血紅素多升 3.84 g/dL，免輸血 85.4% 比 15.4%；但 LDH 沒有達到 non-inferiority。",
+          "Danicopan 是口服 factor D 抑制劑，做的是 add-on 的 phase 3。Iptacopan 是口服 factor B 抑制劑，phase 2 十位中有八位血紅素恢復正常。有這些藥，PNH 走到移植的機會越來越少。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Inherited marrow failure",
+      "eyebrow": "Fanconi anaemia · HCT",
+      "title": "Fanconi anaemia needs fludarabine and reduced-dose conditioning",
+      "head": ["Item", "Ch. 79"],
+      "rows": [
+        ["Biology", "DNA-repair defect; ≥ 23 genes; chromosomal breakage test"],
+        ["Phenotype", "Somatic anomalies 70%; MDS/AML, head-neck, gynae cancer"],
+        ["Indication", "Marrow failure (transfusions, severe neutropenia); MDS/AML"],
+        ["Conditioning (cumulative)", "FLU 150 mg/m² + CY ≤ 50 mg/kg; TBI 100–300 cGy if UD"],
+        ["MDS-EB, AML, BRCA2/FANCD1", "FLU + cytarabine first; secure the donor before"],
+        ["Adults", "No clear conditioning recommendation yet"],
+        ["EBMT 2000–2009", "5-year OS: MSD 78%, MUD 65%"],
+        ["EBMT < 18 y, n = 813", "5-year OS 83%; MDS/AML 40% vs aplasia 85%"]
+      ],
+      "colW": [3.6, 8.2],
+      "fontSize": 16,
+      "cite": "Diaz-de-Heredia C, et al. EBMT Handbook 8th ed. 2024; Ch. 79",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Fanconi anemia 是最常見的遺傳性骨髓衰竭，發生率約二十萬分之一。本質是 DNA damage repair 缺陷，已知至少 23 個基因，診斷靠 chromosomal breakage test。七成病人有身體異常，但也有人到成年才被診斷，線索是家族性 pancytopenia、年輕的頭頸癌，或化療後出現意料之外的嚴重毒性。",
+          "移植適應症是骨髓衰竭，也就是輸血依賴或嚴重 neutropenia，以及 MDS 或 leukemia。時機要和專家個別討論，太早要承受化放療的傷害，太晚可能錯過 clonal evolution 之前的窗口。",
+          "病人對 alkylating agent 和放射線極度敏感，黏膜炎和腸道毒性特別重，conditioning 必須減量。目前用 fludarabine 累積 150 mg/m²，加累積不超過 50 mg/kg 的 cyclophosphamide；unrelated donor 才加 100 到 300 cGy 的低劑量 TBI。成人目前沒有明確建議。已經是 MDS with excess blasts、AML，或 BRCA2/FANCD1 型，可以先用 fludarabine 加 cytarabine 減積，但一定要先找好 donor，因為化療後的 aplasia 可能拖很久。",
+          "結果方面，EBMT 2000 到 2009 年的五年 OS，MSD 78%、MUD 65%。2022 年 ASH 報告 813 位 18 歲以下病人，五年 OS 83%，MSD 或 MUD 優於 mismatched 和 haplo。最大的分水嶺是移植原因，因 MDS 或 AML 移植的 OS 只有 40%，因骨髓衰竭移植的是 85%。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Fanconi anaemia · Long-term follow-up",
+      "title": "HCT fixes Fanconi marrow but not the cancer risk",
+      "steps": [
+        "HCT corrects haematopoiesis only",
+        "Secondary cancer risk stays high after HCT",
+        "ENT, gynaecology, breast US/MRI screening",
+        "HPV vaccination; endocrine follow-up"
+      ],
+      "invert": 1,
+      "caption": "Fig. 79.1 (Peffault de Latour 2013): death and secondary malignancy keep rising after HCT for FA. Head-neck and perineal cancers are why HPV vaccination is strongly recommended.",
+      "cite": "Diaz-de-Heredia C, et al. EBMT Handbook 8th ed. 2024; Ch. 79",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "移植只修好造血，FA 的其他問題都還在，而且移植本身會再增加癌症風險。Fig. 79.1 的 EBMT 資料顯示，續發癌症的累積機率在移植十年後明顯上升。",
+          "追蹤要定期看耳鼻喉科，檢查口腔和咽喉；女性做婦科檢查，乳癌篩檢用超音波和 MRI。內分泌也要追，包括甲狀腺、糖尿病、生長和提早停經。頭頸部和會陰部癌症風險高，所以書上強烈建議打 HPV 疫苗。病人活到成年以後，需要多專科團隊長期照顧，第 18 堂談 late effects 時會再回來。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Inherited BMF · SCN and SDS",
+      "title": "SCN and SDS go to HCT when G-CSF fails or clonal evolution starts",
+      "head": ["Item", "Severe congenital neutropenia", "Shwachman-Diamond"],
+      "rows": [
+        ["Gene", "> 30 genes; ELANE 60%", "Biallelic SBDS"],
+        ["Mechanism", "Promyelocyte apoptosis,\nmaturation block", "Ribosome assembly,\nstromal defect"],
+        ["G-CSF (μg/kg/d)", "3–5 usual; poor 10–15;\nnon-responder > 20", "—"],
+        ["MDS/AML on follow-up", "10.8% at 15 y; 22% at 20 y", "18–36% at 20–30 years"],
+        ["HCT indication", "Poor or no G-CSF response;\nMDS/AML; < 10 y with MSD", "Rising cytopenias; MDS or bad\ncytogenetics, before AML"],
+        ["Conditioning", "MAC", "RIC (organ, e.g. heart)"],
+        ["EBMT outcome", "5-y OS 82%, TRM 17% (n = 136)", "5-y OS 63.3%, TRM 19.8%"]
+      ],
+      "colW": [3.0, 4.5, 4.3],
+      "fontSize": 15,
+      "cite": "Diaz-de-Heredia C, et al. EBMT Handbook 8th ed. 2024; Ch. 79",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Severe congenital neutropenia 的定義是 ANC 持續低於 0.5，早發嚴重感染。已知超過 30 個基因，最常見是 ELANE，約佔六成；機轉是 promyelocyte 加速凋亡、成熟受阻。Shwachman-Diamond 是 SBDS 雙對偶突變，合併胰臟外分泌不足、骨骼發育異常和心肌病變。",
+          "G-CSF 的目標是 ANC 維持在 1.0 到 5.0，一般每天 3 到 5 μg/kg 就夠。需要 10 到 15 叫 poor responder，超過 20 叫 non-responder，這兩個切點常考。",
+          "兩者都會轉成 MDS/AML。SCN 用 G-CSF 15 年和 20 年後，累積發生率分別是 10.8% 和 22%；SDS 在 20 到 30 年是 18% 到 36%。",
+          "SCN 的移植適應症是 G-CSF 反應差或無效，以及 MDS/AML；十歲以下有健康 MSD 也可以考慮。SDS 要在白血病出現之前移植。SCN 用 MAC，SDS 因為心臟等器官問題用 RIC。"
+        ],
+        "reminders": [
+          "Ch. 79 attributes 10.8% (15 y) and 22% (20 y) to the French and the International SCN registries respectively; the two figures come from different registries, not one curve."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Inherited BMF · DBA, CAMT, DC",
+      "title": "DBA, CAMT and dyskeratosis congenita each set their own HCT rules",
+      "head": ["Item", "Diamond-Blackfan", "CAMT", "Dyskeratosis congenita"],
+      "rows": [
+        ["Defect", "Ribosomal genes\n(none found in 30%)", "MPL (TPO receptor)", "Telomerase-shelterin"],
+        ["Before HCT", "Steroids (60% respond);\nRBC + iron chelation", "Transfusion", "Androgens help\nsome patients"],
+        ["HCT when", "Steroid failure or ≥ 0.3\nmg/kg/d, TD; < 10 y", "TD thrombocytopenia,\npancytopenia, clone", "Progressive BMF,\nno major organ damage"],
+        ["Donor", "MSD ≈ MUD; rule out\nsilent-carrier sibling", "MSD; MUD ≥ 9/10", "Unaffected MSD;\nothers do worse"],
+        ["Regimen", "MAC: FLU + BU or TREO;\nATG if transfused", "MAC: FLU + TREO or BU", "FLU-based RIC"],
+        ["Outcome", "cGFS 90% < 10 y;\n78% at 10–18 y", "6-y OS 85.6%, TRM 8%;\nCB 37.5% vs BM 95%", "5-y OS 57%;\n10-y OS 23%"]
+      ],
+      "colW": [2.2, 3.4, 3.1, 3.1],
+      "fontSize": 14,
+      "cite": "Diaz-de-Heredia C, et al. EBMT Handbook 8th ed. 2024; Ch. 79",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這三個病並排看。Diamond-Blackfan 多是 ribosomal gene 的異型合子突變，三成找不到基因。出生或嬰兒期就是輸血依賴的巨球性貧血。一歲以後至少試兩次類固醇，約六成有反應，另外約兩成會自發緩解。移植適應症是類固醇無效、需要每天 0.3 mg/kg 以上才能維持、輸血依賴、紅血球 alloimmunization、進展成 pancytopenia 或 MDS/AML，最好十歲前做，鐵負荷越高結果越差。Sibling 要先排除 silent carrier；十歲以下 MSD 和 MUD 結果相當，conditioning 用 fludarabine 加 busulfan 或 treosulfan 的 MAC。",
+          "CAMT 是 thrombopoietin receptor MPL 突變，graft failure 多，所以用含 fludarabine 的 MAC。六年 OS 85.6%，cord blood 只有 37.5%，骨髓是 95%。",
+          "Dyskeratosis congenita 是 telomere disease，三聯徵是指甲營養不良、皮膚色素異常和口腔 leukoplakia。移植不做預防性，進行性骨髓衰竭、器官還沒受損時才做，用 fludarabine RIC。五年 OS 57%，十年只剩 23%，肺纖維化和肝硬化拖累長期存活。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Inherited BMF · General rules",
+      "title": "Inherited BMF transplants follow one shared set of EBMT rules",
+      "head": ["Domain", "Recommendation (Ch. 79 key points)"],
+      "rows": [
+        ["Donor", "MSD best, after testing the sibling for the defect; then MUD"],
+        ["Mismatched or CB", "Only in experienced centres, preferably in trials"],
+        ["Stem cell source", "BM best; related CB good; avoid PB (more cGVHD)"],
+        ["Cell dose (NC/kg)", "BM > 3 × 10⁸; related CB > 3 × 10⁷; unrelated CB > 4 × 10⁷"],
+        ["Conditioning", "MAC or RIC by disease; avoid irradiation; FA and DC: RIC"],
+        ["GVHD prophylaxis", "Two immunosuppressants; serotherapy for UD"],
+        ["Follow-up", "Lifelong, multidisciplinary: cancer, organs, iron"]
+      ],
+      "colW": [3.2, 8.6],
+      "fontSize": 16,
+      "cite": "Diaz-de-Heredia C, et al. EBMT Handbook 8th ed. 2024; Ch. 79",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "第 79 章的 key points 可以當作所有遺傳性骨髓衰竭的共通原則。Donor 首選 MSD，但一定要先驗 sibling 有沒有同樣的基因缺陷，因為同一家族的臨床表現可以差很多。沒有 MSD 再找 MUD；mismatched 和 cord blood 只在有經驗的中心、最好在臨床試驗裡做。",
+          "幹細胞來源以骨髓最好，related cord blood 也可以，周邊血會增加 chronic GVHD，應該避免。細胞數關係到 graft failure，骨髓要大於 3 × 10⁸/kg，related cord 大於 3 × 10⁷/kg，unrelated cord 大於 4 × 10⁷/kg。",
+          "Conditioning 依疾病選 MAC 或 RIC，盡量不用放射線，因為這些病本來就容易長癌症；FA 和 DC 一定用 RIC。這裡和 FA 段落允許 unrelated donor 用低劑量 TBI 有點出入，實務上是把放射線降到最低。GVHD 預防用兩種免疫抑制劑，unrelated donor 再加 serotherapy。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: choose first-line therapy for this SAA",
+      "stem": "A 28-year-old man has pancytopenia. Marrow cellularity is 15%; ANC 0.3, reticulocytes 25 and platelets 12 (× 10⁹/L). Karyotype is normal, chromosomal breakage testing is negative, and a 3% PNH clone is found without haemolysis. His brother is HLA-identical. What is the most appropriate first-line treatment?",
+      "options": [
+        "Horse ATG + cyclosporine + eltrombopag",
+        "Bone marrow HCT after CY + ATG, with CSA + MTX",
+        "Peripheral blood HCT after busulfan-based MAC",
+        "Eculizumab, then reassess the marrow",
+        "Eltrombopag alone"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: sibling marrow HCT is first line under age 40",
+      "explanation": "Cellularity < 30% plus ≥ 2 of 3 low counts = SAA. With an HLA-identical sibling and age < 40, BM HCT after CY + ATG with CSA + MTX is first line: engraftment 95%, 2-year OS 90%. ATG + CSA + eltrombopag is for no sibling or age ≥ 40. A PNH clone without haemolysis does not change the SAA algorithm.",
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。28 歲男性，pancytopenia。骨髓 cellularity 15%，ANC 0.3、reticulocyte 25、血小板 12，單位都是 10⁹/L。染色體正常，chromosomal breakage test 陰性，有 3% 的 PNH clone，但沒有溶血。哥哥 HLA 完全相合。",
+          "先判斷是不是 SAA，再看年齡和 donor，也想一下 PNH clone 會不會改變決策。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 B。Cellularity 小於 30%，三項血球全部低於 Camitta 切點，診斷 SAA。28 歲、有 HLA-identical sibling，第一線就是骨髓移植，cyclophosphamide 加 ATG，CSA 加 MTX 預防 GVHD，engraftment 95%、兩年 OS 90%。",
+          "最常被選的是 A。ATG 加 CSA 加 eltrombopag 確實是新標準，但對象是沒有 sibling 或 40 歲以上的病人。C 錯在幹細胞來源和強度，SAA 用骨髓、用含 ATG 的 conditioning。D 也不對，沒有溶血時 PNH clone 不改變 SAA 的流程。Breakage test 陰性這個細節，是在提醒先排除 Fanconi anemia。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: plan haplo HCT for refractory SAA",
+      "stem": "A 24-year-old woman with SAA is still transfusion-dependent 6 months after horse ATG + cyclosporine + eltrombopag. She has no sibling and no suitable unrelated donor; her mother is a haploidentical donor. The team proceeds to haploidentical HCT. Which plan is best supported by current evidence?",
+      "options": [
+        "G-CSF-mobilised peripheral blood graft with PTCy",
+        "Busulfan-based myeloablative conditioning, marrow graft",
+        "Non-myeloablative conditioning, ATG, PTCy, marrow graft",
+        "Marrow graft with PTCy, omitting ATG to speed engraftment",
+        "Defer HCT until clonal evolution is documented"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: NMA conditioning, ATG and PTCy with a marrow graft",
+      "explanation": "BMT CTN 1502 (median age 24.9): NMA conditioning + PTCy gave OS > 80% with low GVHD; adding ATG 2.5 mg/kg total improved results. Bone marrow is preferred over PB because of less GVHD, with > 2.5 × 10⁸ NC/kg ideal body weight. SAA needs no GvL, so MAC adds toxicity without benefit.",
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。24 歲女性 SAA，horse ATG 加 CSA 加 eltrombopag 治療六個月，仍然輸血依賴。沒有兄弟姊妹，也找不到合適的 unrelated donor，媽媽是 haploidentical donor，團隊決定做 haplo 移植。",
+          "選項的差別在 conditioning 強度、幹細胞來源，以及要不要加 ATG。想一想 SAA 需不需要 GvL。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案 C。BMT CTN 1502 的病人和她很像，中位年齡 24.9 歲，nonmyeloablative conditioning 加 PTCy，OS 超過 80%，GVHD 低。原本的 Baltimore protocol 加上總量 2.5 mg/kg 的 ATG 以後，結果再明顯改善。骨髓要大於 2.5 × 10⁸/kg ideal body weight。",
+          "最容易被選的是 A。周邊血細胞多、engraftment 快，但 GVHD 較多，在不需要 GvL 的 SAA 只有壞處，所以建議用骨髓。D 把 ATG 拿掉，正好丟掉讓結果改善的那一步。B 的 MAC 增加毒性卻沒有好處。E 等 clonal evolution 才移植，是拖延。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: choose the conditioning for this child",
+      "stem": "An 8-year-old boy with short stature and absent thumbs has transfusion-dependent pancytopenia. Chromosomal breakage testing confirms Fanconi anaemia; the marrow shows no dysplasia or excess blasts. His HLA-identical sister has a normal breakage test. Which conditioning plan is most appropriate?",
+      "options": [
+        "Busulfan + cyclophosphamide myeloablative conditioning",
+        "Full-dose cyclophosphamide + ATG, as for acquired SAA",
+        "Fludarabine 150 mg/m² + cyclophosphamide ≤ 50 mg/kg, no TBI",
+        "TBI 12 Gy + cyclophosphamide",
+        "Fludarabine + cytarabine cytoreduction before conditioning"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: Fanconi anaemia needs FLU with reduced-dose CY",
+      "explanation": "FA cells cannot repair DNA damage, so alkylators and irradiation must be reduced. Current regimens use FLU (cumulative 150 mg/m²) with CY up to 50 mg/kg; TBI 100–300 cGy is added only for unrelated donors. Classical SAA conditioning in unrecognised inherited BMF has a dismal outcome. FLU + cytarabine is for MDS-EB or AML.",
+      "cite": "Diaz-de-Heredia C, et al. Ch. 79 · Peffault de Latour R, et al. Ch. 78. EBMT Handbook 8th ed. 2024",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題換到遺傳性骨髓衰竭。8 歲男孩，身材矮小、沒有拇指，輸血依賴的 pancytopenia。Chromosomal breakage test 確診 Fanconi anemia，骨髓沒有 dysplasia，也沒有 excess blasts。姊姊 HLA 相合，breakage test 正常。",
+          "注意 donor 是 sibling，也注意目前沒有 clonal disease。每個選項都想一下它的毒性。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "選 C 的同學對了。FA 細胞修補 DNA 的能力有缺陷，alkylating agent 和放射線都要減量。目前用 fludarabine 累積 150 mg/m²，加累積不超過 50 mg/kg 的 cyclophosphamide，低劑量 TBI 只在 unrelated donor 才加，這題是 sibling，所以不用。",
+          "最容易選錯的是 B。把 FA 當成後天 SAA，用標準 SAA conditioning，Ch. 78 明講結果很差。A 和 D 是標準 MAC，對 FA 毒性太大。E 的減積只給 MDS with excess blasts 或 AML。姊姊的 breakage test 正常，也呼應 donor 要先驗基因缺陷的原則。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "SAA · Fig. 78.1",
+      "title": "The Ch. 78 algorithm sets first and second line in one figure",
+      "fig": "ch78-fig1",
+      "alt": "Treatment algorithm of idiopathic aplastic anaemia: HLA-identical sibling and age under 40 to marrow HCT; MUD within 2–3 months and age under 20 to HCT; otherwise hATG + CSA + eltrombopag, then unrelated BMT if young, 10/10 and within the first year, or eltrombopag, repeated IST or alternative donor.",
+      "caption": "Fig. 78.1. Treatment algorithm of SAA in 2023",
+      "cite": "Peffault de Latour R, et al. EBMT Handbook 8th ed. 2024; Ch. 78",
+      "notes": {
+        "script": [
+          "這是第 78 章的原圖，主線的兩張樹狀圖就是由它拆出來的。注意右下角，年輕、10/10、診斷一年內的條件不符時，才走 eltrombopag、再一次 IST 或 mismatched 移植。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "Fanconi anaemia · Fig. 79.1",
+      "title": "Death and secondary cancer keep rising for 20 years after FA HCT",
+      "fig": "ch79-fig1",
+      "alt": "EBMT cumulative incidence curves of death and secondary malignancy after HCT for Fanconi anaemia over 20 years; 518 patients at risk at year 1, 15 at year 20.",
+      "caption": "Fig. 79.1. Fanconi anaemia: probability of death and secondary malignancies post transplant (Peffault de Latour 2013)",
+      "cite": "Diaz-de-Heredia C, et al. EBMT Handbook 8th ed. 2024; Ch. 79",
+      "notes": {
+        "script": [
+          "這是 EBMT 的 FA 移植資料。兩條曲線在十年後都明顯往上，續發癌症沒有平台期，所以追蹤必須終身。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Marrow failure · Graft thresholds",
+      "title": "Marrow is the preferred graft across acquired and inherited BMF",
+      "head": ["Setting", "Preferred graft", "Cell dose or rule"],
+      "rows": [
+        ["SAA, sibling or MUD", "Bone marrow", "BM vs PB favours OS after MUD HCT"],
+        ["SAA, haplo + PTCy", "Bone marrow", "> 2.5 × 10⁸ NC/kg ideal body weight"],
+        ["Inherited BMF", "Bone marrow", "> 3 × 10⁸ NC/kg recipient weight"],
+        ["Inherited BMF", "Related cord blood", "> 3 × 10⁷ NC/kg"],
+        ["Inherited BMF", "Unrelated cord blood", "> 4 × 10⁷ NC/kg; experienced centres"],
+        ["CAMT (6-year OS)", "BM 95%, PB 88.9%", "Cord blood 37.5%"]
+      ],
+      "colW": [3.4, 3.6, 4.8],
+      "fontSize": 16,
+      "caption": "Speaker's summary across Ch. 78 and Ch. 79",
+      "captionY": 5.6,
+      "cite": "Peffault de Latour R, et al. Ch. 78 · Diaz-de-Heredia C, et al. Ch. 79. EBMT Handbook 8th ed. 2024",
+      "notes": {
+        "script": [
+          "這張是我把兩章的移植物規則整理在一起。不論後天或遺傳性骨髓衰竭，都偏好骨髓，因為 GVHD 較少；細胞數門檻骨髓是 10 的 8 次方，cord blood 是 10 的 7 次方。"
+        ]
+      }
+    }
+  ]
+}

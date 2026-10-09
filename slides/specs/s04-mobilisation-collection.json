@@ -1,0 +1,547 @@
+{
+  "id": "s04",
+  "slug": "mobilisation-collection",
+  "week": 4,
+  "title": "Mobilisation, collection and processing of stem cells",
+  "subtitle": "Session 04 · Ch. 16, 15, 20",
+  "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16 · Gorin NC, et al. Ch. 15 · Wuchter P. Ch. 20",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，第 4 堂談幹細胞怎麼收、怎麼處理。核心是 Handbook 第 16 章 mobilisation and collection，加上第 15 章 bone marrow harvest 和第 20 章 cryopreservation 與 quality control。這一堂幾乎全是數字，最後三題收尾。"
+    ]
+  },
+  "refsPerSlide": 7,
+  "references": [
+    "1. Worel N, Bilgin YM, Wuchter P. Mobilization and collection of HSC. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 151–157. doi:10.1007/978-3-031-44080-9_16",
+    "2. Gorin NC, Carreras E, Fernández-Sojo J, Villa J. Bone marrow harvesting for HCT. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 143–149. doi:10.1007/978-3-031-44080-9_15",
+    "3. Wuchter P. Processing, cryopreserving, and controlling the quality of HSC. In: The EBMT Handbook, 8th ed. Springer; 2024. pp. 179–182. doi:10.1007/978-3-031-44080-9_20",
+    "4. Passweg JR, Baldomero H, Chabannon C, et al. Hematopoietic cell transplantation and cellular therapy survey of the EBMT: monitoring of activities and trends over 30 years. Bone Marrow Transplant. 2021;56:1651–64.",
+    "5. Pulsipher MA, Chitphakdithai P, Logan BR, et al. Lower risk for serious adverse events and no increased risk for cancer after PBSC vs BM donation. Blood. 2014;123:3655–63.",
+    "6. Halter J, Kodera Y, Urbano-Ispizua A, et al. Severe events in donors after allogeneic hematopoietic stem cell donation. Haematologica. 2009;94:94–101.",
+    "7. Kriegsmann K, Schmitt A, Kriegsmann M, et al. Orchestration of chemomobilization and G-CSF administration for successful hematopoietic stem cell collection. Biol Blood Marrow Transplant. 2018;24:1281–8.",
+    "8. Mohty M, Bilger K, Jourdan E, et al. Higher doses of CD34+ peripheral blood stem cells are associated with increased mortality from chronic graft-versus-host disease after allogeneic HLA-identical sibling transplantation. Leukemia. 2003;17:869–75.",
+    "9. Wuchter P, Ran D, Bruckner T, et al. Poor mobilization of hematopoietic stem cells-definitions, incidence, risk factors, and impact on outcome of autologous transplantation. Biol Blood Marrow Transplant. 2010;16:490–9.",
+    "10. Hubel K, Fresen MM, Salwender H, et al. Plerixafor with and without chemotherapy in poor mobilizers: results from the German compassionate use program. Bone Marrow Transplant. 2011;46:1045–52.",
+    "11. Ings SJ, Balsa C, Leverett D, et al. Peripheral blood stem cell yield in 400 normal donors mobilised with granulocyte-colony-stimulating factor (G-CSF): impact of age, sex, donor weight and type of G-CSF used. Br J Haematol. 2006;134:517–25.",
+    "12. Hölig K, Schmidt H, Hütter G, et al. Salvage treatment with plerixafor in poor mobilizing allogeneic stem cell donors: results of a prospective phase II-trial. JBone Marrow Transplant. 2021;56(3):635–45.",
+    "13. Sutherland DR, Anderson L, Keeney M, Nayar R, Chin-Yee I. The ISHAGE guidelines for CD34+ cell determination by flow cytometry. International Society of Hematotherapy and Graft Engineering. J Hematother. 1996;5:213–26.",
+    "14. Neller JK, Ashford P, van Veen C, Humpe A. Global registration identifier for donors (GRID) of hematopoietic stem cells: road to automation and safety. Transfus Med Hemother. 2017;44:407–13."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "Session 04 · Outline",
+      "title": "From the donor's marrow or blood to a released, frozen graft",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16 · Gorin NC, et al. Ch. 15 · Wuchter P. Ch. 20",
+      "rows": [
+        ["Bone marrow harvest", "Marrow versus blood; technique, cell target, donor safety", "6 min"],
+        ["Mobilisation and apheresis", "Steady state vs chemotherapy; timing; CD34+ targets; apheresis limits", "6.5 min"],
+        ["Poor mobilisers, freezing and release", "Plerixafor algorithm; risk factors; cryopreservation; release criteria", "8.5 min"],
+        ["Board-style questions", "Three vignettes: marrow harvest, plerixafor, autograft release", "5.25 min"]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段是 bone marrow harvest，先比較 marrow 和 peripheral blood 兩種 graft，再講 harvest 的做法、要收多少細胞，以及捐贈者的風險。",
+          "第二段進入 mobilisation，比較只打 G-CSF 的 steady state 和化療加 G-CSF，接著是各種化療之後什麼時候開始打 G-CSF、什麼時候開始驗 CD34，還有 auto 和 allo 各自要收多少 CD34。",
+          "第三段處理收不到的人，也就是 poor mobiliser 和 plerixafor 的使用時機，然後是收到之後怎麼冷凍保存、什麼條件下這袋 graft 才能放行。最後三題，分別對應這三段。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Bone marrow harvest",
+      "eyebrow": "Graft source · Marrow vs blood",
+      "title": "Marrow trades slower recovery for less chronic GVHD",
+      "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15 · Worel N, et al. Ch. 16",
+      "head": ["Bone marrow graft", "For the patient", "For the donor"],
+      "rows": [
+        ["Disadvantages", "Slower haematological and immune recovery:\nmore infections, longer hospital stay", "General anaesthesia, admission,\nautotransfusion"],
+        ["Advantages", "Less TRM and chronic GVHD: fewer late\ninfections, less IST toxicity, better QoL", "No G-CSF exposure"],
+        ["Trade-off", "Less GVL: higher relapse risk in malignancy", "—"],
+        ["Prefer marrow when", "Non-malignant disease, e.g. SAA:\nno GVL needed, GVHD must be avoided", "—"]
+      ],
+      "colW": [2.6, 5.4, 3.4],
+      "fontSize": 17,
+      "caption": "Blood grafts now make up about 65% of haplo, 90% of allo and 100% of autologous HCT (Passweg 2021)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "先看兩種 graft 的取捨。依 Passweg 2021 的 EBMT 資料，peripheral blood 已經占 haplo 大約 65%、allo 大約 90%、auto 幾乎 100%，bone marrow 現在是少數。",
+          "Marrow 對病人的缺點是血球和免疫恢復比較慢，所以感染多、住院久。對捐贈者來說要全身麻醉、要住院，有時還要先存自體血。優點是 TRM 和 chronic GVHD 比較少，尤其是 extensive cGVHD，連帶晚期感染少、長期 IST 的副作用像骨質疏鬆和 aseptic necrosis 少，生活品質比較好。捐贈者也不必打 G-CSF。",
+          "代價是 GVL 比較弱，惡性疾病的 relapse 風險比較高。所以第 15 章特別強調，像 severe aplastic anaemia 這種非腫瘤疾病，不需要 GVL、又最怕 GVHD，應該優先考慮 marrow。這個 SAA 選 marrow 的原則，考題很常出。",
+          "第 16 章則提醒 peripheral blood 的好處，捐贈者比較不辛苦，engraftment 比較快。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Bone marrow · Harvest technique",
+      "title": "Marrow is aspirated from the posterior iliac crests in small draws",
+      "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15",
+      "steps": [
+        "General anaesthesia (laryngeal mask), prone position",
+        "100–200 punctures, 4–5 mL per aspirate",
+        "Count after 500–600 mL; stop at ≤ 20 mL/kg donor",
+        "Filter 850 → 500 → 200 µm; 2–3 bags; ISBT 128 label"
+      ],
+      "invert": 1,
+      "caption": "Small aspirates limit dilution with blood. Anticoagulate with heparin; add 10% ACD-A if the marrow is shipped or cryopreserved. Spinal anaesthesia only if general anaesthesia is contraindicated.",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Harvest 在無菌開刀房做，通常全身麻醉，建議用 laryngeal mask，減少插管後喉嚨不適；全身麻醉有禁忌時才用 spinal。捐贈者趴著，只穿刺兩側 posterior iliac crest，小孩可以翻身加抽 anterior crest。",
+          "兩位醫師各站一邊，透過一到兩個皮膚穿刺點，改變方向和深度，總共做 100 到 200 次穿刺。每次只抽 4 到 5 mL，目的就是避免被周邊血稀釋；抽太大量，或用多孔針，收的其實多半是血。",
+          "抽到 500 到 600 mL 時先驗一次細胞數，評估效率。總量上限是捐贈者每公斤 15 到 20 mL。之後經過 850、500、200 µm 三層 filter，分裝成兩到三袋，萬一運送時破一袋還有備份，再貼 ISBT 128 標籤以便追溯。",
+          "抗凝劑多數中心用 heparin。若 marrow 要運送到別的中心或要冷凍，JACIE 和 AABB 都建議再加 10% ACD-A，避免結塊。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Bone marrow · Cell target",
+      "title": "A marrow harvest aims for more than 3 × 10⁸ nucleated cells/kg",
+      "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15",
+      "head": ["Item", "Value (Ch. 15)"],
+      "rows": [
+        ["Target TNC dose", "2–4 × 10⁸/kg recipient; > 3 × 10⁸/kg for unrelated donors"],
+        ["Maximum harvest volume", "15–20 mL/kg donor weight"],
+        ["NMDP expected yield", "0.22 × 10⁸ TNC per mL aspirated"],
+        ["Example (speaker's arithmetic)", "70 kg donor: 1400 mL × 0.22 × 10⁸ ≈ 3.1 × 10¹⁰ TNC"],
+        ["… for an 80 kg recipient", "3.1 × 10¹⁰ ÷ 80 ≈ 3.9 × 10⁸ TNC/kg"],
+        ["CD34+ count", "Measured, but not the standard endpoint for marrow"],
+        ["Falling cellularity", "Low-volume centres (< 6 harvests/year), faster aspiration"],
+        ["Cryopreservation", "Avoid unless needed; harm shown mainly in aplastic anaemia"]
+      ],
+      "colW": [3.6, 8.0],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Marrow 的劑量看的是 total nucleated cell，不是 CD34。目標是受者每公斤 2 到 4 × 10⁸ 個 TNC，unrelated donor 建議收到 3 × 10⁸ 以上，key points 的說法是至少 3 × 10⁸，越多越好。",
+          "能收多少，NMDP 用一個簡單的公式預估。抽取上限是捐贈者每公斤 15 到 20 mL，每 mL 預期有 0.22 × 10⁸ 個 TNC。表中間兩列是我自己算的例子，70 公斤的捐贈者抽 1400 mL，大約 3.1 × 10¹⁰ 個細胞，給 80 公斤的受者約 3.9 × 10⁸/kg。如果受者比捐贈者重很多，事先就要知道可能不夠。",
+          "CD34 雖然會驗，但不是 marrow 的標準指標。近年 harvest 的細胞濃度在下降，原因是每年少於 6 例的中心經驗不足，以及為了縮短麻醉時間抽得太快太大量。冷凍會讓細胞流失，一般影響不大，但在 aplastic anaemia 有不利的報告，所以除非必要，marrow 不冷凍。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Bone marrow · Donor safety",
+      "title": "Serious complications of marrow donation are rare but real",
+      "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15",
+      "head": ["Category (NMDP; Pulsipher 2014)", "Frequency", "Examples"],
+      "rows": [
+        ["Major", "0.25%", "Hypotension with ECG change, laryngospasm,\npulmonary oedema, asystole"],
+        ["Expected minor, prolongs stay", "1.4%", "Nausea, pain, fever, syncope, anaesthesia\nproblems; resolve in 1–2 days"],
+        ["Unexpected minor", "0.2%", "Infection, unusual pain, chest pain"],
+        ["Chronic or disabling", "5%", "Hip, back or joint pain, some > 3 months"],
+        ["Serious events (Halter 2009)", "12 / 27,770\n(0.04%)", "One death (pulmonary embolism, day 15);\n4 cardiac arrests"]
+      ],
+      "colW": [3.8, 2.0, 5.8],
+      "fontSize": 16,
+      "caption": "Transfusion: fluid replacement preferred, autologous blood second-best; never allogeneic blood in a healthy donor",
+      "captionY": 5.75,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "捐贈者安全是 harvest 的另一半。NMDP 的 Pulsipher 2014 把併發症分四類。Major complication 只有 0.25%，例如合併 ECG 變化的嚴重低血壓、拔管後 laryngospasm、肺水腫、asystole，大多很快恢復。",
+          "預期中但讓住院延長的 minor complication 是 1.4%，噁心、疼痛、發燒、昏厥和麻醉相關問題，一到兩天就好。非預期的 minor 是 0.2%。比較常被忽略的是慢性疼痛，臀部、背部或關節痛大約 5%，有些超過三個月。",
+          "Halter 2009 分析 27,770 次 marrow donation，嚴重事件 12 例，也就是 0.04%，其中一例在捐贈後第 15 天死於大範圍肺栓塞，另有 4 例 cardiac arrest。",
+          "輸血策略寫在下面。書上推薦不輸血、只補充液體，次選是兩到三週前先存的自體血，健康捐贈者絕對避免輸別人的血。術後一週止痛、口服鐵劑，七天內避免劇烈運動和提重物。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Mobilisation and apheresis",
+      "eyebrow": "Mobilisation · Strategies",
+      "title": "Steady-state G-CSF is simpler; chemo-mobilisation yields more CD34+",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "head": ["", "Steady state (G-CSF only)", "Chemotherapy + G-CSF"],
+      "rows": [
+        ["G-CSF dose", "Filgrastim 10 µg/kg/d × 5–7 d\nLenograstim 10 µg/kg/d × 4–6 d", "Filgrastim 5 (to 10) µg/kg/d\nLenograstim 150 (to 300) µg/m²/d"],
+        ["Timing", "Apheresis usually day 5;\nCD34+ check day 4–5", "G-CSF 1–5 d after chemo, by nadir;\nuntil last apheresis"],
+        ["Typical regimen", "—", "CY 2 g/m² (4 g/m² adds toxicity)\nor disease-specific salvage"],
+        ["Advantages", "Outpatient, predictable, cheaper, less toxic", "Tumour control; higher yield, fewer aphereses"],
+        ["Disadvantages", "Variable failure rate, lower CD34+ yield", "Toxicity, admission, marrow damage, cost"],
+        ["Best suited to", "Myeloma; stable remission", "Need for further tumour reduction"]
+      ],
+      "colW": [2.2, 4.4, 4.8],
+      "fontSize": 15,
+      "caption": "Relapse rates are comparable between the two strategies (Ch. 16)",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Mobilisation 的原理是 G-CSF 讓骨髓增生，並經由蛋白酶切斷 adhesion molecule，把平常只占周邊白血球不到 0.05% 的 CD34+ 細胞放到血中。策略有兩條路。",
+          "左邊是 steady state，只打 G-CSF。核准劑量 filgrastim 每天 10 µg/kg 皮下五到七天，或 lenograstim 10 µg/kg 四到六天，biosimilar 效果相同。不論哪一種，apheresis 通常在第 5 天，第 4 到 5 天就要測周邊血 CD34。量不夠可以多打一到兩天，但第三次 apheresis 還收不到目標，大概就不會成功。",
+          "右邊是化療加 G-CSF。最常用 cyclophosphamide 2 g/m²；4 g/m² 毒性增加，在 myeloma 收集量也和 2 g/m² 差不多。也可以直接用疾病本身的化療，例如 lymphoma 的 salvage。這時核准劑量比較低，filgrastim 5 µg/kg、lenograstim 150 µg/m²，實務上常往上調。最早在化療結束後、最晚在白血球 nadir 開始打，多數 protocol 是化療結束後一到五天內，一直打到最後一次 apheresis。",
+          "Steady state 可以門診做、時間好預測、便宜；化療加 G-CSF 收得多、apheresis 次數少，還能壓腫瘤，但要住院、傷骨髓、影響以後再收。兩者 relapse rate 相當。Myeloma 或穩定緩解用 steady state，還需要降腫瘤量的就一起化療。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Mobilisation · Timing after chemotherapy",
+      "title": "The chemotherapy regimen sets when G-CSF and CD34+ checks begin",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "head": ["Mobilisation chemotherapy", "Start G-CSF", "Start CD34+ monitoring"],
+      "rows": [
+        ["CY 2 g/m²", "Day 5", "Day 10"],
+        ["CAD", "Day 9", "Day 13"],
+        ["(R)CHOP / CHOEP", "Day 6", "Day 11"],
+        ["(R)DHAP", "Day 9", "Day 14"],
+        ["(R)ICE", "Day 6", "Day 12"],
+        ["(R)AraC / TT", "Day 5", "Day 10"]
+      ],
+      "colW": [4.6, 3.0, 4.0],
+      "fontSize": 16,
+      "caption": "Day 1 = first day of chemotherapy, rituximab excluded (Table 16.1, adapted from Kriegsmann 2018). Monitor at the latest when WBC recovers to 1000/µL; start apheresis when PB CD34+ > 20/µL.",
+      "captionY": 5.45,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "化療後的 CD34 peak 很難準確預測，所以要每天驗周邊血 CD34。Table 16.1 整理常用 regimen 的時間表。Day 1 是化療第一天，不算 rituximab。",
+          "CY 2 g/m² 是第 5 天開始 G-CSF、第 10 天開始驗 CD34。CAD 是第 9 天和第 13 天。(R)CHOP 或 CHOEP 是第 6 天和第 11 天。(R)DHAP 最晚，第 9 天開始 G-CSF、第 14 天驗。(R)ICE 是第 6 天和第 12 天，(R)AraC/TT 和 CY 一樣，第 5 天和第 10 天。",
+          "大致上 G-CSF 在第 5 到 9 天之間開始，CD34 監測再晚 4 到 5 天。沒有 protocol 規定時，最晚在白血球從 aplasia 回升到 1000/µL 時開始驗；steady state 則是打 G-CSF 第 4 到 5 天驗。",
+          "周邊血 CD34 超過 20/µL 就開始 apheresis。這個 20 是整個 mobilisation 最重要的數字，等一下 plerixafor 的流程也從這裡出發。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Mobilisation · Cell dose",
+      "title": "Collect at least 2 × 10⁶ CD34+/kg for an autograft and 4 × 10⁶ for allo",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16 · Wuchter P. Ch. 20",
+      "head": ["CD34+ cells/kg recipient", "Autologous", "Allogeneic"],
+      "rows": [
+        ["Minimum per transplant", "≥ 2 × 10⁶", "≥ 4 × 10⁶"],
+        ["Optimal per transplant", "2.5–5 × 10⁶", "5–8 × 10⁶"],
+        ["Higher target when", "Tandem: ≥ 2 × 10⁶ each,\nall collected before first HDT", "T-cell depletion or cryopreservation:\nup to 8 × 10⁶ or more"],
+        ["Below the minimum", "Only if no further collection is\nfeasible and HCT is vital", "—"],
+        ["Upper concern", "—", "> 8.3 × 10⁶: extensive cGVHD at 4 y\n62% vs 34% (Mohty 2003)"]
+      ],
+      "colW": [3.2, 4.0, 4.4],
+      "fontSize": 16,
+      "caption": "CD34+ dose is the only recognised predictor of stable engraftment after auto-HCT",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張的兩個數字一定要背。Autologous 每次移植最少 2 × 10⁶ CD34+/kg，allogeneic 最少 4 × 10⁶。CD34 劑量是 auto-HCT 後穩定 engraftment 唯一被認可的預測因子。Auto 收到 2.5 到 5 × 10⁶ 比較理想，血球恢復快、住院短、輸血和抗生素都少。",
+          "Myeloma 可能要 tandem，每一次都要 2 × 10⁶，而且要在第一次 high-dose therapy 之前一次收齊，因為 high-dose 之後再 mobilise 很容易失敗。第 20 章補充，低於 2 × 10⁶ 的 graft，只有在不可能再收、而且移植是救命必要時才用。",
+          "Allo 如果之後要做 T-cell depletion 或冷凍，要收到 8 × 10⁶ 甚至更多。但上限也要注意。Mohty 2003 在 HLA-identical sibling 的研究中，CD34 超過 8.3 × 10⁶/kg，四年 extensive cGVHD 是 62%，低於這個量是 34%。",
+          "第 41 章 graft failure 的表把 auto 最低值寫成 1 × 10⁶，跟這兩章不一致，考試以 2 × 10⁶ 為準。"
+        ],
+        "reminders": [
+          "Ch. 16 and Ch. 20 give 2 × 10⁶/kg as the autologous minimum; Ch. 41 Table 41.2 gives > 1 × 10⁶ minimum and > 2 × 10⁶ optimum. Present 2 × 10⁶ as the working number."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Collection · Leukapheresis",
+      "title": "Apheresis sessions are capped at about 5 hours and two or three days",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "head": ["", "Allogeneic donor", "Autologous patient"],
+      "rows": [
+        ["Session length", "≤ 5 h", "About 5 h (Spectra Optia max 480 min)"],
+        ["Consecutive sessions", "≤ 2", "≤ 3; more are futile in most cases"],
+        ["Volume processed", "—", "Large volume 4.0–5.3 × TBV\nvs normal 2.7–3.5 × TBV"],
+        ["Large-volume effect", "—", "More CD34+ collected; viability unchanged"],
+        ["Venous access", "Peripheral vein preferred", "Peripheral vein; central catheter if needed"]
+      ],
+      "colW": [3.0, 3.6, 5.0],
+      "fontSize": 16,
+      "caption": "Session length can be planned from the PB CD34+ count and the collection efficiency (CE2)",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "收集本身是 leukapheresis。血管通路優先用周邊靜脈，不行才放 central venous catheter。",
+          "Allogeneic donor 的規則比較嚴，每次不超過 5 小時，最多連續兩次。Auto 病人也是每次約 5 小時，或不超過機器建議的最長時間，例如 Spectra Optia 是 480 分鐘；連續不超過三次，因為再多通常也是白做。",
+          "有些中心對 auto 病人做 large-volume apheresis，處理病人總血量的 4.0 到 5.3 倍，對照一般的 2.7 到 3.5 倍。收到的 CD34 比較多，細胞 viability 沒有差別，對 CD34 偏低的病人特別有幫助。",
+          "要跑多久，可以用周邊血 CD34 和 collection efficiency，也就是 CE2，代入演算法預估。實務上，前一天的 CD34 數值不只決定要不要收，也決定今天要跑幾倍血量。兩次、三次這兩個上限，也是判斷 mobilisation 失敗的時間點。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "section": "Poor mobilisers, freezing and release",
+      "eyebrow": "Poor mobilisers · Plerixafor",
+      "title": "The peripheral CD34+ count decides when to add plerixafor",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "root": "PB CD34+ on G-CSF day 4–5 or in chemo recovery",
+      "branches": [
+        {"label": "> 20/µL", "box": "Start apheresis", "out": "Day 1 yield < 1/3 of goal: rescue plerixafor"},
+        {"label": "10–20/µL", "box": "Grey zone", "out": "Decide by disease and prior therapy"},
+        {"label": "< 10/µL", "box": "Add plerixafor", "out": "0.24 mg/kg SC (20 mg if ≤ 83 kg)"}
+      ],
+      "invert": 2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Plerixafor 是 bicyclam 分子，可逆地阻斷 CXCR4，讓它不能和 SDF-1 結合，幹細胞就被放到周邊血。要不要加，看周邊血 CD34。",
+          "超過 20/µL 就開始收。但如果第一次 apheresis 收不到目標的三分之一，失敗風險很高，要用 plerixafor rescue。10 到 20 之間是灰色地帶，依疾病特性和之前的治療決定。低於 10/µL 就明確要加，劑量 0.24 mg/kg 皮下，83 公斤以下的成人可以直接給 20 mg。",
+          "化療 mobilisation 的時間比較長。第 12 到 14 天 CD34 仍低於 10/µL，而白血球正在上升，也建議加。",
+          "20、10 和三分之一這三個數字是這張的重點，考題常給第 5 天的 CD34 問下一步。加了 plerixafor，apheresis 時間短、處理血量少、第一次就收得多，總成本反而下降。2023 年 EMA 核准了第一個 plerixafor biosimilar。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Poor mobilisers · Risk factors",
+      "title": "Poor mobilisers are predicted by age, prior therapy and low counts",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "head": ["Predictive factor (Table 16.3)", "What the chapter adds"],
+      "rows": [
+        ["Age > 60 years", "Age > 65 predicts failure even with plerixafor"],
+        ["Refractory or advanced disease", "—"],
+        ["Many prior treatment lines", "Chemotherapy damage impairs later mobilisation"],
+        ["Fludarabine, melphalan, lenalidomide,\ndaratumumab", "Daratumumab induction: plerixafor needed\nsignificantly more often"],
+        ["Low platelets before mobilisation", "< 140 × 10⁹/L predicts failure with plerixafor"],
+        ["Low CD34+ count before apheresis", "The most robust single predictor"]
+      ],
+      "colW": [5.2, 6.4],
+      "fontSize": 16,
+      "caption": "Proven poor mobiliser: < 2 × 10⁶ CD34+/kg collected or < 20 CD34+/µL in PB; about 15% of patients",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Poor mobiliser 有明確定義，收不到 2 × 10⁶ CD34+/kg，或周邊血 CD34 不到 20/µL。大約占 auto 病人的 15%。分兩群，事前就能預測的 predicted poor mobiliser，和實際收過才證實的 proven poor mobiliser。",
+          "左欄是 Table 16.3 的預測因子，年紀超過 60、疾病 refractory 或晚期、治療線數多、用過 fludarabine、melphalan、lenalidomide 或 daratumumab、mobilisation 前血小板低，以及 apheresis 前 CD34 低。最可靠的單一預測因子是 apheresis 前周邊血的 CD34。",
+          "右欄是書中的補充。即使用了 plerixafor，血小板低於 140 × 10⁹/L、年紀超過 65 歲、以前做過放療，仍然預測失敗。現在 transplant-eligible myeloma 多半用 daratumumab 為基礎的 induction，這群病人需要 plerixafor 的比例明顯較高。",
+          "有一個以上 risk factor 的病人，書上建議考慮 preemptive plerixafor，不要等到失敗才補救。注意表上寫 60 歲、內文寫 65 歲，是兩個不同的問題。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "eyebrow": "Poor mobilisers · Rescue and graft quality",
+      "title": "Plerixafor rescues failed mobilisation without harming graft quality",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16 · Wuchter P. Ch. 20",
+      "blocks": [
+        {"head": "Failed first attempt", "body": "About 15% of autologous patients fail. A second G-CSF-only attempt is less effective; plerixafor remobilisation may well work", "extra": "Wuchter 2010; Hubel 2011"},
+        {"head": "Healthy allogeneic donors", "body": "G-CSF fails in 5–10%. Plerixafor is not approved for donors, yet adding it raised CD34+ about three-fold", "extra": "Ings 2006; Hölig 2021"},
+        {"head": "Graft from poor mobilisers", "body": "Primitive CD34+ subsets and blood recovery match good mobilisers; plerixafor adds lymphocytes, not clinical change", "extra": "Ch. 20"}
+      ],
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "收失敗之後怎麼辦，分三個情況看。左邊是 auto 病人第一次 mobilisation 失敗，大約 15%。單用 G-CSF 再試一次，效果比較差、成功率比較低；改用 plerixafor 再 mobilise，德國 compassionate use program 的經驗顯示可能相當有效。",
+          "中間是健康的 allogeneic donor。只打 G-CSF 失敗的比例大約 5 到 10%。Plerixafor 沒有核准用在 donor，但 2011 年以後陸續有報告，對 G-CSF 收不夠的 donor 加上 plerixafor，CD34 大約增加三倍，Hölig 2021 是前瞻性 phase II。",
+          "右邊是很多人擔心的問題，poor mobiliser 收到的細胞品質會不會比較差。第 20 章的答案是不會，primitive 和 quiescent 的 CD34 亞群比例相同，移植後白血球和血小板恢復也沒有差別。加了 plerixafor 的 graft 會有比較多 primitive HSC 和淋巴球，包括 T、B、NK 細胞，但這些差異沒有轉化成臨床差別。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Processing · Cryopreservation",
+      "title": "Autografts are frozen within 72 hours and infused within 20 minutes",
+      "cite": "Wuchter P. EBMT Handbook 8th ed. 2024; Ch. 20",
+      "steps": [
+        "Hold ≤ 72 h at 2–6 °C",
+        "NC ≤ 4 × 10⁸/mL; DMSO 5–10%",
+        "Controlled rate 1–2 °C/min",
+        "Vapour-phase N₂ ≤ −140 °C",
+        "Thaw at bedside, infuse ≤ 20 min"
+      ],
+      "invert": 4,
+      "caption": "Freezing within 48 h is preferred; if held > 24 h, NC ≤ 2 × 10⁸/mL. ACD-A 0.05–0.25 mL per mL. No routine DMSO washing. CD34+ cells stay viable up to 19 years; storage time does not affect recovery.",
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Auto 的 graft 要冷凍到 high-dose therapy 之後才輸回。收集後可以放在 2 到 6 度最多 72 小時，但建議 48 小時內冷凍，細胞活性最好。如果要放超過 24 小時，細胞濃度不能超過 2 × 10⁸/mL。",
+          "冷凍時 nucleated cell 濃度上限一般是 4 × 10⁸/mL，太濃可以用自體血漿、albumin 或商業溶液稀釋；反過來把體積濃縮可以少用幾袋，但不能超過這個上限。成品含 5 到 10% 的 DMSO 當 cryoprotectant，每 mL 加 0.05 到 0.25 mL 的 ACD-A。用 controlled-rate freezer 每分鐘降 1 到 2 度，存放在液態氮的氣相，溫度在負 140 度以下，同時要防止交叉污染。",
+          "移植當天在病房床邊解凍，解凍後 20 分鐘內用標準輸血 filter 輸完，因為 DMSO 會傷害幹細胞。一般不先洗掉 DMSO，洗的過程細胞損失太多。",
+          "在這種條件下，CD34 細胞可以存活到 19 年，冷凍多久也不影響血球恢復。72 小時、負 140 度、20 分鐘，這三個數字最常考。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Quality control · Release criteria",
+      "title": "An autograft is released only if it meets five criteria",
+      "cite": "Wuchter P. EBMT Handbook 8th ed. 2024; Ch. 20",
+      "head": ["Release criterion", "Threshold", "When and how tested"],
+      "rows": [
+        ["CD34+ cell dose", "≥ 2 × 10⁶/kg bw", "After collection; flow cytometry\n(ISHAGE; Sutherland 1996)"],
+        ["Nucleated cell concentration", "≤ 4 × 10⁸/mL", "After collection, with volume"],
+        ["Red cell content", "≤ 0.1 mL per mL", "After collection"],
+        ["Sterility", "No microbial growth", "Cultures shortly before freezing"],
+        ["NC viability", "> 70% after freeze–thaw", "Reference sample cryostored > 24 h"]
+      ],
+      "colW": [3.6, 3.2, 4.8],
+      "fontSize": 16,
+      "caption": "Viability (trypan blue, 7-AAD or PI) holds for 2–5 years; keep ≥ 3 reference samples. Colony assay is for validation or storage > 5 years, not release.",
+      "captionY": 5.55,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "這是多數歐洲中心放行 autologous graft 的強制標準。第一是 CD34 至少 2 × 10⁶/kg，收集完立刻用 flow cytometry 依 ISHAGE 規範計數，並建議參加外部 round robin 品管。",
+          "接著是 nucleated cell 濃度不超過 4 × 10⁸/mL，紅血球含量每 mL graft 不超過 0.1 mL，冷凍前採的微生物培養要無菌生長。最後是解凍後的 nucleated cell viability 要超過 70%。",
+          "Viability 怎麼驗，是用和 graft 同時、同條件冷凍的 reference sample，至少冷凍 24 小時以上再解凍，用 trypan blue、7-AAD 或 propidium iodide 染色。這個結果只在一段時間內有效，通常 2 到 5 年，依各地規範；過期要重驗，所以每個產品至少準備 3 支 reference sample。",
+          "Colony-forming assay 可以評估造血潛能，但不是放行標準，只用在流程確效，或冷凍超過 5 年的 graft。除了 CD34 以外的細胞亞群和腫瘤污染，平常也不驗，只在臨床試驗做。70% 和 3 支這兩個數字，可以和前一張的冷凍條件一起記。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "section": "Board questions",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: plan the graft for a young patient with SAA",
+      "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15",
+      "stem": "A 19-year-old woman with severe aplastic anaemia will undergo allogeneic HCT from her HLA-identical sister, who is healthy and weighs 55 kg. The team asks how the graft should be obtained and handled. Which plan follows the EBMT Handbook?",
+      "options": [
+        "Mobilise the sister with G-CSF and collect blood stem cells",
+        "Harvest marrow in small aspirates, at most 20 mL/kg (1100 mL)",
+        "Give the sister allogeneic red cells during the harvest",
+        "Cryopreserve the marrow routinely before conditioning starts",
+        "Judge harvest adequacy by CD34+ count, the standard endpoint"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: marrow, small aspirates, at most 20 mL/kg donor",
+      "explanation": "In SAA no GVL is needed and GVHD must be avoided, so marrow is preferred. Aspirate 4–5 mL at a time to avoid dilution, up to 15–20 mL/kg donor weight (≤ 1100 mL here), aiming for > 3 × 10⁸ TNC/kg. Allogeneic transfusion must be avoided in healthy donors; marrow should not be cryopreserved without a reason, and TNC, not CD34+, is the marrow endpoint.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。19 歲女性，severe aplastic anaemia，要做 allo-HCT，donor 是 HLA 全合的妹妹，健康、55 公斤。團隊要決定 graft 怎麼收、怎麼處理。",
+          "五個選項，分別是 G-CSF mobilise 收周邊血、marrow 小量抽取且上限每公斤 20 mL、harvest 時給捐贈者輸別人的血、移植前先冷凍 marrow，以及用 CD34 判斷 harvest 夠不夠。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 B。SAA 不需要 GVL，最怕的是 GVHD，第 15 章明講這種非腫瘤疾病應優先考慮 marrow，所以 A 不對。Harvest 每次抽 4 到 5 mL，避免被周邊血稀釋，總量上限是捐贈者每公斤 15 到 20 mL，55 公斤最多 1100 mL，目標 TNC 超過 3 × 10⁸/kg。",
+          "C 是常見陷阱，健康捐贈者絕對避免輸 allogeneic blood，首選只補液體，其次是事先存的自體血。D 也不對，冷凍會讓細胞流失，而 aplastic anaemia 正是冷凍 graft 有不利報告的情況。E 錯在 marrow 看的是 TNC，CD34 雖然會驗，但不是標準指標。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: choose the next step in a poor mobiliser",
+      "cite": "Worel N, et al. EBMT Handbook 8th ed. 2024; Ch. 16",
+      "stem": "A 58-year-old man with myeloma in VGPR after daratumumab-based induction starts mobilisation with filgrastim 10 µg/kg/day alone. On day 5, before apheresis, his blood CD34+ count is 8/µL. The goal is 4 × 10⁶ CD34+/kg for two autografts. What is the best next step?",
+      "options": [
+        "Start apheresis now and accept whatever is collected",
+        "Add plerixafor 0.24 mg/kg SC, then start apheresis",
+        "Continue filgrastim alone for 7 more days",
+        "Stop now and remobilise in a month with G-CSF alone",
+        "Abandon autologous HCT and search for an allogeneic donor"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: CD34+ below 10/µL on day 5 calls for plerixafor",
+      "explanation": "PB CD34+ < 10/µL on day 4–5 of G-CSF alone is a clear indication for plerixafor; daratumumab induction predicts poor mobilisation. Apheresis normally starts above 20/µL. G-CSF may be extended only 1–2 days, and a second G-CSF-only attempt is less effective.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。58 歲男性 myeloma，daratumumab 為基礎的 induction 後達到 VGPR。單用 filgrastim 10 µg/kg mobilise，第 5 天 apheresis 前周邊血 CD34 只有 8/µL，目標是兩次 autograft 共 4 × 10⁶/kg。",
+          "選項有直接收、加 plerixafor、再打七天 G-CSF、一個月後用 G-CSF 重來，或放棄 auto 改找 allo donor。先看 CD34 落在哪一區。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 B。單用 G-CSF 第 4 到 5 天，CD34 低於 10/µL，書上說這是明確要加 plerixafor 的情況。這位病人還接受過 daratumumab induction，本來就是 predicted poor mobiliser。劑量 0.24 mg/kg 皮下，之後再開始 apheresis。",
+          "A 不對，8/µL 遠低於開始 apheresis 的 20/µL，直接收很可能連一次的量都不夠，而他需要兩次的量，還必須在第一次 high-dose therapy 前收齊。C 的問題是 G-CSF 只能多打一到兩天。D 單用 G-CSF 再試一次成功率更低。E 太早放棄，plerixafor 救回來的機會很高。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: find the result that blocks release of an autograft",
+      "cite": "Wuchter P. EBMT Handbook 8th ed. 2024; Ch. 20",
+      "stem": "A 55-year-old man with relapsed DLBCL is mobilised with R-DHAP plus G-CSF. His autograft is frozen 40 h after collection. Release tests: CD34+ 3.1 × 10⁶/kg; NC 3.5 × 10⁸/mL; red cells 0.05 mL per mL; cultures sterile; post-thaw NC viability of the reference sample 62%. Which result blocks release?",
+      "options": [
+        "Freezing 40 hours after collection",
+        "CD34+ 3.1 × 10⁶/kg",
+        "Nucleated cell concentration 3.5 × 10⁸/mL",
+        "Post-thaw nucleated cell viability 62%",
+        "Red cell content 0.05 mL per mL"
+      ],
+      "answer": "D",
+      "answerTitle": "Answer D: post-thaw viability must exceed 70%",
+      "explanation": "Release needs CD34+ ≥ 2 × 10⁶/kg, NC ≤ 4 × 10⁸/mL, red cells ≤ 0.1 mL/mL, no microbial growth and NC viability > 70% after freeze–thaw. Cells may be held up to 72 h before freezing; within 48 h is preferred, so 40 h is acceptable.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第三題。55 歲男性 relapsed DLBCL，用 R-DHAP 加 G-CSF mobilise，graft 在收集後 40 小時冷凍。放行檢驗的結果是 CD34 3.1 × 10⁶/kg、細胞濃度 3.5 × 10⁸/mL、紅血球每 mL 0.05 mL、培養無菌，reference sample 解凍後 viability 62%。",
+          "請問哪一項讓這袋 graft 不能放行。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "正確是 D。放行的五個標準是 CD34 至少 2 × 10⁶/kg、細胞濃度不超過 4 × 10⁸/mL、紅血球每 mL 不超過 0.1 mL、無微生物生長，以及解凍後 viability 超過 70%。62% 不到 70%，所以不能放行。",
+          "最容易選錯的是 A。收集後最多可以放 72 小時再冷凍，建議 48 小時內，40 小時兩個條件都符合。B、C、E 都在標準內。實務上 viability 不足時，要回頭檢查冷凍流程，必要時重新收集。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "backup": true,
+      "eyebrow": "Bone marrow · Labelling",
+      "title": "An ISBT 128 label carries GRID and SEC codes for traceability",
+      "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15 (Fig. 15.1)",
+      "fig": "ch15-fig1",
+      "alt": "Example ISBT 128 label for an HPC, Marrow product with donation number, ABO/RhD, GRID barcode, collection and expiry times, intended recipient and the Single European Code.",
+      "caption": "Fig. 15.1 (adapted from Neller 2017). ISBT 128 is required by JACIE-accredited facilities. The SEC has been enforced in the EU since 2017. The WMDA GRID (2014) identifies unrelated donors and is now part of ISBT 128/SEC.",
+      "notes": {
+        "script": [
+          "這是 Fig. 15.1 的 ISBT 128 標籤範例，上面有 GRID 和 SEC 兩種代碼。JACIE 認證的單位必須用 ISBT 128；GRID 是 WMDA 2014 年推出、給 unrelated donor 的全球識別碼。標籤上也印著 Do Not Irradiate 和 Do Not Use Leukoreduction Filters。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Bone marrow · Peri-harvest care",
+      "title": "Anticoagulation and aftercare of the marrow donor follow set rules",
+      "cite": "Gorin NC, et al. EBMT Handbook 8th ed. 2024; Ch. 15",
+      "head": ["Step", "Practice (Ch. 15)"],
+      "rows": [
+        ["Before harvest", "Shave, preanaesthetic visit, consent; autologous unit 2–3 weeks before if needed"],
+        ["Anticoagulant", "Heparin; add 10% ACD-A for shipping or cryopreservation (JACIE, AABB)"],
+        ["Iron", "IV iron by pre-donation Hb, ferritin and volume; oral iron afterwards"],
+        ["After harvest", "Compressive bandage overnight; analgesia about 1 week"],
+        ["Activity", "No violent exercise or heavy lifting for 7 days"],
+        ["Collection kits", "EU MDR 2017/745 removed commercial kits; validate in-house kits"],
+        ["Other uses", "MSCs can be grown from 30–150 mL of donor marrow"]
+      ],
+      "colW": [2.8, 8.8],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "Harvest 前後的細節。抗凝用 heparin，要運送或冷凍就加 10% ACD-A。術後壓迫包紮一晚、止痛一週、補鐵，七天內不提重物。歐盟新醫材法規之後商業 kit 退出，各中心改用並確效自製 kit。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Quality control · Reference samples",
+      "title": "Reference samples are frozen beside the graft under identical conditions",
+      "cite": "Wuchter P. EBMT Handbook 8th ed. 2024; Ch. 20",
+      "head": ["Item", "Rule (Ch. 20)"],
+      "rows": [
+        ["Purpose", "Prove sterility, purity and viability of the product"],
+        ["Allogeneic HCT", "Donor samples may be kept for retrospective serology"],
+        ["Release test", "Viability on a sample cryostored > 24 h, same conditions"],
+        ["Potency", "Colony assay: process validation or storage > 5 years"],
+        ["Cell subsets, tumour cells", "Not routine; clinical trials only (EBMT position)"],
+        ["Transport", "Validated shipper, ideally continuous temperature log"],
+        ["Final check", "Treating physician verifies integrity and documents"]
+      ],
+      "colW": [3.4, 8.2],
+      "fontSize": 16,
+      "notes": {
+        "script": [
+          "Reference sample 要和 graft 同時準備、同條件冷凍。放行用的 viability 要在冷凍超過 24 小時的 sample 上驗；colony assay 只用於確效或冷凍超過 5 年。運送要用經過確效、最好能連續記錄溫度的容器，最後由主治醫師確認 graft 完整和文件齊全。"
+        ]
+      }
+    }
+  ]
+}

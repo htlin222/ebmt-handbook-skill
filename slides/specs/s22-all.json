@@ -1,0 +1,541 @@
+{
+  "id": "s22",
+  "slug": "all",
+  "title": "HCT for acute lymphoblastic leukaemia",
+  "subtitle": "Session 22 · Ch. 72, with Ch. 73",
+  "cite": "Stelljes M, et al. EBMT Handbook 8th ed. 2024; Ch. 72",
+  "coverNotes": {
+    "min": 0.5,
+    "script": [
+      "各位好，第 22 堂講 ALL 的造血幹細胞移植，主軸是 EBMT Handbook 第 72 章成人 ALL，再從第 73 章兒童 ALL 挑出和成人對照的考點。今天的順序是風險分層和 CR1 的移植適應症，接著是第一線、salvage 和 CAR-T，然後是 conditioning、donor 和移植後 TKI，最後三題 board-style 題目。"
+    ]
+  },
+  "refsPerSlide": 6,
+  "references": [
+    "1. Stelljes M, Marks DI, Giebel S. Acute lymphoblastic leukemia in adults. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, eds. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Springer, Cham; 2024. pp. 649–657. https://doi.org/10.1007/978-3-031-44080-9_72",
+    "2. Peters C, Locatelli F, Bader P. Acute lymphoblastic leukaemia in children and adolescents. In: Sureda A, Corbacioglu S, Greco R, Kröger N, Carreras E, eds. The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th ed. Springer, Cham; 2024. pp. 659–667. https://doi.org/10.1007/978-3-031-44080-9_73",
+    "3. Giebel S, Marks DI, Boissel N, et al. Hematopoietic stem cell transplantation for adults with Philadelphia chromosome-negative acute lymphoblastic leukemia in first remission: a position statement of the European Working Group for Adult Acute Lymphoblastic Leukemia (EWALL) and the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation (EBMT). Bone Marrow Transplant. 2019;54:798–809.",
+    "4. Brüggemann et al. 2010: Leukemia. 2010;24(3):521–35. https://doi.org/10.1038/leu.2009.268. Epub 2009 Dec 24.",
+    "5. Maury S, Chevret S, Thomas X, et al. Rituximab in B-lineage adult acute lymphoblastic leukemia. N Engl J Med. 2016;375:1044–53.",
+    "6. Chalandon Y, Thomas X, Hayette S, et al. Randomized study of reduced-intensity chemotherapy combined with imatinib in adults with Ph-positive acute lymphoblastic leukemia. Blood. 2015;125:3711–9.",
+    "7. Gokbuget N, Dombret H, Ribera JM, et al. International reference analysis of outcomes in adults with B-precursor Ph-negative relapsed/refractory acute lymphoblastic leukemia. Haematologica. 2016;101:1524–33.",
+    "8. Maude 2018: N Engl J Med. 2018;378(5):439–48. https://doi.org/10.1056/NEJMoa1709866.",
+    "9. Shah BD, Ghobadi A, Oluwole OO, et al. KTE-X19 for relapsed or refractory adult B-cell acute lymphoblastic leukaemia: phase 2 results of the single-arm, open-label, multicentre ZUMA-3 study. Lanccet. 2021;398:491–502.",
+    "10. Pan J, Tan Y, Wang G, et al. Donor-derived CD7 chimeric antigen receptor T cells for T-cell acute lymphoblastic leukemia: first-in-human, Phase I Trial. J Clin Oncol. 2021;39:2340–3351.",
+    "11. Pavlu J, Labopin M, Zoellner AK, et al. Allogeneic hematopoietic cell transplantation for primary refractory acute lymphoblastic leukemia: a report from the acute leukemia working party of the EBMT. Cancer. 2017;123:1965–70.",
+    "12. Marks DI, Forman SJ, Blume KG, et al. A comparison of cyclophosphamide and total body irradiation with etoposide and total body irradiation as conditioning regimens for patients undergoing sibling allografting for acute lymphoblastic leukemia in first or second complete remission. Biol Blood Marrow Transplant. 2006;12:438–53.",
+    "13. Shem-Tov N, Peczynski C, Labopin M, et al. Haploidentical vs. unrelated allogeneic stem cell transplantation for acute lymphoblastic leukemia in first complete remission: on behalf of the ALWP of the EBMT. Leukemia. 2020;34:283–92.",
+    "14. Nagler A, Labopin M, Houhou M, et al. Outcome of haploidentical versus matched sibling donors in hematopoietic stem cell transplantation for adult patients with acute lymphoblastic leukemia: a study from the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. J Hematol Oncol. 2021;14:53.",
+    "15. Nagler 2020: Leukemia. 2020;34(10):2766–75. https://doi.org/10.1038/s41375-020-0850-9. Epub 2020 May 11. PMID: 32393841.",
+    "16. Giebel S, Czyz A, Ottmann O, et al. Use of tyrosine kinase inhibitors to prevent relapse after allogeneic hematopoietic stem cell transplantation for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: A position statement of the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. Cancer. 2016;122:2941–51.",
+    "17. Peters C, Dalle JH, Locatelli F, Poetschger U, Sedlacek P, Buechner J, Shaw PJ, Staciuk R, Ifversen M, Pichler H, Vettenranta K, Svec P, Aleinikova O, Stein J, Gungor T, Toporski J, Truong TH, Diaz-de-Heredia C, Bierings M, Ariffin H, Essa M, Burkhardt B, Schultz K, Meisel R, Lankester A, Ansari M, Schrappe M, Group, I.S, von Stackelberg A, IntRe, A.L.L.S.G, Balduzzi A, Group, I.B.S.S, Corbacioglu S, Party, E.P.D.W, Bader P. Total body irradiation or chemotherapy conditioning in childhood ALL: a multinational, randomized, noninferiority phase III study. J Clin Oncol. 2021;39:295–307."
+  ],
+  "slides": [
+    {
+      "type": "outline",
+      "eyebrow": "ALL · Outline",
+      "title": "Four parts, from risk in CR1 to the allograft itself",
+      "rows": [
+        ["Risk and the CR1 decision", "Clinical and genetic risk, MRD thresholds, the three-tier indication table", "4.5 min"],
+        ["First-line, salvage and CAR-T", "Ph− versus Ph+ algorithm, salvage response, inotuzumab timing, CAR-T", "7.5 min"],
+        ["Transplant technique and outcome", "Indications, conditioning by age, donor and GVHD prophylaxis, TKI, results", "7.5 min"],
+        ["Children, then three questions", "What Ch. 73 does differently; board-style MCQs", "6.75 min"]
+      ],
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "今天分四段。第一段講成人 ALL 的風險因子和 MRD，這決定誰在 CR1 就要移植。第二段是第一線治療的流程，Ph-negative 和 Ph-positive 兩條路分開走，再講復發之後的 salvage，包括 inotuzumab、blinatumomab 和 CAR-T。",
+          "第三段回到移植本身，conditioning 以 45 歲為界，donor 的選擇、GVHD prophylaxis，以及 Ph-positive 移植後的 TKI，最後看各族群的 TRM、復發和存活數字。第四段用一張表對照兒童 ALL 和成人的不同，然後三題 board-style 題目。CAR-T 的 CRS 和 neurotoxicity 是第 20 堂的內容，今天只講 CAR-T 在 ALL 的適應症和之後要不要移植。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Risk and the CR1 decision",
+      "eyebrow": "Adult ALL · Risk factors",
+      "title": "Age, WBC, phenotype and genetics set baseline risk in adult ALL",
+      "head": ["Factor", "High-risk feature", "Comment"],
+      "rows": [
+        ["Age", "Rising age; > 60 y: < 20% long-term survival", "Cut points vary by group"],
+        ["WBC at diagnosis", "> 30 × 10⁹/L in B-ALL; > 100 × 10⁹/L in T-ALL", "Cut points in most studies"],
+        ["Immunophenotype", "Early T-cell precursor (ETP) ALL", "Low CD1a, CD8, CD5; myeloid/stem markers"],
+        ["Genetics", "KMT2A rearrangement, t(v;11q23.3)", "Most frequent poor-risk lesion in adults"],
+        ["Genetics", "Ph-like ALL", "Unfavourable; testing often unavailable"],
+        ["Genetics", "Low hypodiploidy; complex karyotype (≥ 5)", "Prognostic value controversial"],
+        ["BCR::ABL1 (Ph+)", "20–30% of adults; frequency rises with age", "Now comparable to Ph− with TKIs"]
+      ],
+      "colW": [2.6, 5.0, 4.2],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "ALL 有兩個發生高峰，一個在兒童，一個在 50 歲左右。成人的治癒率比兒童差很多，超過 60 歲的長期存活不到 20%。",
+          "臨床上最常用的兩個風險因子是年齡和初診白血球。白血球的 cutoff，B-ALL 是 30 × 10⁹/L，T-ALL 是 100 × 10⁹/L，B 和 T 的數字差了三倍多，考題常把兩個對調。免疫表型方面，early T-cell precursor ALL 的 CD1a、CD8、CD5 表現低，又帶 myeloid 或 stem cell marker，治療失敗的風險高。",
+          "遺傳學上，成人最常見的不良異常是 KMT2A rearrangement。Low hypodiploidy 和五個以上異常的 complex karyotype，各 study group 的看法不一致。Ph-positive 佔成人 ALL 的 20 到 30%，年紀越大比例越高；以前算 very high risk，TKI 時代之後和 Ph-negative 的結果已經差不多。Ph-like ALL 預後不好，但很多國家沒有常規檢測。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Adult ALL · MRD",
+      "title": "MRD above 10⁻³ after induction or 10⁻⁴ later marks high risk",
+      "steps": [
+        "End of induction: MRD > 10⁻³ is high risk",
+        "During or after consolidation: MRD > 10⁻⁴",
+        "MRD rising above 10⁻³ after a response",
+        "Very high relapse risk: act before relapse"
+      ],
+      "invert": 2,
+      "caption": "Flow cytometry (aberrant phenotype) or RQ-PCR (BCR::ABL1, Ig/TCR rearrangements). NGS, ddPCR and next-generation flow still need standardisation.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "對治療的反應是最強的預後因子。需要超過一個 cycle 才達到 CR，本身就是高風險。MRD 的門檻分兩個時間點，induction 之後大於 10⁻³，consolidation 期間或之後大於 10⁻⁴，都算高風險。已經有反應之後 MRD 又爬到 10⁻³ 以上，代表非常高的復發風險。",
+          "測法有兩種。Flow cytometry 看 aberrant phenotype；RQ-PCR 測 BCR::ABL1 這類 fusion transcript，或病人特有的 Ig、TCR rearrangement。NGS 和 digital PCR 更敏感，但還沒標準化。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Adult ALL · CR1 indications",
+      "title": "Only MRD, age and BCR::ABL1 are CR1 criteria in every study group",
+      "head": ["Study groups", "Risk factor used to indicate allo-HCT in CR1"],
+      "rows": [
+        ["All", "MRD > 10⁻⁴ or detectable during/after consolidation"],
+        ["All", "Age (cut points vary)"],
+        ["All", "BCR::ABL1 (Ph+ ALL)"],
+        ["Majority", "No haematological CR, or MRD > 10⁻³, after induction I"],
+        ["Majority", "WBC > 30 × 10⁹/L in B-ALL or > 100 × 10⁹/L in T-ALL"],
+        ["Majority", "KMT2A rearrangement, hypodiploidy, complex karyotype"],
+        ["Some", "Initial CNS involvement"],
+        ["Some", "Early T-precursor, mature T or pro-B phenotype"]
+      ],
+      "colW": [2.4, 9.2],
+      "fontSize": 16,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "成人 ALL 在 CR1 的 allo-HCT 只給 high-risk 的病人，但每個 study group 對 high risk 的定義差很多。第 72 章引用 Giebel 2019 的 EWALL 和 EBMT position statement，把風險因子分成三層。",
+          "所有 group 都採用的只有三項。最關鍵的是 consolidation 期間或之後 MRD 大於 10⁻⁴，有些 group 只要測得到就算。另外兩項是年齡，cut point 各家不同，以及 BCR::ABL1，也就是 Ph-positive。",
+          "多數 group 採用的有三類。Induction I 之後沒有 haematological CR，或 MRD 大於 10⁻³；初診白血球 B-ALL 大於 30、T-ALL 大於 100 × 10⁹/L；還有 KMT2A rearrangement、hypodiploidy、complex karyotype 這些遺傳因子。只有部分 group 採用的，是初診 CNS involvement，以及 early T-precursor、mature T、pro-B 這三種不良免疫表型。",
+          "Key Points 的註腳把最重要的歸納成三個，經過兩個以上療程 MRD 仍持續、初診白血球高、高風險 cytogenetics。病房實務上，初診時的特徵只是預先排 HLA typing 的理由，真正決定要不要移植的，通常是 consolidation 之後的 MRD。題目若給一個初診特徵普通、但 consolidation 後 MRD 還是陽性的病人，答案就是移植。"
+        ]
+      }
+    },
+    {
+      "type": "figure",
+      "section": "First-line, salvage and CAR-T",
+      "eyebrow": "Adult ALL · First-line algorithm",
+      "title": "The Ch. 72 algorithm sends Ph+ and high-risk Ph− ALL to allo-HCT",
+      "fig": "ch72-fig1",
+      "alt": "Therapeutic algorithm for newly diagnosed Ph-negative and Ph-positive ALL (Fig. 72.1)",
+      "caption": "Ph−: induction and consolidation ± rituximab; MRD ≥ 10⁻³ leads to blinatumomab; high risk goes to allo-HCT, standard risk to maintenance. Ph+: imatinib ± low-dose chemotherapy, allo-HCT, then TKI maintenance (Fig. 72.1).",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這是第 72 章的 Fig. 72.1，成人 ALL 第一線治療的流程圖。兩邊都從 steroid prephase 開始，CNS prophylaxis 則在整個療程中間歇給予。",
+          "左邊是 Ph-negative。Induction 和 consolidation 都可以加 rituximab，前提是 CD20 陽性的 B-ALL。每個階段都量 MRD，只要 MRD 大於等於 10⁻³，就轉去 blinatumomab，接著走 allo-HCT。沒有 MRD 問題的病人，再依 high risk 或 standard risk 分流，high risk 去移植，standard risk 接 maintenance chemotherapy。",
+          "右邊是 Ph-positive，整條路沒有分岔。Imatinib 加或不加低劑量化療做 induction，consolidation 也是 imatinib 加化療，然後所有人走 allo-HCT，移植後接 TKI maintenance，可以 prophylactic，也可以由 MRD 決定。圖說也提到 MRD 陰性病人用 blinatumomab 做 consolidation，可能很快會成為選項。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Adult ALL · First-line therapy",
+      "title": "Ph− ALL rests on paediatric-style chemotherapy; Ph+ ALL on TKIs",
+      "head": ["Phase", "Ph− ALL", "Ph+ ALL"],
+      "rows": [
+        ["Induction", "VCR, DEX, anthracycline ± L-asp, CY", "Imatinib + low-dose VCR/DEX"],
+        ["CR rate", "90–95% younger; 70–90% older", "90–100%; more intensive chemo adds nothing"],
+        ["Consolidation", "6–8 courses: HD-MTX, Ara-C, L-asp, reinduction", "Imatinib + HD-MTX (CNS) and chemotherapy"],
+        ["Antibodies", "Rituximab if CD20+; blinatumomab for MRD", "Dasatinib/ponatinib + blinatumomab (new)"],
+        ["After consolidation", "HR: allo-HCT; SR: 6-MP + MTX ≥ 2 years", "Allo-HCT in CR1 for all, then TKI"],
+        ["Caveats", "Nelarabine adds nothing in adult T-ALL", "Imatinib the only approved first-line TKI [verify]"]
+      ],
+      "colW": [2.6, 4.7, 4.5],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Ph-negative 用 pediatric-inspired 的強化療。Induction 骨幹是 VCR、DEX 加 anthracycline，再加減 L-asparaginase 和 CY，年輕成人 CR 90 到 95%，年長者 70 到 90%。Consolidation 六到八個療程，其中兩到四個含 high-dose MTX、Ara-C 和 L-asp。之後不是移植，就是 6-MP 每天加 MTX 每週，至少兩年的 maintenance。CD20 陽性加 rituximab，Maury 2016 顯示有明顯好處。MRD 持續或再出現就給 blinatumomab；年長者可以用 inotuzumab 取代化療，但這個適應症尚未核准。Nelarabine 加進成人 T-ALL 第一線並沒有改善結果。",
+          "Ph-positive 的主角是 TKI。Imatinib 加低劑量 VCR、DEX，CR 就有 90 到 100%，Chalandon 2015 的隨機試驗顯示化療加強也不會提高 CR rate。所有 Ph-positive 病人都要考慮在 CR1 移植。Dasatinib 或 ponatinib 搭配 blinatumomab 的新方案，可能讓移植的角色變小。"
+        ],
+        "reminders": [
+          "TO CONFIRM BEFORE PRESENTING: Ch. 72 states imatinib is the only drug approved for first-line Ph+ ALL. Check current approvals (other TKIs in first line) and Taiwan NHI reimbursement before stating this aloud."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Adult ALL · Relapsed and refractory",
+      "title": "Every salvage for relapsed ALL is a bridge to allo-HCT",
+      "head": ["Salvage", "Response", "Comment"],
+      "rows": [
+        ["Standard chemo, 1st salvage", "CR 31–44%", "After early relapse (Gokbuget 2016)"],
+        ["Standard chemo, 2nd salvage", "CR 18–25%", "Reference for new agents"],
+        ["Inotuzumab ozogamicin (anti-CD22)", "CR 80% (randomised)", "Longer survival than chemo; VOD risk"],
+        ["Blinatumomab (CD3/CD19)", "CR 44% (randomised)", "Longer survival than chemo"],
+        ["R/R T-ALL: FLAG ± IDA", "Response 30–40%", "Median OS 6 months in responders"],
+        ["R/R T-ALL: nelarabine", "Reasonable alternative", "Alone or with chemotherapy"],
+        ["Bortezomib-based; daratumumab", "Small series", "Bridge when nothing else is left"]
+      ],
+      "colW": [4.0, 3.3, 4.5],
+      "fontSize": 16,
+      "caption": "5–10% of adults are refractory to induction; 30–50% of those in CR relapse. Any response is consolidated with allo-HCT.",
+      "captionY": 5.75,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "成人 ALL 大約 5 到 10% 對 induction 沒有反應，達到 CR 的人當中 30 到 50% 會復發。復發之後用傳統化療，第一次 salvage 的 CR rate 是 31 到 44%，第二次 salvage 只剩 18 到 25%，這組數字來自 Gokbuget 2016 的國際參考分析。",
+          "兩個抗體藥在隨機試驗中都勝過化療。Inotuzumab ozogamicin 是 anti-CD22 的 immunotoxin，CR rate 達到 80%；blinatumomab 是 CD3/CD19 的 bispecific antibody，CR rate 44%。兩者都延長了存活，但第 72 章的立場很清楚，任何 R/R ALL 的治療都只是通往 allo-HCT 的 bridge，目的是增加治癒的機會。",
+          "T-ALL 復發的選擇少很多。FLAG 加減 idarubicin 反應率只有 30 到 40%，有反應的人 median OS 也只有六個月。Nelarabine 單用或合併化療是合理的替代。Bortezomib 為基礎的方案和 daratumumab，則用在沒有其他選擇的病人，資料多半是小型系列。不論哪一種，只要有反應，就應該接 allo-HCT 鞏固。"
+        ]
+      }
+    },
+    {
+      "type": "chain",
+      "eyebrow": "Adult ALL · Inotuzumab and transplant",
+      "title": "Inotuzumab salvage starts a 6–8-week clock to a VOD-safe allograft",
+      "steps": [
+        "Inotuzumab salvage: CR about 80%",
+        "VOD risk: > 2 courses, liver impairment",
+        "Double-alkylator conditioning adds VOD risk",
+        "Allo-HCT within 6–8 weeks of starting salvage"
+      ],
+      "invert": 3,
+      "caption": "Ch. 72 Key Points: after inotuzumab, avoid conditioning regimens associated with SOS/VOD. Diagnosis and treatment of SOS/VOD: Session 13.",
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "Inotuzumab 的 CR rate 很高，但它會增加 VOD 的風險。三個情況風險特別高，用超過兩個療程、原本就有肝功能異常，以及 conditioning 用 double alkylator。",
+          "所以第 72 章建議 allo-HCT 最好在開始 salvage 之後 6 到 8 週內完成，conditioning 也要避開容易造成 SOS/VOD 的組合。實務上，開始 inotuzumab 的同一週就要啟動找 donor。SOS/VOD 的診斷和治療在第 13 堂。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Adult ALL · CAR-T",
+      "title": "Anti-CD19 CAR-T is licensed by age and consolidated by allo-HCT",
+      "root": "Relapsed/refractory ALL: CAR-T options (Ch. 72)",
+      "branches": [
+        {"label": "B-ALL, age ≤ 25 y", "box": "Tisagenlecleucel: CR 80–90%, RFS ~50%", "out": "No prior HCT: consider allo-HCT"},
+        {"label": "B-ALL, ≥ 26 y (EU)", "box": "Brexu-cel: CR ~71%, median OS > 2 y", "out": "No prior HCT: consider allo-HCT"},
+        {"label": "T-ALL", "box": "Anti-CD7 or anti-CD5 CAR-T: early trials", "out": "Allo-HCT to consolidate response"}
+      ],
+      "invert": 0,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Anti-CD19 CAR-T 是 R/R B-ALL 的新選項，第 72 章用年齡分兩個產品。Tisagenlecleucel 核准用在兒童和 25 歲以下的年輕成人，CR 80 到 90%，RFS 大約五成，資料來自 Maude 2018。Brexucabtagene autoleucel 在歐洲核准用在 26 歲以上，ZUMA-3 的 CR 大約 71%，median OS 超過兩年。",
+          "CAR-T 之後要不要接 allo-HCT，書上承認還有爭議。CAR-T 後的復發率偏高，而 CAR-T 失敗之後幾乎沒有選擇，所以作者建議之前沒做過移植的病人，要考慮用 allo-HCT 鞏固，雖然資料還不夠。",
+          "T-ALL 的 anti-CD7、anti-CD5 CAR-T 還在試驗中，早期結果不錯，有反應一樣要移植。CRS 和 ICANS 的分級和處理，請看第 20 堂。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Transplant technique and outcome",
+      "eyebrow": "Adult ALL · Indications",
+      "title": "Allo-HCT is standard for high-risk CR1 and for any later remission",
+      "head": ["Disease status", "Allo-HCT (Ch. 72)"],
+      "rows": [
+        ["High-risk ALL in CR1, including Ph+", "Standard"],
+        ["CR after induction failure, or CR2 and later", "Standard"],
+        ["Standard-risk CR1 with toxicity stopping chemo", "Optional (e.g., prolonged severe cytopenia)"],
+        ["Refractory or active disease", "Optional (Pavlu 2017)"],
+        ["Auto-HCT instead", "Not standard; option if MRD-negative and allo-ineligible"]
+      ],
+      "colW": [5.4, 6.2],
+      "fontSize": 18,
+      "caption": "Auto-HCT conditioning: fractionated TBI (e.g., 6 × 2 Gy) with CY and/or VP.",
+      "captionY": 5.2,
+      "notes": {
+        "min": 1.0,
+        "script": [
+          "第 72 章把 allo-HCT 的適應症分成標準和可選。High-risk 的 CR1，包括所有 Ph-positive，以及 induction failure 之後拿到的緩解或 CR2 以後，都是標準。Standard-risk 的 CR1，如果出現嚴重毒性，例如長期嚴重 cytopenia，讓化療無法繼續，可以考慮移植；refractory 或 active disease 也可以選擇性移植。",
+          "Auto-HCT 在成人 ALL 不是標準治療，只留給 MRD 陰性又不適合 allo 的病人，conditioning 用分次 TBI，例如 6 × 2 Gy，加 CY 或 VP。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Adult ALL · Conditioning",
+      "title": "Age 45 divides 12–13 Gy TBI myeloablation from reduced intensity",
+      "head": ["Patient", "Regimen", "Note"],
+      "rows": [
+        ["< 45 y, fit, no comorbidity", "Fractionated TBI 12–13 Gy + CY or VP", "Preferred; TBI likely lowers relapse"],
+        ["< 45 y, alternative", "IV BU (drug-level monitoring) + CY", "May give higher relapse"],
+        ["≥ 45 y, or MAC contraindicated", "FLU/IV BU, FLU/MEL, FLU/TBI 8 Gy, FLU/TREO, TBF", "No standard regimen yet"],
+        ["Beyond CR1", "Death in remission may exceed 30%", "MRD-neg after antibodies: reduce dose"],
+        ["After inotuzumab", "Avoid SOS/VOD-prone regimens", "e.g., double alkylators"]
+      ],
+      "colW": [3.4, 4.8, 3.6],
+      "fontSize": 16,
+      "caption": "TBI/CY versus TBI/VP for sibling allografts in CR1 or CR2: Marks 2006.",
+      "captionY": 5.6,
+      "notes": {
+        "min": 2.0,
+        "script": [
+          "Conditioning 以 45 歲為界。小於 45 歲、體能好、沒有重大 comorbidity 的病人，首選分次 TBI，累積劑量 12 到 13 Gy，搭配 CY 或 VP，也就是 etoposide。這兩個組合的比較來自 Marks 2006 的 sibling 移植資料。替代方案是 IV busulfan 加 CY，busulfan 最好做血中濃度監測，但這個組合可能復發率比較高。Key Points 的說法是 TBI 可能和比較低的復發有關，所以 ALL 是 TBI 地位最穩固的疾病之一。",
+          "45 歲以上，或是年輕但不適合 MAC 的病人，要用調整劑量或減量的方案。書上列出 FLU 加 IV BU、FLU 加 MEL、FLU 加 8 Gy TBI、FLU 加 treosulfan，以及 TBF，目前沒有公認的標準。",
+          "CR1 之後才移植的病人，緩解中死亡率可以超過 30%。如果病人是用新的抗體藥達到 MRD 陰性的後續緩解，作者建議討論減量 conditioning。用過 inotuzumab 的病人，要避開容易引發 SOS/VOD 的方案，例如 double alkylator。考試最常問的就是 45 歲和 12 到 13 Gy 這兩個數字。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Adult ALL · Donor, graft, prophylaxis",
+      "title": "Donor type matters less than prophylaxis matched to the donor",
+      "head": ["Element", "Ch. 72 recommendation"],
+      "rows": [
+        ["Donor", "MSD, MUD (≥ A, B, C, DR matched), MMUD or haplo"],
+        ["Registry outcome", "Comparable for all donor types (Shem-Tov 2020; Nagler 2021)"],
+        ["Graft, unrelated with ATG", "BM ≈ PBSC for GVHD; PBSC engrafts faster, less failure"],
+        ["Graft, PTCy haplo", "BM may improve OS and GRFS (Nagler 2020)"],
+        ["Standard prophylaxis", "CSA + MTX or CSA + MMF"],
+        ["ATG", "Consider for all unrelated donors; more relapse in registries"],
+        ["PTCy", "Recommended for T-replete haplo; option for MUD, MMUD"]
+      ],
+      "colW": [3.6, 8.0],
+      "fontSize": 16,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Donor 可以是 MSD、MUD、MMUD 或 haploidentical，MUD 至少要 HLA-A、B、C、DR 相合。EBMT registry 的兩個分析，Shem-Tov 2020 比較 haplo 和 unrelated，Nagler 2021 比較 haplo 和 sibling，結果都差不多。Key Points 還是把 MSD 放第一，其他三種並列。",
+          "幹細胞來源方面，unrelated donor 有用 ATG 時，BM 和 PBSC 的 GVHD 大概沒有差別，PBSC 植入比較快，graft failure 比較少。PTCy 的 T-replete haplo，用 BM 可能有比較好的 OS 和 GRFS。",
+          "GVHD prophylaxis 標準是 CSA 加 MTX，或 CSA 加 MMF。所有 unrelated donor 都應考慮加 ATG，雖然 registry 資料顯示 ATG 在 Ph-negative 和 Ph-positive 都和較高的復發有關。Haplo 用 PTCy 取代 ATG，MUD 和 MMUD 也可以用 PTCy。"
+        ]
+      }
+    },
+    {
+      "type": "tree",
+      "eyebrow": "Ph+ ALL · After allo-HCT",
+      "title": "Ph+ ALL needs a TKI after allo-HCT, prophylactic or MRD-triggered",
+      "root": "Ph+ ALL after allo-HCT",
+      "branches": [
+        {"label": "Adults (Ch. 72)", "box": "TKI, prophylactic or pre-emptive", "out": "Choose TKI by prior kinase mutation tests"},
+        {"label": "Children: EsPhALL", "box": "Imatinib once platelets > 50,000", "out": "Continue for 365 days after HCT"},
+        {"label": "Children: MRD-guided", "box": "Imatinib for any MRD-positive result", "out": "Stop after two negative MRD results"}
+      ],
+      "invert": 0,
+      "cite": "Stelljes M, et al. EBMT Handbook 8th ed. 2024; Ch. 72 · Peters C, et al. EBMT Handbook 8th ed. 2024; Ch. 73",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "Ph-positive ALL 移植後一定要接 TKI，第 72 章依據 Giebel 2016 的 EBMT position statement，可以 prophylactic，也就是每個人都給，或 pre-emptive，等 BCR::ABL1 轉陽再給。選哪一個 TKI，要參考之前的 kinase domain mutation 檢查結果。",
+          "兒童的第 73 章寫得更具體。修訂版 EsPhALL 建議血小板超過 50,000 之後開始 imatinib，從移植日算起給滿 365 天。另一種做法依 MRD 決定，只有 MRD 陽性才給 imatinib，直到連續兩次陰性，flow 和 PCR 的 MRD 都可以採用。兩種策略哪個比較好，目前還在研究。",
+          "Ph-negative 的 B-ALL 移植後如果 MRD 轉陽，第 72 章提到可以用抗體、ADC 或 CAR-T 做 pre-emptive 治療，但應該在前瞻性試驗中評估。DLI 和移植後 MRD 監測的細節，在第 19 堂。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "Adult ALL · Outcomes",
+      "title": "Allo-HCT outcomes in ALL fall with age and beyond first remission",
+      "head": ["Setting", "Donor", "TRM", "Relapse", "OS"],
+      "rows": [
+        ["CR1, age 18–55", "MSD", "11–24% (2 y)", "23–32% (2 y)", "60–76% (2 y)"],
+        ["CR1, age 18–55", "MUD", "19–23% (3 y)", "14–21% (2 y)", "62–70% (2 y)"],
+        ["CR1, age > 60", "MSD", "~23% (3 y)", "~47% (3 y)", "~39% (3 y)"],
+        ["CR1, age > 60", "MUD", "~24% (3 y)", "~35% (3 y)", "~46% (3 y)"],
+        ["CR2", "Any donor", "28–35% (2 y)", "33–38% (2 y)", "38–47% (2 y)"]
+      ],
+      "colW": [2.8, 2.0, 2.3, 2.3, 2.3],
+      "fontSize": 18,
+      "caption": "Ch. 72 Key Points. Note the mixed 2- and 3-year time points.",
+      "captionY": 5.2,
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "這張是第 72 章 Key Points 的結果數字。18 到 55 歲在 CR1 移植，MSD 的兩年 OS 是 60 到 76%，MUD 是 62 到 70%，兩者相近，TRM 大約一到兩成。",
+          "超過 60 歲，三年 OS 掉到四成左右，MSD 約 39%，MUD 約 46%，而且 MSD 的三年復發率接近一半，老年人的主要問題是復發。到了 CR2，不分 donor，兩年 TRM 28 到 35%，復發 33 到 38%，OS 只剩 38 到 47%。",
+          "看這張表要注意時間點不一樣，有兩年也有三年。年輕成人 MUD 的復發率 14 到 21%，比 MSD 的 23 到 32% 低，書上沒有解釋原因。CR2 這一行，講者的簡化說法是 TRM、復發、存活大約各佔三分之一，跟病人解釋預後時很好用。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section": "Children and questions",
+      "eyebrow": "Paediatric contrast · Ch. 73",
+      "title": "Children get allografts in CR1 only at high or very high relapse risk",
+      "head": ["Topic", "Adults (Ch. 72)", "Children and AYA (Ch. 73)"],
+      "rows": [
+        ["CR1 indication", "Ph+ and high-risk Ph− ALL", "High/very high risk only; MRD-neg at EOI excluded"],
+        ["Relapse", "Everyone beyond CR1", "Any T-ALL relapse; B-ALL very early/early"],
+        ["Conditioning", "TBI 12–13 Gy MAC if < 45 y", "TBI/VP16 MAC above age 4 (FORUM)"],
+        ["Donor", "MSD > MUD = MMUD = haplo", "MSD preferred; > 9/10 MUD now similar"],
+        ["GVHD prophylaxis", "CSA + MTX/MMF; ATG if unrelated", "MSD marrow: CSA alone; others CNI + MTX + ATG"],
+        ["Ph+ after HCT", "TKI, prophylactic or pre-emptive", "Imatinib 365 days (EsPhALL)"]
+      ],
+      "colW": [2.6, 4.2, 5.0],
+      "fontSize": 16,
+      "caption": "FORUM (Peters 2021): TBI/VP16 gave about 20% better OS and EFS and lower NRM than chemo-conditioning above age 4.",
+      "captionY": 5.65,
+      "cite": "Peters C, et al. EBMT Handbook 8th ed. 2024; Ch. 73 · Stelljes M, et al. EBMT Handbook 8th ed. 2024; Ch. 72",
+      "notes": {
+        "min": 1.5,
+        "script": [
+          "最後一張內容用第 73 章對照兒童。兒童只有 very high 或 high relapse risk 才在 CR1 移植，induction 結束時 MRD 陰性的直接排除。復發之後，T-ALL 任何時間復發，以及 B-ALL 在治療中或停藥六個月內的 very early、early 復發，任何 donor 都可以移植。",
+          "Conditioning 方面，FORUM 隨機試驗顯示 4 歲以上用 TBI 加 etoposide，OS 和 EFS 比化療型 conditioning 好大約 20%，NRM 也比較低。化療型之中，treosulfan、thiotepa、fludarabine 和 busulfan、thiotepa、fludarabine 結果相當。",
+          "兒童 MSD 移植因為植入快、免疫重建快、感染少，仍然優先；MSD 骨髓移植可以只用 cyclosporine，保留 GVL。另外兩點也常考，未達形態學緩解的兒童不應移植，最後一次化療到 conditioning 最好間隔 3 到 6 週。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 1 of 3",
+      "title": "Question 1: choose post-consolidation therapy for this B-ALL",
+      "stem": "A 30-year-old man with Ph-negative B-ALL (WBC 12 × 10⁹/L, normal karyotype) reaches CR after induction I with MRD 5 × 10⁻⁴. After consolidation, RQ-PCR MRD is 3 × 10⁻⁴. A matched sibling is available. According to Ch. 72, what is the best next step?",
+      "options": [
+        "Proceed to 6-MP/MTX maintenance for 2 years",
+        "Auto-HCT with fractionated TBI and CY",
+        "Allo-HCT in CR1, with blinatumomab for persisting MRD",
+        "Add nelarabine to the next consolidation block",
+        "Repeat MRD in 3 months; transplant only if it exceeds 10⁻³"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: persisting MRD after consolidation means allo-HCT",
+      "explanation": "MRD > 10⁻⁴ during or after consolidation is a high-risk criterion used by all study groups. He should proceed to allo-HCT in CR1; blinatumomab gives high MRD response rates for persisting MRD. His WBC and post-induction MRD (below 10⁻³) were not high-risk; the later MRD decides. Auto-HCT is not standard in adult ALL.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第一題。30 歲男性，Ph-negative B-ALL，初診白血球 12，染色體正常。Induction I 後 CR，MRD 5 × 10⁻⁴；consolidation 之後 RQ-PCR MRD 是 3 × 10⁻⁴。有 matched sibling。依第 72 章，下一步最適合的是哪一個。",
+          "A 是直接接兩年 maintenance；B 是 auto-HCT；C 是 CR1 allo-HCT，MRD 持續就先用 blinatumomab；D 是加 nelarabine；E 是三個月後再驗，超過 10⁻³ 才移植。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C。Consolidation 期間或之後 MRD 大於 10⁻⁴，是所有 study group 都採用的 CR1 移植指標。MRD 持續的病人用 blinatumomab 反應率高，再接 allo-HCT。",
+          "最容易選錯的是 E。10⁻³ 是 induction 之後的門檻，consolidation 之後要用 10⁻⁴；而 MRD 從持續陽性再升到 10⁻³，已經是非常高的復發風險，不該等。A 忽略了 MRD，B 的 auto-HCT 只給 MRD 陰性又不能做 allo 的人，D 的 nelarabine 是 T-ALL 的藥，而且在成人第一線也沒有好處。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 2 of 3",
+      "title": "Question 2: plan the allograft for this older Ph+ ALL patient",
+      "stem": "A 52-year-old woman with Ph+ ALL reaches complete molecular remission after imatinib with low-dose VCR/DEX and consolidation. A 10/10 matched unrelated donor is available and she has no major comorbidity. According to Ch. 72, which plan is most appropriate?",
+      "options": [
+        "TBI 12 Gy/CY myeloablation; no TKI after HCT",
+        "FLU/TBI 8 Gy allo-HCT, then TKI chosen by prior mutation tests",
+        "IV BU/CY myeloablation; TKI only at haematological relapse",
+        "Auto-HCT, because she is in molecular remission",
+        "Continue imatinib indefinitely without HCT"
+      ],
+      "answer": "B",
+      "answerTitle": "Answer B: reduced-intensity allo-HCT, then TKI maintenance",
+      "explanation": "All Ph+ patients should be considered for allo-HCT in CR1. From age 45, dose-adapted or reduced conditioning such as FLU/TBI 8 Gy is advised. TKI maintenance after HCT, prophylactic or pre-emptive, is standard, and the choice of TKI should follow prior TK mutation analysis.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "第二題。52 歲女性，Ph-positive ALL，用 imatinib 加低劑量 VCR、DEX，再加 consolidation，達到 complete molecular remission。有 10/10 的 MUD，沒有重大 comorbidity。依第 72 章，哪個計畫最適合。",
+          "選項分別是 TBI 12 Gy MAC 不接 TKI、FLU 加 8 Gy TBI 再接 TKI、BU/CY MAC 等血液學復發才給 TKI、auto-HCT，以及一直吃 imatinib 不移植。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 B。Ph-positive 的病人都應考慮 CR1 移植，她 52 歲，超過 45 歲這條線，所以用減量方案，FLU 加 8 Gy TBI 就是書上列出的選項。移植後要接 TKI，選藥參考之前的 mutation 檢查。",
+          "A 的劑量適合 45 歲以下，而且漏了 TKI。C 等到血液學復發才給 TKI 太晚，書上的 pre-emptive 指的是 MRD 層次。D 是主要干擾，回溯資料顯示 molecular CR 的 Ph-positive 做 auto 和 allo 存活相近，但 auto 在成人 ALL 仍不是標準。"
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "eyebrow": "Board-style question 3 of 3",
+      "title": "Question 3: plan the allograft after inotuzumab salvage",
+      "stem": "A 34-year-old woman with B-ALL relapses 10 months after reaching CR1. She receives two cycles of inotuzumab ozogamicin and reaches an MRD-negative CR2. A 10/10 matched unrelated donor is available. Her bilirubin and transaminases are normal. According to Ch. 72, which approach is most appropriate?",
+      "options": [
+        "Give two more inotuzumab cycles to deepen remission first",
+        "Auto-HCT, because she is MRD-negative in CR2",
+        "Allo-HCT within 6–8 weeks of salvage; avoid SOS-prone conditioning",
+        "No HCT; MRD-negative CR2 has no transplant indication",
+        "Allo-HCT with a double-alkylator MAC regimen to lower relapse"
+      ],
+      "answer": "C",
+      "answerTitle": "Answer C: transplant promptly and avoid SOS-prone conditioning",
+      "explanation": "Allo-HCT is standard for all patients beyond CR1 without contraindication. Inotuzumab raises VOD risk with more than two courses, pre-existing liver impairment and double-alkylator conditioning, so HCT should follow within 6–8 weeks of starting salvage. Auto-HCT is not standard in adult ALL.",
+      "notes": {
+        "min": 0.75,
+        "script": [
+          "最後一題。34 歲女性 B-ALL，CR1 之後 10 個月復發，用了兩個 cycle 的 inotuzumab，達到 MRD 陰性的 CR2。有 10/10 的 MUD，肝功能正常。依第 72 章，最適合的做法是哪一個。",
+          "A 是再加兩個 cycle；B 是做 auto；C 是 salvage 開始後 6 到 8 週內做 allo，避開容易 SOS 的 conditioning；D 是不移植；E 是用 double alkylator MAC 降低復發。",
+          "[Pause for answers.]"
+        ]
+      },
+      "answerNotes": {
+        "min": 1.0,
+        "script": [
+          "答案是 C。CR1 之後的 ALL，只要沒有禁忌，allo-HCT 就是標準，所以 D 不對。Inotuzumab 的 VOD 風險在超過兩個 course、原本肝功能異常、以及 double alkylator conditioning 時上升，A 和 E 都是在增加 VOD 的機會，書上建議從開始 salvage 起 6 到 8 週內移植。",
+          "B 是主要的干擾選項。Auto-HCT 在成人 ALL 不是標準，她年輕又有 donor，應該做 allo。像她這樣用抗體藥拿到 MRD 陰性的病人，書上也建議討論 dose-reduced conditioning。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · Paediatric CR1 (Table 73.1)",
+      "title": "AIEOP-BFM ALL 2009 ties paediatric CR1 allografts to PCR-MRD",
+      "head": ["Feature (hierarchical)", "MRD-SR", "MRD-MR", "TP2 10⁻³ to < 10⁻²", "TP2 ≥ 10⁻²"],
+      "rows": [
+        ["No CR on day 33", "No*", "MMD", "MMD", "MMD"],
+        ["t(4;11)", "No", "MD", "MD", "MMD"],
+        ["Hypodiploidy < 44 chromosomes", "No", "MD", "MD", "MMD"],
+        ["PPR + T-ALL", "No", "No", "MD", "MMD"],
+        ["None of the above", "No", "No", "MD", "MMD"]
+      ],
+      "colW": [3.8, 1.8, 1.8, 2.4, 2.0],
+      "fontSize": 17,
+      "caption": "MD: matched sibling or unrelated donor; MMD: matched or mismatched donor. FCM-MRD does not change the indication. *Discuss with the study coordinator.",
+      "captionY": 5.0,
+      "cite": "Peters C, et al. EBMT Handbook 8th ed. 2024; Ch. 73",
+      "notes": {
+        "script": [
+          "兒童 CR1 的移植適應症依 PCR-MRD 和幾個遺傳特徵階層式決定。Day 33 未緩解、或 TP2 MRD 大於等於 10⁻² 的，可以用 mismatched donor；MRD standard risk 的一律不移植。進行中的 AIEOP-BFM 2017 另把 TCF3-HLF、KMT2A-AFF1、IKZF1plus 加上 MRD 列為 very high risk。"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "backup": true,
+      "eyebrow": "Backup · Paediatric relapse",
+      "title": "Early B-ALL relapse and any T-ALL relapse need an allograft in children",
+      "head": ["Relapse (Ch. 73, IntReALL)", "Risk group", "Donor"],
+      "rows": [
+        ["T-ALL, any time, any site", "Very high", "MSD, MD, MMD"],
+        ["Non-T, very early, marrow or extramedullary", "Very high", "MSD, MD, MMD"],
+        ["Non-T, early marrow relapse, poor MRD response", "Very high", "MSD, MD, MMD"],
+        ["Non-T, late marrow relapse, poor MRD response", "High", "MSD, MD"],
+        ["Third or later remission", "All, if fit", "Any"],
+        ["Not in morphological remission", "No HCT", "Except well-designed trials"]
+      ],
+      "colW": [5.6, 2.6, 3.4],
+      "fontSize": 17,
+      "cite": "Peters C, et al. EBMT Handbook 8th ed. 2024; Ch. 73",
+      "notes": {
+        "script": [
+          "兒童復發後的移植適應症，依免疫表型、復發時間、部位和 MRD 分組。Very early 和 early 指在治療中或停藥 6 個月內復發，預後差，任何 donor 都可以；late relapse 只在 MRD 反應差時移植。未達形態學緩解的不應移植。這張是第 73 章 Table 73.2 的簡化版。"
+        ]
+      }
+    },
+    {
+      "type": "blocks",
+      "backup": true,
+      "eyebrow": "Backup · Auto-HCT",
+      "title": "Auto-HCT is not a standard therapy for adult ALL",
+      "blocks": [
+        {"head": "Indication", "body": "Optional only for MRD-negative ALL in patients not eligible for allo-HCT", "extra": "Not standard"},
+        {"head": "Conditioning", "body": "Fractionated TBI (e.g., 6 × 2 Gy) with CY and/or VP", "extra": "Section 72.8.2"},
+        {"head": "Evidence", "body": "Largest randomised study: chemotherapy superior. Ph+ in molecular CR: survival similar to allo-HCT", "extra": "Retrospective; > 55 y similar to RIC allo"}
+      ],
+      "notes": {
+        "script": [
+          "如果有人問 auto-HCT。最大的隨機試驗反而是化療比較好，支持 auto 的資料都是回溯性的，而且無法排除 MRD 陰性的病人單用化療也一樣好。Ph-positive 在 molecular CR 時 auto 和 allo 存活相近，auto 復發多、allo 緩解中死亡多。"
+        ]
+      }
+    }
+  ]
+}
