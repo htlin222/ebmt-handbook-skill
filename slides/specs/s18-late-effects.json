@@ -77,7 +77,7 @@
       "rows": [
         [
           "Discharge to day +100",
-          "Live near centre 3–6 months; weekly in\nmonth 1, every 2 weeks to month 3",
+          "Live near centre 3–6 m; weekly in\nmonth 1, 2-weekly to month 3",
           "Live near hospital until full\nhaematologic recovery"
         ],
         [
@@ -87,12 +87,12 @@
         ],
         [
           "Marrow, chimerism",
-          "Chimerism at months 1 and 2; marrow\n~1 month if previously involved",
+          "Chimerism at months 1 and 2;\nmarrow ~1 m if involved",
           "Marrow at 3 months if previously\ninvolved (NHL, HL, MPS)"
         ],
         [
           "Around 3 months",
-          "Care may return to referring doctor;\nchildren < 17 y: height, weight every 3 m",
+          "Back to referring doctor; age < 17:\nheight, weight every 3 m",
           "Restage: MRD, imaging\nby disease"
         ],
         [
@@ -218,12 +218,12 @@
         [
           "Transferrin saturation",
           "> 70% = NTBI/LPI in serum;\ncheap, repeatable",
-          "No quantitative link to the iron pool;\nless reliable if poly-transfused"
+          "No quantitative link to iron pool;\nlimited if poly-transfused"
         ],
         [
           "Serum ferritin",
           "Tracks total iron and outcome;\nshows trends",
-          "Raised by inflammation, infection,\nliver disease; nonlinear when high"
+          "Raised by inflammation, infection\nor liver disease"
         ],
         [
           "NTBI / LPI",
@@ -779,7 +779,7 @@
       "rows": [
         [
           "Chemotherapy",
-          "Alkylators worst; BuCy very gonadotoxic;\nCY alone may preserve function",
+          "Alkylators worst, esp. BuCy;\nCY alone may preserve function",
           "Bu: ~50% azoospermic;\nCY alone: recovery more frequent"
         ],
         [
@@ -789,17 +789,17 @@
         ],
         [
           "Radiation",
-          "Oocyte LD50 < 2 Gy; ESD 18.4 Gy at 10 y,\n14.3 Gy at 30 y, 6 Gy over 40",
+          "Oocyte LD50 < 2 Gy; ESD 18.4 Gy\n(age 10), 14.3 (30), 6 (> 40)",
           "1 Gy: ~2 years to recover sperm;\nMAC TBI: most azoospermic"
         ],
         [
           "Hormones",
           "Premature ovarian failure,\nearly menopause",
-          "Testosterone usually normal (Leydig\ncells resist); monitor yearly"
+          "Testosterone usually normal\n(Leydig spared); check yearly"
         ],
         [
           "Pregnancy",
-          "TBI or pelvic RT: miscarriage,\npreterm birth, low birth weight",
+          "TBI or pelvic RT: miscarriage,\npreterm, low birth weight",
           "Both: delay conception ~6 months\nafter gonadotoxic therapy"
         ]
       ],

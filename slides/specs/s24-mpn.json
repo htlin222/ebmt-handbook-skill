@@ -732,7 +732,7 @@
           "CML 最好的 conditioning 和 GVHD prophylaxis 其實還沒有定論，書上的立場是這樣。MAC 用 CY 加 BU 或 CY 加 TBI，長期存活最好。RIC 是為了讓年紀大或有 comorbidity 的病人也能移植，但沒有比 MAC 好，主要是復發較多。所以老人或 comorbidity 多的人用 FLU 加 BU 或 MEL 的 RIC，其他人，尤其是 advanced phase，要用 MAC 把病控制好。",
           "Stem cell source 大約三分之二用 PBSC，整體結果沒有差別，BM 的 chronic GVHD 比較少也比較輕。在 advanced disease 或用 RIC 時，PBSC 可能可以降低 graft failure 和復發。",
           "GVHD prophylaxis 的標準仍是 CSA 加 short-course MTX。1980 年代用 T-cell depletion 降低 GVHD，但復發增加，很多中心就放棄了。",
-          "PTCy 讓 haplo 和 mismatched unrelated donor 也可行。EBMT 的 CML 資料，haplo 的 OS 和 MUD 相近，RFS 稍低，但和 matched related 比沒有差。MUD 或 MMUD 用 PTCy 和傳統 CNI 加 MTX 相比，OS、RFS、復發和 NRM 都沒有差別。",
+          "PTCy 讓 haplo 和 mismatched unrelated donor 也可行。EBMT 的 CML 資料，haplo 的 OS 和 MUD 相近，RFS 稍低，但和 matched related 比沒有差。MUD 或 MMUD 用 PTCy 和傳統 CNI 加 MTX 相比，OS、RFS、復發和 NRM 都沒有差別。所以 donor 不是 matched sibling 時，PTCy 已經是可以接受的選擇，不必因為缺少 matched donor 而延後移植。",
           "在病房上的應用是這樣：一個年輕、CP 的 CML 病人，有 matched sibling，標準做法就是 MAC 加 CSA 和 MTX，不需要刻意選 RIC。年紀大、comorbidity 多，才改用 FLU 為主的 RIC，並且接受較高的復發風險，移植後更要密切追 BCR-ABL1。"
         ]
       }
@@ -827,7 +827,7 @@
           "答案是 B。年紀 58，0 分；constitutional symptoms 1 分；Hb 小於 100 在 DIPSS 是 2 分；白血球超過 25 是 1 分；blast 小於 1%，0 分。總共 4 分，intermediate-2，70 歲以下建議移植。選 D 的人用了 IPSS 的算法，忘了貧血在 DIPSS 是 2 分。",
           "A 是主要陷阱。Ruxolitinib 用來改善症狀、縮小脾臟，但資料顯示在還有反應時移植，比等失敗再移植好。C 錯在突然停藥，會有 rebound，要在 conditioning 前小心減量。",
           "E 也不對，myelofibrosis 只有 allo-HCT 能治癒，脾臟處理只是移植前的輔助。脾臟對 ruxolitinib 沒反應又非常大，才考慮 splenectomy 或脾臟放射。",
-          "如果把題目的年紀改成 72 歲，DIPSS 一樣是 4 分，但已經超過 EBMT/ELN 建議的 70 歲上限，答案就要重新考慮。"
+          "如果把題目的年紀改成 72 歲，DIPSS 一樣是 4 分，但已超過 70 歲的建議上限。"
         ]
       }
     },
@@ -862,7 +862,7 @@
           "答案是 C。T315I 只有第三代的 ponatinib 和 STAMP inhibitor asciminib 有效，所以換 nilotinib 的 A 和加量 dasatinib 的 B 都不對，B 還延後了 HLA typing。",
           "主要陷阱是 D。T315I 和在 TKI 治療中從 CP 進展到 AP，都是移植適應症，但第 77 章的建議是立刻找 donor、轉介移植中心，同時用 TKI 重新取得反應，再進行移植。帶著活躍疾病直接移植，結果會比較差。E 的 autologous HCT 在 CML 已經不建議。",
           "記住 phase 才是決定移植結果的因素，前面用過幾種 TKI 反而不影響，所以重點是讓病人在進入 BC 之前完成移植。",
-          "書上說 AP 的處理要個別化，但 donor search 和轉介一定要快，因為在 TKI 治療下進展到 AP 的病人，不移植的結果不好。"
+          "AP 的處理要個別化，但 donor search 和轉介要快，因為這類病人不移植的結果不好。"
         ]
       }
     },
@@ -896,7 +896,7 @@
           "答案是 B。移植超過 4 個月，三次檢體、間隔至少 4 週，都超過 0.02%，而且持續上升，同時符合 (a) 和 (b)，就是 molecular relapse，最後一次 0.06% 也接近 (c) 的 0.05% 門檻。",
           "A 是主要陷阱。移植後 PCR 陽性只在前 3 個月左右算常見，不是第一年都可以觀察。E 等到 cytogenetic relapse 才處理，就錯過了疾病量最低、DLI 效果最好的時機。",
           "CP 復發的 DLI 有 60 到 90% 能再緩解。D 錯在一次給大劑量，逐步加量才能降低 GVHD，而 DLI 後的 GVHD 會讓死亡風險增加 2.3 倍。TKI 可以合併，順序沒有定論。",
-          "反過來說，如果移植後才 2 個月就看到 0.03%，那不符合定義，可以繼續追蹤，A 選項就是想讓人把這兩種情況混在一起。"
+          "如果移植後才 2 個月就看到 0.03%，那不符合定義，可以繼續追蹤。"
         ]
       }
     },

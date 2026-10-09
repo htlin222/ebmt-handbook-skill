@@ -136,7 +136,7 @@
       ],
       "fontSize": 16,
       "caption": "No trial compares regimens. Rebiopsy is mandatory if relapse is ≥ 12 months after first-line therapy.",
-      "captionY": 5.55,
+      "captionY": 5.8,
       "notes": {
         "min": 1.5,
         "script": [
@@ -205,7 +205,7 @@
       ],
       "fontSize": 16,
       "caption": "BNLI and GHSG/EBMT HD-R1: auto beat salvage chemo for EFS and FFTF, with no OS benefit.",
-      "captionY": 5.6,
+      "captionY": 5.2,
       "notes": {
         "min": 1.5,
         "script": [
@@ -383,7 +383,7 @@
         2.5
       ],
       "fontSize": 17,
-      "caption": "3-y results: chemosensitive NRM 15–20%, OS 60–70%, PFS 40–50%; refractory NRM 20–30%, OS 40–50%, PFS 20–30%.",
+      "caption": "3-y OS 60–70% if chemosensitive vs 40–50% if refractory; NRM 15–20% vs 20–30%.",
       "captionY": 4.75,
       "notes": {
         "min": 1.5,
@@ -413,7 +413,7 @@
         },
         {
           "head": "Donor and conditioning",
-          "body": "PB preferred. Haplo PTCy ≈ MSD/MUD with less GVHD. > 50% get RIC: less NRM, more relapse.",
+          "body": "PB preferred. Haplo PTCy ≈ MSD/MUD with less GVHD. Over half get RIC: less NRM, more relapse.",
           "extra": "Low-dose TBI worse; MAC case by case"
         }
       ],
@@ -495,7 +495,7 @@
       ],
       "fontSize": 16,
       "caption": "BEAM is most used; bendamustine in place of BCNU may be less toxic. No proven role for purging.",
-      "captionY": 5.6,
+      "captionY": 5.75,
       "notes": {
         "min": 1.5,
         "script": [
@@ -976,25 +976,10 @@
       ],
       "fontSize": 18,
       "caption": "No specific allo-HCT reports for either disease, owing to small numbers.",
-      "captionY": 5.3,
+      "captionY": 5.15,
       "notes": {
         "script": [
           "Marginal zone 和 Waldenström 的 auto 結果和 FL 相近，五年 OS 約七成。Allo 因為病例太少，沒有專門的報告。"
-        ]
-      }
-    },
-    {
-      "type": "figure",
-      "backup": true,
-      "eyebrow": "cHL · Authors' algorithm",
-      "title": "The Ch. 89 algorithm runs from salvage to auto, BV and allo-HCT",
-      "cite": "Martínez C, et al. EBMT Handbook 8th ed. 2024; Ch. 89 (Sect. 89.11, modified from Jethava et al.)",
-      "fig": "ch89-figa",
-      "alt": "Flowchart: primary refractory or first-relapse cHL, second- or third-line chemotherapy, auto-HCT with BV consolidation if high risk; at relapse, BV if BV-naive, otherwise nivolumab, pembrolizumab or trial; responders observe or consider allo-HCT; non-responders receive conventional salvage then consider allo-HCT.",
-      "caption": "PCT, prospective clinical trial. Allo-HCT in young, fit patients with responding disease and a donor. Grey arrows: either option acceptable after weighing patient and transplant risks.",
-      "notes": {
-        "script": [
-          "這是第 89 章的原圖，主線的 tree 由它簡化。灰色箭頭代表觀察和 allo 兩者都可以接受，要和病人仔細討論。"
         ]
       }
     }

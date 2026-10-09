@@ -23,14 +23,15 @@
     "8. Maertens JA, Raad II, Marr KA, et al. Isavuconazole versus voriconazole for primary treatment of invasive mould disease caused by aspergillus and other filamentous fungi (SECURE): a phase 3, randomised-controlled, non-inferiority trial. Lancet. 2016c;387:760–9.",
     "9. Maertens JA, Rahav G, Lee DG, et al. Posaconazole versus voriconazole for primary treatment of invasive aspergillosis: a phase 3, randomised, controlled, non-inferiority trial. Lancet. 2021;397(10273):499–509.",
     "10. Marr KA, Schlamm HT, Herbrecht R, et al. Combination antifungal therapy for invasive aspergillosis: a randomized trial. Ann Intern Med. 2015;162:81–9.",
-    "11. Andes DR, Safdar N, Baddley JW, et al. Impact of treatment strategy on outcomes in patients with candidemia and other forms of invasive candidiasis: a patient-level quantitative review of randomized trials. Clin Infect Dis. 2012;54:1110–22.",
-    "12. Maschmeyer G, Helweg-Larsen J, Pagano L, et al. ECIL guidelines for treatment of pneumocystis jirovecii pneumonia in non-HIV-infected haematology patients. J Antimicrob Chemother. 2016;71:2405–13."
+    "11. Slavin MA, Chen YC, Cordonnier C, et al. When to change treatment of acute invasive aspergillosis: an expert viewpoint. J Antimicrob Chemother. 2021;77(1):16–23.",
+    "12. Andes DR, Safdar N, Baddley JW, et al. Impact of treatment strategy on outcomes in patients with candidemia and other forms of invasive candidiasis: a patient-level quantitative review of randomized trials. Clin Infect Dis. 2012;54:1110–22.",
+    "13. Maschmeyer G, Helweg-Larsen J, Pagano L, et al. ECIL guidelines for treatment of pneumocystis jirovecii pneumonia in non-HIV-infected haematology patients. J Antimicrob Chemother. 2016;71:2405–13."
   ],
   "slides": [
     {
       "type": "outline",
       "eyebrow": "Outline",
-      "title": "Four parts, from who is at risk to which drug to give",
+      "title": "Four parts, from risk to the right antifungal",
       "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
       "rows": [
         [
@@ -122,7 +123,7 @@
     {
       "type": "chain",
       "eyebrow": "IFD · Risk periods",
-      "title": "IFD risk follows three periods after allogeneic HCT",
+      "title": "Three risk periods shape IFD after allo-HCT",
       "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
       "steps": [
         "Pre-engraftment: neutropenia, mucosal damage",
@@ -271,10 +272,10 @@
       ],
       "colW": [
         3.3,
-        4.6,
-        4.3
+        4.4,
+        4.5
       ],
-      "fontSize": 14,
+      "fontSize": 13,
       "rows": [
         [
           "β-D-glucan (Fungitell; WAKO)",
@@ -284,11 +285,11 @@
         [
           "Aspergillus PCR",
           "Protocols standardised by EAPCRI",
-          "Long held back by lack of\nstandardisation"
+          "Long held back by lack of standardisation"
         ],
         [
           "Blood culture for Candida",
-          "Gold standard; species and\nsusceptibility",
+          "Gold standard; species and susceptibility",
           "2–5 days; low sensitivity in\nchronic disseminated candidiasis"
         ],
         [
@@ -302,14 +303,14 @@
           "Use when meningitis is suspected"
         ],
         [
-          "PJP: immunofluorescence;\nBAL real-time PCR",
+          "PJP: immunofluorescence; BAL PCR",
           "Most sensitive microscopy;\nnegative PCR rules out PJP",
           "Positive PCR may be colonisation"
         ],
         [
           "PJP: serum BDG",
           "Supports the diagnosis",
-          "False negatives occur;\nother fungi also positive"
+          "False negatives; other fungi also positive"
         ]
       ],
       "notes": {
@@ -404,14 +405,9 @@
           "B-II; inferred from AML/MDS\nneutropenia data"
         ],
         [
-          "Aerosolised L-AmB + fluconazole",
-          "—",
-          "Not for low-incidence centres;\nB-II in higher-risk centres"
-        ],
-        [
-          "IV liposomal AmB",
-          "—",
-          "C-II"
+          "Liposomal AmB",
+          "Aerosolised, added to fluconazole;\nor IV",
+          "Aerosol: B-II in higher-risk centres\nonly; IV: C-II"
         ]
       ],
       "notes": {
@@ -821,8 +817,8 @@
     {
       "type": "mcq",
       "eyebrow": "Board-style question 3 of 3",
-      "title": "Question 3: yeast in the blood during neutropenia",
-      "answerTitle": "Answer B: echinocandin, remove the line, 14 days",
+      "title": "Question 3: candidaemia during neutropenia",
+      "answerTitle": "Answer B: echinocandin and catheter removal",
       "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
       "stem": "A 35-year-old woman with ALL is neutropenic on day +9 after myeloablative allo-HCT, on fluconazole prophylaxis, with a tunnelled central venous catheter. Blood cultures drawn on day +9 grow a yeast identified as Nakaseomyces (Candida) glabrata; cultures from day +11 onward are negative. Which management is most appropriate?",
       "options": [
@@ -856,7 +852,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Table 37.2",
+      "eyebrow": "Table 37.2",
       "title": "ECIL-6 grades the polyenes and second-line options for both moulds",
       "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
       "head": [
@@ -869,7 +865,7 @@
         4.1,
         4.1
       ],
-      "fontSize": 15,
+      "fontSize": 14,
       "rows": [
         [
           "Liposomal AmB",
@@ -897,13 +893,8 @@
           "C-III: no data for first line"
         ],
         [
-          "Caspofungin",
-          "C-II",
-          "—"
-        ],
-        [
-          "Itraconazole",
-          "C-III",
+          "Caspofungin; itraconazole",
+          "C-II; C-III",
           "—"
         ],
         [
@@ -922,7 +913,7 @@
     {
       "type": "table",
       "backup": true,
-      "eyebrow": "Backup · Prophylaxis trials",
+      "eyebrow": "Prophylaxis trials",
       "title": "Each pre-engraftment prophylaxis grade rests on a specific trial flaw",
       "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
       "head": [
@@ -972,7 +963,7 @@
     {
       "type": "bullets",
       "backup": true,
-      "eyebrow": "Backup · Novel agents",
+      "eyebrow": "Novel agents",
       "title": "Three novel antifungals are in clinical evaluation for HCT patients",
       "cite": "Maertens JA. EBMT Handbook 8th ed. 2024; Ch. 37",
       "items": [

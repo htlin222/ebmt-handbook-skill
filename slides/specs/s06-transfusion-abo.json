@@ -35,10 +35,26 @@
       "title": "Four parts, from the blood bag to the blood group switch",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
       "rows": [
-        ["Safe products", "Leukoreduction, irradiation against ta-GvHD, CMV-safe components", "3.25 min"],
-        ["Red cells and platelets", "Restrictive Hb trigger, platelet triggers, PLADO, refractoriness", "6 min"],
-        ["ABO- and RhD-incompatible HCT", "Mismatch types, graft processing, PRCA, Table 24.1, RhD and K", "11.25 min"],
-        ["Granulocytes and three board questions", "RING trial, dose, alloimmunisation; three vignettes", "6.75 min"]
+        [
+          "Safe products",
+          "Leukoreduction, irradiation against ta-GvHD, CMV-safe components",
+          "3.25 min"
+        ],
+        [
+          "Red cells and platelets",
+          "Restrictive Hb trigger, platelet triggers, PLADO, refractoriness",
+          "6 min"
+        ],
+        [
+          "ABO- and RhD-incompatible HCT",
+          "Mismatch types, graft processing, PRCA, Table 24.1, RhD and K",
+          "11.25 min"
+        ],
+        [
+          "Granulocytes and three board questions",
+          "RING trial, dose, alloimmunisation; three vignettes",
+          "6.75 min"
+        ]
       ],
       "notes": {
         "min": 1.0,
@@ -56,17 +72,53 @@
       "eyebrow": "Blood products · Irradiation",
       "title": "Every cellular product is irradiated and every product leukoreduced",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Measure", "Requirement", "Note"],
-      "rows": [
-        ["Leukocyte reduction", "RBC, PC and FFP: < 1 × 10⁶ leukocytes per unit", "Less FNHTR, HLA alloimmunisation, CMV"],
-        ["Irradiation", "All cellular components: RBC, PC, granulocytes", "Prevents ta-GvHD"],
-        ["Dose", "No part of the component < 25 Gy or > 50 Gy", "European guide, 2023"],
-        ["Auto-HCT", "From ≥ 2 weeks before collection to ≥ 3 months after", "Standard practice"],
-        ["Allo-HCT", "From conditioning at the latest to ≥ 6 months", "Or until immune reconstitution"],
-        ["HSC donor", "Products given ≤ 7 days before or during harvest", "Irradiate these too"],
-        ["Pathogen reduction", "Some technologies inactivate lymphocytes", "No extra irradiation needed"]
+      "head": [
+        "Measure",
+        "Requirement",
+        "Note"
       ],
-      "colW": [2.6, 5.0, 3.4],
+      "rows": [
+        [
+          "Leukocyte reduction",
+          "RBC, PC and FFP: < 1 × 10⁶ leukocytes per unit",
+          "Less FNHTR, HLA alloimmunisation, CMV"
+        ],
+        [
+          "Irradiation",
+          "All cellular components: RBC, PC, granulocytes",
+          "Prevents ta-GvHD"
+        ],
+        [
+          "Dose",
+          "No part of the component < 25 Gy or > 50 Gy",
+          "European guide, 2023"
+        ],
+        [
+          "Auto-HCT",
+          "From ≥ 2 weeks before collection to ≥ 3 months after",
+          "Standard practice"
+        ],
+        [
+          "Allo-HCT",
+          "From conditioning at the latest to ≥ 6 months",
+          "Or until immune reconstitution"
+        ],
+        [
+          "HSC donor",
+          "Products given ≤ 7 days before or during harvest",
+          "Irradiate these too"
+        ],
+        [
+          "Pathogen reduction",
+          "Some technologies inactivate lymphocytes",
+          "No extra irradiation needed"
+        ]
+      ],
+      "colW": [
+        2.6,
+        5.0,
+        3.4
+      ],
       "fontSize": 15,
       "caption": "ta-GvHD: viable donor T cells attack the recipient (fever, rash, diarrhoea, abnormal LFTs, pancytopenia); mortality > 90%",
       "notes": {
@@ -76,7 +128,8 @@
           "另一個要求是照射。所有 cellular component，也就是紅血球、血小板和 granulocyte，都要照射，目的是預防 transfusion-associated GvHD。血品裡還活著的 T 細胞攻擊病人，表現像 GVHD，有發燒、皮疹、腹瀉、肝功能異常，而且很多病人會全血球低下。死亡率超過 90%，所以重點完全在預防。",
           "劑量是血品的每一個部位都不能低於 25 Gy，也不能高於 50 Gy。有些 pathogen-reduction technology 本身就能讓淋巴球失去活性，用了就不必再照射。",
           "照射要持續多久，其實沒有共識。標準做法是 auto-HCT 從收集幹細胞前至少兩週開始，到移植後至少三個月；allo-HCT 最晚從 conditioning 開始，到移植後至少六個月，或到免疫重建為止。因為免疫完全重建很難確認，有些中心乾脆終身照射。",
-          "還有一個容易忽略的點。Donor 如果在採集前七天內或採集期間輸過血，那些血品也要照射。Auto 和 allo 的起訖時間不同，這組數字是這一章最常考的地方。"
+          "還有一個容易忽略的點。Donor 如果在採集前七天內或採集期間輸過血，那些血品也要照射。Auto 和 allo 的起訖時間不同，這組數字是這一章最常考的地方。",
+          "Auto 病人在 mobilisation 之前常常就需要輸血，這時就該開始用照射血品。"
         ]
       }
     },
@@ -85,24 +138,52 @@
       "eyebrow": "Blood products · CMV",
       "title": "Leukoreduction or CMV-seronegative donors both lower TT-CMV risk",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Question", "What Ch. 24 says"],
-      "rows": [
-        ["Highest-risk recipient", "CMV-seronegative recipient of a CMV-negative graft"],
-        ["Option 1", "Leukocyte-reduced products (< 1–5 × 10⁶ leukocytes/unit)"],
-        ["Option 2", "Components from CMV-seronegative blood donors"],
-        ["Both together", "Unclear whether the 'belt and suspenders' approach adds more"],
-        ["UK advisory committee", "CMV-unselected components can be transfused safely"],
-        ["Riskiest donation", "From donors who have newly turned CMV-IgG-positive"],
-        ["How long", "No consensus: day +100 to lifelong or until seroconversion"]
+      "head": [
+        "Question",
+        "What Ch. 24 says"
       ],
-      "colW": [3.2, 7.8],
+      "rows": [
+        [
+          "Highest-risk recipient",
+          "CMV-seronegative recipient of a CMV-negative graft"
+        ],
+        [
+          "Option 1",
+          "Leukocyte-reduced products (< 1–5 × 10⁶ leukocytes/unit)"
+        ],
+        [
+          "Option 2",
+          "Components from CMV-seronegative blood donors"
+        ],
+        [
+          "Both together",
+          "Unclear whether the 'belt and suspenders' approach adds more"
+        ],
+        [
+          "UK advisory committee",
+          "CMV-unselected components can be transfused safely"
+        ],
+        [
+          "Riskiest donation",
+          "From donors who have newly turned CMV-IgG-positive"
+        ],
+        [
+          "How long",
+          "No consensus: day +100 to lifelong or until seroconversion"
+        ]
+      ],
+      "colW": [
+        3.2,
+        7.8
+      ],
       "fontSize": 16,
       "notes": {
         "min": 1.25,
         "script": [
           "接著是 transfusion-transmitted CMV。風險最高的組合，是 CMV 陰性的病人接受 CMV 陰性 donor 的 graft，因為這群人完全沒有對 CMV 的免疫力，一旦從血品感染，後果最嚴重。",
           "降低風險有兩條路。一條是 leukocyte-reduced 血品，殘留白血球每單位少於 1 到 5 × 10⁶；另一條是用 CMV 血清陰性捐血者的血品。兩者一起用，也就是所謂 belt and suspenders，有沒有額外好處並不清楚。英國的諮詢委員會甚至認為，未篩選 CMV 的血品也可以安全輸注。",
-          "風險最高的捐血，來自剛剛轉為 CMV IgG 陽性的捐血者。目前沒有國際共識，CMV 陰性血品要給多久，各中心從 day 100 到終身都有。CMV 的監測和治療留到第 12 堂。"
+          "風險最高的捐血，來自剛剛轉為 CMV IgG 陽性的捐血者。目前沒有國際共識，CMV 陰性血品要給多久，各中心從 day 100 到終身都有。CMV 的監測和治療留到第 12 堂。",
+          "要注意，這裡寫的殘留白血球是 1 到 5 × 10⁶，比前一張移植血品要求的 1 × 10⁶ 寬鬆一些。"
         ]
       }
     },
@@ -112,17 +193,53 @@
       "eyebrow": "Red cells · Thresholds",
       "title": "A restrictive Hb trigger of 7–8 g/dL is standard, also after HCT",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Setting", "Threshold or result", "Source"],
-      "rows": [
-        ["Stable adult", "Hb 7–8 g/dL", "Carson 2016, 2021"],
-        ["Cardiovascular disease", "Hb 8 g/dL", "Carson 2016, 2021"],
-        ["TRIST, 300 HCT patients", "Hb < 70 vs < 90 g/L: same QoL and clinical outcomes", "Tay 2020"],
-        ["Units used in TRIST", "Fewer with restrictive arm, not significant", "Tay 2020"],
-        ["Children, allo-HCT", "Hb < 6.5 vs < 8.0 g/dL: feasibility RCT ongoing", "Ch. 24"],
-        ["Single vs double unit", "Single not inferior; units per stay not reduced", "Chantepie 2023"],
-        ["Storage age", "Fresh RBC no better: any age within licensed dating", "AABB (Carson 2016)"]
+      "head": [
+        "Setting",
+        "Threshold or result",
+        "Source"
       ],
-      "colW": [3.0, 5.6, 2.4],
+      "rows": [
+        [
+          "Stable adult",
+          "Hb 7–8 g/dL",
+          "Carson 2016, 2021"
+        ],
+        [
+          "Cardiovascular disease",
+          "Hb 8 g/dL",
+          "Carson 2016, 2021"
+        ],
+        [
+          "TRIST, 300 HCT patients",
+          "Hb < 70 vs < 90 g/L: same QoL and clinical outcomes",
+          "Tay 2020"
+        ],
+        [
+          "Units used in TRIST",
+          "Fewer with restrictive arm, not significant",
+          "Tay 2020"
+        ],
+        [
+          "Children, allo-HCT",
+          "Hb < 6.5 vs < 8.0 g/dL: feasibility RCT ongoing",
+          "Ch. 24"
+        ],
+        [
+          "Single vs double unit",
+          "Single not inferior; units per stay not reduced",
+          "Chantepie 2023"
+        ],
+        [
+          "Storage age",
+          "Fresh RBC no better: any age within licensed dating",
+          "AABB (Carson 2016)"
+        ]
+      ],
+      "colW": [
+        3.0,
+        5.6,
+        2.4
+      ],
       "fontSize": 15,
       "notes": {
         "min": 1.5,
@@ -130,7 +247,8 @@
           "紅血球的門檻是 restrictive strategy。血流動力學穩定的成人，血紅素 7 到 8 g/dL 才輸；有心血管疾病的病人用 8 g/dL。這些 cutoff 主要來自非移植族群的研究。",
           "移植病人專屬的 randomized trial 只有一個，就是 TRIST。300 位病人隨機分到 liberal，血紅素低於 90 g/L 就輸，或 restrictive，低於 70 g/L 才輸。生活品質和臨床結果都沒有差別。Restrictive 組用的紅血球中位數比較少，但沒有達到統計顯著。",
           "兒童 allo-HCT 有一個 feasibility trial 正在進行，比較 6.5 和 8.0 g/dL。另一個血液科病人的 randomized trial 顯示，一次輸一單位不劣於一次兩單位，不過整個住院期間的總單位數並沒有減少。",
-          "最後是血品的新鮮度。好幾個 trial 都看不到新鮮紅血球的好處，所以 AABB 建議在有效期限內的任何血品都可以用。"
+          "最後是血品的新鮮度。好幾個 trial 都看不到新鮮紅血球的好處，所以 AABB 建議在有效期限內的任何血品都可以用。",
+          "TRIST 的 70 g/L 換算就是 7 g/dL，和一般建議的門檻一致。"
         ]
       }
     },
@@ -141,9 +259,21 @@
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
       "root": "Prophylactic platelet transfusion: which trigger?",
       "branches": [
-        {"label": "Stable, afebrile", "box": "Trigger ≤ 10 × 10⁹/L", "out": "Higher only on clinical judgement"},
-        {"label": "Fever/infection/bleeding", "box": "Trigger 20 × 10⁹/L", "out": "Prophylaxis stays standard in allo-HCT"},
-        {"label": "aGVHD, mucositis, HC, DAH", "box": "Trigger ≥ 20 × 10⁹/L", "out": "Set by careful clinical observation"}
+        {
+          "label": "Stable, afebrile",
+          "box": "Trigger ≤ 10 × 10⁹/L",
+          "out": "Higher only on clinical judgement"
+        },
+        {
+          "label": "Fever/infection/bleeding",
+          "box": "Trigger 20 × 10⁹/L",
+          "out": "Prophylaxis stays standard in allo-HCT"
+        },
+        {
+          "label": "aGVHD, mucositis, HC, DAH",
+          "box": "Trigger ≥ 20 × 10⁹/L",
+          "out": "Set by careful clinical observation"
+        }
       ],
       "invert": 0,
       "notes": {
@@ -152,7 +282,8 @@
           "血小板的預防性輸注，看病人當下的狀況分三層。沒有出血、沒有發燒的穩定病人，血小板 ≤ 10 × 10⁹/L 就輸。臨床判斷需要的話，可以在更高的數值就輸。",
           "有活動性出血、發燒或活動性感染的病人，門檻提高到 20 × 10⁹/L。",
           "第三層是移植特有的毒性。Acute GVHD、mucositis、hemorrhagic cystitis 或 diffuse alveolar hemorrhage 都會增加出血風險，這時 20 × 10⁹/L 甚至更高都說得過去，要依照仔細的臨床觀察決定。",
-          "Key points 裡特別寫了一句，allo-HCT 病人的血小板低下，標準仍然是 prophylactic transfusion，不是等出血才輸。10 和 20 這兩個數字，以及哪些情況要升到 20，是典型的考點。下一張就說明為什麼 allo 不能只做 therapeutic transfusion。"
+          "Key points 裡特別寫了一句，allo-HCT 病人的血小板低下，標準仍然是 prophylactic transfusion，不是等出血才輸。10 和 20 這兩個數字，以及哪些情況要升到 20，是典型的考點。下一張就說明為什麼 allo 不能只做 therapeutic transfusion。",
+          "例如 mucositis 加上發燒的病人，兩個條件都指向 20 × 10⁹/L。如果又出現 hemorrhagic cystitis 或 diffuse alveolar hemorrhage，就要依實際出血情況再往上調，書上沒有給固定的數字。"
         ]
       }
     },
@@ -161,15 +292,43 @@
       "eyebrow": "Platelets · Trials",
       "title": "Platelet dose does not change bleeding; therapeutic-only suits auto-HCT",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Trial", "Question", "Result"],
-      "rows": [
-        ["Wandt 2012; Stanworth 2013", "Therapeutic-only vs prophylactic PC, age ≥ 16", "Feasible after auto-PBSCT only"],
-        ["PLADO subset (Josephson 2012)", "Children vs adults", "More bleeding in children, esp. auto-HCT"],
-        ["PLADO (Slichter 2010)", "1.1 vs 2.2 vs 4.4 × 10¹¹ platelets/m²", "Dose had no effect on bleeding"],
-        ["PLADO, low dose", "Total platelets and events", "Fewer platelets, more transfusions"],
-        ["Apheresis vs pooled PC", "Non-allosensitised recipients", "Equivalent; apheresis wins only with HLA/HPA Ab"]
+      "head": [
+        "Trial",
+        "Question",
+        "Result"
       ],
-      "colW": [3.4, 4.0, 3.6],
+      "rows": [
+        [
+          "Wandt 2012; Stanworth 2013",
+          "Therapeutic-only vs prophylactic PC, age ≥ 16",
+          "Feasible after auto-PBSCT only"
+        ],
+        [
+          "PLADO subset (Josephson 2012)",
+          "Children vs adults",
+          "More bleeding in children, esp. auto-HCT"
+        ],
+        [
+          "PLADO (Slichter 2010)",
+          "1.1 vs 2.2 vs 4.4 × 10¹¹ platelets/m²",
+          "Dose had no effect on bleeding"
+        ],
+        [
+          "PLADO, low dose",
+          "Total platelets and events",
+          "Fewer platelets, more transfusions"
+        ],
+        [
+          "Apheresis vs pooled PC",
+          "Non-allosensitised recipients",
+          "Equivalent; apheresis wins only with HLA/HPA Ab"
+        ]
+      ],
+      "colW": [
+        3.4,
+        4.0,
+        3.6
+      ],
       "fontSize": 15,
       "caption": "AML and allo-HCT: a therapeutic-only strategy is not transferable because of the risk of CNS bleeding",
       "captionY": 5.2,
@@ -179,7 +338,8 @@
           "兩個成人的 randomized trial，Wandt 2012 和 Stanworth 2013，比較只在出血時才輸的 therapeutic strategy 和預防性輸注，收的是 16 歲以上病人。結論是 therapeutic strategy 在 auto-PBSCT 之後可行，但不能直接套用到 AML 或 allo-HCT，因為這些病人出血風險較高，尤其是 CNS bleeding。",
           "這個結論也不能套到兒童。PLADO 的次族群分析顯示，兒童的出血率明顯比成人高，auto-HCT 的兒童尤其如此。",
           "PLADO 本身比較的是劑量。Low、medium、high dose 分別是每平方公尺 1.1、2.2 和 4.4 × 10¹¹ 個血小板。在這個範圍內，劑量對出血率沒有影響。Low dose 用掉的血小板總量比較少，代價是輸注次數變多。",
-          "最後是產品種類。Apheresis 和 whole blood pooled 的血小板，對沒有 alloimmunisation 的病人效果相當；apheresis 的優勢只出現在帶 HLA 或 HPA 抗體、需要配對捐血者的病人。"
+          "最後是產品種類。Apheresis 和 whole blood pooled 的血小板，對沒有 alloimmunisation 的病人效果相當；apheresis 的優勢只出現在帶 HLA 或 HPA 抗體、需要配對捐血者的病人。",
+          "所以在 1.1 到 4.4 × 10¹¹/m² 之間，多給並不會減少出血；therapeutic-only 的策略，目前只適合成人的 auto-PBSCT。"
         ]
       }
     },
@@ -203,7 +363,8 @@
           "Platelet refractoriness 的定義很具體。輸新鮮、ABO 相同的血小板，連續兩次以上，輸後 1 小時的 corrected count increment 都低於 5000/µL。",
           "原因八成以上不是免疫造成的，像發燒、sepsis、DIC、SOS/VOD、GVHD、脾臟腫大，還有 amphotericin B、vancomycin、heparin、ATG 這些藥。免疫原因不到兩成，其中八成以上是 HLA class I 抗體。",
           "所以順序是先排除非免疫原因，找不到才篩 HLA 抗體。抗體陽性就給 HLA-matched 的 apheresis 血小板，最理想是 HLA-A 和 HLA-B 四個抗原完全相同，配對的優先順序放在 backup。",
-          "用了 HLA-matched 血小板還是升不上來，而且非免疫原因不太可能，才去驗 HPA 抗體。真的找不到相容的捐血者，可以用病人緩解期事先冷凍的自體血小板、rituximab、高劑量 IVIg 或 plasmapheresis。"
+          "用了 HLA-matched 血小板還是升不上來，而且非免疫原因不太可能，才去驗 HPA 抗體。真的找不到相容的捐血者，可以用病人緩解期事先冷凍的自體血小板、rituximab、高劑量 IVIg 或 plasmapheresis。",
+          "HLA 抗體多半來自過去的輸血。第 24 章在 granulocyte 那一段也提到，alloimmunisation 會讓血小板輸注後的上升變差。如果病人在移植前就已經 refractory，可以趁緩解時先收集自體血小板冷凍起來，留到 allo-HCT 之後使用。"
         ]
       }
     },
@@ -215,16 +376,29 @@
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24 · Ayuk F, et al. Ch. 12",
       "root": "40–50% of allo-HCTs are ABO-mismatched",
       "branches": [
-        {"label": "Major", "box": "Patient O, donor A: patient's anti-A", "out": "PRCA, delayed red cell engraftment"},
-        {"label": "Minor", "box": "Patient A, donor O: donor's anti-A", "out": "Delayed haemolysis by donor B cells"},
-        {"label": "Bidirectional", "box": "Patient A, donor B: both directions", "out": "Risks of both; deplete RBC and plasma"}
+        {
+          "label": "Major",
+          "box": "Patient O, donor A: patient's anti-A",
+          "out": "PRCA, delayed red cell engraftment"
+        },
+        {
+          "label": "Minor",
+          "box": "Patient A, donor O: donor's anti-A",
+          "out": "Delayed haemolysis by donor B cells"
+        },
+        {
+          "label": "Bidirectional",
+          "box": "Patient A, donor B: both directions",
+          "out": "Risks of both; deplete RBC and plasma"
+        }
       ],
       "notes": {
         "min": 1.5,
         "script": [
           "ABO 不合大約占 allo 移植的 40 到 50%。HLA 才是選 donor 的關鍵，ABO 不合可以跨越，但要預先處理 graft，也要預期併發症。",
           "分類看抗體的方向。Major mismatch 是病人身上有對抗 donor 紅血球的 isoagglutinin，最典型是 O 型病人接受 A 型 donor。Minor 反過來，是 donor 的血漿和淋巴球帶著對抗病人紅血球的抗體，例如 A 型病人接受 O 型 donor。Bidirectional 兩個方向都有，例如 A 型和 B 型互換。",
-          "第 12 章提到，ABO 不合對整體結果的影響不大，而且這幾年越來越小，部分原因是 bone marrow graft 用得少了。兒科的 donor 選擇排序裡，ABO 排在很後面。不過用 PBSC 只能避開輸注 graft 時的問題，移植後的溶血、紅血球生成延遲和 PRCA 還是會發生。"
+          "第 12 章提到，ABO 不合對整體結果的影響不大，而且這幾年越來越小，部分原因是 bone marrow graft 用得少了。兒科的 donor 選擇排序裡，ABO 排在很後面。不過用 PBSC 只能避開輸注 graft 時的問題，移植後的溶血、紅血球生成延遲和 PRCA 還是會發生。",
+          "第 12 章兒科 donor 選擇的排序裡，ABO major compatibility 排在 donor 性別之後，minor compatibility 更排在 donor center 位置之後，幾乎是最後一項。抗體方向這個概念，後面 graft 處理、併發症和輸血選擇都會一直用到。"
         ]
       }
     },
@@ -233,15 +407,50 @@
       "eyebrow": "ABO mismatch · Graft processing",
       "title": "Isoagglutinin titres decide red cell or plasma depletion of the graft",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24 · Lang P, et al. Ch. 19",
-      "head": ["Mismatch", "Titre", "PBSC graft", "BM graft"],
-      "rows": [
-        ["Major", "Anti-donor ≥ 32", "Red cells < 20 mL", "RBC depletion mandatory"],
-        ["Major", "Anti-donor ≤ 16", "No manipulation", "RBC depletion optional"],
-        ["Minor", "Anti-recipient ≥ 1:256", "Plasma depletion", "Plasma depletion"],
-        ["Minor", "Anti-recipient ≤ 128", "No manipulation", "Plasma depletion optional"],
-        ["Bidirectional", "High anti-recipient", "RBC and plasma depletion", "RBC and plasma depletion"]
+      "head": [
+        "Mismatch",
+        "Titre",
+        "PBSC graft",
+        "BM graft"
       ],
-      "colW": [2.2, 2.8, 3.0, 3.0],
+      "rows": [
+        [
+          "Major",
+          "Anti-donor ≥ 32",
+          "Red cells < 20 mL",
+          "RBC depletion mandatory"
+        ],
+        [
+          "Major",
+          "Anti-donor ≤ 16",
+          "No manipulation",
+          "RBC depletion optional"
+        ],
+        [
+          "Minor",
+          "Anti-recipient ≥ 1:256",
+          "Plasma depletion",
+          "Plasma depletion"
+        ],
+        [
+          "Minor",
+          "Anti-recipient ≤ 128",
+          "No manipulation",
+          "Plasma depletion optional"
+        ],
+        [
+          "Bidirectional",
+          "High anti-recipient",
+          "RBC and plasma depletion",
+          "RBC and plasma depletion"
+        ]
+      ],
+      "colW": [
+        2.2,
+        2.8,
+        3.0,
+        3.0
+      ],
       "fontSize": 16,
       "caption": "Methods (Ch. 19): RBC depletion mostly for BM, by apheresis-device or bag centrifugation; Ficoll gradient for grafts < 125 mL; washing removes isoagglutinins.",
       "captionY": 5.2,
@@ -251,6 +460,7 @@
           "Graft 要不要處理，看 isoagglutinin titre 和 graft 種類。",
           "Major mismatch 看的是病人對抗 donor 的 titre。Titre ≥ 32 時，PBSC graft 裡的紅血球要控制在 20 mL 以下，bone marrow graft 一定要做 RBC depletion。Titre ≤ 16 時，PBSC 不用處理，bone marrow 可以考慮做，但不是必須。Bone marrow 的紅血球多，PBSC 本來就少，這就是兩者處理門檻不同的原因。",
           "Minor mismatch 看的是 donor 對抗病人的 titre，門檻高很多。≥ 1:256 時，PBSC 和 bone marrow 都要做 plasma depletion；≤ 128 時 PBSC 不必處理，bone marrow 的 plasma depletion 可做可不做。Bidirectional 而且 anti-recipient titre 高，紅血球和血漿兩種都要移除。",
+          "Titre 是倍數稀釋，所以 ≥ 32 和 ≤ 16 剛好把所有情況分成兩邊，minor 的 ≥ 1:256 和 ≤ 128 也一樣，這是講者的整理。Graft 處理在採集之後、輸注之前完成，所以移植前就要驗好病人和 donor 的 titre。",
           "做法在第 19 章。紅血球移除通常只用在 bone marrow，可以用 apheresis 機器或血袋離心取 buffy coat；小於 125 mL 的小 graft 用 Ficoll density gradient，移除得更徹底。不要的 isoagglutinin 則用洗滌的方式去除。Graft manipulation 的其他內容在第 7 堂。",
           "32 和 256 這兩個 titre，加上 PBSC 紅血球 20 mL，請連同方向一起記。"
         ]
@@ -261,15 +471,50 @@
       "eyebrow": "ABO mismatch · Complications",
       "title": "Major mismatch risks PRCA; minor mismatch risks delayed haemolysis",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24 · Valcárcel D, et al. Ch. 41",
-      "head": ["Problem", "Mismatch", "Mechanism or risk", "Practical point"],
-      "rows": [
-        ["Delayed haemolysis", "Minor", "Donor B cells make anti-recipient isoagglutinins", "Especially after RIC"],
-        ["Pure red cell aplasia", "Major, bidirectional", "Recipient anti-donor isoagglutinins persist", "Highest: O patient, high anti-A, A graft"],
-        ["Slow engraftment, more RBC", "Major, bidirectional", "Griffith 2019", "Plan transfusion support"],
-        ["Primary graft failure", "Major", "HR 1.24 (p = 0.012), Ch. 41", "See session 5"],
-        ["PRCA without remission", "Major, bidirectional", "Remove or suppress isoagglutinins", "Or stimulate erythropoiesis"]
+      "head": [
+        "Problem",
+        "Mismatch",
+        "Mechanism or risk",
+        "Practical point"
       ],
-      "colW": [2.8, 2.2, 3.4, 2.8],
+      "rows": [
+        [
+          "Delayed haemolysis",
+          "Minor",
+          "Donor B cells make anti-recipient isoagglutinins",
+          "Especially after RIC"
+        ],
+        [
+          "Pure red cell aplasia",
+          "Major, bidirectional",
+          "Recipient anti-donor isoagglutinins persist",
+          "Highest: O patient, high anti-A, A graft"
+        ],
+        [
+          "Slow engraftment, more RBC",
+          "Major, bidirectional",
+          "Griffith 2019",
+          "Plan transfusion support"
+        ],
+        [
+          "Primary graft failure",
+          "Major",
+          "HR 1.24 (p = 0.012), Ch. 41",
+          "See session 5"
+        ],
+        [
+          "PRCA without remission",
+          "Major, bidirectional",
+          "Remove or suppress isoagglutinins",
+          "Or stimulate erythropoiesis"
+        ]
+      ],
+      "colW": [
+        2.8,
+        2.2,
+        3.4,
+        2.8
+      ],
       "fontSize": 15,
       "notes": {
         "min": 1.5,
@@ -277,7 +522,8 @@
           "併發症也跟著方向走。Minor mismatch 的特徵是延遲性溶血。Graft 裡的 donor B lymphocyte 開始製造 isoagglutinin，去攻擊病人還沒被取代的紅血球。RIC 之後特別容易發生，因為病人自己的紅血球留得比較久。",
           "Major 或 bidirectional mismatch 的問題在紅血球生成。病人殘存的 anti-donor isoagglutinin 會擋住 donor 紅血球系的 engraftment，表現為 pure red cell aplasia、紅血球 engraftment 延遲，輸血量也增加。風險最高的組合是 O 型病人帶著高 titre anti-A，接受 A 型 graft。",
           "第 41 章的 graft failure 危險因子也列了 major ABO incompatibility，hazard ratio 1.24，細節在第 5 堂。",
-          "PRCA 如果沒有自己緩解，anti-donor isoagglutinin 又一直存在，書上列了三類處理方向：移除抗體、減少抗體製造、或刺激紅血球生成。第 24 章沒有指定單一方案。"
+          "PRCA 如果沒有自己緩解，anti-donor isoagglutinin 又一直存在，書上列了三類處理方向：移除抗體、減少抗體製造、或刺激紅血球生成。第 24 章沒有指定單一方案。",
+          "延遲性溶血要等 donor B 細胞開始製造抗體才會出現，所以不在輸注當下，而是移植後一段時間才發生，這和輸注 graft 時紅血球不合造成的溶血不同。"
         ]
       }
     },
@@ -299,6 +545,7 @@
           "ABO 不合的病人，血型會在移植後慢慢換成 donor 的，輸血要跟著分期。Phase I 是 conditioning 開始之前，所有血品都用病人自己的血型。Phase II 從 conditioning 到完全 engraftment，phase III 是完全 engraftment 之後，這兩期都照 Table 24.1 選血。",
           "原則有兩條。紅血球一定要同時和 donor、病人相容，這是 mandatory。血漿和血小板盡量也兩邊都相容，這是 preferred。",
           "為什麼要這麼小心。病人殘存的 isoagglutinin 會攻擊正在 engraft 的前驅細胞，也會攻擊輸進去的血小板，因為血小板表面會吸附不等量的 ABO 抗原。另外，ABO 抗原也表現在很多非造血組織上，engraftment 之後這些組織仍然是病人原來的血型，而且 ABO 抗原會分泌到體液裡。能避免讓病人暴露在 isoagglutinin 之下，就盡量避免。",
+          "Phase II 從 conditioning 開始算，所以 conditioning 第一天起，血品就要改成照 Table 24.1 選，不能再只看病人血型。",
           "接下來兩張是 Table 24.1 的內容。"
         ]
       }
@@ -308,17 +555,71 @@
       "eyebrow": "ABO mismatch · Table 24.1",
       "title": "In major mismatch, red cells suit the recipient and plasma the donor",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24 (Table 24.1)",
-      "head": ["Patient → donor", "RBC", "Platelets, 1st", "Platelets, 2nd", "Plasma, 1st / 2nd"],
-      "rows": [
-        ["Major: O → A", "O", "A", "AB, B, O", "A / AB"],
-        ["Major: O → B", "O", "B", "AB, A, O", "B / AB"],
-        ["Major: O → AB", "O", "AB", "A, B, O", "AB / –"],
-        ["Major: A → AB", "A, O", "AB", "A, B, O", "AB / –"],
-        ["Major: B → AB", "B, O", "AB", "B, A, O", "AB / –"],
-        ["Bidirectional: A → B", "O", "AB", "B, A, O", "AB / –"],
-        ["Bidirectional: B → A", "O", "AB", "A, B, O", "AB / –"]
+      "head": [
+        "Patient → donor",
+        "RBC",
+        "Platelets, 1st",
+        "Platelets, 2nd",
+        "Plasma, 1st / 2nd"
       ],
-      "colW": [3.2, 1.5, 2.0, 2.2, 2.3],
+      "rows": [
+        [
+          "Major: O → A",
+          "O",
+          "A",
+          "AB, B, O",
+          "A / AB"
+        ],
+        [
+          "Major: O → B",
+          "O",
+          "B",
+          "AB, A, O",
+          "B / AB"
+        ],
+        [
+          "Major: O → AB",
+          "O",
+          "AB",
+          "A, B, O",
+          "AB / –"
+        ],
+        [
+          "Major: A → AB",
+          "A, O",
+          "AB",
+          "A, B, O",
+          "AB / –"
+        ],
+        [
+          "Major: B → AB",
+          "B, O",
+          "AB",
+          "B, A, O",
+          "AB / –"
+        ],
+        [
+          "Bidirectional: A → B",
+          "O",
+          "AB",
+          "B, A, O",
+          "AB / –"
+        ],
+        [
+          "Bidirectional: B → A",
+          "O",
+          "AB",
+          "A, B, O",
+          "AB / –"
+        ]
+      ],
+      "colW": [
+        3.2,
+        1.5,
+        2.0,
+        2.2,
+        2.3
+      ],
       "fontSize": 15,
       "caption": "Phases II and III; choices in order of preference. Phase I: recipient group for all products.",
       "captionY": 5.75,
@@ -329,6 +630,7 @@
           "Major mismatch 的邏輯是，紅血球要配合病人，因為病人身上有 anti-donor 抗體；血漿要配合 donor，因為血漿不能帶著抗體去攻擊正在長出來的 donor 紅血球。O 型病人接受 A 型 graft，紅血球一律 O，血小板和血漿第一選擇 A，血漿第二選擇 AB。O 給 B 也一樣，把 A 換成 B。",
           "Donor 是 AB 型的時候，血漿和血小板第一選擇都是 AB，血漿沒有第二選擇。A 型病人接受 AB graft，紅血球可以用 A 或 O，排序在前的優先。",
           "Bidirectional 的 A 和 B 互換，兩個方向都有抗體，所以紅血球只能用 O，血漿只能用 AB，血小板第一選擇也是 AB。",
+          "背法可以這樣想。Major mismatch 的紅血球跟著病人，血漿跟著 donor；donor 是 AB 時，血漿只有 AB 一種選擇。A 型病人接受 AB graft，血小板第二選擇是 A、B、O；B 型病人接受 AB graft 則是 B、A、O，病人的血型總是排在前面。",
           "血小板第二選擇常常列了三種，排在越前面越好，這是因為血小板不一定拿得到理想血型。考試常拿 O 給 A 這一列出題。"
         ]
       }
@@ -338,15 +640,57 @@
       "eyebrow": "ABO mismatch · Table 24.1",
       "title": "In minor mismatch, red cells suit the donor and plasma the recipient",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24 (Table 24.1)",
-      "head": ["Patient → donor", "RBC", "Platelets, 1st", "Platelets, 2nd", "Plasma, 1st / 2nd"],
-      "rows": [
-        ["Minor: A → O", "O", "A *", "AB, B, O", "A / AB"],
-        ["Minor: B → O", "O", "B *", "AB, A, O", "B / AB"],
-        ["Minor: AB → O", "O", "AB *", "A, B, O", "AB / –"],
-        ["Minor: AB → A", "A, O", "AB *", "A, B, O", "AB / –"],
-        ["Minor: AB → B", "B, O", "AB *", "B, A, O", "AB / –"]
+      "head": [
+        "Patient → donor",
+        "RBC",
+        "Platelets, 1st",
+        "Platelets, 2nd",
+        "Plasma, 1st / 2nd"
       ],
-      "colW": [3.2, 1.5, 2.0, 2.2, 2.3],
+      "rows": [
+        [
+          "Minor: A → O",
+          "O",
+          "A *",
+          "AB, B, O",
+          "A / AB"
+        ],
+        [
+          "Minor: B → O",
+          "O",
+          "B *",
+          "AB, A, O",
+          "B / AB"
+        ],
+        [
+          "Minor: AB → O",
+          "O",
+          "AB *",
+          "A, B, O",
+          "AB / –"
+        ],
+        [
+          "Minor: AB → A",
+          "A, O",
+          "AB *",
+          "A, B, O",
+          "AB / –"
+        ],
+        [
+          "Minor: AB → B",
+          "B, O",
+          "AB *",
+          "B, A, O",
+          "AB / –"
+        ]
+      ],
+      "colW": [
+        3.2,
+        1.5,
+        2.0,
+        2.2,
+        2.3
+      ],
       "fontSize": 16,
       "caption": "* Phase III, after complete engraftment: donor-type platelets may be defined as first choice for practical reasons.",
       "captionY": 5.0,
@@ -354,6 +698,7 @@
         "min": 1.25,
         "script": [
           "Minor mismatch 剛好反過來。病人的紅血球是攻擊目標，donor 帶抗體，所以紅血球要配合 donor，血漿要配合病人。",
+          "Minor mismatch 怕的是 donor 的抗體，所以血漿和血小板配合病人，避免再輸進攻擊病人紅血球的抗體。紅血球選 O，是因為 donor 的 anti-A 會攻擊 A 型紅血球，engraftment 之後由 donor B 細胞製造的抗體也一樣。",
           "A 型病人接受 O 型 graft，紅血球用 O，血小板和血漿第一選擇是病人的 A 型，血漿第二選擇 AB。AB 型病人接受 A 型 graft，紅血球可以用 A 或 O，血漿用 AB。",
           "表上星號的註解要留意。完全 engraftment 之後的 phase III，為了實務方便，可以把 donor 血型的血小板定為第一選擇。",
           "不管 major 還是 minor，紅血球都選兩邊都能接受的血型，所以 O 型紅血球幾乎永遠是安全的答案。"
@@ -365,24 +710,52 @@
       "eyebrow": "RhD and other antigens",
       "title": "RhD, CcEe and K matching follow the same two-sided rule",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Antigen or product", "Rule"],
-      "rows": [
-        ["RhD: RBC and PC", "RhD-negative unless donor and recipient are both RhD-positive"],
-        ["RhD+ donor, RhD− patient", "PC may switch to RhD-positive once RhD+ red cells appear"],
-        ["CcEe", "RBC compatible with both donor and recipient when possible"],
-        ["CcEe conflict (CCD.ee vs ccD.EE)", "Recipient-compatible until donor red cells appear, then graft"],
-        ["K", "K-negative RBC unless both donor and recipient are K-positive"],
-        ["Platelet product", "Plasma-reduced PC in additive solution (~30% plasma left)"],
-        ["Apheresis PC donors", "Exclude donors with high-titre ABO antibodies"]
+      "head": [
+        "Antigen or product",
+        "Rule"
       ],
-      "colW": [3.6, 7.4],
+      "rows": [
+        [
+          "RhD: RBC and PC",
+          "RhD-negative unless donor and recipient both RhD-positive"
+        ],
+        [
+          "RhD+ donor, RhD− patient",
+          "PC may switch to RhD-positive once RhD+ red cells appear"
+        ],
+        [
+          "CcEe",
+          "RBC compatible with both donor and recipient when possible"
+        ],
+        [
+          "CcEe conflict (CCD.ee vs ccD.EE)",
+          "Recipient-type until donor red cells appear, then graft-type"
+        ],
+        [
+          "K",
+          "K-negative RBC unless donor and recipient both K-positive"
+        ],
+        [
+          "Platelet product",
+          "Plasma-reduced PC in additive solution (~30% plasma left)"
+        ],
+        [
+          "Apheresis PC donors",
+          "Exclude donors with high-titre ABO antibodies"
+        ]
+      ],
+      "colW": [
+        3.6,
+        7.4
+      ],
       "fontSize": 15,
       "notes": {
         "min": 1.5,
         "script": [
           "RhD 的規則是，紅血球和血小板都用 RhD 陰性，只有 donor 和病人兩個都是 RhD 陽性時才不必。Donor 陽性、病人陰性的情況，等到 RhD 陽性的紅血球出現，也就是紅血球系 engraftment 之後，血小板可以改成 RhD 陽性。",
           "其他 Rh 抗原也盡量兩邊相容。如果 CcEe 根本不可能同時配合兩邊，例如病人是 CCD.ee、donor 是 ccD.EE，engraftment 之前選和病人相容的紅血球，donor 紅血球出現之後改成和 graft 相容。Kell 也一樣，除非兩邊都是 K 陽性，否則用 K 陰性紅血球。",
-          "血小板常常拿不到理想的 ABO 血型。為了減少 isoagglutinin 造成的不良反應，可以排除帶高 titre ABO 抗體的 apheresis 捐血者，但書上更推薦的做法是 plasma-reduced 的血小板，懸浮在 platelet additive solution 裡，只留約 30% 血漿，apheresis 或 pooled 都可以這樣做。"
+          "血小板常常拿不到理想的 ABO 血型。為了減少 isoagglutinin 造成的不良反應，可以排除帶高 titre ABO 抗體的 apheresis 捐血者，但書上更推薦的做法是 plasma-reduced 的血小板，懸浮在 platelet additive solution 裡，只留約 30% 血漿，apheresis 或 pooled 都可以這樣做。",
+          "病人 RhD 陰性、donor 陽性時，紅血球仍然維持 RhD 陰性，改的只有血小板，而且要等到 RhD 陽性紅血球真的出現。"
         ]
       }
     },
@@ -392,24 +765,52 @@
       "eyebrow": "Granulocyte transfusion",
       "title": "Granulocytes bridge to neutrophil recovery; only high doses help",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Aspect", "What Ch. 24 says"],
-      "rows": [
-        ["Indication", "Life-threatening non-viral infection during neutropenia"],
-        ["Role", "Bridge until neutrophil recovery; outcome tracks recovery"],
-        ["RING trial (Price 2015)", "Success 49% vs 41% with control, not significant"],
-        ["Dose", "≥ 0.6 × 10⁹ granulocytes/kg per transfusion did better"],
-        ["Adverse events", "Fever, chills, pulmonary reactions, alloimmunisation"],
-        ["Before unrelated HCT", "Monitor HLA antibodies; account for DSA in donor search"],
-        ["Product", "Irradiated; CMV-seronegative donor, ideally CMV-PCR negative"]
+      "head": [
+        "Aspect",
+        "What Ch. 24 says"
       ],
-      "colW": [3.4, 7.6],
+      "rows": [
+        [
+          "Indication",
+          "Life-threatening non-viral infection during neutropenia"
+        ],
+        [
+          "Role",
+          "Bridge until neutrophil recovery; outcome tracks recovery"
+        ],
+        [
+          "RING trial (Price 2015)",
+          "Success 49% vs 41% with control, not significant"
+        ],
+        [
+          "Dose",
+          "≥ 0.6 × 10⁹ granulocytes/kg per transfusion did better"
+        ],
+        [
+          "Adverse events",
+          "Fever, chills, pulmonary reactions, alloimmunisation"
+        ],
+        [
+          "Before unrelated HCT",
+          "Monitor HLA antibodies; account for DSA in donor search"
+        ],
+        [
+          "Product",
+          "Irradiated; CMV-seronegative donor, ideally CMV-PCR negative"
+        ]
+      ],
+      "colW": [
+        3.4,
+        7.6
+      ],
       "fontSize": 15,
       "notes": {
         "min": 1.5,
         "script": [
           "最後一種血品是 granulocyte。適應症是嗜中性球低下期間、危及生命的非病毒感染。效果和存活都跟骨髓恢復高度相關，所以它的角色是一座橋，撐到特定治療見效、嗜中性球回來為止。對有活動性黴菌感染、原本會被拒於移植門外的高風險病人，也有幫忙控制感染的報告。",
           "唯一的 randomized trial 是 RING。Granulocyte 組成功率 49%，對照組 41%，沒有顯著差異。不過每次輸注 ≥ 0.6 × 10⁹/kg 的高劑量病人表現較好，所以採集中心要靠 donor 選擇、事前刺激和 apheresis 技術，確保給出高劑量的產品。",
-          "副作用有發燒、寒顫、肺部反應和 alloimmunisation。整體 alloimmunisation 的風險不高，但它會影響血小板輸注的效果，也可能增加 graft failure。如果病人之後要做 unrelated HCT，要追蹤 HLA 抗體，找 donor 時把 donor-specific antibody 考慮進去。產品一定要照射，並來自 CMV 陰性的捐血者，最好再用 CMV PCR 確認，避開空窗期。"
+          "副作用有發燒、寒顫、肺部反應和 alloimmunisation。整體 alloimmunisation 的風險不高，但它會影響血小板輸注的效果，也可能增加 graft failure。如果病人之後要做 unrelated HCT，要追蹤 HLA 抗體，找 donor 時把 donor-specific antibody 考慮進去。產品一定要照射，並來自 CMV 陰性的捐血者，最好再用 CMV PCR 確認，避開空窗期。",
+          "最佳的輸注次數目前不清楚。研究也顯示，alloimmunisation 並不影響存活、微生物反應、輸血反應或輸注後嗜中性球的上升。"
         ]
       }
     },
@@ -435,6 +836,7 @@
         "script": [
           "第一題。58 歲男性，多發性骨髓瘤，預計 G-CSF mobilisation、apheresis 收集，再接高劑量 melphalan 和自體移植。他現在貧血，需要輸紅血球。依照 EBMT Handbook，他應該在哪一段期間使用照射過的血品。",
           "選項分別是 melphalan 到 engraftment、收集前兩週到移植後三個月、conditioning 到移植後六個月、用了 leukoreduced 就不需要，以及只有血小板要照射。",
+          "這題考的是 auto 和 allo 的差別。注意他還沒收集幹細胞，現在就需要輸血。",
           "[Pause for answers.]"
         ]
       },
@@ -442,7 +844,8 @@
         "min": 1.0,
         "script": [
           "答案是 B。Auto-HCT 的標準做法是在收集幹細胞前至少兩週就開始用照射血品，一直到移植後至少三個月。理由是收集下來的細胞也要避免被輸進去的淋巴球影響，所以起點落在收集之前，而不是 conditioning。",
-          "C 是 allo-HCT 的規則，最晚從 conditioning 開始，到至少六個月或免疫重建，是最主要的干擾選項。D 錯在 leukocyte reduction 不能取代照射。E 也錯，紅血球、血小板和 granulocyte 這些 cellular component 都要照射，劑量 25 到 50 Gy。"
+          "C 是 allo-HCT 的規則，最晚從 conditioning 開始，到至少六個月或免疫重建，是最主要的干擾選項。D 錯在 leukocyte reduction 不能取代照射。E 也錯，紅血球、血小板和 granulocyte 這些 cellular component 都要照射，劑量 25 到 50 Gy。",
+          "另外，donor 如果在採集前七天內或採集期間輸過血，那些血品也要照射，這是 allo 情境下的延伸考點。"
         ]
       }
     },
@@ -452,7 +855,7 @@
       "title": "Question 2: platelets that do not rise",
       "answerTitle": "Answer B: give HLA-matched apheresis platelets",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "stem": "On day +25 after unrelated-donor allo-HCT for AML, a 45-year-old woman is afebrile, not bleeding, has no splenomegaly, SOS/VOD or new drugs. After two consecutive fresh, ABO-identical platelet transfusions, her 1-h corrected count increment was < 5000/µL each time. HLA class I antibodies are detected. What is the best next step?",
+      "stem": "On day +25 after allo-HCT for AML, a 45-year-old woman is afebrile, not bleeding, has no splenomegaly, SOS/VOD or new drugs. After two consecutive fresh, ABO-identical platelet transfusions, her 1-h corrected count increment was < 5000/µL each time. HLA class I antibodies are detected. What is the best next step?",
       "options": [
         "Screen for HPA antibodies before changing the product",
         "Give HLA-matched apheresis platelets",
@@ -465,8 +868,9 @@
       "notes": {
         "min": 0.75,
         "script": [
-          "第二題。45 歲女性，AML，unrelated donor allo-HCT 後 day 25。沒有發燒、沒有出血，也沒有脾臟腫大、SOS/VOD 或新加的藥。連續兩次輸新鮮、ABO 相同的血小板，1 小時 CCI 都低於 5000/µL，驗到 HLA class I 抗體。下一步最適當的是什麼。",
+          "第二題。45 歲女性，AML，allo-HCT 後 day 25。沒有發燒、沒有出血，也沒有脾臟腫大、SOS/VOD 或新加的藥。連續兩次輸新鮮、ABO 相同的血小板，1 小時 CCI 都低於 5000/µL，驗到 HLA class I 抗體。下一步最適當的是什麼。",
           "選項有先驗 HPA、改給 HLA-matched apheresis 血小板、改高劑量、停止預防性輸注，以及改用 pooled 血小板。",
+          "請先確認她是否符合 refractoriness 的定義。題目已經把常見的非免疫原因都排除了。",
           "[Pause for answers.]"
         ]
       },
@@ -474,7 +878,8 @@
         "min": 1.0,
         "script": [
           "答案是 B。她符合 refractoriness 的定義，非免疫原因都排除了，HLA 抗體又是陽性，下一步就是 HLA-matched 的 apheresis 血小板，最好 HLA-A 和 HLA-B 四個抗原都相同。",
-          "A 是最主要的干擾選項。HPA 抗體要在 HLA-matched 血小板也無效之後才驗，順序不能反過來。C 錯在 PLADO 顯示劑量不影響出血，而且抗體問題不是劑量能解決的。D 錯在 allo-HCT 的標準仍是預防性輸注。E 的 pooled 血小板對已經 alloimmunised 的病人沒有優勢，apheresis 的好處正是可以配對。"
+          "A 是最主要的干擾選項。HPA 抗體要在 HLA-matched 血小板也無效之後才驗，順序不能反過來。C 錯在 PLADO 顯示劑量不影響出血，而且抗體問題不是劑量能解決的。D 錯在 allo-HCT 的標準仍是預防性輸注。E 的 pooled 血小板對已經 alloimmunised 的病人沒有優勢，apheresis 的好處正是可以配對。",
+          "找不到 HLA-matched 的 donor 時，可以選 permissive mismatch 或 antigen-negative 的血小板；都沒有時，才考慮自體冷凍血小板、rituximab、高劑量 IVIg 或 plasmapheresis。"
         ]
       }
     },
@@ -499,6 +904,7 @@
         "script": [
           "最後一題。35 歲 O 型男性，ALL，donor 是 HLA 相合的 A 型姊姊，用 PBSC。病人的 anti-A isoagglutinin titre 是 1:128。關於 graft 處理和輸血支持，哪一個敘述正確。",
           "選項 A 說 PBSC 不用處理；B 說做 plasma depletion；C 說 graft 紅血球控制在 20 mL 以下，輸 O 型紅血球；D 說 conditioning 開始就改輸 A 型紅血球；E 說主要的早期風險是 donor B lymphocyte 造成的溶血。先判斷 major 還是 minor，再看 titre。",
+          "PBSC 和 bone marrow 的處理門檻不一樣，這點要留意。",
           "[Pause for answers.]"
         ]
       },
@@ -506,7 +912,8 @@
         "min": 1.0,
         "script": [
           "答案是 C。O 型病人接受 A 型 graft，病人的 anti-A 對著 donor 紅血球，是 major mismatch。Titre 1:128 超過 32，所以 PBSC 的紅血球要控制在 20 mL 以下。輸血方面，紅血球要兩邊都相容，只能用 O；血小板和血漿第一選擇是 A。",
-          "A 錯在 PBSC 只有在 titre ≤ 16 時才不用處理。B 和 E 都屬於 minor mismatch，方向反了。D 的 A 型紅血球會被病人殘存的 anti-A 破壞。這位病人之後要注意 PRCA，O 型帶高 titre anti-A 接受 A 型 graft，正是風險最高的組合。"
+          "A 錯在 PBSC 只有在 titre ≤ 16 時才不用處理。B 和 E 都屬於 minor mismatch，方向反了。D 的 A 型紅血球會被病人殘存的 anti-A 破壞。這位病人之後要注意 PRCA，O 型帶高 titre anti-A 接受 A 型 graft，正是風險最高的組合。",
+          "Phase I 也就是 conditioning 之前，所有血品都用病人的 O 型。"
         ]
       }
     },
@@ -523,7 +930,33 @@
         "script": [
           "這是 Fig. 24.1。Refractoriness 八成以上是非免疫原因，包括發燒、sepsis、DIC、SOS/VOD、GVHD、脾臟腫大，以及 heparin、amphotericin B、vancomycin 和 ATG。免疫原因不到兩成，其中八成以上是 HLA class I 抗體，HPA 抗體不到一成。"
         ]
-      }
+      },
+      "rows": [
+        [
+          "1",
+          "All four HLA-A and HLA-B antigens identical"
+        ],
+        [
+          "1",
+          "Donor carries only antigens the recipient also has"
+        ],
+        [
+          "2",
+          "Permissive mismatch: cross-reactive groups, epitopes"
+        ],
+        [
+          "3",
+          "Antigen-negative for the recipient's HLA antibodies"
+        ],
+        [
+          "Then",
+          "HPA antibodies if still refractory, non-immune unlikely"
+        ],
+        [
+          "No donor",
+          "Autologous frozen PC, rituximab, IVIg, plasmapheresis"
+        ]
+      ]
     },
     {
       "type": "table",
@@ -531,16 +964,40 @@
       "eyebrow": "Backup · HLA-matched platelets",
       "title": "Choose the best-matched platelet donor in a fixed order",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Order", "Platelet donor for an HLA-alloimmunised patient"],
-      "rows": [
-        ["1", "All four HLA-A and HLA-B antigens identical"],
-        ["1", "Donor carries only antigens the recipient also has"],
-        ["2", "Permissive mismatch: cross-reactive groups or epitope algorithms"],
-        ["3", "Antigen-negative: lacks the targets of the recipient's HLA antibodies"],
-        ["Then", "HPA antibodies if refractoriness persists and non-immune causes unlikely"],
-        ["No donor", "Autologous cryopreserved PC, rituximab, high-dose IVIg, plasmapheresis"]
+      "head": [
+        "Order",
+        "Platelet donor for an HLA-alloimmunised patient"
       ],
-      "colW": [1.6, 9.4],
+      "rows": [
+        [
+          "1",
+          "All four HLA-A and HLA-B antigens identical"
+        ],
+        [
+          "1",
+          "Donor carries only antigens the recipient also has"
+        ],
+        [
+          "2",
+          "20 kg, Hb 6 → 9: 3 × 4 × 20 = 240 mL (speaker's arithmetic)"
+        ],
+        [
+          "3",
+          "Liver iron not a strong OS factor (Armand 2014)"
+        ],
+        [
+          "Then",
+          "HPA antibodies if refractoriness persists and non-immune causes unlikely"
+        ],
+        [
+          "No donor",
+          "Autologous cryopreserved PC, rituximab, high-dose IVIg, plasmapheresis"
+        ]
+      ],
+      "colW": [
+        1.6,
+        9.4
+      ],
       "fontSize": 16,
       "caption": "Epitope-matched platelets were non-inferior to standard HLA-matched platelets in a crossover RCT (Marsh 2021).",
       "captionY": 5.4,
@@ -556,15 +1013,36 @@
       "eyebrow": "Backup · Red cell dose and iron",
       "title": "One adult unit raises Hb by about 1 g/dL; children are dosed by weight",
       "cite": "Schrezenmeier H, et al. EBMT Handbook 8th ed. 2024; Ch. 24",
-      "head": ["Item", "What Ch. 24 says"],
-      "rows": [
-        ["Adult dose", "One RBC unit raises Hb by about 1 g/dL"],
-        ["Child dose", "mL RBC = (target Hb − pre-transfusion Hb, g/dL) × 4 × kg"],
-        ["Worked example", "20 kg, Hb 6 → 9 g/dL: 3 × 4 × 20 = 240 mL (speaker's arithmetic)"],
-        ["Iron overload, pre-HCT", "Liver iron not a strong OS factor (Armand 2014 meta-analysis)"],
-        ["Better markers?", "Hepcidin or labile plasma iron may be more specific"]
+      "head": [
+        "Item",
+        "What Ch. 24 says"
       ],
-      "colW": [3.2, 7.8],
+      "rows": [
+        [
+          "Adult dose",
+          "One RBC unit raises Hb by about 1 g/dL"
+        ],
+        [
+          "Child dose",
+          "mL RBC = (target Hb − pre-transfusion Hb, g/dL) × 4 × kg"
+        ],
+        [
+          "Worked example",
+          "20 kg, Hb 6 → 9 g/dL: 3 × 4 × 20 = 240 mL (speaker's arithmetic)"
+        ],
+        [
+          "Iron overload, pre-HCT",
+          "Liver iron not a strong OS factor (Armand 2014 meta-analysis)"
+        ],
+        [
+          "Better markers?",
+          "Hepcidin or labile plasma iron may be more specific"
+        ]
+      ],
+      "colW": [
+        3.2,
+        7.8
+      ],
       "fontSize": 16,
       "notes": {
         "script": [

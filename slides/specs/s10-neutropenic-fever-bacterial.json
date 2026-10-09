@@ -5,7 +5,7 @@
   "title": "Neutropenic fever, bacterial and other life-threatening infections",
   "subtitle": "Session 10 · Ch. 35, 36 and 39",
   "cite": "Mikulska M. EBMT Handbook 8th ed. 2024; Ch. 35 · Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36 · Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
-  "refsPerSlide": 6,
+  "refsPerSlide": 7,
   "coverNotes": {
     "min": 0.5,
     "script": [
@@ -385,7 +385,7 @@
     {
       "type": "table",
       "eyebrow": "Bacterial infections · Enterobacterales",
-      "title": "The β-lactamase type picks the drug for Enterobacterales",
+      "title": "Half of GNB resist first-line β-lactams; the enzyme picks the drug",
       "head": [
         "Mechanism",
         "Severe infection: treat with",
@@ -429,13 +429,11 @@
         4.5
       ],
       "fontSize": 14,
-      "caption": "EBMT study (Averbuch 2017): GNB 50% resistant to non-carbapenem β-lactams, 18.5% CR, 35% MDR",
-      "captionY": 5.95,
       "cite": "Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36",
       "notes": {
         "min": 2.0,
         "script": [
-          "先看底下這行數字。EBMT 的多國前瞻性研究裡，一半的 Gram-negative 對 non-carbapenem β-lactam 抗藥，而這正是 febrile neutropenia 的 first-line；18.5% 對 carbapenem 抗藥，35% 是 MDR。Allo 比 auto 高，東南歐比西北歐高。Carbapenem-resistant 的危險因子是同一種菌的 colonisation 或感染、carbapenem 治療中 breakthrough，以及住過 ICU。",
+          "標題的數字來自 EBMT 的多國前瞻性研究裡，一半的 Gram-negative 對 non-carbapenem β-lactam 抗藥，而這正是 febrile neutropenia 的 first-line；18.5% 對 carbapenem 抗藥，35% 是 MDR。Allo 比 auto 高，東南歐比西北歐高。Carbapenem-resistant 的危險因子是同一種菌的 colonisation 或感染、carbapenem 治療中 breakthrough，以及住過 ICU。",
           "ESBL 菌通常對 ceftriaxone 抗藥，體外可能看起來對其他 β-lactam 敏感，但嚴重感染仍然用 carbapenem，pip-tazo、ceftazidime、cefepime 即使藥敏顯示敏感也不建議。Enterobacter cloacae、Klebsiella aerogenes、Citrobacter freundii 有 inducible AmpC，治療中會產生抗藥，首選也是 carbapenem。",
           "Carbapenemase 分三類。KPC 用 meropenem-vaborbactam 或 ceftazidime-avibactam，結果比舊的 colistin-based regimen 好，腎毒性也低。OXA-48-like 用 ceftazidime-avibactam。Metallo-β-lactamase，像 NDM、VIM，用 aztreonam 加 ceftazidime-avibactam，或 cefiderocol。這組配對考試很愛考，尤其 MBL 要加 aztreonam。",
           "Carbapenem 抗藥在 Enterobacterales 中以 Klebsiella pneumoniae 最常見。這幾個新藥在免疫低下 BSI 病人的臨床資料其實很有限，而且治療中、甚至沒有暴露過也有抗藥的報告，所以藥敏結果和感染科會診很重要。新的 β-lactam 組合腎毒性明顯低於 polymyxin 或 aminoglycoside 為主的 regimen。",
@@ -481,7 +479,7 @@
       ],
       "fontSize": 16,
       "caption": "Combination for β-lactam-susceptible PA is not routine, except severe infection in neutropenia",
-      "captionY": 5.3,
+      "captionY": 5.65,
       "cite": "Averbuch D. EBMT Handbook 8th ed. 2024; Ch. 36",
       "notes": {
         "min": 1.5,
@@ -740,7 +738,7 @@
       ],
       "fontSize": 15,
       "caption": "Every pulmonary nocardiosis needs brain CT or MRI, even without symptoms",
-      "captionY": 5.85,
+      "captionY": 6.0,
       "cite": "Martino R. EBMT Handbook 8th ed. 2024; Ch. 39",
       "notes": {
         "min": 1.5,
@@ -980,7 +978,7 @@
       "type": "table",
       "backup": true,
       "eyebrow": "Ch. 39 · Table 39.3",
-      "title": "Asian series show the highest tuberculosis risk after allo-HCT",
+      "title": "Taiwanese series put allo-HCT tuberculosis risk at 7–13 times normal",
       "head": [
         "Series",
         "Country",
